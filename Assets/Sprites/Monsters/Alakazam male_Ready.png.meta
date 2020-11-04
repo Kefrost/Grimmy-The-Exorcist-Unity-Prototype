@@ -1,0 +1,4115 @@
+fileFormatVersion: 2
+guid: c58fb5d4b4215b34989110e659240bad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1035993005198384441
+    second: Alakazam male_Ready_0
+  - first:
+      213: 5604100424434177865
+    second: Alakazam male_Ready_1
+  - first:
+      213: -6091777039993953838
+    second: Alakazam male_Ready_2
+  - first:
+      213: 4805499687555430833
+    second: Alakazam male_Ready_3
+  - first:
+      213: 1449946457574434808
+    second: Alakazam male_Ready_4
+  - first:
+      213: -4177715460374760212
+    second: Alakazam male_Ready_5
+  - first:
+      213: 3029158119193505557
+    second: Alakazam male_Ready_6
+  - first:
+      213: -6742653925113690523
+    second: Alakazam male_Ready_7
+  - first:
+      213: 281668817604793786
+    second: Alakazam male_Ready_8
+  - first:
+      213: -5996405383471275790
+    second: Alakazam male_Ready_9
+  - first:
+      213: 2899755842535570443
+    second: Alakazam male_Ready_10
+  - first:
+      213: 2158755041964635345
+    second: Alakazam male_Ready_11
+  - first:
+      213: 264321409756106186
+    second: Alakazam male_Ready_12
+  - first:
+      213: -1073191750451033078
+    second: Alakazam male_Ready_13
+  - first:
+      213: 3254763310698376992
+    second: Alakazam male_Ready_14
+  - first:
+      213: -3136164519422347251
+    second: Alakazam male_Ready_15
+  - first:
+      213: 60822374604557789
+    second: Alakazam male_Ready_16
+  - first:
+      213: 6216024390362195253
+    second: Alakazam male_Ready_17
+  - first:
+      213: 6465760578251348409
+    second: Alakazam male_Ready_18
+  - first:
+      213: -720526005117167143
+    second: Alakazam male_Ready_19
+  - first:
+      213: -7395934530041131081
+    second: Alakazam male_Ready_20
+  - first:
+      213: -7210665088682872643
+    second: Alakazam male_Ready_21
+  - first:
+      213: -2748717466423561799
+    second: Alakazam male_Ready_22
+  - first:
+      213: 866753253679466935
+    second: Alakazam male_Ready_23
+  - first:
+      213: 6236468164414993389
+    second: Alakazam male_Ready_24
+  - first:
+      213: 8307732672490293274
+    second: Alakazam male_Ready_25
+  - first:
+      213: 5977438741650076260
+    second: Alakazam male_Ready_26
+  - first:
+      213: 7670583599374253589
+    second: Alakazam male_Ready_27
+  - first:
+      213: -8390437955818244207
+    second: Alakazam male_Ready_28
+  - first:
+      213: -8660762193234618520
+    second: Alakazam male_Ready_29
+  - first:
+      213: -5606205159911497047
+    second: Alakazam male_Ready_30
+  - first:
+      213: -560343249410218047
+    second: Alakazam male_Ready_31
+  - first:
+      213: -294210532823515809
+    second: Alakazam male_Ready_32
+  - first:
+      213: -7212464454342720706
+    second: Alakazam male_Ready_33
+  - first:
+      213: 563363903377550957
+    second: Alakazam male_Ready_34
+  - first:
+      213: -5548986934123567594
+    second: Alakazam male_Ready_35
+  - first:
+      213: -1148215890271364866
+    second: Alakazam male_Ready_36
+  - first:
+      213: 4977758001305307757
+    second: Alakazam male_Ready_37
+  - first:
+      213: 112842429651062731
+    second: Alakazam male_Ready_38
+  - first:
+      213: 4017185545389987985
+    second: Alakazam male_Ready_39
+  - first:
+      213: -5596097159989975411
+    second: Alakazam male_Ready_40
+  - first:
+      213: 1349553646260367105
+    second: Alakazam male_Ready_41
+  - first:
+      213: -6989135071100997721
+    second: Alakazam male_Ready_42
+  - first:
+      213: 3242727849722715682
+    second: Alakazam male_Ready_43
+  - first:
+      213: -8957651024361553170
+    second: Alakazam male_Ready_44
+  - first:
+      213: 4956659130634627614
+    second: Alakazam male_Ready_45
+  - first:
+      213: 6438986741680101145
+    second: Alakazam male_Ready_46
+  - first:
+      213: 2165714324419172395
+    second: Alakazam male_Ready_47
+  - first:
+      213: -5861508072834673549
+    second: Alakazam male_Ready_48
+  - first:
+      213: -4171183926676308061
+    second: Alakazam male_Ready_49
+  - first:
+      213: 8872861271080077796
+    second: Alakazam male_Ready_50
+  - first:
+      213: 9198954115192699697
+    second: Alakazam male_Ready_51
+  - first:
+      213: -5491914156985605875
+    second: Alakazam male_Ready_52
+  - first:
+      213: 139450625824200590
+    second: Alakazam male_Ready_53
+  - first:
+      213: 4683840929071383265
+    second: Alakazam male_Ready_54
+  - first:
+      213: -5846123866237117522
+    second: Alakazam male_Ready_55
+  - first:
+      213: 4503783280669232086
+    second: Alakazam male_Ready_56
+  - first:
+      213: -4400592587166462076
+    second: Alakazam male_Ready_57
+  - first:
+      213: -6337585001726871992
+    second: Alakazam male_Ready_58
+  - first:
+      213: 3374888427521397613
+    second: Alakazam male_Ready_59
+  - first:
+      213: -3334905964968210381
+    second: Alakazam male_Ready_60
+  - first:
+      213: 4542122010024781853
+    second: Alakazam male_Ready_61
+  - first:
+      213: 1171117592543185275
+    second: Alakazam male_Ready_62
+  - first:
+      213: 3758507679082557703
+    second: Alakazam male_Ready_63
+  - first:
+      213: 4849889947971271680
+    second: Alakazam male_Ready_64
+  - first:
+      213: -4480977505451574296
+    second: Alakazam male_Ready_65
+  - first:
+      213: -8499299672030689152
+    second: Alakazam male_Ready_66
+  - first:
+      213: -5012135055428088105
+    second: Alakazam male_Ready_67
+  - first:
+      213: 5932842132322783173
+    second: Alakazam male_Ready_68
+  - first:
+      213: -8551629928387503683
+    second: Alakazam male_Ready_69
+  - first:
+      213: -8480536727940150954
+    second: Alakazam male_Ready_70
+  - first:
+      213: 6790554441809755146
+    second: Alakazam male_Ready_71
+  - first:
+      213: -4878253356029363713
+    second: Alakazam male_Ready_72
+  - first:
+      213: 1881396461082622024
+    second: Alakazam male_Ready_73
+  - first:
+      213: 6719451075810651685
+    second: Alakazam male_Ready_74
+  - first:
+      213: -3470004080393221763
+    second: Alakazam male_Ready_75
+  - first:
+      213: -6506003311749108817
+    second: Alakazam male_Ready_76
+  - first:
+      213: -415408098390331437
+    second: Alakazam male_Ready_77
+  - first:
+      213: -2936123345522548307
+    second: Alakazam male_Ready_78
+  - first:
+      213: -4042898271526390050
+    second: Alakazam male_Ready_79
+  - first:
+      213: 531342952220389935
+    second: Alakazam male_Ready_80
+  - first:
+      213: -1860947468796387961
+    second: Alakazam male_Ready_81
+  - first:
+      213: 3347695623334995543
+    second: Alakazam male_Ready_82
+  - first:
+      213: 7991506887800359727
+    second: Alakazam male_Ready_83
+  - first:
+      213: 5097123670703281350
+    second: Alakazam male_Ready_84
+  - first:
+      213: 6735940164180977740
+    second: Alakazam male_Ready_85
+  - first:
+      213: 6547683111436877422
+    second: Alakazam male_Ready_86
+  - first:
+      213: 5212613050784120527
+    second: Alakazam male_Ready_87
+  - first:
+      213: -6536288937792436579
+    second: Alakazam male_Ready_88
+  - first:
+      213: 8208543818912412711
+    second: Alakazam male_Ready_89
+  - first:
+      213: 1309593516745217837
+    second: Alakazam male_Ready_90
+  - first:
+      213: 847764196046901486
+    second: Alakazam male_Ready_91
+  - first:
+      213: -5370534068203032422
+    second: Alakazam male_Ready_92
+  - first:
+      213: 6497769550896388603
+    second: Alakazam male_Ready_93
+  - first:
+      213: 3266920473939515554
+    second: Alakazam male_Ready_94
+  - first:
+      213: 6348089298114482746
+    second: Alakazam male_Ready_95
+  - first:
+      213: 5347364246833461786
+    second: Alakazam male_Ready_96
+  - first:
+      213: 791054033979700101
+    second: Alakazam male_Ready_97
+  - first:
+      213: 1152873125319993710
+    second: Alakazam male_Ready_98
+  - first:
+      213: -2210619323538678356
+    second: Alakazam male_Ready_99
+  - first:
+      213: -8427076366632688469
+    second: Alakazam male_Ready_100
+  - first:
+      213: 3375579057811296219
+    second: Alakazam male_Ready_101
+  - first:
+      213: -7027488692678763632
+    second: Alakazam male_Ready_102
+  - first:
+      213: 9059316936725545198
+    second: Alakazam male_Ready_103
+  - first:
+      213: 8202863431823869271
+    second: Alakazam male_Ready_104
+  - first:
+      213: 1281503459048241599
+    second: Alakazam male_Ready_105
+  - first:
+      213: -31301155407886712
+    second: Alakazam male_Ready_106
+  - first:
+      213: 2293457775984696483
+    second: Alakazam male_Ready_107
+  - first:
+      213: 1748803828541865380
+    second: Alakazam male_Ready_108
+  - first:
+      213: 2921844448275062306
+    second: Alakazam male_Ready_109
+  - first:
+      213: 2054684631388679112
+    second: Alakazam male_Ready_110
+  - first:
+      213: -3995540169801738381
+    second: Alakazam male_Ready_111
+  - first:
+      213: 6352636612598569341
+    second: Alakazam male_Ready_112
+  - first:
+      213: -8780739202587455826
+    second: Alakazam male_Ready_113
+  - first:
+      213: 4759281067051334029
+    second: Alakazam male_Ready_114
+  - first:
+      213: -8720597388278650318
+    second: Alakazam male_Ready_115
+  - first:
+      213: -3599061998149109212
+    second: Alakazam male_Ready_116
+  - first:
+      213: 3727367121315760878
+    second: Alakazam male_Ready_117
+  - first:
+      213: 5531192095750367532
+    second: Alakazam male_Ready_118
+  - first:
+      213: 1696068876307157084
+    second: Alakazam male_Ready_119
+  - first:
+      213: -9102289565343484276
+    second: Alakazam male_Ready_120
+  - first:
+      213: -1894335297013038271
+    second: Alakazam male_Ready_121
+  - first:
+      213: 4643018259917926623
+    second: Alakazam male_Ready_122
+  - first:
+      213: -588463994574932952
+    second: Alakazam male_Ready_123
+  - first:
+      213: 7892501886414515704
+    second: Alakazam male_Ready_124
+  - first:
+      213: 752399138072611566
+    second: Alakazam male_Ready_125
+  - first:
+      213: 2671634613571612521
+    second: Alakazam male_Ready_126
+  - first:
+      213: -8261570630290466315
+    second: Alakazam male_Ready_127
+  - first:
+      213: 5998920042270329124
+    second: Alakazam male_Ready_128
+  - first:
+      213: -2460279731743476774
+    second: Alakazam male_Ready_129
+  - first:
+      213: 1966311327291919930
+    second: Alakazam male_Ready_130
+  - first:
+      213: 1141691510497443381
+    second: Alakazam male_Ready_131
+  - first:
+      213: 39943410046306503
+    second: Alakazam male_Ready_132
+  - first:
+      213: 3443890871076490885
+    second: Alakazam male_Ready_133
+  - first:
+      213: -1631144157031562057
+    second: Alakazam male_Ready_134
+  - first:
+      213: -5633543094590675525
+    second: Alakazam male_Ready_135
+  - first:
+      213: -46433622674865055
+    second: Alakazam male_Ready_136
+  - first:
+      213: -1493298780199710867
+    second: Alakazam male_Ready_137
+  - first:
+      213: 7344765657045313010
+    second: Alakazam male_Ready_138
+  - first:
+      213: 8082348016113442419
+    second: Alakazam male_Ready_139
+  - first:
+      213: -7035483707217839537
+    second: Alakazam male_Ready_140
+  - first:
+      213: -6418789046615322448
+    second: Alakazam male_Ready_141
+  - first:
+      213: 957170013758587235
+    second: Alakazam male_Ready_142
+  - first:
+      213: 3329306441289845175
+    second: Alakazam male_Ready_143
+  - first:
+      213: 9194601882800228586
+    second: Alakazam male_Ready_144
+  - first:
+      213: 6019561700250698579
+    second: Alakazam male_Ready_145
+  - first:
+      213: 1165999398980929185
+    second: Alakazam male_Ready_146
+  - first:
+      213: 4359265972794430175
+    second: Alakazam male_Ready_147
+  - first:
+      213: -3194037689268625256
+    second: Alakazam male_Ready_148
+  - first:
+      213: 930039946117713990
+    second: Alakazam male_Ready_149
+  - first:
+      213: 5307683822071285815
+    second: Alakazam male_Ready_150
+  - first:
+      213: 7356671292799932504
+    second: Alakazam male_Ready_151
+  - first:
+      213: -1395895759603458378
+    second: Alakazam male_Ready_152
+  - first:
+      213: -7236386973513466477
+    second: Alakazam male_Ready_153
+  - first:
+      213: -2993964872139527502
+    second: Alakazam male_Ready_154
+  - first:
+      213: 5298108550878383467
+    second: Alakazam male_Ready_155
+  - first:
+      213: -3142456805781380112
+    second: Alakazam male_Ready_156
+  - first:
+      213: 1320931825273065505
+    second: Alakazam male_Ready_157
+  - first:
+      213: -273566442758915875
+    second: Alakazam male_Ready_158
+  - first:
+      213: 6981670256931474129
+    second: Alakazam male_Ready_159
+  - first:
+      213: -5624808169419889184
+    second: Alakazam male_Ready_160
+  - first:
+      213: 5373716218529100265
+    second: Alakazam male_Ready_161
+  - first:
+      213: -4083268998002791651
+    second: Alakazam male_Ready_162
+  - first:
+      213: 5520504236944426802
+    second: Alakazam male_Ready_163
+  - first:
+      213: 5523821696437038704
+    second: Alakazam male_Ready_164
+  - first:
+      213: 5700627768000556304
+    second: Alakazam male_Ready_165
+  - first:
+      213: 7456712353797173648
+    second: Alakazam male_Ready_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Alakazam male_Ready_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 735
+        width: 6
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d93a83626906e00800000000000000
+      internalID: 1035993005198384441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 735
+        width: 72
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947d30ce4a3c5cd40800000000000000
+      internalID: 5604100424434177865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 735
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1a748ce09a57ba0800000000000000
+      internalID: -6091777039993953838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_3
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 735
+        width: 82
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9fdf4518090b240800000000000000
+      internalID: 4805499687555430833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_4
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 735
+        width: 82
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f76f0bfe9e3f1410800000000000000
+      internalID: 1449946457574434808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_5
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 735
+        width: 88
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce474bb5ce5c506c0800000000000000
+      internalID: -4177715460374760212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_6
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 735
+        width: 88
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fe40f924bb90a20800000000000000
+      internalID: 3029158119193505557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_7
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 735
+        width: 92
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566843eaaf74d62a0800000000000000
+      internalID: -6742653925113690523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 654
+        width: 88
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab553a91c40b8e300800000000000000
+      internalID: 281668817604793786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_9
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 654
+        width: 88
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f064f4f21d78cca0800000000000000
+      internalID: -5996405383471275790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_10
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 654
+        width: 82
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c32b143900e3820800000000000000
+      internalID: 2899755842535570443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_11
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 654
+        width: 82
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4b269e54075fd10800000000000000
+      internalID: 2158755041964635345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_12
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 654
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd0b07fbee0ba300800000000000000
+      internalID: 264321409756106186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_13
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 654
+        width: 72
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c8c7af9c14b11f0800000000000000
+      internalID: -1073191750451033078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_14
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 654
+        width: 72
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fa6229cfd3b2d20800000000000000
+      internalID: 3254763310698376992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_15
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 658
+        width: 6
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08b5a65cfa1a74d0800000000000000
+      internalID: -3136164519422347251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 574
+        width: 6
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd43b0a0a518d000800000000000000
+      internalID: 60822374604557789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_17
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 573
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535e3b6cf31c34650800000000000000
+      internalID: 6216024390362195253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_18
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 573
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b955652dfefab950800000000000000
+      internalID: 6465760578251348409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_19
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 573
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d95f857a6d2006f0800000000000000
+      internalID: -720526005117167143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_20
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 573
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf4ad2fabc5c5990800000000000000
+      internalID: -7395934530041131081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_21
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 573
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db03fba3e429eeb90800000000000000
+      internalID: -7210665088682872643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_22
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 573
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b179e117089ad9d0800000000000000
+      internalID: -2748717466423561799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_23
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 573
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b98a71fd73570c00800000000000000
+      internalID: 866753253679466935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_24
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 492
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3fcf8d0c26c8650800000000000000
+      internalID: 6236468164414993389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_25
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 492
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18c0b079defa4370800000000000000
+      internalID: 8307732672490293274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_26
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 492
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462f5be9dd024f250800000000000000
+      internalID: 5977438741650076260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_27
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 492
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51eb3a4a423637a60800000000000000
+      internalID: 7670583599374253589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_28
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 492
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197bf75322d2f8b80800000000000000
+      internalID: -8390437955818244207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_29
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 492
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8671e140caacec780800000000000000
+      internalID: -8660762193234618520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_30
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 492
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a263892c12c232b0800000000000000
+      internalID: -5606205159911497047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_32
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 411
+        width: 72
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d30e54411caebf0800000000000000
+      internalID: -294210532823515809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_33
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 411
+        width: 72
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3345c3cacd28eb90800000000000000
+      internalID: -7212464454342720706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_34
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 411
+        width: 6
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ea81c3c7871d700800000000000000
+      internalID: 563363903377550957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_35
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 411
+        width: 72
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616e74088c90ef2b0800000000000000
+      internalID: -5548986934123567594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_36
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 411
+        width: 6
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef89ae63bb7b010f0800000000000000
+      internalID: -1148215890271364866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_37
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 467
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a49a5678c841540800000000000000
+      internalID: 4977758001305307757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_38
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 467
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf81f68795e09100800000000000000
+      internalID: 112842429651062731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_39
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 465
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198ddc538f8efb730800000000000000
+      internalID: 4017185545389987985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_40
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 467
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86a93a484ba652b0800000000000000
+      internalID: -5596097159989975411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_41
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 467
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10faeaa14e39ab210800000000000000
+      internalID: 1349553646260367105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_42
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 467
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afeccfceaa910f90800000000000000
+      internalID: -6989135071100997721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_43
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 467
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e1df17ccb700d20800000000000000
+      internalID: 3242727849722715682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_44
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 448
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2040f5ad700b380800000000000000
+      internalID: -8957651024361553170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_45
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 451
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a6c22c73799c440800000000000000
+      internalID: 4956659130634627614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_46
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 451
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917da4b8350eb5950800000000000000
+      internalID: 6438986741680101145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_47
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 451
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28daff14b92e0e10800000000000000
+      internalID: 2165714324419172395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_48
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 451
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374da9e967db7aea0800000000000000
+      internalID: -5861508072834673549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_49
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 451
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3afb3ad815afc16c0800000000000000
+      internalID: -4171183926676308061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_50
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 451
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e98c0cc05cb22b70800000000000000
+      internalID: 8872861271080077796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_51
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 451
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13bbd25970049af70800000000000000
+      internalID: 9198954115192699697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_52
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 451
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d012fefeb2dc8c3b0800000000000000
+      internalID: -5491914156985605875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_53
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 451
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8715f7fa9d6fe100800000000000000
+      internalID: 139450625824200590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_54
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 430
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e24cb94288500140800000000000000
+      internalID: 4683840929071383265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_55
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 430
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabd00851556edea0800000000000000
+      internalID: -5846123866237117522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_56
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 430
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db02ad1807a08e30800000000000000
+      internalID: 4503783280669232086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_57
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 428
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fc9b87b54fde2c0800000000000000
+      internalID: -4400592587166462076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_58
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 430
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846f936d4006c08a0800000000000000
+      internalID: -6337585001726871992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_59
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 430
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d635df6d42306de20800000000000000
+      internalID: 3374888427521397613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_60
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 430
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3301db6a1b808b1d0800000000000000
+      internalID: -3334905964968210381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_61
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 430
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18a20627ebd80f30800000000000000
+      internalID: 4542122010024781853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_62
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 430
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b794fbdde35a04010800000000000000
+      internalID: 1171117592543185275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_63
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 430
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7013b4912d6e82430800000000000000
+      internalID: 3758507679082557703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_64
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 430
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00cb09c36354e4340800000000000000
+      internalID: 4849889947971271680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_65
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 430
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ebfa0533be50d1c0800000000000000
+      internalID: -4480977505451574296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_66
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 430
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0884401cafb6c0a80800000000000000
+      internalID: -8499299672030689152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_67
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 430
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de0de6f8b1517ab0800000000000000
+      internalID: -5012135055428088105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_68
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 430
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf029d5c70b55250800000000000000
+      internalID: 5932842132322783173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_69
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 430
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db91ddb73e1825980800000000000000
+      internalID: -8551629928387503683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_70
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 426
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659497a17c41f4a80800000000000000
+      internalID: -8480536727940150954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_71
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 413
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c75047945ec3e50800000000000000
+      internalID: 6790554441809755146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_72
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 413
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff933853b66fc4cb0800000000000000
+      internalID: -4878253356029363713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_73
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 413
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848b1800d101c1a10800000000000000
+      internalID: 1881396461082622024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_74
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 411
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e6f4bf629404d50800000000000000
+      internalID: 6719451075810651685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_75
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 412
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79810b7ca118dfc0800000000000000
+      internalID: -3470004080393221763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_76
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 414
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabedaf457806b5a0800000000000000
+      internalID: -6506003311749108817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_77
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 412
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dfaf92198c2c3af0800000000000000
+      internalID: -415408098390331437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_78
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 414
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1a56d9f5bc047d0800000000000000
+      internalID: -2936123345522548307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_79
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 414
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6f0a6317db4e7c0800000000000000
+      internalID: -4042898271526390050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_80
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 414
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22f0019995bf5700800000000000000
+      internalID: 531342952220389935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_81
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 414
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d9ab803269c26e0800000000000000
+      internalID: -1860947468796387961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_82
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 414
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756230dbe67657e20800000000000000
+      internalID: 3347695623334995543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_83
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 414
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b8d637c2987ee60800000000000000
+      internalID: 7991506887800359727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_84
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 414
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4118809fe9cb640800000000000000
+      internalID: 5097123670703281350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_85
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 414
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c482b4a04edda7d50800000000000000
+      internalID: 6735940164180977740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_86
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 414
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ef407491b0eda50800000000000000
+      internalID: 6547683111436877422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_87
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 414
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce7d8bb3fbe65840800000000000000
+      internalID: 5212613050784120527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_88
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 414
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96019187df6a45a0800000000000000
+      internalID: -6536288937792436579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_89
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 330
+        width: 6
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724b081dc1b9ae170800000000000000
+      internalID: 8208543818912412711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_90
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 331
+        width: 76
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27d0cd6d5c9c2210800000000000000
+      internalID: 1309593516745217837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_91
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 331
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee09bae6b0dd3cb00800000000000000
+      internalID: 847764196046901486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_92
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 331
+        width: 79
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90ff9228b70875b0800000000000000
+      internalID: -5370534068203032422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_93
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 331
+        width: 79
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf95789daf6bc2a50800000000000000
+      internalID: 6497769550896388603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_94
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 331
+        width: 81
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a89d96bcde665d20800000000000000
+      internalID: 3266920473939515554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_95
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 331
+        width: 81
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3292904591f81850800000000000000
+      internalID: 6348089298114482746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_96
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 331
+        width: 83
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1af1217377a53a40800000000000000
+      internalID: 5347364246833461786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_97
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 250
+        width: 81
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583ff75e3736afa00800000000000000
+      internalID: 791054033979700101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_98
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 250
+        width: 81
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69eac1dff3dfff00800000000000000
+      internalID: 1152873125319993710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_99
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 250
+        width: 79
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caddcd6007d4251e0800000000000000
+      internalID: -2210619323538678356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_100
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 250
+        width: 79
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4e4cf61b20d0b80800000000000000
+      internalID: -8427076366632688469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_101
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 250
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf071cb44778de20800000000000000
+      internalID: 3375579057811296219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_102
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 250
+        width: 76
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bdec96448597e90800000000000000
+      internalID: -7027488692678763632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_103
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 250
+        width: 76
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0c43171c829bd70800000000000000
+      internalID: 9059316936725545198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_104
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 249
+        width: 6
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75547e2a4dc66d170800000000000000
+      internalID: 8202863431823869271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_105
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 165
+        width: 6
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb931073b90d8c110800000000000000
+      internalID: 1281503459048241599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_106
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 169
+        width: 75
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8868ad6d3cbc09ff0800000000000000
+      internalID: -31301155407886712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_107
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 169
+        width: 72
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acdcec22bff3df10800000000000000
+      internalID: 2293457775984696483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_108
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 169
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4adb41601dff44810800000000000000
+      internalID: 1748803828541865380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_109
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 169
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ed16c8b0a7c8820800000000000000
+      internalID: 2921844448275062306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_110
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 169
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb606b39c4b38c10800000000000000
+      internalID: 2054684631388679112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_111
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 169
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377d925826dfc88c0800000000000000
+      internalID: -3995540169801738381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_112
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 169
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7914196759192850800000000000000
+      internalID: 6352636612598569341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_113
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 88
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae8d64b73c842680800000000000000
+      internalID: -8780739202587455826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_114
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 88
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8936db2aec5c0240800000000000000
+      internalID: 4759281067051334029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_115
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 88
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23aa37a01e63af680800000000000000
+      internalID: -8720597388278650318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_116
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 88
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42af6bb6e209d0ec0800000000000000
+      internalID: -3599061998149109212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_117
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 88
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea0f7df5a44ab330800000000000000
+      internalID: 3727367121315760878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_118
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 88
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2926a3d7edb2cc40800000000000000
+      internalID: 5531192095750367532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_119
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 88
+        width: 72
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5052e628a5a98710800000000000000
+      internalID: 1696068876307157084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_120
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 7
+        width: 75
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86f4f6cddb2ea180800000000000000
+      internalID: -9102289565343484276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_121
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 7
+        width: 76
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143cd008518f5b5e0800000000000000
+      internalID: -1894335297013038271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_122
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 7
+        width: 76
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd07f04f1805f6040800000000000000
+      internalID: 4643018259917926623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_123
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 4
+        width: 6
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824f0406d1b55d7f0800000000000000
+      internalID: -588463994574932952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_124
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 4
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd66d046acc78d60800000000000000
+      internalID: 7892501886414515704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_125
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 47
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeac02a970f017a00800000000000000
+      internalID: 752399138072611566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_126
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 45
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96fe29fa68d831520800000000000000
+      internalID: 2671634613571612521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_127
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 45
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f99cbe8841095d80800000000000000
+      internalID: -8261570630290466315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_128
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 47
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4298e7baef1704350800000000000000
+      internalID: 5998920042270329124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_129
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 47
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3365d7e945bddd0800000000000000
+      internalID: -2460279731743476774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_130
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 47
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ecf05fbbdb94b10800000000000000
+      internalID: 1966311327291919930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_131
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 45
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e774e316a18df00800000000000000
+      internalID: 1141691510497443381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_132
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 47
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c88deed158ed8000800000000000000
+      internalID: 39943410046306503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_133
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 47
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e89bf20882bcf20800000000000000
+      internalID: 3443890871076490885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_134
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 47
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b40ea608030d59e0800000000000000
+      internalID: -1631144157031562057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_135
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 47
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5611c3762a1d1b0800000000000000
+      internalID: -5633543094590675525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_136
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 47
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16484debdd80b5ff0800000000000000
+      internalID: -46433622674865055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_137
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 28
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f0ca6dbacb64be0800000000000000
+      internalID: -1493298780199710867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_138
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5acaa6379dde560800000000000000
+      internalID: 7344765657045313010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_139
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e5683d2b44a2070800000000000000
+      internalID: 8082348016113442419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_140
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 28
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a7b3808d0fc5e90800000000000000
+      internalID: -7035483707217839537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_141
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0535cce51ebe6a0800000000000000
+      internalID: -6418789046615322448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_142
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3618cb36e0d884d00800000000000000
+      internalID: 957170013758587235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_143
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 28
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b94085a192143e20800000000000000
+      internalID: 3329306441289845175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_144
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 28
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8027382b9c99f70800000000000000
+      internalID: 9194601882800228586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_145
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 28
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3534dfe2977c98350800000000000000
+      internalID: 6019561700250698579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_146
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6c39096467e2010800000000000000
+      internalID: 1165999398980929185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_147
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd21cdd4e493f7c30800000000000000
+      internalID: 4359265972794430175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_148
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8902fe3f4af7ca3d0800000000000000
+      internalID: -3194037689268625256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_149
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 28
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6401547476a28ec00800000000000000
+      internalID: 930039946117713990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_150
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 26
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73885aa905ea8a940800000000000000
+      internalID: 5307683822071285815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_151
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 9
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85857a04095281660800000000000000
+      internalID: 7356671292799932504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_152
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 9
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be9c51d338c0ace0800000000000000
+      internalID: -1395895759603458378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_153
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 9
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d377a3360339b90800000000000000
+      internalID: -7236386973513466477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_154
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 9
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba202ebfcc4376d0800000000000000
+      internalID: -2993964872139527502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_155
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 9
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6dc09c08a9a68940800000000000000
+      internalID: 5298108550878383467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_156
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 9
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f364614f20c364d0800000000000000
+      internalID: -3142456805781380112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_157
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 9
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120d8e91f74e45210800000000000000
+      internalID: 1320931825273065505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_158
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 9
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd833ec05c8143cf0800000000000000
+      internalID: -273566442758915875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_159
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 9
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da8f43bb10e3e060800000000000000
+      internalID: 6981670256931474129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_160
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 9
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5230c75caa0f1b0800000000000000
+      internalID: -5624808169419889184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_161
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 7
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1be29fd66439a40800000000000000
+      internalID: 5373716218529100265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_162
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 9
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1badabfa705557c0800000000000000
+      internalID: -4083268998002791651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_163
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 9
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2378c18ca55cc9c40800000000000000
+      internalID: 5520504236944426802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_164
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 9
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ea9b2019e88ac40800000000000000
+      internalID: 5523821696437038704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_165
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 9
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01da66470c2bc1f40800000000000000
+      internalID: 5700627768000556304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alakazam male_Ready_31
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 411
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091f850e0609b7760800000000000000
+      internalID: 7456712353797173648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

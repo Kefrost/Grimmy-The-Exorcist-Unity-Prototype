@@ -1,0 +1,4352 @@
+fileFormatVersion: 2
+guid: 139c8185f691fea4eac48356bc77ba96
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1941017757161658077
+    second: Litwick_0
+  - first:
+      213: -4304007025201077430
+    second: Litwick_1
+  - first:
+      213: -2273863478713861919
+    second: Litwick_2
+  - first:
+      213: 5612054026313927567
+    second: Litwick_3
+  - first:
+      213: -9149467199194306792
+    second: Litwick_4
+  - first:
+      213: -3115094402722200317
+    second: Litwick_5
+  - first:
+      213: 4902257947567672385
+    second: Litwick_6
+  - first:
+      213: -1018345605703821016
+    second: Litwick_7
+  - first:
+      213: -6413996495641535315
+    second: Litwick_8
+  - first:
+      213: -4974161621832098263
+    second: Litwick_9
+  - first:
+      213: 5944803663646472483
+    second: Litwick_10
+  - first:
+      213: -2060682911852015843
+    second: Litwick_11
+  - first:
+      213: 5279177208694759865
+    second: Litwick_12
+  - first:
+      213: 8355167466131043153
+    second: Litwick_13
+  - first:
+      213: 7593450608809957919
+    second: Litwick_14
+  - first:
+      213: 6478767620877209940
+    second: Litwick_15
+  - first:
+      213: -1081361038942249405
+    second: Litwick_16
+  - first:
+      213: -6807676350791065572
+    second: Litwick_17
+  - first:
+      213: -2010107391080462507
+    second: Litwick_18
+  - first:
+      213: -2593353583061892300
+    second: Litwick_19
+  - first:
+      213: -8198532253289915418
+    second: Litwick_20
+  - first:
+      213: -251180198912738014
+    second: Litwick_21
+  - first:
+      213: 6042617248537247674
+    second: Litwick_22
+  - first:
+      213: 2991535708396111250
+    second: Litwick_23
+  - first:
+      213: 5478322197270104929
+    second: Litwick_24
+  - first:
+      213: -1459478309151168085
+    second: Litwick_25
+  - first:
+      213: 2012402374604111064
+    second: Litwick_26
+  - first:
+      213: 5015909939625415670
+    second: Litwick_27
+  - first:
+      213: -5277577448603770576
+    second: Litwick_28
+  - first:
+      213: -386792191190381227
+    second: Litwick_29
+  - first:
+      213: 2953735794769573219
+    second: Litwick_30
+  - first:
+      213: -2486734908083561471
+    second: Litwick_31
+  - first:
+      213: -1621994497372715853
+    second: Litwick_32
+  - first:
+      213: 3392454306607780386
+    second: Litwick_33
+  - first:
+      213: -899804793130494446
+    second: Litwick_34
+  - first:
+      213: -4145907676493091301
+    second: Litwick_35
+  - first:
+      213: 2650392407277085616
+    second: Litwick_36
+  - first:
+      213: -556844850694897878
+    second: Litwick_37
+  - first:
+      213: -8445620372391944050
+    second: Litwick_38
+  - first:
+      213: 6827534440252756453
+    second: Litwick_39
+  - first:
+      213: 1261138394211099301
+    second: Litwick_40
+  - first:
+      213: -8186977624724890070
+    second: Litwick_41
+  - first:
+      213: -5519315542220321477
+    second: Litwick_42
+  - first:
+      213: -2120162778165139711
+    second: Litwick_43
+  - first:
+      213: -8327811577148457971
+    second: Litwick_44
+  - first:
+      213: -6347425258422902260
+    second: Litwick_45
+  - first:
+      213: -3104720845035651986
+    second: Litwick_46
+  - first:
+      213: -1233871825385609065
+    second: Litwick_47
+  - first:
+      213: -6111715661996914931
+    second: Litwick_48
+  - first:
+      213: 4778540831750183900
+    second: Litwick_49
+  - first:
+      213: -3412294834066772777
+    second: Litwick_50
+  - first:
+      213: 1670626848196425615
+    second: Litwick_51
+  - first:
+      213: 1543367138970303673
+    second: Litwick_52
+  - first:
+      213: -204652684117355725
+    second: Litwick_53
+  - first:
+      213: -2435906434733427681
+    second: Litwick_54
+  - first:
+      213: -6185557495904241655
+    second: Litwick_55
+  - first:
+      213: 7211559281751747726
+    second: Litwick_56
+  - first:
+      213: -2753524871728493754
+    second: Litwick_57
+  - first:
+      213: 2603330162203462824
+    second: Litwick_58
+  - first:
+      213: -74838692267914692
+    second: Litwick_59
+  - first:
+      213: -1451012907249808943
+    second: Litwick_60
+  - first:
+      213: 4529074352108208729
+    second: Litwick_61
+  - first:
+      213: -9103949759986998923
+    second: Litwick_62
+  - first:
+      213: -5410423261727090538
+    second: Litwick_63
+  - first:
+      213: -1613415216771860253
+    second: Litwick_64
+  - first:
+      213: 1139533445321420597
+    second: Litwick_65
+  - first:
+      213: -1867408562152182181
+    second: Litwick_66
+  - first:
+      213: -5735666309976828049
+    second: Litwick_67
+  - first:
+      213: -6424660486558750829
+    second: Litwick_68
+  - first:
+      213: 3419435521816933849
+    second: Litwick_69
+  - first:
+      213: 7318351513511694578
+    second: Litwick_70
+  - first:
+      213: 2215061625240113902
+    second: Litwick_71
+  - first:
+      213: 5628352499483154266
+    second: Litwick_72
+  - first:
+      213: -7800581819595522575
+    second: Litwick_73
+  - first:
+      213: -5604145723034626115
+    second: Litwick_74
+  - first:
+      213: -6269641563174162398
+    second: Litwick_75
+  - first:
+      213: -8831180313622680970
+    second: Litwick_76
+  - first:
+      213: 2077058595625509433
+    second: Litwick_77
+  - first:
+      213: 7639001782422154525
+    second: Litwick_78
+  - first:
+      213: -7815702363946593472
+    second: Litwick_79
+  - first:
+      213: -4152109598847127846
+    second: Litwick_80
+  - first:
+      213: 4478315879491560426
+    second: Litwick_81
+  - first:
+      213: -1921823020811850073
+    second: Litwick_82
+  - first:
+      213: -7658638308093737381
+    second: Litwick_83
+  - first:
+      213: -7977515291173587484
+    second: Litwick_84
+  - first:
+      213: 5202460399637620032
+    second: Litwick_85
+  - first:
+      213: 6267348691208505646
+    second: Litwick_86
+  - first:
+      213: -4352767425267747798
+    second: Litwick_87
+  - first:
+      213: 7315281324557763245
+    second: Litwick_88
+  - first:
+      213: 4528700487198728866
+    second: Litwick_89
+  - first:
+      213: 5198847917184950209
+    second: Litwick_90
+  - first:
+      213: -8275655226930941189
+    second: Litwick_91
+  - first:
+      213: 4198546680654979613
+    second: Litwick_92
+  - first:
+      213: -7702226257949581620
+    second: Litwick_93
+  - first:
+      213: 1578692678068579692
+    second: Litwick_94
+  - first:
+      213: -1589946872589508638
+    second: Litwick_95
+  - first:
+      213: -2895767068174552471
+    second: Litwick_96
+  - first:
+      213: 3625451627413455473
+    second: Litwick_97
+  - first:
+      213: 1713709767781667013
+    second: Litwick_98
+  - first:
+      213: -6677776356083983017
+    second: Litwick_99
+  - first:
+      213: 8076784487890959957
+    second: Litwick_100
+  - first:
+      213: 9156700196739183859
+    second: Litwick_101
+  - first:
+      213: -8786383106321567750
+    second: Litwick_102
+  - first:
+      213: 3721900787035467488
+    second: Litwick_103
+  - first:
+      213: -2447627269971972856
+    second: Litwick_104
+  - first:
+      213: -859110390167458792
+    second: Litwick_105
+  - first:
+      213: 1439538440470475269
+    second: Litwick_106
+  - first:
+      213: -9110749140993249168
+    second: Litwick_107
+  - first:
+      213: -5876326963236974051
+    second: Litwick_108
+  - first:
+      213: -1518631693605252042
+    second: Litwick_109
+  - first:
+      213: -645458327806932815
+    second: Litwick_110
+  - first:
+      213: 775908635163937882
+    second: Litwick_111
+  - first:
+      213: -5440528857751676438
+    second: Litwick_112
+  - first:
+      213: 2291002861710444292
+    second: Litwick_113
+  - first:
+      213: 7831880086076598709
+    second: Litwick_114
+  - first:
+      213: -265430359847244155
+    second: Litwick_115
+  - first:
+      213: -847381813245033502
+    second: Litwick_116
+  - first:
+      213: -6342574646221847098
+    second: Litwick_117
+  - first:
+      213: 6150920879282251516
+    second: Litwick_118
+  - first:
+      213: 448022350062499906
+    second: Litwick_119
+  - first:
+      213: 5757702253362932904
+    second: Litwick_120
+  - first:
+      213: 1896286596026197105
+    second: Litwick_121
+  - first:
+      213: 6114243620208704406
+    second: Litwick_122
+  - first:
+      213: 6779903950862400673
+    second: Litwick_123
+  - first:
+      213: -1851356472033699154
+    second: Litwick_124
+  - first:
+      213: -3217763217191831885
+    second: Litwick_125
+  - first:
+      213: 4458271508834059451
+    second: Litwick_126
+  - first:
+      213: 8492635135194721650
+    second: Litwick_127
+  - first:
+      213: -1670584704460405530
+    second: Litwick_128
+  - first:
+      213: 7770127458819714589
+    second: Litwick_129
+  - first:
+      213: 7671694588512287000
+    second: Litwick_130
+  - first:
+      213: 8100272347086433565
+    second: Litwick_131
+  - first:
+      213: 2742635007392963703
+    second: Litwick_132
+  - first:
+      213: 2598090823468775420
+    second: Litwick_133
+  - first:
+      213: -8811017875405125449
+    second: Litwick_134
+  - first:
+      213: -8813165644280669463
+    second: Litwick_135
+  - first:
+      213: 4899034879199359458
+    second: Litwick_136
+  - first:
+      213: -1265217807041387548
+    second: Litwick_137
+  - first:
+      213: 1082825368668010819
+    second: Litwick_138
+  - first:
+      213: -4797610505196777875
+    second: Litwick_139
+  - first:
+      213: 3130629233916858585
+    second: Litwick_140
+  - first:
+      213: 8415385811407076344
+    second: Litwick_141
+  - first:
+      213: -817432528101086152
+    second: Litwick_142
+  - first:
+      213: 2302661720292885868
+    second: Litwick_143
+  - first:
+      213: 6367432731170829116
+    second: Litwick_144
+  - first:
+      213: -131946271434493694
+    second: Litwick_145
+  - first:
+      213: 1229947059248345169
+    second: Litwick_146
+  - first:
+      213: 3816481003895441665
+    second: Litwick_147
+  - first:
+      213: -7076415898565548316
+    second: Litwick_148
+  - first:
+      213: -2896169605831950853
+    second: Litwick_149
+  - first:
+      213: -3435610819889292577
+    second: Litwick_150
+  - first:
+      213: 5581118685260853993
+    second: Litwick_151
+  - first:
+      213: -9190121492387427915
+    second: Litwick_152
+  - first:
+      213: 33368116951692998
+    second: Litwick_153
+  - first:
+      213: -1770630388550987272
+    second: Litwick_154
+  - first:
+      213: 7080242121061792018
+    second: Litwick_155
+  - first:
+      213: -1224409193365309483
+    second: Litwick_156
+  - first:
+      213: -7637500006824261641
+    second: Litwick_157
+  - first:
+      213: 936381250859383117
+    second: Litwick_158
+  - first:
+      213: -2197091281659082922
+    second: Litwick_159
+  - first:
+      213: 3383893525520940116
+    second: Litwick_160
+  - first:
+      213: 4749056107849813432
+    second: Litwick_161
+  - first:
+      213: 6170511712019008672
+    second: Litwick_162
+  - first:
+      213: -5748151736347504344
+    second: Litwick_163
+  - first:
+      213: 7417686640244769275
+    second: Litwick_164
+  - first:
+      213: 6952499017528303382
+    second: Litwick_165
+  - first:
+      213: -3653883478123993135
+    second: Litwick_166
+  - first:
+      213: 419566702735133636
+    second: Litwick_167
+  - first:
+      213: 9108840448033261154
+    second: Litwick_168
+  - first:
+      213: 8636206581931380072
+    second: Litwick_169
+  - first:
+      213: -4949329800394326103
+    second: Litwick_170
+  - first:
+      213: 3779227356412557201
+    second: Litwick_171
+  - first:
+      213: -1141049643514316180
+    second: Litwick_172
+  - first:
+      213: -8641158230355288569
+    second: Litwick_173
+  - first:
+      213: -7922154399480488360
+    second: Litwick_174
+  - first:
+      213: -5770123686971933306
+    second: Litwick_175
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Litwick_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 676
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6985ebd51efea10800000000000000
+      internalID: 1941017757161658077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 681
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43aa180a681544c0800000000000000
+      internalID: -4304007025201077430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 681
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8b68ba63d9170e0800000000000000
+      internalID: -2273863478713861919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_3
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 681
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b0eba276502ed40800000000000000
+      internalID: 5612054026313927567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_4
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 681
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8176febee00960180800000000000000
+      internalID: -9149467199194306792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_5
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 681
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3058feb2526f4c4d0800000000000000
+      internalID: -3115094402722200317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_6
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 681
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c4b1a41a1580440800000000000000
+      internalID: 4902257947567672385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_7
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 681
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8299179211c1ed1f0800000000000000
+      internalID: -1018345605703821016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_8
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 620
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac9fa68b28ecf6a0800000000000000
+      internalID: -6413996495641535315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_9
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 620
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e1153fb5a38fab0800000000000000
+      internalID: -4974161621832098263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_10
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 620
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329b6176f6f208250800000000000000
+      internalID: 5944803663646472483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_11
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 620
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fc7544fcbf663e0800000000000000
+      internalID: -2060682911852015843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_12
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 620
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1e69673b7634940800000000000000
+      internalID: 5279177208694759865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_13
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 620
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15334a9fa8483f370800000000000000
+      internalID: 8355167466131043153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_14
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 620
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a579dc81b516960800000000000000
+      internalID: 7593450608809957919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_15
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 620
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45150b043d439e950800000000000000
+      internalID: 6478767620877209940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_16
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 559
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e56e74ddb3ef0f0800000000000000
+      internalID: -1081361038942249405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_17
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 559
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1065457d664681a0800000000000000
+      internalID: -6807676350791065572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_18
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 559
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55703425af9aa14e0800000000000000
+      internalID: -2010107391080462507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_19
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 559
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4330c9808ae820cd0800000000000000
+      internalID: -2593353583061892300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_20
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 559
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb52137a56f83e80800000000000000
+      internalID: -8198532253289915418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_21
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 559
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22db13d90f0a38cf0800000000000000
+      internalID: -251180198912738014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_22
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 559
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abff5b45f50bbd350800000000000000
+      internalID: 6042617248537247674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_23
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 559
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295c8df70e1148920800000000000000
+      internalID: 2991535708396111250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_24
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 498
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b0c655309e60c40800000000000000
+      internalID: 5478322197270104929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_25
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 498
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba928a1e534eebbe0800000000000000
+      internalID: -1459478309151168085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_26
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 498
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc3e6b2c4d7deb10800000000000000
+      internalID: 2012402374604111064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_27
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 498
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f359b0c3871c9540800000000000000
+      internalID: 5015909939625415670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_28
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 491
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0312c55b54742c6b0800000000000000
+      internalID: -5277577448603770576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_29
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 498
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55dc33a2d86d1aaf0800000000000000
+      internalID: -386792191190381227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_30
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 498
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365b8974e07cdf820800000000000000
+      internalID: 2953735794769573219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_31
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 498
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c9d11c6c75d7dd0800000000000000
+      internalID: -2486734908083561471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_32
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 437
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4067c29948d79e0800000000000000
+      internalID: -1621994497372715853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_33
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 438
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222d916c73b641f20800000000000000
+      internalID: 3392454306607780386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_34
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 440
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216534ade404383f0800000000000000
+      internalID: -899804793130494446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_35
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 445
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e60172fe6c676c0800000000000000
+      internalID: -4145907676493091301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_36
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 444
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3a42f1ad518c420800000000000000
+      internalID: 2650392407277085616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_37
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 441
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f335ffe80b548f0800000000000000
+      internalID: -556844850694897878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_38
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 439
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80a6c3a4012bca80800000000000000
+      internalID: -8445620372391944050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_39
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 437
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1d20b466640ce50800000000000000
+      internalID: 6827534440252756453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_40
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 376
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a22f8f00b6708110800000000000000
+      internalID: 1261138394211099301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_41
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 368
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e933e0a33026e80800000000000000
+      internalID: -8186977624724890070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_42
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 376
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d4aa6c1c37763b0800000000000000
+      internalID: -5519315542220321477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_43
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 397
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1072675bf2ba392e0800000000000000
+      internalID: -2120162778165139711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_44
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 371
+        width: 13
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c3ea34e7bad6c80800000000000000
+      internalID: -8327811577148457971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_45
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 408
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c026c598b5a69e7a0800000000000000
+      internalID: -6347425258422902260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_46
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 408
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c36e847d0d9e4d0800000000000000
+      internalID: -3104720845035651986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_47
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 406
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7982785bc1860eee0800000000000000
+      internalID: -1233871825385609065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_48
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 408
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d078b769cf2de2ba0800000000000000
+      internalID: -6111715661996914931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_49
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 408
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb5b259199c05240800000000000000
+      internalID: 4778540831750183900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_50
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 408
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dcac827de715a0d0800000000000000
+      internalID: -3412294834066772777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_51
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 408
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f877afe54424f2710800000000000000
+      internalID: 1670626848196425615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_52
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 408
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcf55c5c342b6510800000000000000
+      internalID: 1543367138970303673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_53
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 408
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333dad4d77de82df0800000000000000
+      internalID: -204652684117355725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_54
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 397
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1430abe00ce13ed0800000000000000
+      internalID: -2435906434733427681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_55
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 397
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9087fdeda3c782aa0800000000000000
+      internalID: -6185557495904241655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_56
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 397
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ceb7155fa941460800000000000000
+      internalID: 7211559281751747726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_57
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 395
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b8b6cc7b389c9d0800000000000000
+      internalID: -2753524871728493754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_58
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 397
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac823f4df2e02420800000000000000
+      internalID: 2603330162203462824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_59
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 397
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a8aeb1b9e16fef0800000000000000
+      internalID: -74838692267914692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_60
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 397
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d94edad277fcdbe0800000000000000
+      internalID: -1451012907249808943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_61
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 397
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9520ebe80218ade30800000000000000
+      internalID: 4529074352108208729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_62
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 397
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571e8f69de548a180800000000000000
+      internalID: -9103949759986998923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_63
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 395
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6981f3885b05ae4b0800000000000000
+      internalID: -5410423261727090538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_64
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 395
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e87a19986ffb99e0800000000000000
+      internalID: -1613415216771860253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_65
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 395
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f6f0a81af60df00800000000000000
+      internalID: 1139533445321420597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_66
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 395
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e65628ec1a516e0800000000000000
+      internalID: -1867408562152182181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_67
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 395
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67d7a341e1d660b0800000000000000
+      internalID: -5735666309976828049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_68
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 395
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3976d28a35507d6a0800000000000000
+      internalID: -6424660486558750829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_69
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 395
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5304a7d76447f20800000000000000
+      internalID: 3419435521816933849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_70
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 395
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f09e406de1009560800000000000000
+      internalID: 7318351513511694578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_71
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 384
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee25900ffca7dbe10800000000000000
+      internalID: 2215061625240113902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_72
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 384
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57106a27cceb1e40800000000000000
+      internalID: 5628352499483154266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_73
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 384
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd73a11a24ceb390800000000000000
+      internalID: -7800581819595522575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_74
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 384
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db71ffc28231a32b0800000000000000
+      internalID: -5604145723034626115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_75
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 384
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220bafd5732cdf8a0800000000000000
+      internalID: -6269641563174162398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_76
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 384
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ae81b5b48517580800000000000000
+      internalID: -8831180313622680970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_77
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 384
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9322ee9b9c133dc10800000000000000
+      internalID: 2077058595625509433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_78
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 382
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d29dfd5af230a60800000000000000
+      internalID: 7639001782422154525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_79
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 384
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04358cefb1c098390800000000000000
+      internalID: -7815702363946593472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_80
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 382
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade2a34915eb066c0800000000000000
+      internalID: -4152109598847127846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_81
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 377
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3e515b09c262e30800000000000000
+      internalID: 4478315879491560426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 308
+        width: 536
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae675315205455e0800000000000000
+      internalID: -1921823020811850073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_83
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 370
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56cfd6390d07b590800000000000000
+      internalID: -7658638308093737381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_84
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 370
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5f95ffb1c2a4190800000000000000
+      internalID: -7977515291173587484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_85
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 370
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045ef6e6b2ad23840800000000000000
+      internalID: 5202460399637620032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_86
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 372
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e290ef6cd681af650800000000000000
+      internalID: 6267348691208505646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_87
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 372
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a243603b61dd793c0800000000000000
+      internalID: -4352767425267747798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_88
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 372
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2805e4b99158560800000000000000
+      internalID: 7315281324557763245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_89
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 372
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a26e99591d29de30800000000000000
+      internalID: 4528700487198728866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_90
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 372
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf9611d2a4062840800000000000000
+      internalID: 5198847917184950209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_91
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 372
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf23d2bda67f62d80800000000000000
+      internalID: -8275655226930941189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_92
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 372
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12e55116fb344a30800000000000000
+      internalID: 4198546680654979613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_93
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 372
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce9a3bc6023c1590800000000000000
+      internalID: -7702226257949581620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_94
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 372
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6da9cd50a4a8e510800000000000000
+      internalID: 1578692678068579692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_95
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 372
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef1f874ebf5fe9e0800000000000000
+      internalID: -1589946872589508638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_96
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 372
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9627e25a13b20d7d0800000000000000
+      internalID: -2895767068174552471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_97
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 314
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1724752fb01305230800000000000000
+      internalID: 3625451627413455473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_98
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 314
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c05eb444f158c710800000000000000
+      internalID: 1713709767781667013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_99
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 314
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d9c16d8c5c353a0800000000000000
+      internalID: -6677776356083983017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_100
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 314
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e3028f2b0861070800000000000000
+      internalID: 8076784487890959957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_101
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 314
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4736d8052231f70800000000000000
+      internalID: 9156700196739183859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_102
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 314
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affa537fd1f701680800000000000000
+      internalID: -8786383106321567750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_103
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 314
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eeee7cdb09d6a330800000000000000
+      internalID: 3721900787035467488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_104
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 314
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80de2ce47f7480ed0800000000000000
+      internalID: -2447627269971972856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_105
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 251
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ca833e6a3d314f0800000000000000
+      internalID: -859110390167458792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_106
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 251
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50233c8a5944af310800000000000000
+      internalID: 1439538440470475269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_107
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 251
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070f6655ded109180800000000000000
+      internalID: -9110749140993249168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_108
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 251
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12d534d2c7137ea0800000000000000
+      internalID: -5876326963236974051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_109
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 251
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634520e458cbceae0800000000000000
+      internalID: -1518631693605252042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_110
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 251
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b800c5121fda07f0800000000000000
+      internalID: -645458327806932815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_111
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 251
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5cca11fac494ca00800000000000000
+      internalID: 775908635163937882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_112
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 251
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9137b34db5f74b0800000000000000
+      internalID: -5440528857751676438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_113
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 188
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40787a7e6f64bcf10800000000000000
+      internalID: 2291002861710444292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_114
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 188
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b92d06717d60bc60800000000000000
+      internalID: 7831880086076598709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_115
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 188
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e63b87e70015cf0800000000000000
+      internalID: -265430359847244155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_116
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 188
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e347600bbe7d34f0800000000000000
+      internalID: -847381813245033502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_117
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 188
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c54c82b6f5aaf7a0800000000000000
+      internalID: -6342574646221847098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_118
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 188
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6e62363f57c5550800000000000000
+      internalID: 6150920879282251516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_119
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 188
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24839e224f1b73600800000000000000
+      internalID: 448022350062499906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_120
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 188
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ace92e91b777ef40800000000000000
+      internalID: 5757702253362932904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_121
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 125
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174e974bc96f05a10800000000000000
+      internalID: 1896286596026197105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_122
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 118
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bfcbc8d282ad450800000000000000
+      internalID: 6114243620208704406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_123
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 125
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1acbb6ac8be071e50800000000000000
+      internalID: 6779903950862400673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_124
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 125
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa9fcbf819ae46e0800000000000000
+      internalID: -1851356472033699154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_125
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 125
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b676f307653853d0800000000000000
+      internalID: -3217763217191831885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_126
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 125
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb48c4cf056fedd30800000000000000
+      internalID: 4458271508834059451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_127
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 126
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d6848d8a6ebd570800000000000000
+      internalID: 8492635135194721650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_128
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 128
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4cf6bff04e0d8e0800000000000000
+      internalID: -1670584704460405530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_129
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 70
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e257281c905db60800000000000000
+      internalID: 7770127458819714589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_130
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 69
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819bf85f495577a60800000000000000
+      internalID: 7671694588512287000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_131
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 66
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1da10858c2f96070800000000000000
+      internalID: 8100272347086433565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_132
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 64
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c5534120ccf0620800000000000000
+      internalID: 2742635007392963703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_133
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 55
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7fe03b6d54e0420800000000000000
+      internalID: 2598090823468775420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_134
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b84cd2dce9f8b580800000000000000
+      internalID: -8811017875405125449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_135
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 43
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea59f96a8851b580800000000000000
+      internalID: -8813165644280669463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_136
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 41
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e13de4344edcf340800000000000000
+      internalID: 4899034879199359458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_137
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 41
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3accf9b1b017ee0800000000000000
+      internalID: -1265217807041387548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_138
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 43
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349fc3d8fe7f60f00800000000000000
+      internalID: 1082825368668010819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_139
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 43
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e40131aa67b6db0800000000000000
+      internalID: -4797610505196777875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_140
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 43
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0511393ba327b20800000000000000
+      internalID: 3130629233916858585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_141
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 41
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbf7c01fc479c470800000000000000
+      internalID: 8415385811407076344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_142
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 43
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c6fa65275e7a4f0800000000000000
+      internalID: -817432528101086152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_143
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 43
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6582f372a2b4ff10800000000000000
+      internalID: 2302661720292885868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_144
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 43
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33f1a8355aad5850800000000000000
+      internalID: 6367432731170829116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_145
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 43
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201b5b1b09b3b2ef0800000000000000
+      internalID: -131946271434493694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_146
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 43
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150b8077556a11110800000000000000
+      internalID: 1229947059248345169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_147
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 24
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109c631a04dd6f430800000000000000
+      internalID: 3816481003895441665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_148
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6e2139b358bcd90800000000000000
+      internalID: -7076415898565548316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_149
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd7a1b861dbec7d0800000000000000
+      internalID: -2896169605831950853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_150
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 24
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda920679224250d0800000000000000
+      internalID: -3435610819889292577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_151
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2b44ccfdd147d40800000000000000
+      internalID: 5581118685260853993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_152
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9809ba131267080800000000000000
+      internalID: -9190121492387427915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_153
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 24
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6bab5202c867000800000000000000
+      internalID: 33368116951692998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_154
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 24
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f118e5fa057d67e0800000000000000
+      internalID: -1770630388550987272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_155
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 24
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21975a542b2124260800000000000000
+      internalID: 7080242121061792018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_156
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7fcb96356020fe0800000000000000
+      internalID: -1224409193365309483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_157
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f742318536220690800000000000000
+      internalID: -7637500006824261641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_158
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d493fc759c1befc00800000000000000
+      internalID: 936381250859383117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_159
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 24
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6574a99be1d5281e0800000000000000
+      internalID: -2197091281659082922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_160
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 22
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c7b6a9b3106fe20800000000000000
+      internalID: 3383893525520940116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_161
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 5
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd89c65e5908e140800000000000000
+      internalID: 4749056107849813432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_162
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 5
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0acc74595bf02a550800000000000000
+      internalID: 6170511712019008672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_163
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 5
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82156f763767a30b0800000000000000
+      internalID: -5748151736347504344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_164
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 5
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf143fed2bae0f660800000000000000
+      internalID: 7417686640244769275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_165
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 5
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fd601450d3c7060800000000000000
+      internalID: 6952499017528303382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_166
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 5
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d720c3f55cca4dc0800000000000000
+      internalID: -3653883478123993135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_167
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 5
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb0c1471b992d500800000000000000
+      internalID: 419566702735133636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_168
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 5
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2668bb4702a196e70800000000000000
+      internalID: 9108840448033261154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_169
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 5
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d09e23128f9d770800000000000000
+      internalID: 8636206581931380072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_170
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 5
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afbd3be4c2705bb0800000000000000
+      internalID: -4949329800394326103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_171
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 3
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197b868e143827430800000000000000
+      internalID: 3779227356412557201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_172
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a3e3f056d2a20f0800000000000000
+      internalID: -1141049643514316180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_173
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70edabf4f50741880800000000000000
+      internalID: -8641158230355288569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_174
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85eda2b0c8ade0290800000000000000
+      internalID: -7922154399480488360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Litwick_175
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 5
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d78fff3176cefa0800000000000000
+      internalID: -5770123686971933306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

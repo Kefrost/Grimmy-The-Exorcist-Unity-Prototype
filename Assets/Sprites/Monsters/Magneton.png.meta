@@ -1,0 +1,4040 @@
+fileFormatVersion: 2
+guid: 2a5c9373835cf004aa6b212c9708b97d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -486784660365919260
+    second: Magneton_0
+  - first:
+      213: 8088785418869600516
+    second: Magneton_1
+  - first:
+      213: 5276954831702793365
+    second: Magneton_2
+  - first:
+      213: -7157202555811235439
+    second: Magneton_3
+  - first:
+      213: 4757294396315384518
+    second: Magneton_4
+  - first:
+      213: 3302094674034054558
+    second: Magneton_5
+  - first:
+      213: 2339805518485057919
+    second: Magneton_6
+  - first:
+      213: -4715190670023971572
+    second: Magneton_7
+  - first:
+      213: 8378293792944020861
+    second: Magneton_8
+  - first:
+      213: 242953002204277131
+    second: Magneton_9
+  - first:
+      213: -3825470838454903887
+    second: Magneton_10
+  - first:
+      213: 1753362526687881185
+    second: Magneton_11
+  - first:
+      213: -7156884754964713445
+    second: Magneton_12
+  - first:
+      213: -5145869074258054378
+    second: Magneton_13
+  - first:
+      213: 2082803250849630157
+    second: Magneton_14
+  - first:
+      213: -4433862624861776504
+    second: Magneton_15
+  - first:
+      213: 745232519531770658
+    second: Magneton_16
+  - first:
+      213: -6215552443121627992
+    second: Magneton_17
+  - first:
+      213: 1768437397629785824
+    second: Magneton_18
+  - first:
+      213: 1491228825858358979
+    second: Magneton_19
+  - first:
+      213: -6883080318118036371
+    second: Magneton_20
+  - first:
+      213: 2189035142551938208
+    second: Magneton_21
+  - first:
+      213: 3660668663027965569
+    second: Magneton_22
+  - first:
+      213: -7535708060017548887
+    second: Magneton_23
+  - first:
+      213: -6928315134883881336
+    second: Magneton_24
+  - first:
+      213: -587764431006613465
+    second: Magneton_25
+  - first:
+      213: -869831961612292852
+    second: Magneton_26
+  - first:
+      213: -7177752709768428675
+    second: Magneton_27
+  - first:
+      213: 6657304287709780327
+    second: Magneton_28
+  - first:
+      213: 5411983533287539917
+    second: Magneton_29
+  - first:
+      213: -8794943611400766464
+    second: Magneton_30
+  - first:
+      213: 1302369206843449922
+    second: Magneton_31
+  - first:
+      213: -3989507245988113465
+    second: Magneton_32
+  - first:
+      213: -9049901440265387681
+    second: Magneton_33
+  - first:
+      213: 1468093393430483865
+    second: Magneton_34
+  - first:
+      213: 7101546611352065247
+    second: Magneton_35
+  - first:
+      213: 8749550020836580449
+    second: Magneton_36
+  - first:
+      213: 6050508329370114237
+    second: Magneton_37
+  - first:
+      213: 4523378888893913205
+    second: Magneton_38
+  - first:
+      213: 3290477546838564249
+    second: Magneton_39
+  - first:
+      213: -8968500769124426918
+    second: Magneton_40
+  - first:
+      213: -5896092666979582878
+    second: Magneton_41
+  - first:
+      213: 799477993433424061
+    second: Magneton_42
+  - first:
+      213: 2102687248110823446
+    second: Magneton_43
+  - first:
+      213: 2387519647982928385
+    second: Magneton_44
+  - first:
+      213: 558165397084811135
+    second: Magneton_45
+  - first:
+      213: 6929754531486825330
+    second: Magneton_46
+  - first:
+      213: -5187339782075876273
+    second: Magneton_47
+  - first:
+      213: 343862675451985301
+    second: Magneton_48
+  - first:
+      213: 119965386090139092
+    second: Magneton_49
+  - first:
+      213: 2022662551515854826
+    second: Magneton_50
+  - first:
+      213: 6819089440527880693
+    second: Magneton_51
+  - first:
+      213: 2979554558958386142
+    second: Magneton_52
+  - first:
+      213: 2459818678710427694
+    second: Magneton_53
+  - first:
+      213: -3395945441617617779
+    second: Magneton_54
+  - first:
+      213: 4692561809781696110
+    second: Magneton_55
+  - first:
+      213: 5547779105518775533
+    second: Magneton_56
+  - first:
+      213: -6193944915643579092
+    second: Magneton_57
+  - first:
+      213: 6029469853075613119
+    second: Magneton_58
+  - first:
+      213: 8317262128342885867
+    second: Magneton_59
+  - first:
+      213: 320363982076429824
+    second: Magneton_60
+  - first:
+      213: -3825688881252218063
+    second: Magneton_61
+  - first:
+      213: 6032691506799335228
+    second: Magneton_62
+  - first:
+      213: 1572509130856924026
+    second: Magneton_63
+  - first:
+      213: 5423620162415209381
+    second: Magneton_64
+  - first:
+      213: 78898150333347405
+    second: Magneton_65
+  - first:
+      213: 4608611386918824702
+    second: Magneton_66
+  - first:
+      213: 3602429914350086283
+    second: Magneton_67
+  - first:
+      213: -5356941378355557981
+    second: Magneton_68
+  - first:
+      213: -6030224243644936845
+    second: Magneton_69
+  - first:
+      213: 6882243661233641379
+    second: Magneton_70
+  - first:
+      213: 6809465855065773349
+    second: Magneton_71
+  - first:
+      213: 8220183005180807420
+    second: Magneton_72
+  - first:
+      213: 6878876899245574539
+    second: Magneton_73
+  - first:
+      213: -1668655661201620282
+    second: Magneton_74
+  - first:
+      213: 4993780784008033158
+    second: Magneton_75
+  - first:
+      213: -6988193758582717001
+    second: Magneton_76
+  - first:
+      213: -2443100188598795506
+    second: Magneton_77
+  - first:
+      213: 7475554064578417630
+    second: Magneton_78
+  - first:
+      213: 6108960460389125380
+    second: Magneton_79
+  - first:
+      213: 4409628535152133518
+    second: Magneton_80
+  - first:
+      213: 1159310489383176914
+    second: Magneton_81
+  - first:
+      213: -5020727681948792078
+    second: Magneton_82
+  - first:
+      213: -2771761670500084741
+    second: Magneton_83
+  - first:
+      213: 1107819730101536673
+    second: Magneton_84
+  - first:
+      213: 4137716354798585409
+    second: Magneton_85
+  - first:
+      213: 8310000658454101639
+    second: Magneton_86
+  - first:
+      213: 3290502438433057064
+    second: Magneton_87
+  - first:
+      213: -8313342769776942999
+    second: Magneton_88
+  - first:
+      213: 2248936286368198359
+    second: Magneton_89
+  - first:
+      213: 364626572453124708
+    second: Magneton_90
+  - first:
+      213: 5851428585210297281
+    second: Magneton_91
+  - first:
+      213: -9013954292590942696
+    second: Magneton_92
+  - first:
+      213: -7555604373166302079
+    second: Magneton_93
+  - first:
+      213: 3677955137295205619
+    second: Magneton_94
+  - first:
+      213: 1989813361239111766
+    second: Magneton_95
+  - first:
+      213: -25425693617452206
+    second: Magneton_96
+  - first:
+      213: -847718268398210007
+    second: Magneton_97
+  - first:
+      213: -5413577396369038779
+    second: Magneton_98
+  - first:
+      213: -132836875353624935
+    second: Magneton_99
+  - first:
+      213: 6462009210011154851
+    second: Magneton_100
+  - first:
+      213: -8962322103073180047
+    second: Magneton_101
+  - first:
+      213: -6918489611130400880
+    second: Magneton_102
+  - first:
+      213: 6854960107446656843
+    second: Magneton_103
+  - first:
+      213: 4232478507519422234
+    second: Magneton_104
+  - first:
+      213: 9102194175303287551
+    second: Magneton_105
+  - first:
+      213: -2623517499678090386
+    second: Magneton_106
+  - first:
+      213: 1783884982754074586
+    second: Magneton_107
+  - first:
+      213: 2431930722674144744
+    second: Magneton_108
+  - first:
+      213: 1898805641392663303
+    second: Magneton_109
+  - first:
+      213: -7926661441774014382
+    second: Magneton_110
+  - first:
+      213: 5388697818008114651
+    second: Magneton_111
+  - first:
+      213: -5232589629562600022
+    second: Magneton_112
+  - first:
+      213: -4658352895150136527
+    second: Magneton_113
+  - first:
+      213: 7870486903099418935
+    second: Magneton_114
+  - first:
+      213: 6548889263384129902
+    second: Magneton_115
+  - first:
+      213: 5321367279770760289
+    second: Magneton_116
+  - first:
+      213: -4114392237552447420
+    second: Magneton_117
+  - first:
+      213: 857503932335228768
+    second: Magneton_118
+  - first:
+      213: -3754647130841344336
+    second: Magneton_119
+  - first:
+      213: -251353358588403959
+    second: Magneton_120
+  - first:
+      213: -4581056280681963647
+    second: Magneton_121
+  - first:
+      213: 7693271977293058959
+    second: Magneton_122
+  - first:
+      213: 4851237468902977673
+    second: Magneton_123
+  - first:
+      213: -4082440499839512952
+    second: Magneton_124
+  - first:
+      213: -4676012304245526787
+    second: Magneton_125
+  - first:
+      213: 804050561916535496
+    second: Magneton_126
+  - first:
+      213: -6272998018715087832
+    second: Magneton_127
+  - first:
+      213: -1353191478922407524
+    second: Magneton_128
+  - first:
+      213: 1725994764916413888
+    second: Magneton_129
+  - first:
+      213: -4107856690150884705
+    second: Magneton_130
+  - first:
+      213: 6994954875595706679
+    second: Magneton_131
+  - first:
+      213: -5962341554234717062
+    second: Magneton_132
+  - first:
+      213: -7587325284209702699
+    second: Magneton_133
+  - first:
+      213: -783034411361857712
+    second: Magneton_134
+  - first:
+      213: -7603551085520616772
+    second: Magneton_135
+  - first:
+      213: -6341309328811691900
+    second: Magneton_136
+  - first:
+      213: 8073563200030981017
+    second: Magneton_137
+  - first:
+      213: 7969996070484389441
+    second: Magneton_138
+  - first:
+      213: -6446302131912310722
+    second: Magneton_139
+  - first:
+      213: 8980184066768284683
+    second: Magneton_140
+  - first:
+      213: 637921072294968931
+    second: Magneton_141
+  - first:
+      213: 9012714741392430622
+    second: Magneton_142
+  - first:
+      213: 813576131906213257
+    second: Magneton_143
+  - first:
+      213: 8852808549226763619
+    second: Magneton_144
+  - first:
+      213: 1867630414891817890
+    second: Magneton_145
+  - first:
+      213: 3762088548576913342
+    second: Magneton_146
+  - first:
+      213: 748885095679341338
+    second: Magneton_147
+  - first:
+      213: -117553421146627037
+    second: Magneton_148
+  - first:
+      213: 7260833320646280933
+    second: Magneton_149
+  - first:
+      213: -5463469552882528802
+    second: Magneton_150
+  - first:
+      213: -5609000921795814857
+    second: Magneton_151
+  - first:
+      213: 5750332986221855916
+    second: Magneton_152
+  - first:
+      213: 3075701983747601160
+    second: Magneton_153
+  - first:
+      213: -3371036424313507955
+    second: Magneton_154
+  - first:
+      213: 772062617247835135
+    second: Magneton_155
+  - first:
+      213: 3695986766454013807
+    second: Magneton_156
+  - first:
+      213: -1702229637526627560
+    second: Magneton_157
+  - first:
+      213: 4069443678754062528
+    second: Magneton_158
+  - first:
+      213: -7133821566598833874
+    second: Magneton_159
+  - first:
+      213: 6261046875153623275
+    second: Magneton_160
+  - first:
+      213: 268679086145044454
+    second: Magneton_161
+  - first:
+      213: -2541088306399939364
+    second: Magneton_162
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Magneton_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 679
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebb7c43ee79e39f0800000000000000
+      internalID: -486784660365919260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 679
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401f4147b73214070800000000000000
+      internalID: 8088785418869600516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 680
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c1d6ff5728b3940800000000000000
+      internalID: 5276954831702793365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_3
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 681
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1997a5b22328cac90800000000000000
+      internalID: -7157202555811235439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_4
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 682
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cab5585c0e450240800000000000000
+      internalID: 4757294396315384518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_5
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 684
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95528c5c9563dd20800000000000000
+      internalID: 3302094674034054558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_6
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 684
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71fcc4e8b8a87020800000000000000
+      internalID: 2339805518485057919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_7
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 684
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d2cf85117409eb0800000000000000
+      internalID: -4715190670023971572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_8
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 683
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7dd94880dda54470800000000000000
+      internalID: 8378293792944020861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_9
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 682
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b892081e7742f5300800000000000000
+      internalID: 242953002204277131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_10
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 681
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb97476a8239eac0800000000000000
+      internalID: -3825470838454903887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_11
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 681
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e766b5ade1355810800000000000000
+      internalID: 1753362526687881185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_12
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 680
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b107be1fb33adac90800000000000000
+      internalID: -7156884754964713445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_13
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 681
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6133e2847533698b0800000000000000
+      internalID: -5145869074258054378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_14
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 684
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7cbef758a97ec10800000000000000
+      internalID: 2082803250849630157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_15
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 617
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8859b3e2f61c772c0800000000000000
+      internalID: -4433862624861776504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_16
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 617
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223b2c13709975a00800000000000000
+      internalID: 745232519531770658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_17
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 617
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac8ce00cfbedb9a0800000000000000
+      internalID: -6215552443121627992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_18
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 617
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e65d3d8170ca8810800000000000000
+      internalID: 1768437397629785824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 618
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce3c1c57b8e1b410800000000000000
+      internalID: 1491228825858358979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_20
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 619
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c77163be26a70a0800000000000000
+      internalID: -6883080318118036371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_21
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 619
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4a7a83dd3016e10800000000000000
+      internalID: 2189035142551938208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_22
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 620
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e9f2401ce4dc230800000000000000
+      internalID: 3660668663027965569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_23
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 619
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a12b9ff179cb6790800000000000000
+      internalID: -7535708060017548887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_24
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 618
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e9845b71ea9df90800000000000000
+      internalID: -6928315134883881336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_25
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 617
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720cd363d57d7d7f0800000000000000
+      internalID: -587764431006613465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_26
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 615
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d61d1807cbde3f0800000000000000
+      internalID: -869831961612292852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_27
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 616
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73c7a890ff736c90800000000000000
+      internalID: -7177752709768428675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_28
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 617
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76950ae4afe736c50800000000000000
+      internalID: 6657304287709780327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_29
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 617
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc40edf795a3b1b40800000000000000
+      internalID: 5411983533287539917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_30
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 552
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00cbdde026512f580800000000000000
+      internalID: -8794943611400766464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_31
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 552
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242af44b4e1f21210800000000000000
+      internalID: 1302369206843449922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_32
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 553
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3180e0c4c62a8c0800000000000000
+      internalID: -3989507245988113465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_33
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 556
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f518fa8a69a486280800000000000000
+      internalID: -9049901440265387681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_34
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 556
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993958cb927bf5410800000000000000
+      internalID: 1468093393430483865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_35
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 554
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4d4857403cd8260800000000000000
+      internalID: 7101546611352065247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_36
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 552
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16cd9780365ac6970800000000000000
+      internalID: 8749550020836580449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_37
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 551
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8d5a2c449b7f350800000000000000
+      internalID: 6050508329370114237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_38
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 550
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578d501322546ce30800000000000000
+      internalID: 4523378888893913205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_39
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 549
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d16b825ef1aad20800000000000000
+      internalID: 3290477546838564249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_40
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 550
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b5580511c798380800000000000000
+      internalID: -8968500769124426918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_41
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 552
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c75ed45fedc2ea0800000000000000
+      internalID: -5896092666979582878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_42
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 552
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0675ccff0581b00800000000000000
+      internalID: 799477993433424061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_43
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 553
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618a36169ee3e2d10800000000000000
+      internalID: 2102687248110823446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_44
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 554
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102c940687c222120800000000000000
+      internalID: 2387519647982928385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_45
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 488
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fa72ba8700fb700800000000000000
+      internalID: 558165397084811135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_46
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 488
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27bfcede70f6b2060800000000000000
+      internalID: 6929754531486825330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_47
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 487
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c7d10b3fdd208b0800000000000000
+      internalID: -5187339782075876273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_48
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 485
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59db4dd0845a5c400800000000000000
+      internalID: 343862675451985301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_49
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 484
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ddce3f02e33aa100800000000000000
+      internalID: 119965386090139092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_50
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 483
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae77693cfd0f11c10800000000000000
+      internalID: 2022662551515854826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_51
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 483
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1184297b542ae50800000000000000
+      internalID: 6819089440527880693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_52
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 483
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb3c93c511895920800000000000000
+      internalID: 2979554558958386142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_53
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 485
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20e76c3e08032220800000000000000
+      internalID: 2459818678710427694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_54
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 485
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c56c30d9d2fd0d0800000000000000
+      internalID: -3395945441617617779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_55
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 484
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e662a9e8a145f1140800000000000000
+      internalID: 4692561809781696110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_56
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 484
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dece7ccf3bbadfc40800000000000000
+      internalID: 5547779105518775533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_57
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 485
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c254ab88aefaa0aa0800000000000000
+      internalID: -6193944915643579092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_58
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 486
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5af78c2eafca350800000000000000
+      internalID: 6029469853075613119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_59
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 487
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5efa7c6d9dc6370800000000000000
+      internalID: 8317262128342885867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_60
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 422
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006ce762859227400800000000000000
+      internalID: 320363982076429824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_61
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 421
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13bcccb5b3c68eac0800000000000000
+      internalID: -3825688881252218063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_62
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 421
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c375a4e76fc68b350800000000000000
+      internalID: 6032691506799335228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_63
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 420
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7309c619bca2d510800000000000000
+      internalID: 1572509130856924026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_64
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 418
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aba7695dc1944b40800000000000000
+      internalID: 5423620162415209381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_65
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 419
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46fd00237d481100800000000000000
+      internalID: 78898150333347405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_66
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 420
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efaed1193a315ff30800000000000000
+      internalID: 4608611386918824702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_67
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 421
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88e31dabe66ef130800000000000000
+      internalID: 3602429914350086283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_68
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 422
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9868cd23258a5b0800000000000000
+      internalID: -5356941378355557981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_69
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 424
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d4899fff6505ca0800000000000000
+      internalID: -6030224243644936845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_70
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 427
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7d38d6524a28f50800000000000000
+      internalID: 6882243661233641379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_71
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 427
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525d859fd15108e50800000000000000
+      internalID: 6809465855065773349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_72
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 424
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8418c04e4f31270800000000000000
+      internalID: 8220183005180807420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_73
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 422
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b894c21181ea67f50800000000000000
+      internalID: 6878876899245574539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_74
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 420
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c202ad548eb7d8e0800000000000000
+      internalID: -1668655661201620282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_75
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 359
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68378f43a297d4540800000000000000
+      internalID: 4993780784008033158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_76
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 358
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b543163dc2f40f90800000000000000
+      internalID: -6988193758582717001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_77
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 361
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0301e3925d581ed0800000000000000
+      internalID: -2443100188598795506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_78
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 360
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed39c6680d08eb760800000000000000
+      internalID: 7475554064578417630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_79
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 400
+        width: 61
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d866c0c2367c450800000000000000
+      internalID: 6108960460389125380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_80
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 400
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e854b2d1ac5223d30800000000000000
+      internalID: 4409628535152133518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_81
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 385
+        width: 38
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da81107fb2b61010800000000000000
+      internalID: 1159310489383176914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_82
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 388
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fac87336cac25ab0800000000000000
+      internalID: -5020727681948792078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_83
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 383
+        width: 118
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf39cc33279b889d0800000000000000
+      internalID: -2771761670500084741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_84
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 368
+        width: 77
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a70fdfcc24cf5f00800000000000000
+      internalID: 1107819730101536673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_85
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 366
+        width: 62
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14608152a1f1c6930800000000000000
+      internalID: 4137716354798585409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_86
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 366
+        width: 39
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e3b62129d035370800000000000000
+      internalID: 8310000658454101639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_87
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 366
+        width: 61
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829eb5fa8863aad20800000000000000
+      internalID: 3290502438433057064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_88
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 283
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960226ffbc211ac80800000000000000
+      internalID: -8313342769776942999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_89
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 284
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de667713a3d53f10800000000000000
+      internalID: 2248936286368198359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_90
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 285
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a9cbe8fe96f0500800000000000000
+      internalID: 364626572453124708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_91
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 286
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbb60acb43743150800000000000000
+      internalID: 5851428585210297281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_92
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 287
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8166280345008e280800000000000000
+      internalID: -9013954292590942696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_93
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 288
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18cd80a9ad9152790800000000000000
+      internalID: -7555604373166302079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_94
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 289
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4cd42f5b8ba0330800000000000000
+      internalID: 3677955137295205619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_95
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 287
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658bbf5a5bc3d9b10800000000000000
+      internalID: 1989813361239111766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_96
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 286
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b83c3677ba5aff0800000000000000
+      internalID: -25425693617452206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_97
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 286
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924f38ee9bc4c34f0800000000000000
+      internalID: -847718268398210007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_98
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 286
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542e6555a0c1fd4b0800000000000000
+      internalID: -5413577396369038779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_99
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 286
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e697fc091182ef0800000000000000
+      internalID: -132836875353624935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_100
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 286
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9740aa32bada950800000000000000
+      internalID: 6462009210011154851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_101
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 288
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176f0bb188f6f9380800000000000000
+      internalID: -8962322103073180047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_102
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 288
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f875aba569cff90800000000000000
+      internalID: -6918489611130400880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_103
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 218
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4fd4d906e5b12f50800000000000000
+      internalID: 6854960107446656843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_104
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 218
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1fab2827c8ccba30800000000000000
+      internalID: 4232478507519422234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_105
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 218
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2059f706d715e70800000000000000
+      internalID: 9102194175303287551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_106
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 218
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b9aa9ebb4679bd0800000000000000
+      internalID: -2623517499678090386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_107
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 218
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfd53db0f1a1c810800000000000000
+      internalID: 1783884982754074586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_108
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 217
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5f95b7b14ffb120800000000000000
+      internalID: 2431930722674144744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_109
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 217
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ba7b8aba9e95a10800000000000000
+      internalID: 1898805641392663303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_110
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 216
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250364c7a67def190800000000000000
+      internalID: -7926661441774014382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_111
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 215
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5db4c6d1088ca40800000000000000
+      internalID: 5388697818008114651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_112
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 214
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa54782947b1267b0800000000000000
+      internalID: -5232589629562600022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_113
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 215
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133e92e09b43a5fb0800000000000000
+      internalID: -4658352895150136527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_114
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 216
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739ea948326993d60800000000000000
+      internalID: 7870486903099418935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_115
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 217
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e617169661452ea50800000000000000
+      internalID: 6548889263384129902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_116
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 219
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1647f1ed85b49d940800000000000000
+      internalID: 5321367279770760289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_117
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 221
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440df061f0eb6e6c0800000000000000
+      internalID: -4114392237552447420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_118
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 154
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0678750884776eb00800000000000000
+      internalID: 857503932335228768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_119
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 153
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b61345d350d4ebc0800000000000000
+      internalID: -3754647130841344336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_120
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 151
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f9c3cb373038cf0800000000000000
+      internalID: -251353358588403959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_121
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 152
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f11ed8591dc60c0800000000000000
+      internalID: -4581056280681963647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_122
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 150
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8315074a1ef3ca60800000000000000
+      internalID: 7693271977293058959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_123
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 148
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980f60766ce035340800000000000000
+      internalID: 4851237468902977673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_124
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 147
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ec56ebef14857c0800000000000000
+      internalID: -4082440499839512952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_125
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 148
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfee61875977b1fb0800000000000000
+      internalID: -4676012304245526787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_126
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 149
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c20d7cd9bf882b00800000000000000
+      internalID: 804050561916535496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_127
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 150
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c02c9a985d1f8a0800000000000000
+      internalID: -6272998018715087832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_128
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 151
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c919eb9f48f783de0800000000000000
+      internalID: -1353191478922407524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_129
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 152
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5d60f0817f3f710800000000000000
+      internalID: 1725994764916413888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_130
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 153
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a385bca16fdf6c0800000000000000
+      internalID: -4107856690150884705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_131
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 152
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731d4c30662131160800000000000000
+      internalID: 6994954875595706679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_132
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 151
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c0a4e32f1814da0800000000000000
+      internalID: -5962341554234717062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_133
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 84
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d847577ad764b690800000000000000
+      internalID: -7587325284209702699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_134
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 84
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f8edff95a1225f0800000000000000
+      internalID: -783034411361857712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_135
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 84
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb20204b292ca7690800000000000000
+      internalID: -7603551085520616772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_136
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 84
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480fe4d53c42ff7a0800000000000000
+      internalID: -6341309328811691900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_137
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 85
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b338174fe0b0070800000000000000
+      internalID: 8073563200030981017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_138
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 84
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e2b72033d1b9e60800000000000000
+      internalID: 7969996070484389441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_139
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 84
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3006807d522a86a0800000000000000
+      internalID: -6446302131912310722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_140
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 84
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ca85564d500ac70800000000000000
+      internalID: 8980184066768284683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_141
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 84
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36eb0ecd5d95ad800800000000000000
+      internalID: 637921072294968931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_142
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 84
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e165f9e4e48931d70800000000000000
+      internalID: 9012714741392430622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_143
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 83
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98591047e276a4b00800000000000000
+      internalID: 813576131906213257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_144
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 83
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365d339a87e7bda70800000000000000
+      internalID: 8852808549226763619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_145
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 82
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab975b97f72be910800000000000000
+      internalID: 1867630414891817890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_146
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 81
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7ed7f3a9f953430800000000000000
+      internalID: 3762088548576913342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_147
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 80
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a133d89d603946a00800000000000000
+      internalID: 748885095679341338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_148
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 11
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3246c6a49cd5e5ef0800000000000000
+      internalID: -117553421146627037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_149
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 12
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e601728f69a3c460800000000000000
+      internalID: 7260833320646280933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_150
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 13
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd464b636bdd24b0800000000000000
+      internalID: -5463469552882528802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_151
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 14
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a958f1163d822b0800000000000000
+      internalID: -5609000921795814857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_152
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 16
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca407f762694dcf40800000000000000
+      internalID: 5750332986221855916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_153
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 18
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8037d3098a61faa20800000000000000
+      internalID: 3075701983747601160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_154
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 20
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8fe3eb8b3ca731d0800000000000000
+      internalID: -3371036424313507955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_155
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 20
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff36a6d1cdae6ba00800000000000000
+      internalID: 772062617247835135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_156
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 18
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f3905c168ca4330800000000000000
+      internalID: 3695986766454013807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_157
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 16
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b5519d9277068e0800000000000000
+      internalID: -1702229637526627560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_158
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 14
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c048990771997830800000000000000
+      internalID: 4069443678754062528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_159
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 12
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e291bdfe4139ffc90800000000000000
+      internalID: -7133821566598833874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_160
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 41
+        width: 38
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8e993e5f4b3e650800000000000000
+      internalID: 6261046875153623275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_161
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 44
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef7040943a8ab300800000000000000
+      internalID: 268679086145044454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton_162
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 24
+        width: 77
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4f12a06ad3cbcd0800000000000000
+      internalID: -2541088306399939364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4256 @@
+fileFormatVersion: 2
+guid: 87259966327de8748a40bd7f5f6edf7e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2261156890874095954
+    second: Dialga_0
+  - first:
+      213: 4610805613737256597
+    second: Dialga_1
+  - first:
+      213: 2953685823060500071
+    second: Dialga_2
+  - first:
+      213: 3267659490321245118
+    second: Dialga_3
+  - first:
+      213: 3500941535999984828
+    second: Dialga_4
+  - first:
+      213: 2292607758327872555
+    second: Dialga_5
+  - first:
+      213: -5885273750041498197
+    second: Dialga_6
+  - first:
+      213: -7533796742502514893
+    second: Dialga_7
+  - first:
+      213: 1124389848877853430
+    second: Dialga_8
+  - first:
+      213: 97943215357688764
+    second: Dialga_9
+  - first:
+      213: 6284206255487931900
+    second: Dialga_10
+  - first:
+      213: 800826512650002624
+    second: Dialga_11
+  - first:
+      213: 7629500054194363100
+    second: Dialga_12
+  - first:
+      213: -5223341100927227114
+    second: Dialga_13
+  - first:
+      213: 4210418674379661962
+    second: Dialga_14
+  - first:
+      213: 6348491217764439462
+    second: Dialga_15
+  - first:
+      213: 1517380998897587782
+    second: Dialga_16
+  - first:
+      213: -3960251603542958952
+    second: Dialga_17
+  - first:
+      213: 1698408373490810089
+    second: Dialga_18
+  - first:
+      213: 4252602659410524428
+    second: Dialga_19
+  - first:
+      213: 741093401995712135
+    second: Dialga_20
+  - first:
+      213: 1216321381681296020
+    second: Dialga_21
+  - first:
+      213: -3086405386269059330
+    second: Dialga_22
+  - first:
+      213: 107965561077514577
+    second: Dialga_23
+  - first:
+      213: -504120497814361497
+    second: Dialga_24
+  - first:
+      213: -1355652786494440744
+    second: Dialga_25
+  - first:
+      213: -2768276260099176982
+    second: Dialga_26
+  - first:
+      213: 651373164805737132
+    second: Dialga_27
+  - first:
+      213: 4225091465436119308
+    second: Dialga_28
+  - first:
+      213: 4875368446475894102
+    second: Dialga_29
+  - first:
+      213: 4009679589260797446
+    second: Dialga_30
+  - first:
+      213: 4026447052702912757
+    second: Dialga_31
+  - first:
+      213: -3136854692724122163
+    second: Dialga_32
+  - first:
+      213: -8320202305389243811
+    second: Dialga_33
+  - first:
+      213: -7793655025443150561
+    second: Dialga_34
+  - first:
+      213: -8194570587120043035
+    second: Dialga_35
+  - first:
+      213: 5221404960820523279
+    second: Dialga_36
+  - first:
+      213: 7720949240579018007
+    second: Dialga_37
+  - first:
+      213: 6040883849644924188
+    second: Dialga_38
+  - first:
+      213: 7922755863203610577
+    second: Dialga_39
+  - first:
+      213: -2137971750563242774
+    second: Dialga_40
+  - first:
+      213: 1525439518760290601
+    second: Dialga_41
+  - first:
+      213: -2685381396795156042
+    second: Dialga_42
+  - first:
+      213: -6479591014737057881
+    second: Dialga_43
+  - first:
+      213: 802475895461191099
+    second: Dialga_44
+  - first:
+      213: 1292838740827005605
+    second: Dialga_45
+  - first:
+      213: 1128606528777464994
+    second: Dialga_46
+  - first:
+      213: 4218547514889782194
+    second: Dialga_47
+  - first:
+      213: -2412281255237059953
+    second: Dialga_48
+  - first:
+      213: -6312132853392125036
+    second: Dialga_49
+  - first:
+      213: 4737361283263741174
+    second: Dialga_50
+  - first:
+      213: 1045335250840338794
+    second: Dialga_51
+  - first:
+      213: 6714739722276743743
+    second: Dialga_52
+  - first:
+      213: 2080958399773071104
+    second: Dialga_53
+  - first:
+      213: 627778221350108327
+    second: Dialga_54
+  - first:
+      213: -4753136602797367495
+    second: Dialga_55
+  - first:
+      213: 4901668644905049634
+    second: Dialga_56
+  - first:
+      213: -3681587905527414356
+    second: Dialga_57
+  - first:
+      213: 786232837484419504
+    second: Dialga_58
+  - first:
+      213: -9203363501983119840
+    second: Dialga_59
+  - first:
+      213: 7149428347309664918
+    second: Dialga_60
+  - first:
+      213: 3685497979436232777
+    second: Dialga_61
+  - first:
+      213: 8546593824923384593
+    second: Dialga_62
+  - first:
+      213: 4104805624518186476
+    second: Dialga_63
+  - first:
+      213: 3852403271024623372
+    second: Dialga_64
+  - first:
+      213: 5949974709216840689
+    second: Dialga_65
+  - first:
+      213: 9128939001428123144
+    second: Dialga_66
+  - first:
+      213: 3201880873726783640
+    second: Dialga_67
+  - first:
+      213: -6715521029728815543
+    second: Dialga_68
+  - first:
+      213: 5949976755176499455
+    second: Dialga_69
+  - first:
+      213: -5688808325288472714
+    second: Dialga_70
+  - first:
+      213: 980013154180561924
+    second: Dialga_71
+  - first:
+      213: 2071613594344779721
+    second: Dialga_72
+  - first:
+      213: 8559189911896520653
+    second: Dialga_73
+  - first:
+      213: -1897114460596331474
+    second: Dialga_74
+  - first:
+      213: -5373100683866812298
+    second: Dialga_75
+  - first:
+      213: -3231938262341776713
+    second: Dialga_76
+  - first:
+      213: -1216947343600524853
+    second: Dialga_77
+  - first:
+      213: 2438501886131235518
+    second: Dialga_78
+  - first:
+      213: 6135979226764308934
+    second: Dialga_79
+  - first:
+      213: 574268708832134878
+    second: Dialga_80
+  - first:
+      213: -4715771590038124758
+    second: Dialga_81
+  - first:
+      213: -1065306788149639739
+    second: Dialga_82
+  - first:
+      213: -1885098634966291258
+    second: Dialga_83
+  - first:
+      213: -6851526030218542457
+    second: Dialga_84
+  - first:
+      213: 7969511328342194989
+    second: Dialga_85
+  - first:
+      213: -8914683730909532264
+    second: Dialga_86
+  - first:
+      213: -8269252510869353988
+    second: Dialga_87
+  - first:
+      213: 6247481409815388974
+    second: Dialga_88
+  - first:
+      213: 120582816153442765
+    second: Dialga_89
+  - first:
+      213: -5879830447543963630
+    second: Dialga_90
+  - first:
+      213: 1037087859734668390
+    second: Dialga_91
+  - first:
+      213: -2921397781445172603
+    second: Dialga_92
+  - first:
+      213: 1744076521644942912
+    second: Dialga_93
+  - first:
+      213: 1755295429327281137
+    second: Dialga_94
+  - first:
+      213: 6353364756409242845
+    second: Dialga_95
+  - first:
+      213: 9011596197689612285
+    second: Dialga_96
+  - first:
+      213: -4545520835580717090
+    second: Dialga_97
+  - first:
+      213: 6029668387769561100
+    second: Dialga_98
+  - first:
+      213: -4691897909970564212
+    second: Dialga_99
+  - first:
+      213: -9058133848850641983
+    second: Dialga_100
+  - first:
+      213: 2336426408531291712
+    second: Dialga_101
+  - first:
+      213: 1566129464944842662
+    second: Dialga_102
+  - first:
+      213: -8312524433616794693
+    second: Dialga_103
+  - first:
+      213: 2815304522550453184
+    second: Dialga_104
+  - first:
+      213: 7006328317381794597
+    second: Dialga_105
+  - first:
+      213: -6754530051716752697
+    second: Dialga_106
+  - first:
+      213: -3575022126038041750
+    second: Dialga_107
+  - first:
+      213: -4826109940506130796
+    second: Dialga_108
+  - first:
+      213: -1996730472860067959
+    second: Dialga_109
+  - first:
+      213: 671772634966473176
+    second: Dialga_110
+  - first:
+      213: -689827069476805468
+    second: Dialga_111
+  - first:
+      213: 4627236886094309996
+    second: Dialga_112
+  - first:
+      213: 775491086287938380
+    second: Dialga_113
+  - first:
+      213: 4675507317167087112
+    second: Dialga_114
+  - first:
+      213: 5567006483104153550
+    second: Dialga_115
+  - first:
+      213: -6482465913869775341
+    second: Dialga_116
+  - first:
+      213: 3751955208275277419
+    second: Dialga_117
+  - first:
+      213: -3677850627291292002
+    second: Dialga_118
+  - first:
+      213: 3780539279611729229
+    second: Dialga_119
+  - first:
+      213: 8063096200900548511
+    second: Dialga_120
+  - first:
+      213: -3506413208245312892
+    second: Dialga_121
+  - first:
+      213: 8518461918407489263
+    second: Dialga_122
+  - first:
+      213: 4768054346721943695
+    second: Dialga_123
+  - first:
+      213: 4358322009933465635
+    second: Dialga_124
+  - first:
+      213: -8363724635346688864
+    second: Dialga_125
+  - first:
+      213: -424724495827967454
+    second: Dialga_126
+  - first:
+      213: -4796754123489396802
+    second: Dialga_127
+  - first:
+      213: 3095332179585297745
+    second: Dialga_128
+  - first:
+      213: 1843538986559847837
+    second: Dialga_129
+  - first:
+      213: 7433182205567328409
+    second: Dialga_130
+  - first:
+      213: -1081843556159016097
+    second: Dialga_131
+  - first:
+      213: -6072289809161339811
+    second: Dialga_132
+  - first:
+      213: -2756193194689281516
+    second: Dialga_133
+  - first:
+      213: -5183626456511729961
+    second: Dialga_134
+  - first:
+      213: -3646073253012266144
+    second: Dialga_135
+  - first:
+      213: 7326920910981001791
+    second: Dialga_136
+  - first:
+      213: 5753314010845223703
+    second: Dialga_137
+  - first:
+      213: -5016794428972251858
+    second: Dialga_138
+  - first:
+      213: 7485209417931195199
+    second: Dialga_139
+  - first:
+      213: -2978196052537132193
+    second: Dialga_140
+  - first:
+      213: -1780148465110097266
+    second: Dialga_141
+  - first:
+      213: -4222656962783814894
+    second: Dialga_142
+  - first:
+      213: 4064395504384940167
+    second: Dialga_143
+  - first:
+      213: 2216922283037916735
+    second: Dialga_144
+  - first:
+      213: 5561257854317226370
+    second: Dialga_145
+  - first:
+      213: -7241783919518861998
+    second: Dialga_146
+  - first:
+      213: 5785698095027031982
+    second: Dialga_147
+  - first:
+      213: 3899491819425994686
+    second: Dialga_148
+  - first:
+      213: -9209229592253724382
+    second: Dialga_149
+  - first:
+      213: 6080354500593465244
+    second: Dialga_150
+  - first:
+      213: 4999891206637201652
+    second: Dialga_151
+  - first:
+      213: -9131019979092417146
+    second: Dialga_152
+  - first:
+      213: -8518878676531251847
+    second: Dialga_153
+  - first:
+      213: 5827524721529277222
+    second: Dialga_154
+  - first:
+      213: -5804242566553365430
+    second: Dialga_155
+  - first:
+      213: -646014852189771872
+    second: Dialga_156
+  - first:
+      213: 9162619927677436883
+    second: Dialga_157
+  - first:
+      213: 2603309341422025315
+    second: Dialga_158
+  - first:
+      213: 4916978620813179960
+    second: Dialga_159
+  - first:
+      213: 3601445780115246169
+    second: Dialga_160
+  - first:
+      213: -8983773415370898800
+    second: Dialga_161
+  - first:
+      213: 6751896601475971581
+    second: Dialga_162
+  - first:
+      213: -5605138521089489204
+    second: Dialga_163
+  - first:
+      213: -4108594556738418974
+    second: Dialga_164
+  - first:
+      213: 8948041066011564481
+    second: Dialga_165
+  - first:
+      213: -2020514605718974551
+    second: Dialga_166
+  - first:
+      213: -8688504190198157646
+    second: Dialga_167
+  - first:
+      213: -5197363512092528952
+    second: Dialga_168
+  - first:
+      213: -6646759638580956338
+    second: Dialga_169
+  - first:
+      213: -3927870732958464808
+    second: Dialga_170
+  - first:
+      213: 818078721748218440
+    second: Dialga_171
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dialga_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 985
+        width: 6
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2592afd463e316f10800000000000000
+      internalID: 2261156890874095954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 982
+        width: 79
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596af2fc64fdcff30800000000000000
+      internalID: 4610805613737256597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 982
+        width: 79
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ed0a55b999df820800000000000000
+      internalID: 2953685823060500071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_3
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 982
+        width: 77
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3288f5efe095d20800000000000000
+      internalID: 3267659490321245118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_4
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 982
+        width: 74
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb480b837c7d59030800000000000000
+      internalID: 3500941535999984828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_5
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 982
+        width: 79
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2cff640c9af0df10800000000000000
+      internalID: 2292607758327872555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_6
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 982
+        width: 82
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad68d2b4be435ea0800000000000000
+      internalID: -5885273750041498197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_7
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 982
+        width: 83
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f742947c3927790800000000000000
+      internalID: -7533796742502514893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_8
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 982
+        width: 83
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa6b6b3c92aa9f00800000000000000
+      internalID: 1124389848877853430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_9
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 874
+        width: 82
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbbfd8fd5d6fb5100800000000000000
+      internalID: 97943215357688764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_10
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 874
+        width: 82
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf555a15b4cf53750800000000000000
+      internalID: 6284206255487931900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_11
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 874
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0e735687b1d1b00800000000000000
+      internalID: 800826512650002624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_12
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 874
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda141060ed61e960800000000000000
+      internalID: 7629500054194363100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_13
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 874
+        width: 79
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61be88271f6f287b0800000000000000
+      internalID: -5223341100927227114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_14
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 874
+        width: 6
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8222120a796e6a30800000000000000
+      internalID: 4210418674379661962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_15
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 874
+        width: 6
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a55986702f5a1850800000000000000
+      internalID: 6348491217764439462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_16
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 874
+        width: 78
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646d734aaf1de0510800000000000000
+      internalID: 1517380998897587782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_17
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 874
+        width: 78
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c96ad162c5a09c0800000000000000
+      internalID: -3960251603542958952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_18
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 874
+        width: 78
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ecf779ca65f19710800000000000000
+      internalID: 1698408373490810089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_19
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 766
+        width: 78
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09bb056697440b30800000000000000
+      internalID: 4252602659410524428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_20
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 766
+        width: 77
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786175bc584e84a00800000000000000
+      internalID: 741093401995712135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_21
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 766
+        width: 77
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49273df2add31e010800000000000000
+      internalID: 1216321381681296020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_22
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 767
+        width: 77
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6949657a2ea25d0800000000000000
+      internalID: -3086405386269059330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_23
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 769
+        width: 77
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15140041b129f7100800000000000000
+      internalID: 107965561077514577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_24
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 770
+        width: 77
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a28c304110109f0800000000000000
+      internalID: -504120497814361497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_25
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 771
+        width: 77
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dafa3629f0cf2de0800000000000000
+      internalID: -1355652786494440744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_26
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 771
+        width: 77
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae544ac886b1599d0800000000000000
+      internalID: -2768276260099176982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_27
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 658
+        width: 77
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caac77831742a0900800000000000000
+      internalID: 651373164805737132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_28
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 657
+        width: 77
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01cad46d4a82aa30800000000000000
+      internalID: 4225091465436119308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_29
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 658
+        width: 77
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65df75175c9c8a340800000000000000
+      internalID: 4875368446475894102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_30
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 658
+        width: 77
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606260d975e35a730800000000000000
+      internalID: 4009679589260797446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_31
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 658
+        width: 77
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0964be240d0e730800000000000000
+      internalID: 4026447052702912757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_32
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 658
+        width: 78
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd5928d647a774d0800000000000000
+      internalID: -3136854692724122163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_33
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 658
+        width: 78
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5253e7e514b88c80800000000000000
+      internalID: -8320202305389243811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_34
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 658
+        width: 78
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15e5820c0067d390800000000000000
+      internalID: -7793655025443150561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_35
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 550
+        width: 78
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb78dbb779074e80800000000000000
+      internalID: -8194570587120043035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_36
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 550
+        width: 79
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f017b2ec528267840800000000000000
+      internalID: 5221404960820523279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_37
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 546
+        width: 6
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71dc88d4d62562b60800000000000000
+      internalID: 7720949240579018007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_38
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 550
+        width: 79
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1dda73fad785d350800000000000000
+      internalID: 6040883849644924188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_39
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 546
+        width: 6
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dff4642b7843fd60800000000000000
+      internalID: 7922755863203610577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_40
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 607
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec9bd335066452e0800000000000000
+      internalID: -2137971750563242774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_41
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 607
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929cc0209237b2510800000000000000
+      internalID: 1525439518760290601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_42
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 605
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9159de8db9bbad0800000000000000
+      internalID: -2685381396795156042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_43
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 607
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7e8cc6d4ed316a0800000000000000
+      internalID: -6479591014737057881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_44
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 607
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd17c14397f22b00800000000000000
+      internalID: 802475895461191099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_45
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 607
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a26bda2cf511f110800000000000000
+      internalID: 1292838740827005605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_46
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 607
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aca7f688ad99af00800000000000000
+      internalID: 1128606528777464994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_47
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 588
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3cc1d2d9a4b8a30800000000000000
+      internalID: 4218547514889782194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_48
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 591
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8af24baafad58ed0800000000000000
+      internalID: -2412281255237059953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_49
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 591
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4935d7aec9cc668a0800000000000000
+      internalID: -6312132853392125036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_50
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 591
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fcbf9dccfc7eb140800000000000000
+      internalID: 4737361283263741174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_51
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 591
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6148894fd6c18e00800000000000000
+      internalID: 1045335250840338794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_52
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 591
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3aa281833c8f2d50800000000000000
+      internalID: 6714739722276743743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_53
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 591
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007d6d2a3ac01ec10800000000000000
+      internalID: 2080958399773071104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_54
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 591
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7acbc4957f056b800800000000000000
+      internalID: 627778221350108327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_55
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 591
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f1b556177790eb0800000000000000
+      internalID: -4753136602797367495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_56
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 591
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e5c3299a9360440800000000000000
+      internalID: 4901668644905049634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_57
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 570
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca10aa94e4f58ecc0800000000000000
+      internalID: -3681587905527414356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_58
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 570
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9910d999249ea00800000000000000
+      internalID: 786232837484419504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_59
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 570
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026408d08a5174080800000000000000
+      internalID: -9203363501983119840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_60
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 568
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a208cd33fd73360800000000000000
+      internalID: 7149428347309664918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_61
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 570
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94077bcb2e4852330800000000000000
+      internalID: 3685497979436232777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_62
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 570
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bfa1e4dc99b9670800000000000000
+      internalID: 8546593824923384593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_63
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 570
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce59e61a7f237f830800000000000000
+      internalID: 4104805624518186476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_64
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 570
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0fb9f43d5c767530800000000000000
+      internalID: 3852403271024623372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_65
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 570
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb8d65497e829250800000000000000
+      internalID: 5949974709216840689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_66
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 570
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e155497a180be70800000000000000
+      internalID: 9128939001428123144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_67
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 570
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8903a9bb0bd5f6c20800000000000000
+      internalID: 3201880873726783640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_68
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 570
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946395d243dadc2a0800000000000000
+      internalID: -6715521029728815543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_69
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 570
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff86022a550929250800000000000000
+      internalID: 5949976755176499455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_70
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 570
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f45eff7fa4d01b0800000000000000
+      internalID: -5688808325288472714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_71
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 570
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c742a75c4b99d00800000000000000
+      internalID: 980013154180561924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_72
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 570
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf6ac29699dfbc10800000000000000
+      internalID: 2071613594344779721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_73
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 566
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7f2b750e958c670800000000000000
+      internalID: 8559189911896520653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_74
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 547
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c16ed03781ca5e0800000000000000
+      internalID: -1897114460596331474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_75
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 547
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670d5bb5569ee65b0800000000000000
+      internalID: -5373100683866812298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_76
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 552
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba00212649d523d0800000000000000
+      internalID: -3231938262341776713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_77
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 554
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1e552b6d88c1fe0800000000000000
+      internalID: -1216947343600524853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_78
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 552
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebae8f2bb8c47d120800000000000000
+      internalID: 2438501886131235518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_79
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 554
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c17670d890672550800000000000000
+      internalID: 6135979226764308934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_80
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 554
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6cf8b195638f700800000000000000
+      internalID: 574268708832134878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_81
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 554
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2706ed59b63e8eb0800000000000000
+      internalID: -4715771590038124758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_82
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 554
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c54783de154731f0800000000000000
+      internalID: -1065306788149639739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_83
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 554
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cca24877c8c6d5e0800000000000000
+      internalID: -1885098634966291258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_84
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 554
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7824b7f506d7ae0a0800000000000000
+      internalID: -6851526030218542457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_85
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 554
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2bb94f2454699e60800000000000000
+      internalID: 7969511328342194989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_86
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 554
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89fee26f06ea84480800000000000000
+      internalID: -8914683730909532264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_87
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 554
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf900ab57a6bd3d80800000000000000
+      internalID: -8269252510869353988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_88
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 554
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2327ecdd3383b650800000000000000
+      internalID: 6247481409815388974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_89
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 554
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc997d2be656ca100800000000000000
+      internalID: 120582816153442765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 539
+        width: 856
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210bd925c55a66ea0800000000000000
+      internalID: -5879830447543963630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_91
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 547
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664ea58e9e9746e00800000000000000
+      internalID: 1037087859734668390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_92
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 448
+        width: 6
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582a85d223c1577d0800000000000000
+      internalID: -2921397781445172603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_93
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 443
+        width: 82
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046eebd1b54343810800000000000000
+      internalID: 1744076521644942912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_94
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 443
+        width: 81
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb5bec94ef0c5810800000000000000
+      internalID: 1755295429327281137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_95
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 443
+        width: 79
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4524a959fab2850800000000000000
+      internalID: 6353364756409242845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_96
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 443
+        width: 79
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7dc8e0ffe9f0d70800000000000000
+      internalID: 9011596197689612285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_97
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 443
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7131c12e01be0c0800000000000000
+      internalID: -4545520835580717090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_98
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 443
+        width: 82
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00386eb37fada350800000000000000
+      internalID: 6029668387769561100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_99
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 443
+        width: 84
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b8ec9a5b703eeb0800000000000000
+      internalID: -4691897909970564212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_100
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 443
+        width: 83
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbc05ba14b0b4280800000000000000
+      internalID: -9058133848850641983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_101
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 335
+        width: 83
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e695c8077ac6020800000000000000
+      internalID: 2336426408531291712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_102
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 335
+        width: 83
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a75f4e53720cb510800000000000000
+      internalID: 1566129464944842662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_103
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 335
+        width: 82
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb048bb11bf3ac80800000000000000
+      internalID: -8312524433616794693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_104
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 335
+        width: 82
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3ab211c88f11720800000000000000
+      internalID: 2815304522550453184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_105
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 335
+        width: 82
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b5d49cb7a7b3160800000000000000
+      internalID: 7006328317381794597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_106
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 333
+        width: 6
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cad8ba74b61342a0800000000000000
+      internalID: -6754530051716752697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_107
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 333
+        width: 6
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b37515158f26ec0800000000000000
+      internalID: -3575022126038041750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_108
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 335
+        width: 82
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49686253496360db0800000000000000
+      internalID: -4826109940506130796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_109
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 335
+        width: 82
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9875afcc6303a44e0800000000000000
+      internalID: -1996730472860067959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_110
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 335
+        width: 82
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9310df6ad925900800000000000000
+      internalID: 671772634966473176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_111
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 227
+        width: 82
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4e2676fed3d66f0800000000000000
+      internalID: -689827069476805468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_112
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 227
+        width: 81
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a6c378e6f373040800000000000000
+      internalID: 4627236886094309996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_113
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 227
+        width: 81
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43aca4c80913ca00800000000000000
+      internalID: 775491086287938380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_114
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 227
+        width: 81
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80edb70122db2e040800000000000000
+      internalID: 4675507317167087112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_115
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 227
+        width: 81
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf38bfa6eaf14d40800000000000000
+      internalID: 5567006483104153550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_116
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 227
+        width: 81
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ec63fc897a906a0800000000000000
+      internalID: -6482465913869775341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_117
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 227
+        width: 81
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66bc6a126f911430800000000000000
+      internalID: 3751955208275277419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_118
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 227
+        width: 81
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9eda5f2756a5fcc0800000000000000
+      internalID: -3677850627291292002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_119
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 119
+        width: 81
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d451ba4d17c277430800000000000000
+      internalID: 3780539279611729229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_120
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 119
+        width: 81
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f979a7c464fd5ef60800000000000000
+      internalID: 8063096200900548511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_121
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 119
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482eccec3c7b65fc0800000000000000
+      internalID: -3506413208245312892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_122
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 119
+        width: 81
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6fe576bf7a73670800000000000000
+      internalID: 8518461918407489263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_123
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 119
+        width: 81
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f806e168a288b2240800000000000000
+      internalID: 4768054346721943695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_124
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 119
+        width: 82
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328c9d2d6cedb7c30800000000000000
+      internalID: 4358322009933465635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_125
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 119
+        width: 82
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a42afec1c41eeb80800000000000000
+      internalID: -8363724635346688864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_126
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 119
+        width: 82
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22264c242531b1af0800000000000000
+      internalID: -424724495827967454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_127
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 11
+        width: 82
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7368af9818e6db0800000000000000
+      internalID: -4796754123489396802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_128
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 11
+        width: 82
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d6402b734d4fa20800000000000000
+      internalID: 3095332179585297745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_129
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 6
+        width: 6
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9dbb77d0f0959910800000000000000
+      internalID: 1843538986559847837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_130
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 9
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990689155d7f72760800000000000000
+      internalID: 7433182205567328409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_131
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 50
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53b89c74058cf0f0800000000000000
+      internalID: -1081843556159016097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_132
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 48
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5cb6b74794eabba0800000000000000
+      internalID: -6072289809161339811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_133
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 48
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412423274e800c9d0800000000000000
+      internalID: -2756193194689281516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_134
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 50
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de2d4ba33f0018b0800000000000000
+      internalID: -5183626456511729961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_135
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 50
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063a621b1bb866dc0800000000000000
+      internalID: -3646073253012266144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_136
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 50
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f327764bfb37ea560800000000000000
+      internalID: 7326920910981001791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_137
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 48
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b15b94c90e7df40800000000000000
+      internalID: 5753314010845223703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_138
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 50
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2543f50c04c06ab0800000000000000
+      internalID: -5016794428972251858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_139
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 50
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f338239ae4ec0e760800000000000000
+      internalID: 7485209417931195199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_140
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 50
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5bbd0928725ba6d0800000000000000
+      internalID: -2978196052537132193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_141
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 50
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82e7a11764ab47e0800000000000000
+      internalID: -1780148465110097266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_142
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 50
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bd0fc6ddb1665c0800000000000000
+      internalID: -4222656962783814894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_143
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 31
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7881f895d22a76830800000000000000
+      internalID: 4064395504384940167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_144
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 31
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e7f17121714ce10800000000000000
+      internalID: 2216922283037916735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_145
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 31
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289edeebd8e8d2d40800000000000000
+      internalID: 5561257854317226370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_146
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 31
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25531f0d4e3008b90800000000000000
+      internalID: -7241783919518861998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_147
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 31
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf8db373cdea4050800000000000000
+      internalID: 5785698095027031982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_148
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 31
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb79d6d3627cd1630800000000000000
+      internalID: 3899491819425994686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_149
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 31
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22983ba7a7e323080800000000000000
+      internalID: -9209229592253724382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_150
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 31
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9732540432c16450800000000000000
+      internalID: 6080354500593465244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_151
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 31
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8a537df8e236540800000000000000
+      internalID: 4999891206637201652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_152
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 31
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685a33d05b9184180800000000000000
+      internalID: -9131019979092417146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_153
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 31
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97574b88afcd6c980800000000000000
+      internalID: -8518878676531251847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_154
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 31
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b4f82dbd68fd050800000000000000
+      internalID: 5827524721529277222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_155
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 31
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44926e4320337fa0800000000000000
+      internalID: -5804242566553365430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_156
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 29
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a72a972ae4e807f0800000000000000
+      internalID: -646014852189771872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_157
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 12
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d30121574a282f70800000000000000
+      internalID: 9162619927677436883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_158
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 12
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a7ae79d00d02420800000000000000
+      internalID: 2603309341422025315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_159
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 12
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c72cd110e9c3440800000000000000
+      internalID: 4916978620813179960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_160
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 12
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c49911bd7eaf130800000000000000
+      internalID: 3601445780115246169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_161
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 12
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09248324da9335380800000000000000
+      internalID: -8983773415370898800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_162
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 12
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9742b9f2e83bd50800000000000000
+      internalID: 6751896601475971581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_163
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 12
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc64a9d563c8632b0800000000000000
+      internalID: -5605138521089489204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_164
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 12
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6c087d4075bf6c0800000000000000
+      internalID: -4108594556738418974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_165
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 12
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c91a37d0f3dd2c70800000000000000
+      internalID: 8948041066011564481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_166
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 12
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afc1a6dba0b5f3e0800000000000000
+      internalID: -2020514605718974551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_167
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 10
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2beeeb1097b3c6780800000000000000
+      internalID: -8688504190198157646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_168
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 12
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cee52d2c614fd7b0800000000000000
+      internalID: -5197363512092528952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_169
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 12
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e437af22357f1c3a0800000000000000
+      internalID: -6646759638580956338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_170
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 12
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d48b5e01666d79c0800000000000000
+      internalID: -3927870732958464808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialga_171
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 12
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842bb1853466a5b00800000000000000
+      internalID: 818078721748218440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 975e23e3234263245a7cb3bd71738432, type: 3}
+  m_Name: Agility
+  m_EditorClassIdentifier: 
+  moveName: Agility
+  description: The user relaxes and lightens its body to move faster. This sharply
+    raises the Speed stat.
+  type: 11
+  power: 0
+  accuracy: 0
+  alwaysHits: 1
+  pp: 30
+  priority: 0
+  category: 2
+  target: 1
+  effects:
+    boosts:
+    - stat: 4
+      boost: 2
+    status: 0
+    volatileStatus: 0
+  secondaryMoveEffects: []

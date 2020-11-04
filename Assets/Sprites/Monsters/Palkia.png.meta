@@ -1,0 +1,3728 @@
+fileFormatVersion: 2
+guid: b132644fff6361a41a7cae813e674217
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3014338691534974562
+    second: Palkia_0
+  - first:
+      213: -6779173311989153377
+    second: Palkia_1
+  - first:
+      213: 2164249268141378028
+    second: Palkia_2
+  - first:
+      213: -1776016253428610190
+    second: Palkia_3
+  - first:
+      213: -1130627928980404448
+    second: Palkia_4
+  - first:
+      213: -5608690975519027014
+    second: Palkia_5
+  - first:
+      213: 388388978983462107
+    second: Palkia_6
+  - first:
+      213: 7349658439247321860
+    second: Palkia_7
+  - first:
+      213: 9100958969019122649
+    second: Palkia_8
+  - first:
+      213: -7388850865211984624
+    second: Palkia_9
+  - first:
+      213: 589295555003526761
+    second: Palkia_10
+  - first:
+      213: 1064254624813998444
+    second: Palkia_11
+  - first:
+      213: -2168205509816300598
+    second: Palkia_12
+  - first:
+      213: 2195798295635498652
+    second: Palkia_13
+  - first:
+      213: -2662193762321378203
+    second: Palkia_14
+  - first:
+      213: 1036473927949544210
+    second: Palkia_15
+  - first:
+      213: -9048555973013649661
+    second: Palkia_16
+  - first:
+      213: 3921889584859017123
+    second: Palkia_17
+  - first:
+      213: -4319673129745522517
+    second: Palkia_18
+  - first:
+      213: 7244186243840852448
+    second: Palkia_19
+  - first:
+      213: -4422795739149433293
+    second: Palkia_20
+  - first:
+      213: -1605982775438178934
+    second: Palkia_21
+  - first:
+      213: 2510600166185882112
+    second: Palkia_22
+  - first:
+      213: -2190466859883011017
+    second: Palkia_23
+  - first:
+      213: 8212384687146462460
+    second: Palkia_24
+  - first:
+      213: 2562152446514424890
+    second: Palkia_25
+  - first:
+      213: -7513737119990467407
+    second: Palkia_26
+  - first:
+      213: 978613718463133207
+    second: Palkia_27
+  - first:
+      213: 5612784145351573366
+    second: Palkia_28
+  - first:
+      213: 3853030205637185743
+    second: Palkia_29
+  - first:
+      213: 4175133004571791049
+    second: Palkia_30
+  - first:
+      213: 3644536692385219594
+    second: Palkia_31
+  - first:
+      213: 5888242564119145880
+    second: Palkia_32
+  - first:
+      213: -1897164332651763874
+    second: Palkia_33
+  - first:
+      213: -4764107167637880409
+    second: Palkia_34
+  - first:
+      213: 7094984874270097709
+    second: Palkia_35
+  - first:
+      213: -7147438557492146673
+    second: Palkia_36
+  - first:
+      213: -4648397068003365357
+    second: Palkia_37
+  - first:
+      213: -3045444679797744730
+    second: Palkia_38
+  - first:
+      213: 6607858514871278849
+    second: Palkia_39
+  - first:
+      213: -7990143919326527899
+    second: Palkia_40
+  - first:
+      213: -5179283855526209749
+    second: Palkia_41
+  - first:
+      213: 3887722018340170524
+    second: Palkia_42
+  - first:
+      213: 4764490156617659031
+    second: Palkia_43
+  - first:
+      213: 1961947770452006077
+    second: Palkia_44
+  - first:
+      213: -7327244102102227113
+    second: Palkia_45
+  - first:
+      213: 4145165344648672736
+    second: Palkia_46
+  - first:
+      213: 240761751456076884
+    second: Palkia_47
+  - first:
+      213: -4361618164538815903
+    second: Palkia_48
+  - first:
+      213: -4130271289011011383
+    second: Palkia_49
+  - first:
+      213: -7886097139017336827
+    second: Palkia_50
+  - first:
+      213: -2505096790320256125
+    second: Palkia_51
+  - first:
+      213: -8400962009850037023
+    second: Palkia_52
+  - first:
+      213: -2521563791716522678
+    second: Palkia_53
+  - first:
+      213: -418531082671181646
+    second: Palkia_54
+  - first:
+      213: 1927008685746885805
+    second: Palkia_55
+  - first:
+      213: 4969192771684177272
+    second: Palkia_56
+  - first:
+      213: 7982951434834263803
+    second: Palkia_57
+  - first:
+      213: -4498061226380590408
+    second: Palkia_58
+  - first:
+      213: -8826306984122689058
+    second: Palkia_59
+  - first:
+      213: -7200098618701128267
+    second: Palkia_60
+  - first:
+      213: 4915777221799178394
+    second: Palkia_61
+  - first:
+      213: -3824449977264279367
+    second: Palkia_62
+  - first:
+      213: -2940087733132199575
+    second: Palkia_63
+  - first:
+      213: 2877919190224138850
+    second: Palkia_64
+  - first:
+      213: -1897959552007583122
+    second: Palkia_65
+  - first:
+      213: 6006178815224182236
+    second: Palkia_66
+  - first:
+      213: -5742525717280120785
+    second: Palkia_67
+  - first:
+      213: -5862214764576862709
+    second: Palkia_68
+  - first:
+      213: -432608521611152331
+    second: Palkia_69
+  - first:
+      213: 5623932321413982726
+    second: Palkia_70
+  - first:
+      213: 4858343777914409239
+    second: Palkia_71
+  - first:
+      213: -6382401623456228402
+    second: Palkia_72
+  - first:
+      213: 1761221649251192345
+    second: Palkia_73
+  - first:
+      213: -1342699758680006704
+    second: Palkia_74
+  - first:
+      213: 2913685754508325351
+    second: Palkia_75
+  - first:
+      213: -4545480130812035487
+    second: Palkia_76
+  - first:
+      213: 486636697169083969
+    second: Palkia_77
+  - first:
+      213: -2574085958572599390
+    second: Palkia_78
+  - first:
+      213: -2948750899925553908
+    second: Palkia_79
+  - first:
+      213: -4562171592365535595
+    second: Palkia_80
+  - first:
+      213: -7680909582104136970
+    second: Palkia_81
+  - first:
+      213: 538526739630744731
+    second: Palkia_82
+  - first:
+      213: 335531656897772552
+    second: Palkia_83
+  - first:
+      213: 5453124536803175994
+    second: Palkia_84
+  - first:
+      213: 6930977314762804969
+    second: Palkia_85
+  - first:
+      213: 4598684012189097703
+    second: Palkia_86
+  - first:
+      213: 2719267622432332110
+    second: Palkia_87
+  - first:
+      213: -4578016266970976741
+    second: Palkia_88
+  - first:
+      213: 6362750083898368887
+    second: Palkia_89
+  - first:
+      213: -6996048490707910274
+    second: Palkia_90
+  - first:
+      213: 7068033930624394495
+    second: Palkia_91
+  - first:
+      213: -2726271108883448159
+    second: Palkia_92
+  - first:
+      213: 4799339525481813294
+    second: Palkia_93
+  - first:
+      213: 6482011302251622279
+    second: Palkia_94
+  - first:
+      213: 3096307780082151163
+    second: Palkia_95
+  - first:
+      213: 8841557678062344951
+    second: Palkia_96
+  - first:
+      213: -31071947408934013
+    second: Palkia_97
+  - first:
+      213: 6112647353750996215
+    second: Palkia_98
+  - first:
+      213: 2937142862884795386
+    second: Palkia_99
+  - first:
+      213: 8601296729283230150
+    second: Palkia_100
+  - first:
+      213: -2445828703546283304
+    second: Palkia_101
+  - first:
+      213: -3241729605496355515
+    second: Palkia_102
+  - first:
+      213: -7306800641861635434
+    second: Palkia_103
+  - first:
+      213: 6647762903896152456
+    second: Palkia_104
+  - first:
+      213: -4668866206880726600
+    second: Palkia_105
+  - first:
+      213: -9128341801262126501
+    second: Palkia_106
+  - first:
+      213: 1397583858914347214
+    second: Palkia_107
+  - first:
+      213: 3429609760218245369
+    second: Palkia_108
+  - first:
+      213: -6821123830471624019
+    second: Palkia_109
+  - first:
+      213: 7018375843310950461
+    second: Palkia_110
+  - first:
+      213: 8057509989120298147
+    second: Palkia_111
+  - first:
+      213: 4073916124286628203
+    second: Palkia_112
+  - first:
+      213: 8117771100220259842
+    second: Palkia_113
+  - first:
+      213: 3014176883757666994
+    second: Palkia_114
+  - first:
+      213: -8738388002161090945
+    second: Palkia_115
+  - first:
+      213: -2852210964825727533
+    second: Palkia_116
+  - first:
+      213: 2766889742714925578
+    second: Palkia_117
+  - first:
+      213: 3705843537333446548
+    second: Palkia_118
+  - first:
+      213: -4499370299071971590
+    second: Palkia_119
+  - first:
+      213: 8450406116345147778
+    second: Palkia_120
+  - first:
+      213: 563745099679905595
+    second: Palkia_121
+  - first:
+      213: -2650874038880854142
+    second: Palkia_122
+  - first:
+      213: 8785691801979154313
+    second: Palkia_123
+  - first:
+      213: -2619298484482340330
+    second: Palkia_124
+  - first:
+      213: -7873209961346461653
+    second: Palkia_125
+  - first:
+      213: 2792351535685093351
+    second: Palkia_126
+  - first:
+      213: 3446755961642883157
+    second: Palkia_127
+  - first:
+      213: 4742450264426817518
+    second: Palkia_128
+  - first:
+      213: -8772732521917925595
+    second: Palkia_129
+  - first:
+      213: 1891267552170203653
+    second: Palkia_130
+  - first:
+      213: -8961920001375759469
+    second: Palkia_131
+  - first:
+      213: 6849250365625765875
+    second: Palkia_132
+  - first:
+      213: 6678289461640877166
+    second: Palkia_133
+  - first:
+      213: 8368316200327446428
+    second: Palkia_134
+  - first:
+      213: -4370988160219871522
+    second: Palkia_135
+  - first:
+      213: 1874884214247859300
+    second: Palkia_136
+  - first:
+      213: 8957892338270211563
+    second: Palkia_137
+  - first:
+      213: 1293438973871432637
+    second: Palkia_138
+  - first:
+      213: -881302679582845518
+    second: Palkia_139
+  - first:
+      213: 5674953190102869760
+    second: Palkia_140
+  - first:
+      213: 2682558398878731830
+    second: Palkia_141
+  - first:
+      213: -2402754165042356491
+    second: Palkia_142
+  - first:
+      213: 1687025843504070307
+    second: Palkia_143
+  - first:
+      213: 6860362043444412154
+    second: Palkia_144
+  - first:
+      213: -3847362230835202172
+    second: Palkia_145
+  - first:
+      213: -5563582323698641811
+    second: Palkia_146
+  - first:
+      213: 101974984185974495
+    second: Palkia_147
+  - first:
+      213: 7746886137327764337
+    second: Palkia_148
+  - first:
+      213: 8424493550933877587
+    second: Palkia_149
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Palkia_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 656
+        width: 92
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9197524eeaea26d0800000000000000
+      internalID: -3014338691534974562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_1
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 656
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9104145ac98be1a0800000000000000
+      internalID: -6779173311989153377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_2
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 656
+        width: 79
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce947f02e35f80e10800000000000000
+      internalID: 2164249268141378028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_3
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 656
+        width: 79
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b411390a25a57e0800000000000000
+      internalID: -1776016253428610190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_4
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 656
+        width: 80
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027ccff83e33f40f0800000000000000
+      internalID: -1130627928980404448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_5
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 656
+        width: 81
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0df3d164de922b0800000000000000
+      internalID: -5608690975519027014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_6
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 656
+        width: 80
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd46cf6f7b5d36500800000000000000
+      internalID: 388388978983462107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_7
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 656
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40bd9cb096b3ff560800000000000000
+      internalID: 7349658439247321860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_8
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 564
+        width: 78
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d34acf96f91d4e70800000000000000
+      internalID: 9100958969019122649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_9
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 564
+        width: 78
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015b3b03947857990800000000000000
+      internalID: -7388850865211984624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_10
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 472
+        width: 104
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ea3bf5f299d2800800000000000000
+      internalID: 589295555003526761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_11
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 564
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61ea9e41fdf4ce00800000000000000
+      internalID: 1064254624813998444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_12
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 564
+        width: 79
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbca53939cf8e1e0800000000000000
+      internalID: -2168205509816300598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_13
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 564
+        width: 78
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9613c18aea097e10800000000000000
+      internalID: 2195798295635498652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_14
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 564
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564d299c0ecfd0bd0800000000000000
+      internalID: -2662193762321378203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_15
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 564
+        width: 82
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21be266cb8b426e00800000000000000
+      internalID: 1036473927949544210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_16
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 564
+        width: 86
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307484aa8421d6280800000000000000
+      internalID: -9048555973013649661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_17
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 472
+        width: 86
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af63d16cc95d6630800000000000000
+      internalID: 3921889584859017123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 472
+        width: 86
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0e7b3dc207d04c0800000000000000
+      internalID: -4319673129745522517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_19
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 472
+        width: 86
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1c7e6e105888460800000000000000
+      internalID: 7244186243840852448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_20
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 472
+        width: 86
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33603ed45b21f92c0800000000000000
+      internalID: -4422795739149433293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_21
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 472
+        width: 86
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a858c92bc2766b9e0800000000000000
+      internalID: -1605982775438178934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_22
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 472
+        width: 82
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002db86ac8177d220800000000000000
+      internalID: 2510600166185882112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_23
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 472
+        width: 80
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734686c1ff5e991e0800000000000000
+      internalID: -2190466859883011017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_24
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 380
+        width: 78
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfce834ac5048f170800000000000000
+      internalID: 8212384687146462460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_25
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 380
+        width: 79
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ce3e243189e8320800000000000000
+      internalID: 2562152446514424890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_26
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 380
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b43d4b16e7d9b790800000000000000
+      internalID: -7513737119990467407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_27
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 375
+        width: 94
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716b155fdfbb49d00800000000000000
+      internalID: 978613718463133207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_28
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 380
+        width: 78
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67fff90417d94ed40800000000000000
+      internalID: 5612784145351573366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_29
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 375
+        width: 36
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0dadbce86b87530800000000000000
+      internalID: 3853030205637185743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_30
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 429
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cec28bc85d01f930800000000000000
+      internalID: 4175133004571791049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_31
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 429
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a048f78efcef39230800000000000000
+      internalID: 3644536692385219594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_32
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 427
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d28a13a6d37b150800000000000000
+      internalID: 5888242564119145880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_33
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 429
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5720cf471beba5e0800000000000000
+      internalID: -1897164332651763874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_34
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 429
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a14d09b5cd72edb0800000000000000
+      internalID: -4764107167637880409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_35
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 429
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2183adf623767260800000000000000
+      internalID: 7094984874270097709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_36
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 429
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e00ce20823fcc90800000000000000
+      internalID: -7147438557492146673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_37
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 413
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e21b2be739d7fb0800000000000000
+      internalID: -4648397068003365357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_38
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 413
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab5d8df2386cb5d0800000000000000
+      internalID: -3045444679797744730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_39
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 413
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d51f03f44d3bb50800000000000000
+      internalID: 6607858514871278849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_40
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 413
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e7b40607e4d1190800000000000000
+      internalID: -7990143919326527899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_41
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 413
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27d17046cc7f18b0800000000000000
+      internalID: -5179283855526209749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_42
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 413
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b61a0e396f3f530800000000000000
+      internalID: 3887722018340170524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_43
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 413
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7927a09dd8ede1240800000000000000
+      internalID: 4764490156617659031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_44
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 413
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db459a53a1d3a3b10800000000000000
+      internalID: 1961947770452006077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_45
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 413
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757ee9f7f46605a90800000000000000
+      internalID: -7327244102102227113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_46
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 413
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e53b0f3be5968930800000000000000
+      internalID: 4145165344648672736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_47
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 400
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4545a0f898b575300800000000000000
+      internalID: 240761751456076884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_48
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 400
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ac5c0636b6873c0800000000000000
+      internalID: -4361618164538815903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_49
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 400
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0018055245ea6c0800000000000000
+      internalID: -4130271289011011383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_50
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 398
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508b5a43f64fe8290800000000000000
+      internalID: -7886097139017336827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_51
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 400
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b6df4edbb1c3dd0800000000000000
+      internalID: -2505096790320256125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_52
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 400
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec365fef89c96b80800000000000000
+      internalID: -8400962009850037023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_53
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 400
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45ef3c571b910dd0800000000000000
+      internalID: -2521563791716522678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_54
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 400
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0bce1a234113af0800000000000000
+      internalID: -418531082671181646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_55
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 400
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da41901a03c1eba10800000000000000
+      internalID: 1927008685746885805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_56
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 400
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8759ca87f7e16f440800000000000000
+      internalID: 4969192771684177272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_57
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 400
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfebd74d80429ce60800000000000000
+      internalID: 7982951434834263803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_58
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 400
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b280a7752da391c0800000000000000
+      internalID: -4498061226380590408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_59
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 400
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed951dccf88a28580800000000000000
+      internalID: -8826306984122689058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_60
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 400
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bdd98c347c141c90800000000000000
+      internalID: -7200098618701128267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_61
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 400
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90fb4c9659583440800000000000000
+      internalID: 4915777221799178394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_62
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 377
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b079eb2203dceac0800000000000000
+      internalID: -3824449977264279367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_63
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 377
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969fb22b8c5b237d0800000000000000
+      internalID: -2940087733132199575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_64
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 382
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262f691714c60f720800000000000000
+      internalID: 2877919190224138850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_65
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 384
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a4780e7d719a5e0800000000000000
+      internalID: -1897959552007583122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_66
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 382
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5f9e27fcb3a5350800000000000000
+      internalID: 6006178815224182236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_67
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 384
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2029fb09437e40b0800000000000000
+      internalID: -5742525717280120785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_68
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 384
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e88502bba35aea0800000000000000
+      internalID: -5862214764576862709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_69
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 384
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5347f8677d01ff9f0800000000000000
+      internalID: -432608521611152331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_70
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 384
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ae7b246a83c0e40800000000000000
+      internalID: 5623932321413982726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_71
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 384
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7115157eced4c6340800000000000000
+      internalID: 4858343777914409239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_72
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 384
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbd304f9872d67a0800000000000000
+      internalID: -6382401623456228402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_73
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 384
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e485632cd117810800000000000000
+      internalID: 1761221649251192345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_74
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 384
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df10e3fea5cd5de0800000000000000
+      internalID: -1342699758680006704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_75
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 384
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1b590a1cd7f6820800000000000000
+      internalID: 2913685754508325351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_76
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 384
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e3a5d67e53be0c0800000000000000
+      internalID: -4545480130812035487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_77
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 384
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ebe6d6f71e0c600800000000000000
+      internalID: 486636697169083969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 369
+        width: 912
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a795f17572074cd0800000000000000
+      internalID: -2574085958572599390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_79
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 377
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0de2defdaee317d0800000000000000
+      internalID: -2948750899925553908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_80
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 286
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e8ca0bb19efa0c0800000000000000
+      internalID: -4562171592365535595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_81
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 286
+        width: 78
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2f9c62e6de76590800000000000000
+      internalID: -7680909582104136970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_82
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 286
+        width: 79
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b946db9673b397700800000000000000
+      internalID: 538526739630744731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_83
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 286
+        width: 80
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c3a44a34c08a400800000000000000
+      internalID: 335531656897772552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_84
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 286
+        width: 81
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3eae14dfd36dab40800000000000000
+      internalID: 5453124536803175994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_85
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 286
+        width: 80
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee4ab85527cf2060800000000000000
+      internalID: 6930977314762804969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_86
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 286
+        width: 80
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee9cc48ebec1df30800000000000000
+      internalID: 4598684012189097703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_87
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 286
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49dc4cce77ccb520800000000000000
+      internalID: 2719267622432332110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_88
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 194
+        width: 77
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e2c37e57e9770c0800000000000000
+      internalID: -4578016266970976741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_89
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 194
+        width: 77
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77369517d770d4850800000000000000
+      internalID: 6362750083898368887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_90
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 102
+        width: 110
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7182ffd6fa09ee90800000000000000
+      internalID: -6996048490707910274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_91
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 194
+        width: 77
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4664f6963b61260800000000000000
+      internalID: 7068033930624394495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_92
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 194
+        width: 79
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae7791fed65a2ad0800000000000000
+      internalID: -2726271108883448159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_93
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 194
+        width: 79
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25d5d4deddaa9240800000000000000
+      internalID: 4799339525481813294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_94
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 194
+        width: 83
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f66ccafeab4f950800000000000000
+      internalID: 6482011302251622279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_95
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 194
+        width: 85
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe2313658b48fa20800000000000000
+      internalID: 3096307780082151163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_96
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 194
+        width: 89
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa98061dd583ba70800000000000000
+      internalID: 8841557678062344951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_97
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 102
+        width: 89
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38bf53c7a3c919ff0800000000000000
+      internalID: -31071947408934013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_98
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 102
+        width: 89
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f44f8dc16c74d450800000000000000
+      internalID: 6112647353750996215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_99
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 102
+        width: 89
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af372d44fd3d2c820800000000000000
+      internalID: 2937142862884795386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_100
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 102
+        width: 89
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9f7acbdc1fd5770800000000000000
+      internalID: 8601296729283230150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_101
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 102
+        width: 89
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da6bafa0cbae0ed0800000000000000
+      internalID: -2445828703546283304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_102
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 102
+        width: 85
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545c58669101303d0800000000000000
+      internalID: -3241729605496355515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_103
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 102
+        width: 83
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692bd318787099a90800000000000000
+      internalID: -7306800641861635434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_104
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 10
+        width: 79
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889dfb5c329914c50800000000000000
+      internalID: 6647762903896152456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_105
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 10
+        width: 79
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b18c0bebead43fb0800000000000000
+      internalID: -4668866206880726600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_106
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 10
+        width: 77
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5aeb6bee7d915180800000000000000
+      internalID: -9128341801262126501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_107
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 10
+        width: 77
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8c86e6d17356310800000000000000
+      internalID: 1397583858914347214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_108
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 6
+        width: 89
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f86504f7eb689f20800000000000000
+      internalID: 3429609760218245369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_109
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 47
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa79cb14008651a0800000000000000
+      internalID: -6821123830471624019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_110
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 45
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d385bb005a7466160800000000000000
+      internalID: 7018375843310950461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_111
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 45
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac4da305a602df60800000000000000
+      internalID: 8057509989120298147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_112
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 47
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6137d86125798830800000000000000
+      internalID: 4073916124286628203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_113
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 47
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e7f8c4ecd18a070800000000000000
+      internalID: 8117771100220259842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_114
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 47
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2d19ee7e184d920800000000000000
+      internalID: 3014176883757666994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_115
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 45
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e17a5f8620bb680800000000000000
+      internalID: -8738388002161090945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_116
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 47
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd96193d39ea68d0800000000000000
+      internalID: -2852210964825727533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_117
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 47
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02f137bf87f56620800000000000000
+      internalID: 2766889742714925578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_118
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 47
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497efe3101dcd6330800000000000000
+      internalID: 3705843537333446548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_119
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 47
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe3fda3d860f81c0800000000000000
+      internalID: -4499370299071971590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_120
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 47
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2817a84379fd54570800000000000000
+      internalID: 8450406116345147778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_121
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 28
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37b94a6e23d2d700800000000000000
+      internalID: 563745099679905595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_122
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f93384b14363bd0800000000000000
+      internalID: -2650874038880854142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_123
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f6703352c0de970800000000000000
+      internalID: 8785691801979154313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_124
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 28
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a06bfe7e166abd0800000000000000
+      internalID: -2619298484482340330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_125
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2090e3114dbcb290800000000000000
+      internalID: -7873209961346461653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_126
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7c68c5dec60c620800000000000000
+      internalID: 2792351535685093351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_127
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 28
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5581f21194655df20800000000000000
+      internalID: 3446755961642883157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_128
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 28
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee72e10936190d140800000000000000
+      internalID: 4742450264426817518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_129
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 28
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527b091504ef04680800000000000000
+      internalID: -8772732521917925595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_130
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ad35e71d12f3a10800000000000000
+      internalID: 1891267552170203653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_131
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3939784bd3dd0a380800000000000000
+      internalID: -8961920001375759469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_132
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff86dc2bec6d0f50800000000000000
+      internalID: 6849250365625765875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_133
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 28
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64d65cd1ec0eac50800000000000000
+      internalID: 6678289461640877166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_134
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 26
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ff9a83f3b322470800000000000000
+      internalID: 8368316200327446428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_135
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 9
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed608a04d612753c0800000000000000
+      internalID: -4370988160219871522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_136
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 9
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4642b31624de40a10800000000000000
+      internalID: 1874884214247859300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_137
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 9
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed0ac6ee93d05c70800000000000000
+      internalID: 8957892338270211563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_138
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 9
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3a040d4e733f110800000000000000
+      internalID: 1293438973871432637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_139
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 9
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b55ddbd1ebf4c3f0800000000000000
+      internalID: -881302679582845518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_140
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 9
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0072d05fbdb71ce40800000000000000
+      internalID: 5674953190102869760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_141
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 9
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e4866a6ac5a3520800000000000000
+      internalID: 2682558398878731830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_142
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 9
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe5f0631d3b7aed0800000000000000
+      internalID: -2402754165042356491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_143
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 9
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aeb6f00115896710800000000000000
+      internalID: 1687025843504070307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_144
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 9
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afeb3164ee6e43f50800000000000000
+      internalID: 6860362043444412154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_145
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 7
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48730dc6f6c6b9ac0800000000000000
+      internalID: -3847362230835202172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_146
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 9
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64dc4d8a5f2ac2b0800000000000000
+      internalID: -5563582323698641811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_147
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 9
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde816435b94a6100800000000000000
+      internalID: 101974984185974495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_148
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 9
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173c1daa5e7728b60800000000000000
+      internalID: 7746886137327764337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Palkia_149
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 9
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353abfbef30d9e470800000000000000
+      internalID: 8424493550933877587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

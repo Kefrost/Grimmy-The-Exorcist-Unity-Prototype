@@ -1,0 +1,5696 @@
+fileFormatVersion: 2
+guid: 307d55fa186034a4694c6c1db675cf72
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4132329204310100046
+    second: Cofagrigus_0
+  - first:
+      213: -3647258680957916819
+    second: Cofagrigus_1
+  - first:
+      213: 2072120445763320470
+    second: Cofagrigus_2
+  - first:
+      213: -8821325814606889815
+    second: Cofagrigus_3
+  - first:
+      213: 1728730863382365405
+    second: Cofagrigus_4
+  - first:
+      213: 4327434993167228290
+    second: Cofagrigus_5
+  - first:
+      213: 2438450073206841374
+    second: Cofagrigus_6
+  - first:
+      213: -6340890387188941483
+    second: Cofagrigus_7
+  - first:
+      213: -8025861332569419437
+    second: Cofagrigus_8
+  - first:
+      213: 1128458298509583002
+    second: Cofagrigus_9
+  - first:
+      213: -5174421297592840998
+    second: Cofagrigus_10
+  - first:
+      213: -3186201177227736234
+    second: Cofagrigus_11
+  - first:
+      213: 680653270829772067
+    second: Cofagrigus_12
+  - first:
+      213: 5775972435859529876
+    second: Cofagrigus_13
+  - first:
+      213: -863679310924020976
+    second: Cofagrigus_14
+  - first:
+      213: -7815096080909897194
+    second: Cofagrigus_15
+  - first:
+      213: -7696068711882294057
+    second: Cofagrigus_16
+  - first:
+      213: -5244588635489600693
+    second: Cofagrigus_17
+  - first:
+      213: -9030216739833465036
+    second: Cofagrigus_18
+  - first:
+      213: -8237658779659402328
+    second: Cofagrigus_19
+  - first:
+      213: 803528319821962167
+    second: Cofagrigus_20
+  - first:
+      213: 8501644791024530196
+    second: Cofagrigus_21
+  - first:
+      213: 9192756236564244106
+    second: Cofagrigus_22
+  - first:
+      213: 4177053745505348706
+    second: Cofagrigus_23
+  - first:
+      213: -2030518120102019512
+    second: Cofagrigus_24
+  - first:
+      213: 3159824816546649903
+    second: Cofagrigus_25
+  - first:
+      213: -4811445031299184533
+    second: Cofagrigus_26
+  - first:
+      213: -2559704830551507694
+    second: Cofagrigus_27
+  - first:
+      213: 8269414555792215947
+    second: Cofagrigus_28
+  - first:
+      213: -8114115030679458392
+    second: Cofagrigus_29
+  - first:
+      213: -338200597475435921
+    second: Cofagrigus_30
+  - first:
+      213: -305815584767064682
+    second: Cofagrigus_31
+  - first:
+      213: 3662449470905012827
+    second: Cofagrigus_32
+  - first:
+      213: -9046453588557561896
+    second: Cofagrigus_33
+  - first:
+      213: -8133823001882039271
+    second: Cofagrigus_34
+  - first:
+      213: 6912584346578692231
+    second: Cofagrigus_35
+  - first:
+      213: -8406177225871069725
+    second: Cofagrigus_36
+  - first:
+      213: 1234646436639476014
+    second: Cofagrigus_37
+  - first:
+      213: -8589740171540348879
+    second: Cofagrigus_38
+  - first:
+      213: 6707627866349021698
+    second: Cofagrigus_39
+  - first:
+      213: 4794725532134899617
+    second: Cofagrigus_40
+  - first:
+      213: 2863447204902021678
+    second: Cofagrigus_41
+  - first:
+      213: 4713969133311883109
+    second: Cofagrigus_42
+  - first:
+      213: -7135468396442784937
+    second: Cofagrigus_43
+  - first:
+      213: -6852244131267532537
+    second: Cofagrigus_44
+  - first:
+      213: -1618732794213769124
+    second: Cofagrigus_45
+  - first:
+      213: 1220631010597027603
+    second: Cofagrigus_46
+  - first:
+      213: 711897584353102437
+    second: Cofagrigus_47
+  - first:
+      213: -3639956723406536046
+    second: Cofagrigus_48
+  - first:
+      213: -505002148800113686
+    second: Cofagrigus_49
+  - first:
+      213: -297364795623988350
+    second: Cofagrigus_50
+  - first:
+      213: 2887768578151063991
+    second: Cofagrigus_51
+  - first:
+      213: 8615894382695924818
+    second: Cofagrigus_52
+  - first:
+      213: 702807702362473694
+    second: Cofagrigus_53
+  - first:
+      213: -8935865711288197730
+    second: Cofagrigus_54
+  - first:
+      213: -1179770485346641572
+    second: Cofagrigus_55
+  - first:
+      213: 6370017726792146039
+    second: Cofagrigus_56
+  - first:
+      213: 8889937959036087422
+    second: Cofagrigus_57
+  - first:
+      213: -21181246383945352
+    second: Cofagrigus_58
+  - first:
+      213: -4749639947306766965
+    second: Cofagrigus_59
+  - first:
+      213: 1421750767867886319
+    second: Cofagrigus_60
+  - first:
+      213: 4105558697849860827
+    second: Cofagrigus_61
+  - first:
+      213: -7953549001805051141
+    second: Cofagrigus_62
+  - first:
+      213: 5532617014187228846
+    second: Cofagrigus_63
+  - first:
+      213: 7348427240457453426
+    second: Cofagrigus_64
+  - first:
+      213: 3654675020555400599
+    second: Cofagrigus_65
+  - first:
+      213: -8127270450211227323
+    second: Cofagrigus_66
+  - first:
+      213: -5669845011540614488
+    second: Cofagrigus_67
+  - first:
+      213: -7659304092435898866
+    second: Cofagrigus_68
+  - first:
+      213: 8772132545975718593
+    second: Cofagrigus_69
+  - first:
+      213: -6749846311373349199
+    second: Cofagrigus_70
+  - first:
+      213: 2575379808713685911
+    second: Cofagrigus_71
+  - first:
+      213: 8205640868132203287
+    second: Cofagrigus_72
+  - first:
+      213: -2392904987314060977
+    second: Cofagrigus_73
+  - first:
+      213: 5563210983245547104
+    second: Cofagrigus_74
+  - first:
+      213: -7816052563022259333
+    second: Cofagrigus_75
+  - first:
+      213: -2435479802536549614
+    second: Cofagrigus_76
+  - first:
+      213: -4041700349484731739
+    second: Cofagrigus_77
+  - first:
+      213: -1416324505533381825
+    second: Cofagrigus_78
+  - first:
+      213: -4707431733473632808
+    second: Cofagrigus_79
+  - first:
+      213: -4192982732241570822
+    second: Cofagrigus_80
+  - first:
+      213: 4129666624211571867
+    second: Cofagrigus_81
+  - first:
+      213: -3430553435909589921
+    second: Cofagrigus_82
+  - first:
+      213: 2678137839856795788
+    second: Cofagrigus_83
+  - first:
+      213: -6433462895216417417
+    second: Cofagrigus_84
+  - first:
+      213: -4179116162151506163
+    second: Cofagrigus_85
+  - first:
+      213: 5398546245764547925
+    second: Cofagrigus_86
+  - first:
+      213: -2890631759614945801
+    second: Cofagrigus_87
+  - first:
+      213: -4367593765805013835
+    second: Cofagrigus_88
+  - first:
+      213: 3161039316614067936
+    second: Cofagrigus_89
+  - first:
+      213: -5951576016679852915
+    second: Cofagrigus_90
+  - first:
+      213: -3616117137460749554
+    second: Cofagrigus_91
+  - first:
+      213: -7416946970506505849
+    second: Cofagrigus_92
+  - first:
+      213: -1283592168781791551
+    second: Cofagrigus_93
+  - first:
+      213: -4933012787478019491
+    second: Cofagrigus_94
+  - first:
+      213: 6233569336835323051
+    second: Cofagrigus_95
+  - first:
+      213: 3548108460085349953
+    second: Cofagrigus_96
+  - first:
+      213: 3076277127012970093
+    second: Cofagrigus_97
+  - first:
+      213: 7519700487850200382
+    second: Cofagrigus_98
+  - first:
+      213: -9035735569105307232
+    second: Cofagrigus_99
+  - first:
+      213: 5316195061892701281
+    second: Cofagrigus_100
+  - first:
+      213: 714508860379781307
+    second: Cofagrigus_101
+  - first:
+      213: 4977644449677178587
+    second: Cofagrigus_102
+  - first:
+      213: -5325089291423321914
+    second: Cofagrigus_103
+  - first:
+      213: 7890995247357818134
+    second: Cofagrigus_104
+  - first:
+      213: -2454633377705401661
+    second: Cofagrigus_105
+  - first:
+      213: -5662831679727590954
+    second: Cofagrigus_106
+  - first:
+      213: -1479202213578769575
+    second: Cofagrigus_107
+  - first:
+      213: 7412073691125685296
+    second: Cofagrigus_108
+  - first:
+      213: -2273302616843700975
+    second: Cofagrigus_109
+  - first:
+      213: -5141698632053168873
+    second: Cofagrigus_110
+  - first:
+      213: -6534522718019411793
+    second: Cofagrigus_111
+  - first:
+      213: -2637136503296831199
+    second: Cofagrigus_112
+  - first:
+      213: 9134247804022095239
+    second: Cofagrigus_113
+  - first:
+      213: -149468544982971302
+    second: Cofagrigus_114
+  - first:
+      213: 1790836926542377253
+    second: Cofagrigus_115
+  - first:
+      213: 8647527304642789970
+    second: Cofagrigus_116
+  - first:
+      213: 1652454144021628213
+    second: Cofagrigus_117
+  - first:
+      213: -4484667736496332062
+    second: Cofagrigus_118
+  - first:
+      213: 7928315602994946530
+    second: Cofagrigus_119
+  - first:
+      213: -7850816910360193682
+    second: Cofagrigus_120
+  - first:
+      213: -5748549759532578457
+    second: Cofagrigus_121
+  - first:
+      213: 5791450736487970087
+    second: Cofagrigus_122
+  - first:
+      213: 7265874145594095679
+    second: Cofagrigus_123
+  - first:
+      213: -1336920674189622262
+    second: Cofagrigus_124
+  - first:
+      213: 5853982082075981428
+    second: Cofagrigus_125
+  - first:
+      213: 1513718865760262554
+    second: Cofagrigus_126
+  - first:
+      213: -238079027560965135
+    second: Cofagrigus_127
+  - first:
+      213: -3557338493669955913
+    second: Cofagrigus_128
+  - first:
+      213: 64503406296115155
+    second: Cofagrigus_129
+  - first:
+      213: 8619329902862993765
+    second: Cofagrigus_130
+  - first:
+      213: 6676184346941767711
+    second: Cofagrigus_131
+  - first:
+      213: -5775458863201980082
+    second: Cofagrigus_132
+  - first:
+      213: -4159526912277956577
+    second: Cofagrigus_133
+  - first:
+      213: -8563953139080552057
+    second: Cofagrigus_134
+  - first:
+      213: -5956443359760393277
+    second: Cofagrigus_135
+  - first:
+      213: 7688901490359965003
+    second: Cofagrigus_136
+  - first:
+      213: 3034297034391826931
+    second: Cofagrigus_137
+  - first:
+      213: 522677859870508552
+    second: Cofagrigus_138
+  - first:
+      213: -175914072248559020
+    second: Cofagrigus_139
+  - first:
+      213: 2786719419376101251
+    second: Cofagrigus_140
+  - first:
+      213: -8242894460908622633
+    second: Cofagrigus_141
+  - first:
+      213: 137739834144088937
+    second: Cofagrigus_142
+  - first:
+      213: -8876166861595719239
+    second: Cofagrigus_143
+  - first:
+      213: -230015117587147143
+    second: Cofagrigus_144
+  - first:
+      213: -466705677688394571
+    second: Cofagrigus_145
+  - first:
+      213: -7673825616702908367
+    second: Cofagrigus_146
+  - first:
+      213: 834720137466377516
+    second: Cofagrigus_147
+  - first:
+      213: -2442037299344303718
+    second: Cofagrigus_148
+  - first:
+      213: 39996930288409154
+    second: Cofagrigus_149
+  - first:
+      213: 8588390651349363022
+    second: Cofagrigus_150
+  - first:
+      213: 4200970834202053238
+    second: Cofagrigus_151
+  - first:
+      213: -5742605610345397564
+    second: Cofagrigus_152
+  - first:
+      213: 4804103432558525885
+    second: Cofagrigus_153
+  - first:
+      213: -4090037277740457011
+    second: Cofagrigus_154
+  - first:
+      213: -2180789489728042199
+    second: Cofagrigus_155
+  - first:
+      213: -5943012321962328829
+    second: Cofagrigus_156
+  - first:
+      213: 3976662199838456844
+    second: Cofagrigus_157
+  - first:
+      213: 5203101825044528163
+    second: Cofagrigus_158
+  - first:
+      213: -8500388750091166549
+    second: Cofagrigus_159
+  - first:
+      213: -2985752227877887551
+    second: Cofagrigus_160
+  - first:
+      213: 686322688525879863
+    second: Cofagrigus_161
+  - first:
+      213: -5193616123867065698
+    second: Cofagrigus_162
+  - first:
+      213: 5810154976280687664
+    second: Cofagrigus_163
+  - first:
+      213: -6398130360479662933
+    second: Cofagrigus_164
+  - first:
+      213: 5457758196545064083
+    second: Cofagrigus_165
+  - first:
+      213: -5376690236964013019
+    second: Cofagrigus_166
+  - first:
+      213: -3784379852050319331
+    second: Cofagrigus_167
+  - first:
+      213: -2378102053092229112
+    second: Cofagrigus_168
+  - first:
+      213: 1551399852274783969
+    second: Cofagrigus_169
+  - first:
+      213: 2082977530582941048
+    second: Cofagrigus_170
+  - first:
+      213: -977057990690062005
+    second: Cofagrigus_171
+  - first:
+      213: 3821255858237535898
+    second: Cofagrigus_172
+  - first:
+      213: 4489301284741168338
+    second: Cofagrigus_173
+  - first:
+      213: 3611465442006848676
+    second: Cofagrigus_174
+  - first:
+      213: 3325410498770167054
+    second: Cofagrigus_175
+  - first:
+      213: 2111785605251622905
+    second: Cofagrigus_176
+  - first:
+      213: 571775891381204515
+    second: Cofagrigus_177
+  - first:
+      213: 2725425478087843350
+    second: Cofagrigus_178
+  - first:
+      213: 3871593693986580528
+    second: Cofagrigus_179
+  - first:
+      213: 5984069473195145383
+    second: Cofagrigus_180
+  - first:
+      213: -7153627723351675395
+    second: Cofagrigus_181
+  - first:
+      213: -6880258840864837122
+    second: Cofagrigus_182
+  - first:
+      213: -3342903308172441496
+    second: Cofagrigus_183
+  - first:
+      213: 8317491346945223442
+    second: Cofagrigus_184
+  - first:
+      213: 1400859172158705233
+    second: Cofagrigus_185
+  - first:
+      213: 7853000066263352639
+    second: Cofagrigus_186
+  - first:
+      213: -1618675840140643383
+    second: Cofagrigus_187
+  - first:
+      213: -3886609265025288087
+    second: Cofagrigus_188
+  - first:
+      213: 843092314483601956
+    second: Cofagrigus_189
+  - first:
+      213: 631190450932926777
+    second: Cofagrigus_190
+  - first:
+      213: 3719806808757336418
+    second: Cofagrigus_191
+  - first:
+      213: 1434547085836081112
+    second: Cofagrigus_192
+  - first:
+      213: -8261124023884021517
+    second: Cofagrigus_193
+  - first:
+      213: 225418887451058570
+    second: Cofagrigus_194
+  - first:
+      213: 4919560240265664802
+    second: Cofagrigus_195
+  - first:
+      213: -7042175342043353922
+    second: Cofagrigus_196
+  - first:
+      213: -1383742759853738676
+    second: Cofagrigus_197
+  - first:
+      213: 8600819443933786362
+    second: Cofagrigus_198
+  - first:
+      213: 6810061399331460445
+    second: Cofagrigus_199
+  - first:
+      213: 2864237499075541054
+    second: Cofagrigus_200
+  - first:
+      213: -6392090974195463601
+    second: Cofagrigus_201
+  - first:
+      213: -8270845543594307024
+    second: Cofagrigus_202
+  - first:
+      213: 7683100950517267991
+    second: Cofagrigus_203
+  - first:
+      213: -1876094807302291713
+    second: Cofagrigus_204
+  - first:
+      213: -7311330103853347990
+    second: Cofagrigus_205
+  - first:
+      213: -3134845450408824277
+    second: Cofagrigus_206
+  - first:
+      213: -5445085829667729948
+    second: Cofagrigus_207
+  - first:
+      213: -9105886233579966619
+    second: Cofagrigus_208
+  - first:
+      213: 8652911100434676724
+    second: Cofagrigus_209
+  - first:
+      213: -974326194261416631
+    second: Cofagrigus_210
+  - first:
+      213: 3331763553602598287
+    second: Cofagrigus_211
+  - first:
+      213: 926630547640524754
+    second: Cofagrigus_212
+  - first:
+      213: 731488707419181319
+    second: Cofagrigus_213
+  - first:
+      213: -5562622711608468893
+    second: Cofagrigus_214
+  - first:
+      213: 3624446146369360085
+    second: Cofagrigus_215
+  - first:
+      213: 2144664695423336397
+    second: Cofagrigus_216
+  - first:
+      213: 615196050886822150
+    second: Cofagrigus_217
+  - first:
+      213: 5846035935183682876
+    second: Cofagrigus_218
+  - first:
+      213: -6101057745545786395
+    second: Cofagrigus_219
+  - first:
+      213: -1772300916717041446
+    second: Cofagrigus_220
+  - first:
+      213: -2813772814372313928
+    second: Cofagrigus_221
+  - first:
+      213: -6549909531933779627
+    second: Cofagrigus_222
+  - first:
+      213: -6636846912612212332
+    second: Cofagrigus_223
+  - first:
+      213: 8597779669310927173
+    second: Cofagrigus_224
+  - first:
+      213: -3918230779774503181
+    second: Cofagrigus_225
+  - first:
+      213: 8552642988832831559
+    second: Cofagrigus_226
+  - first:
+      213: -8855517523391947588
+    second: Cofagrigus_227
+  - first:
+      213: -4576907457557745156
+    second: Cofagrigus_228
+  - first:
+      213: 225535758873595074
+    second: Cofagrigus_229
+  - first:
+      213: -1778162113562230002
+    second: Cofagrigus_230
+  - first:
+      213: 6238496264033222552
+    second: Cofagrigus_231
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cofagrigus_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1444
+        width: 6
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7bf129b7407a6c0800000000000000
+      internalID: -4132329204310100046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1445
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d692b8dbd85526dc0800000000000000
+      internalID: -3647258680957916819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1445
+        width: 93
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69afb8d1196a1cc10800000000000000
+      internalID: 2072120445763320470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_3
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1446
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac7f54b8ea549580800000000000000
+      internalID: -8821325814606889815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_4
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1448
+        width: 93
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd40920af8fadf710800000000000000
+      internalID: 1728730863382365405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_5
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1445
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28dd354d2332e0c30800000000000000
+      internalID: 4327434993167228290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_6
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1445
+        width: 92
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10e4001c6d17d120800000000000000
+      internalID: 2438450073206841374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_7
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1445
+        width: 99
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55df9efc9c1a008a0800000000000000
+      internalID: -6340890387188941483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_8
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1339
+        width: 104
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35118af04a96e9090800000000000000
+      internalID: -8025861332569419437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_9
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1340
+        width: 101
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92618af7d619af00800000000000000
+      internalID: 1128458298509583002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_10
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1335
+        width: 92
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc43cebe33c038b0800000000000000
+      internalID: -5174421297592840998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_11
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1335
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65bc86819e658c3d0800000000000000
+      internalID: -3186201177227736234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_12
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1335
+        width: 96
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d24072b8a227900800000000000000
+      internalID: 680653270829772067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_13
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1334
+        width: 103
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490ead7f350682050800000000000000
+      internalID: 5775972435859529876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_14
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1333
+        width: 105
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01305802e389304f0800000000000000
+      internalID: -863679310924020976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_15
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1218
+        width: 101
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61271d345833b8390800000000000000
+      internalID: -7815096080909897194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_16
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1222
+        width: 113
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dcf1453842123590800000000000000
+      internalID: -7696068711882294057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_17
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1225
+        width: 113
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b779c4c6a7737b0800000000000000
+      internalID: -5244588635489600693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_18
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1225
+        width: 107
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437b07128b93ea280800000000000000
+      internalID: -9030216739833465036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_19
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1224
+        width: 99
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a306812cf4fdad80800000000000000
+      internalID: -8237658779659402328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_20
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1224
+        width: 94
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb54f5efb4b62b00800000000000000
+      internalID: 803528319821962167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_21
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1225
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413319fc4e8ebf570800000000000000
+      internalID: 8501644791024530196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_22
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1218
+        width: 6
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a862b23871b339f70800000000000000
+      internalID: 9192756236564244106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_23
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1106
+        width: 6
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26caf842040e7f930800000000000000
+      internalID: 4177053745505348706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_24
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1115
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e3355278622d3e0800000000000000
+      internalID: -2030518120102019512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_25
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1115
+        width: 91
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f271abedde3f9db20800000000000000
+      internalID: 3159824816546649903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_26
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1115
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6808157c305a3db0800000000000000
+      internalID: -4811445031299184533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_27
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1115
+        width: 91
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d302db40a1a7cd0800000000000000
+      internalID: -2559704830551507694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_28
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1115
+        width: 83
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f807aa9bcd2c270800000000000000
+      internalID: 8269414555792215947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_29
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1115
+        width: 76
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad61b9be5fd46f80800000000000000
+      internalID: -8114115030679458392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_30
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1115
+        width: 70
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ad6a439587e4bf0800000000000000
+      internalID: -338200597475435921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_31
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1005
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6954e2f885681cbf0800000000000000
+      internalID: -305815584767064682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_32
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1005
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b525c19a362a3d230800000000000000
+      internalID: 3662449470905012827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_33
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1006
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dff7f0346a847280800000000000000
+      internalID: -9046453588557561896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_34
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1010
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c6bea131bde1f80800000000000000
+      internalID: -8133823001882039271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_35
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1009
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788afb9b6de6eef50800000000000000
+      internalID: 6912584346578692231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_36
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1006
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ede9f4d952475b80800000000000000
+      internalID: -8406177225871069725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_37
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1012
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2909178468522110800000000000000
+      internalID: 1234646436639476014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_38
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 901
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1304f6a03dc1bc880800000000000000
+      internalID: -8589740171540348879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_39
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 896
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20aae338108461d50800000000000000
+      internalID: 6707627866349021698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_40
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 900
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af756ac7794a8240800000000000000
+      internalID: 4794725532134899617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_41
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 899
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a2549cf020db720800000000000000
+      internalID: 2863447204902021678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_42
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 896
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567f53973f16b6140800000000000000
+      internalID: 4713969133311883109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_43
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 895
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b600c7c49b9fc90800000000000000
+      internalID: -7135468396442784937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_44
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 895
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7092b817440f7e0a0800000000000000
+      internalID: -6852244131267532537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 765
+        width: 945
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50ec9e991b1989e0800000000000000
+      internalID: -1618732794213769124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_46
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 784
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f367cdf6d80f010800000000000000
+      internalID: 1220631010597027603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_47
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 783
+        width: 73
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a43d7c41b21e900800000000000000
+      internalID: 711897584353102437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_48
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 784
+        width: 83
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2920f8735a64c7dc0800000000000000
+      internalID: -3639956723406536046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_49
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 785
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3d5f5a83fddf8f0800000000000000
+      internalID: -505002148800113686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_50
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 776
+        width: 6
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283202c3b4c8fdbf0800000000000000
+      internalID: -297364795623988350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_51
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 785
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1aa36c83a631820800000000000000
+      internalID: 2887768578151063991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_52
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 847
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254cfd6ca4ec19770800000000000000
+      internalID: 8615894382695924818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_53
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 847
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed449b4b1efd0c900800000000000000
+      internalID: 702807702362473694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_54
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 847
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9dd216da7d6df380800000000000000
+      internalID: -8935865711288197730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_55
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 847
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c595c688efc90afe0800000000000000
+      internalID: -1179770485346641572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_56
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 847
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c136a6f59d66850800000000000000
+      internalID: 6370017726792146039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_57
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 847
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c6b9b09776f5b70800000000000000
+      internalID: 8889937959036087422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_58
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 847
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8798265c4cfb4bff0800000000000000
+      internalID: -21181246383945352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_59
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 847
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d66c1f1a3e51eb0800000000000000
+      internalID: -4749639947306766965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_60
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 847
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea77e56ac21bb310800000000000000
+      internalID: 1421750767867886319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_61
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 847
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd23bdd22efd9f830800000000000000
+      internalID: 4105558697849860827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_62
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 847
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa4fb392515f9190800000000000000
+      internalID: -7953549001805051141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_63
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 847
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae79e08cddc7cc40800000000000000
+      internalID: 5532617014187228846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_64
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 845
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f354d34abdaf560800000000000000
+      internalID: 7348427240457453426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_65
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 847
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795b2b1619308b230800000000000000
+      internalID: 3654675020555400599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_66
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 847
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54971ade592263f80800000000000000
+      internalID: -8127270450211227323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_67
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 847
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2e99b800aa051b0800000000000000
+      internalID: -5669845011540614488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_68
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 847
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e99a7328fa4b590800000000000000
+      internalID: -7659304092435898866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_69
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 829
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c29685e210ecb970800000000000000
+      internalID: 8772132545975718593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_70
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 831
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be5c12ca8ab352a0800000000000000
+      internalID: -6749846311373349199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_71
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 829
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bb7148a469db320800000000000000
+      internalID: 2575379808713685911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_72
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 831
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ba27be4ea40e170800000000000000
+      internalID: 8205640868132203287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_73
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 831
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4182e99791baced0800000000000000
+      internalID: -2392904987314060977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_74
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 831
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06607e20aee743d40800000000000000
+      internalID: 5563210983245547104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_75
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 831
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7bd64bea9dc78390800000000000000
+      internalID: -7816052563022259333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_76
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 831
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213ab28f500733ed0800000000000000
+      internalID: -2435479802536549614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_77
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 831
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2f36c22fef8e7c0800000000000000
+      internalID: -4041700349484731739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_78
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 831
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f338001cd54385ce0800000000000000
+      internalID: -1416324505533381825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_79
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 831
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd17e987c7dbaeb0800000000000000
+      internalID: -4707431733473632808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_80
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 831
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3f46f9b688fc5c0800000000000000
+      internalID: -4192982732241570822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_81
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 831
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94dae03ae58f4930800000000000000
+      internalID: 4129666624211571867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_82
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 831
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54fc9d63d93460d0800000000000000
+      internalID: -3430553435909589921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_83
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 834
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80423c0d28aa2520800000000000000
+      internalID: 2678137839856795788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_84
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 834
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77528fe259fb7b6a0800000000000000
+      internalID: -6433462895216417417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_85
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 832
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f9ddf0efbc006c0800000000000000
+      internalID: -4179116162151506163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_86
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 834
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5558052353d7bea40800000000000000
+      internalID: 5398546245764547925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_87
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 834
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f550b7dab962e7d0800000000000000
+      internalID: -2890631759614945801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_88
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 834
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b44bf94c903363c0800000000000000
+      internalID: -4367593765805013835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_89
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 834
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e633d3b2844edb20800000000000000
+      internalID: 3161039316614067936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_90
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 812
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8420184521c76da0800000000000000
+      internalID: -5951576016679852915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_91
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 818
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b137b5f98f0ddc0800000000000000
+      internalID: -3616117137460749554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_92
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 818
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781dc09e606b11990800000000000000
+      internalID: -7416946970506505849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_93
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 818
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ceb94729b3cf2ee0800000000000000
+      internalID: -1283592168781791551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_94
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 818
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52c9e9810b6a8bb0800000000000000
+      internalID: -4933012787478019491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_95
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 818
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba436d4f846128650800000000000000
+      internalID: 6233569336835323051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_96
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 818
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e02f388d96d3130800000000000000
+      internalID: 3548108460085349953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_97
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 818
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e644a8fb121ba20800000000000000
+      internalID: 3076277127012970093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_98
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 818
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d84aba0c75b5860800000000000000
+      internalID: 7519700487850200382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_99
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 818
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9bd1f8f5e9a9280800000000000000
+      internalID: -9035735569105307232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_100
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 799
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16cdccc0e3be6c940800000000000000
+      internalID: 5316195061892701281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_101
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 799
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb85ecbd5027ae900800000000000000
+      internalID: 714508860379781307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_102
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 799
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6f3391145241540800000000000000
+      internalID: 4977644449677178587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_103
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 799
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0f973c08b7916b0800000000000000
+      internalID: -5325089291423321914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_104
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 799
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615fe038e52728d60800000000000000
+      internalID: 7890995247357818134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_105
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 799
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c26d0cb2f36fedd0800000000000000
+      internalID: -2454633377705401661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_106
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 799
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1220b17949961b0800000000000000
+      internalID: -5662831679727590954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_107
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 799
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b7aa48c61d87be0800000000000000
+      internalID: -1479202213578769575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_108
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 799
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c909050c9fcd660800000000000000
+      internalID: 7412073691125685296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_109
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 799
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115b010805b9370e0800000000000000
+      internalID: -2273302616843700975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_110
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 799
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715eb56065405a8b0800000000000000
+      internalID: -5141698632053168873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_111
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 799
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0abb79536b055a0800000000000000
+      internalID: -6534522718019411793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_112
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 799
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121d6c88252076bd0800000000000000
+      internalID: -2637136503296831199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_113
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 799
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78df0218bfd53ce70800000000000000
+      internalID: 9134247804022095239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_114
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 799
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c0237762bfcedf0800000000000000
+      internalID: -149468544982971302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_115
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 799
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521f53942b45ad810800000000000000
+      internalID: 1790836926542377253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_116
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 797
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25289ba5440320870800000000000000
+      internalID: 8647527304642789970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_117
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 793
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5350806f942bee610800000000000000
+      internalID: 1652454144021628213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_118
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 776
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e22b76547243c1c0800000000000000
+      internalID: -4484667736496332062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_119
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 776
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e163bfe809070e60800000000000000
+      internalID: 7928315602994946530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_120
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 783
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65d95d8d9b4c0390800000000000000
+      internalID: -7850816910360193682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_121
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 783
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7694769637c0930b0800000000000000
+      internalID: -5748549759532578457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_122
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 783
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7253a8aa2cd5f5050800000000000000
+      internalID: 5791450736487970087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_123
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 783
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38b4d60a0295d460800000000000000
+      internalID: 7265874145594095679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_124
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 781
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a044d0aeabd427de0800000000000000
+      internalID: -1336920674189622262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_125
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 783
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476f3ab10b58d3150800000000000000
+      internalID: 5853982082075981428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_126
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 781
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a999273d94fc10510800000000000000
+      internalID: 1513718865760262554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_127
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 783
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb12c5c26c22bcf0800000000000000
+      internalID: -238079027560965135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_128
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 783
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6aaf2dc7bc1aec0800000000000000
+      internalID: -3557338493669955913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_129
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 783
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7251b918925e000800000000000000
+      internalID: 64503406296115155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_130
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 783
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5690d0621e20e9770800000000000000
+      internalID: 8619329902862993765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_131
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 783
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10cc76aa4296ac50800000000000000
+      internalID: 6676184346941767711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_132
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 783
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41f6fb73c279dfa0800000000000000
+      internalID: -5775458863201980082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_133
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 783
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18bef7bf446646c0800000000000000
+      internalID: -4159526912277956577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_134
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 783
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78123086ef9b62980800000000000000
+      internalID: -8563953139080552057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_135
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 783
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb5fb8a256765da0800000000000000
+      internalID: -5956443359760393277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_136
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 783
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4590edfa2774ba60800000000000000
+      internalID: 7688901490359965003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_137
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 783
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f132fd831dfb1a20800000000000000
+      internalID: 3034297034391826931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_138
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 776
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8060b898ebce04700800000000000000
+      internalID: 522677859870508552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_139
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 774
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ad1a455170f8df0800000000000000
+      internalID: -175914072248559020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_140
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 670
+        width: 6
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38768981c8a6ca620800000000000000
+      internalID: 2786719419376101251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_141
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 674
+        width: 91
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dca188192b5b9d80800000000000000
+      internalID: -8242894460908622633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_142
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 673
+        width: 91
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963649d36a959e100800000000000000
+      internalID: 137739834144088937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_143
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 674
+        width: 92
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b94e7f644581d480800000000000000
+      internalID: -8876166861595719239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_144
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 676
+        width: 91
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9769f3f1872deccf0800000000000000
+      internalID: -230015117587147143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_145
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 674
+        width: 91
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bca9baa8ade589f0800000000000000
+      internalID: -466705677688394571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_146
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 673
+        width: 95
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13851206248118590800000000000000
+      internalID: -7673825616702908367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_147
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 672
+        width: 99
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c257c80ea85859b00800000000000000
+      internalID: 834720137466377516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_148
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 565
+        width: 102
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a991454c3042c1ed0800000000000000
+      internalID: -2442037299344303718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_149
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 567
+        width: 101
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a52f50ff81e8000800000000000000
+      internalID: 39996930288409154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_150
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 563
+        width: 95
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49e6fd4bc7103770800000000000000
+      internalID: 8588390651349363022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_151
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 564
+        width: 91
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ac36c47b8dc4a30800000000000000
+      internalID: 4200970834202053238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_152
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 563
+        width: 93
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2823e7f9a2e40b0800000000000000
+      internalID: -5742605610345397564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_153
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 562
+        width: 93
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdb2e16e9a9ba240800000000000000
+      internalID: 4804103432558525885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_154
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 562
+        width: 92
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3ac2e04c44d37c0800000000000000
+      internalID: -4090037277740457011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_155
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 450
+        width: 90
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bcade63874cb1e0800000000000000
+      internalID: -2180789489728042199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_156
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 452
+        width: 89
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d7aa5d7cd268da0800000000000000
+      internalID: -5943012321962328829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_157
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 453
+        width: 90
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c38159331ff2730800000000000000
+      internalID: 3976662199838456844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_158
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 453
+        width: 90
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c37fbea81253840800000000000000
+      internalID: 5203101825044528163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_159
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 454
+        width: 92
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bacd612087d880a80800000000000000
+      internalID: -8500388750091166549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_160
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 454
+        width: 92
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1e10efa2a7096d0800000000000000
+      internalID: -2985752227877887551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_161
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 454
+        width: 91
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a40e259de468900800000000000000
+      internalID: 686322688525879863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_162
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 444
+        width: 6
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92992df6a19ce7b0800000000000000
+      internalID: -5193616123867065698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_163
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 334
+        width: 6
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034bd2bda21d1a050800000000000000
+      internalID: 5810154976280687664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_164
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 344
+        width: 91
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bacb7fcf5564537a0800000000000000
+      internalID: -6398130360479662933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_165
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 344
+        width: 91
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c8b0fc92addbb40800000000000000
+      internalID: 5457758196545064083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_166
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 344
+        width: 91
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52cf27667b82265b0800000000000000
+      internalID: -5376690236964013019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_167
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 344
+        width: 91
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d183567339e2b7bc0800000000000000
+      internalID: -3784379852050319331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_168
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 344
+        width: 83
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8008fcd48c84ffed0800000000000000
+      internalID: -2378102053092229112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_169
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 344
+        width: 74
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e69e6b22fda78510800000000000000
+      internalID: 1551399852274783969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_170
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 344
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d3489270938ec10800000000000000
+      internalID: 2082977530582941048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_171
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 234
+        width: 55
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4146f32feac072f0800000000000000
+      internalID: -977057990690062005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_172
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 234
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96f02a05f3d70530800000000000000
+      internalID: 3821255858237535898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_173
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 235
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dcb3beabb33d4e30800000000000000
+      internalID: 4489301284741168338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_174
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 239
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4da656fa08e1230800000000000000
+      internalID: 3611465442006848676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_175
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 238
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05ec87da3b362e20800000000000000
+      internalID: 3325410498770167054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_176
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 235
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f76ecab1d19e4d10800000000000000
+      internalID: 2111785605251622905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_177
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 241
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326b8e0d42b5fe700800000000000000
+      internalID: 571775891381204515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_178
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 130
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e993b4808a2d520800000000000000
+      internalID: 2725425478087843350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_179
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 125
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03866bcb3f9aab530800000000000000
+      internalID: 3871593693986580528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_180
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 129
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a83e0d1b7fab0350800000000000000
+      internalID: 5984069473195145383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_181
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 128
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfdac36bc7539bc90800000000000000
+      internalID: -7153627723351675395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_182
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 125
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1b28399096480a0800000000000000
+      internalID: -6880258840864837122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_183
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 124
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86847e5172f9b91d0800000000000000
+      internalID: -3342903308172441496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_184
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 124
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b2e05ef4aad6370800000000000000
+      internalID: 8317491346945223442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_185
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 14
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e0ed8bef9d07310800000000000000
+      internalID: 1400859172158705233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_186
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 14
+        width: 75
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f350fba04f57bfc60800000000000000
+      internalID: 7853000066263352639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_187
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 14
+        width: 83
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3f8e546ee4989e0800000000000000
+      internalID: -1618675840140643383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_188
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 14
+        width: 91
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968fc61377dff0ac0800000000000000
+      internalID: -3886609265025288087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_189
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 8
+        width: 6
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42238ad3ef343bb00800000000000000
+      internalID: 843092314483601956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_190
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 12
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939c975fe5072c800800000000000000
+      internalID: 631190450932926777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_191
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 53
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2697f0d85986f9330800000000000000
+      internalID: 3719806808757336418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_192
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 51
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7d4d859f888e310800000000000000
+      internalID: 1434547085836081112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_193
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 51
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f082f638779a5d80800000000000000
+      internalID: -8261124023884021517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_194
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 53
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a812f28a849d02300800000000000000
+      internalID: 225418887451058570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_195
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 53
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2299b2c39f9c54440800000000000000
+      internalID: 4919560240265664802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_196
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 53
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcad7366da254e90800000000000000
+      internalID: -7042175342043353922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_197
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 51
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4536629a45fbcce0800000000000000
+      internalID: -1383742759853738676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_198
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 53
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af032f417bf3c5770800000000000000
+      internalID: 8600819443933786362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_199
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 53
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5550cde2c2328e50800000000000000
+      internalID: 6810061399331460445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_200
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 53
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3830cc74d0dfb720800000000000000
+      internalID: 2864237499075541054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_201
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 53
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a491f202bba47a0800000000000000
+      internalID: -6392090974195463601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_202
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 53
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03250f58ccd083d80800000000000000
+      internalID: -8270845543594307024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_203
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 34
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e3c019b9bdf9a60800000000000000
+      internalID: 7683100950517267991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_204
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 34
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffebac576b5c6f5e0800000000000000
+      internalID: -1876094807302291713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_205
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 34
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b8334f100f88a90800000000000000
+      internalID: -7311330103853347990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_206
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 34
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22f1a60caace74d0800000000000000
+      internalID: -3134845450408824277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_207
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 34
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed4427894b2f64b0800000000000000
+      internalID: -5445085829667729948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_208
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 34
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fa85237b461a180800000000000000
+      internalID: -9105886233579966619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_209
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 34
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb717efcc0551870800000000000000
+      internalID: 8652911100434676724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_210
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 34
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945a0bf0d7f7a72f0800000000000000
+      internalID: -974326194261416631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_211
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 34
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f857310bc4dcc3e20800000000000000
+      internalID: 3331763553602598287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_212
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 34
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df9326d29d0cdc00800000000000000
+      internalID: 926630547640524754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_213
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 34
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7011ee29a15c62a00800000000000000
+      internalID: 731488707419181319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_214
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 34
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a9e07ad189dc2b0800000000000000
+      internalID: -5562622711608468893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_215
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 34
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d011e5219e9c4230800000000000000
+      internalID: 3624446146369360085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_216
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 32
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf77057d2163cd10800000000000000
+      internalID: 2144664695423336397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_217
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 15
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60905508c8d998800800000000000000
+      internalID: 615196050886822150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_218
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 15
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3dbacc95ba412150800000000000000
+      internalID: 5846035935183682876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_219
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 15
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb09922e40b45ba0800000000000000
+      internalID: -6101057745545786395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_220
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 15
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad84bffc4b58767e0800000000000000
+      internalID: -1772300916717041446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_221
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 15
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4efa8888873f8d0800000000000000
+      internalID: -2813772814372313928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_222
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 15
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559542ecbfb0a15a0800000000000000
+      internalID: -6549909531933779627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_223
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 15
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491e91185ee25e3a0800000000000000
+      internalID: -6636846912612212332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_224
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 15
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5417a566e03715770800000000000000
+      internalID: 8597779669310927173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_225
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 15
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6f98f8dd5af99c0800000000000000
+      internalID: -3918230779774503181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_226
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 15
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748bd180c7711b670800000000000000
+      internalID: 8552642988832831559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_227
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 13
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbcd9f32bb1ea1580800000000000000
+      internalID: -8855517523391947588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_228
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 15
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf13f66baee8b70c0800000000000000
+      internalID: -4576907457557745156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_229
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 15
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc0fc7e393412300800000000000000
+      internalID: 225535758873595074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_230
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 15
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03c0149af2b257e0800000000000000
+      internalID: -1778162113562230002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_231
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 15
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f3d469c47939650800000000000000
+      internalID: 6238496264033222552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

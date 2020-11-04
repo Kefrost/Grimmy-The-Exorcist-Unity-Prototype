@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fd73012ff2053040a6fe22559110819, type: 3}
+  m_Name: Polifart
+  m_EditorClassIdentifier: 
+  monsterName: Polifart
+  description: "Poliwrath is a blue, bipedal Pok\xE9mon with a round body and muscular
+    arms. It has bulbous eyes that protrude from the top of its head and its belly
+    is covered by a white and black swirl. There appear to be white gloves on its
+    hands, and it has rounded, digit-less feet."
+  frontSprite: {fileID: -1651299491362024432, guid: 909428e1f2e1bd941b2e7451482724aa,
+    type: 3}
+  backSprite: {fileID: 5041590811276955992, guid: 909428e1f2e1bd941b2e7451482724aa,
+    type: 3}
+  firstType: 3
+  secondType: 7
+  maxHp: 90
+  attack: 85
+  defense: 95
+  spAttack: 70
+  spDefense: 90
+  speed: 70
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 5dc141b6ecc1d144db802e9334aac113, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 55c6534657e46114fa009ce8d69ca54b, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: d5c322bf893409d4d8fd2e2d7d82581a, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: bb69778b290dad745a599cc0fc303ad7, type: 2}
+    level: 1

@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fd73012ff2053040a6fe22559110819, type: 3}
+  m_Name: Bolder
+  m_EditorClassIdentifier: 
+  monsterName: Bolder
+  description: Groudon is a massive, bipedal, dinosaur-like creature covered in red,
+    segmented plates of thick skin that act as armor. It has a gray underside and
+    large white spikes that run along the sides of its head, body, and tail. It has
+    four claws on each hand, four dozer-like blades on the end of its large tail,
+    and three claws on each foot with gray markings under its feet. It also has blue
+    stripes inside the seams of its armor plating which can only be seen when Groudon
+    is glowing with power.
+  frontSprite: {fileID: 4375545673546610751, guid: 55f891584313bb84fa9315fc9692ac01,
+    type: 3}
+  backSprite: {fileID: -9041930879655258567, guid: 55f891584313bb84fa9315fc9692ac01,
+    type: 3}
+  firstType: 9
+  secondType: 0
+  maxHp: 100
+  attack: 150
+  defense: 140
+  spAttack: 100
+  spDefense: 90
+  speed: 90
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 602be03a04342284ead130f572380fa9, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: eda37ef57ef3c8d47a6ea1f39ba610c2, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: fee71c9587d7aea40ab1a48212af424d, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 6d07e363982a3a54b84bfa4aa55b9dea, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 55c6534657e46114fa009ce8d69ca54b, type: 2}
+    level: 9
+  - moveBase: {fileID: 11400000, guid: 397a73f72db2d854686ca03e0f92ee8a, type: 2}
+    level: 18
+  - moveBase: {fileID: 11400000, guid: b1ad4f9d364689e458f80206d4c5f1e4, type: 2}
+    level: 27
+  - moveBase: {fileID: 11400000, guid: 4f3fc40958103ed49ac817c6ed7bd317, type: 2}
+    level: 36
+  - moveBase: {fileID: 11400000, guid: 1caef5667818ce14daa1ee8a9697d262, type: 2}
+    level: 63
+  - moveBase: {fileID: 11400000, guid: 9d27231b99f748e46ac527be1402da45, type: 2}
+    level: 72

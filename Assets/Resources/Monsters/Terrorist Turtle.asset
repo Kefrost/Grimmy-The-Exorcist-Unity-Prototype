@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fd73012ff2053040a6fe22559110819, type: 3}
+  m_Name: Terrorist Turtle
+  m_EditorClassIdentifier: 
+  monsterName: Terrorist Turtle
+  description: "Blastoise is a large, bipedal turtle-like Pok\xE9mon. Its body is
+    blue and is mostly hidden by its tough, brown shell. This shell has a cream-colored
+    underside and a white ridge encircling its arms and separating the upper and
+    lower halves. Two powerful water cannons reside at the top of its shell over
+    its shoulders. These cannons can be extended or withdrawn. Blastoise's head has
+    triangular ears that are black on the inside, small brown eyes, and a cream-colored
+    lower jaw. Its arms are thick, and it has three claws on each hand. Its feet
+    have three claws on the front and one on the back. Poking out of the bottom of
+    its shell is a stubby tail."
+  frontSprite: {fileID: 857040845274186723, guid: e9bdc95ff1752b14c8065c6299c8b899,
+    type: 3}
+  backSprite: {fileID: -5932333621249080547, guid: e9bdc95ff1752b14c8065c6299c8b899,
+    type: 3}
+  firstType: 3
+  secondType: 0
+  maxHp: 79
+  attack: 83
+  defense: 100
+  spAttack: 85
+  spDefense: 105
+  speed: 78
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: b9282cb7c23be3742b5049432ad89d5b, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: bb69778b290dad745a599cc0fc303ad7, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: ef1d32a71ae5c524fa414d82769b6241, type: 2}
+    level: 12
+  - moveBase: {fileID: 11400000, guid: d5c322bf893409d4d8fd2e2d7d82581a, type: 2}
+    level: 49
+  - moveBase: {fileID: 11400000, guid: c8176d2a179aded4b93325b6ba380b15, type: 2}
+    level: 30
+  - moveBase: {fileID: 11400000, guid: 3e1e5d217fa080b49a0ef161dbc19d2f, type: 2}
+    level: 15

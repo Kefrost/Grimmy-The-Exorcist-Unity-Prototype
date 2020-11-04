@@ -1,0 +1,4376 @@
+fileFormatVersion: 2
+guid: bd572bc8cf0987e419cb6a4edeeb3e6c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7909031651687928330
+    second: Mewtwo_ready_0
+  - first:
+      213: 633811531472836330
+    second: Mewtwo_ready_1
+  - first:
+      213: 7562577076831454878
+    second: Mewtwo_ready_2
+  - first:
+      213: -7096303884671790063
+    second: Mewtwo_ready_3
+  - first:
+      213: -108926037136922066
+    second: Mewtwo_ready_4
+  - first:
+      213: -5978209321235123648
+    second: Mewtwo_ready_5
+  - first:
+      213: -3645778264321727585
+    second: Mewtwo_ready_6
+  - first:
+      213: -8880508311545361968
+    second: Mewtwo_ready_7
+  - first:
+      213: -7101622919489627302
+    second: Mewtwo_ready_8
+  - first:
+      213: -1962996303193959679
+    second: Mewtwo_ready_9
+  - first:
+      213: 3567784315220723749
+    second: Mewtwo_ready_10
+  - first:
+      213: 1811139839353047918
+    second: Mewtwo_ready_11
+  - first:
+      213: -3156054233640509185
+    second: Mewtwo_ready_12
+  - first:
+      213: -5989010723845672976
+    second: Mewtwo_ready_13
+  - first:
+      213: -407076907333682683
+    second: Mewtwo_ready_14
+  - first:
+      213: -8221912913491099620
+    second: Mewtwo_ready_15
+  - first:
+      213: 2773922670260074781
+    second: Mewtwo_ready_16
+  - first:
+      213: 8510509734640149145
+    second: Mewtwo_ready_17
+  - first:
+      213: 7296860090467129503
+    second: Mewtwo_ready_18
+  - first:
+      213: -8823871247818026401
+    second: Mewtwo_ready_19
+  - first:
+      213: 9072544087193075913
+    second: Mewtwo_ready_20
+  - first:
+      213: -3176775521000296301
+    second: Mewtwo_ready_21
+  - first:
+      213: 4263292448723695887
+    second: Mewtwo_ready_22
+  - first:
+      213: 4361265822534361629
+    second: Mewtwo_ready_23
+  - first:
+      213: 386003476637547917
+    second: Mewtwo_ready_24
+  - first:
+      213: 8413417684624863825
+    second: Mewtwo_ready_25
+  - first:
+      213: 2251488093928461906
+    second: Mewtwo_ready_26
+  - first:
+      213: 8436570275362203296
+    second: Mewtwo_ready_27
+  - first:
+      213: 3637879264323042008
+    second: Mewtwo_ready_28
+  - first:
+      213: -5656631165394674515
+    second: Mewtwo_ready_29
+  - first:
+      213: 4290765688373670933
+    second: Mewtwo_ready_30
+  - first:
+      213: -5130039212426872268
+    second: Mewtwo_ready_31
+  - first:
+      213: 3252915491468679499
+    second: Mewtwo_ready_32
+  - first:
+      213: 4037978353418430827
+    second: Mewtwo_ready_33
+  - first:
+      213: -7758248621197243057
+    second: Mewtwo_ready_34
+  - first:
+      213: 4575605084086449479
+    second: Mewtwo_ready_35
+  - first:
+      213: -8830789702002263692
+    second: Mewtwo_ready_36
+  - first:
+      213: 5447328144432680822
+    second: Mewtwo_ready_37
+  - first:
+      213: 7444950529954028914
+    second: Mewtwo_ready_38
+  - first:
+      213: 921285954961127980
+    second: Mewtwo_ready_39
+  - first:
+      213: 1609654578134735714
+    second: Mewtwo_ready_40
+  - first:
+      213: -7466882192428078037
+    second: Mewtwo_ready_41
+  - first:
+      213: -602028694745153382
+    second: Mewtwo_ready_42
+  - first:
+      213: 5216532036476787027
+    second: Mewtwo_ready_43
+  - first:
+      213: 965258384867685789
+    second: Mewtwo_ready_44
+  - first:
+      213: 4475007023572817789
+    second: Mewtwo_ready_45
+  - first:
+      213: 5299524769921586950
+    second: Mewtwo_ready_46
+  - first:
+      213: 1344986113919199119
+    second: Mewtwo_ready_47
+  - first:
+      213: 3416679793394487604
+    second: Mewtwo_ready_48
+  - first:
+      213: 5266749065043443049
+    second: Mewtwo_ready_49
+  - first:
+      213: 2688651611562555421
+    second: Mewtwo_ready_50
+  - first:
+      213: -724072573413819815
+    second: Mewtwo_ready_51
+  - first:
+      213: -6149694129051296450
+    second: Mewtwo_ready_52
+  - first:
+      213: 1600230344568442394
+    second: Mewtwo_ready_53
+  - first:
+      213: 2591281844900963467
+    second: Mewtwo_ready_54
+  - first:
+      213: 8499751243208943139
+    second: Mewtwo_ready_55
+  - first:
+      213: 7428718545394581049
+    second: Mewtwo_ready_56
+  - first:
+      213: -4328532199693298192
+    second: Mewtwo_ready_57
+  - first:
+      213: 1414729316757929007
+    second: Mewtwo_ready_58
+  - first:
+      213: -1829783048625009165
+    second: Mewtwo_ready_59
+  - first:
+      213: -2115315387151918026
+    second: Mewtwo_ready_60
+  - first:
+      213: -5651827681598326722
+    second: Mewtwo_ready_61
+  - first:
+      213: 2284169070142757896
+    second: Mewtwo_ready_62
+  - first:
+      213: 4278122043333596627
+    second: Mewtwo_ready_63
+  - first:
+      213: 4493663327220976445
+    second: Mewtwo_ready_64
+  - first:
+      213: 4068484086566876640
+    second: Mewtwo_ready_65
+  - first:
+      213: 2597643303159061342
+    second: Mewtwo_ready_66
+  - first:
+      213: -3665109187968471093
+    second: Mewtwo_ready_67
+  - first:
+      213: 9163058562866636471
+    second: Mewtwo_ready_68
+  - first:
+      213: 118485313812509227
+    second: Mewtwo_ready_69
+  - first:
+      213: 152549576988791248
+    second: Mewtwo_ready_70
+  - first:
+      213: -5809394079292666931
+    second: Mewtwo_ready_71
+  - first:
+      213: -2494097000286753815
+    second: Mewtwo_ready_72
+  - first:
+      213: 6553318216422122060
+    second: Mewtwo_ready_73
+  - first:
+      213: 1856509039298869819
+    second: Mewtwo_ready_74
+  - first:
+      213: 1115645463496428173
+    second: Mewtwo_ready_75
+  - first:
+      213: 2153461873380986121
+    second: Mewtwo_ready_76
+  - first:
+      213: 3960967614990919980
+    second: Mewtwo_ready_77
+  - first:
+      213: -670713793541132141
+    second: Mewtwo_ready_78
+  - first:
+      213: -9073138505258287689
+    second: Mewtwo_ready_79
+  - first:
+      213: 7653765330077445419
+    second: Mewtwo_ready_80
+  - first:
+      213: -1289207534474807317
+    second: Mewtwo_ready_81
+  - first:
+      213: -1342640408604955442
+    second: Mewtwo_ready_82
+  - first:
+      213: -5392467539147068884
+    second: Mewtwo_ready_83
+  - first:
+      213: -4178992836918894840
+    second: Mewtwo_ready_84
+  - first:
+      213: -4797074638248876729
+    second: Mewtwo_ready_85
+  - first:
+      213: 5036957528192359686
+    second: Mewtwo_ready_86
+  - first:
+      213: -4397162873265678811
+    second: Mewtwo_ready_87
+  - first:
+      213: 5188619226320423057
+    second: Mewtwo_ready_88
+  - first:
+      213: -7451506026304372819
+    second: Mewtwo_ready_89
+  - first:
+      213: -6789453085256321492
+    second: Mewtwo_ready_90
+  - first:
+      213: 7404512275492542218
+    second: Mewtwo_ready_91
+  - first:
+      213: -6134647627207698726
+    second: Mewtwo_ready_92
+  - first:
+      213: 8311809171143179288
+    second: Mewtwo_ready_93
+  - first:
+      213: 1370631618298390073
+    second: Mewtwo_ready_94
+  - first:
+      213: 1405861687205460188
+    second: Mewtwo_ready_95
+  - first:
+      213: 6021012459749458879
+    second: Mewtwo_ready_96
+  - first:
+      213: 6929444724568846755
+    second: Mewtwo_ready_97
+  - first:
+      213: 545366157484413281
+    second: Mewtwo_ready_98
+  - first:
+      213: 6535053637749618846
+    second: Mewtwo_ready_99
+  - first:
+      213: -6432330388139434168
+    second: Mewtwo_ready_100
+  - first:
+      213: -2931341695050162180
+    second: Mewtwo_ready_101
+  - first:
+      213: -4989938621466669528
+    second: Mewtwo_ready_102
+  - first:
+      213: -6363435378021733613
+    second: Mewtwo_ready_103
+  - first:
+      213: 1077740705313166241
+    second: Mewtwo_ready_104
+  - first:
+      213: 6620295824156792881
+    second: Mewtwo_ready_105
+  - first:
+      213: -6863700003090174096
+    second: Mewtwo_ready_106
+  - first:
+      213: -514703094943460268
+    second: Mewtwo_ready_107
+  - first:
+      213: -6760512702206214577
+    second: Mewtwo_ready_108
+  - first:
+      213: -7011452666443668359
+    second: Mewtwo_ready_109
+  - first:
+      213: 489059359234843058
+    second: Mewtwo_ready_110
+  - first:
+      213: 644902919801364098
+    second: Mewtwo_ready_111
+  - first:
+      213: -3470414140644643741
+    second: Mewtwo_ready_112
+  - first:
+      213: 697218747048410307
+    second: Mewtwo_ready_113
+  - first:
+      213: 8788078580595058920
+    second: Mewtwo_ready_114
+  - first:
+      213: -6567223501497871369
+    second: Mewtwo_ready_115
+  - first:
+      213: -4712478586363345008
+    second: Mewtwo_ready_116
+  - first:
+      213: 5586794236983876243
+    second: Mewtwo_ready_117
+  - first:
+      213: 3036095762592524975
+    second: Mewtwo_ready_118
+  - first:
+      213: -2062571647318544576
+    second: Mewtwo_ready_119
+  - first:
+      213: -3811690420577357024
+    second: Mewtwo_ready_120
+  - first:
+      213: -2211865531160071792
+    second: Mewtwo_ready_121
+  - first:
+      213: -9077952308769049527
+    second: Mewtwo_ready_122
+  - first:
+      213: -4494881595029665224
+    second: Mewtwo_ready_123
+  - first:
+      213: 4251111013045347348
+    second: Mewtwo_ready_124
+  - first:
+      213: 931145478597038831
+    second: Mewtwo_ready_125
+  - first:
+      213: -3126992607450385459
+    second: Mewtwo_ready_126
+  - first:
+      213: 7868953655395128606
+    second: Mewtwo_ready_127
+  - first:
+      213: -6211390656437862279
+    second: Mewtwo_ready_128
+  - first:
+      213: -4306163688880402631
+    second: Mewtwo_ready_129
+  - first:
+      213: -3261816886626828560
+    second: Mewtwo_ready_130
+  - first:
+      213: -325017576178610
+    second: Mewtwo_ready_131
+  - first:
+      213: 287085425290200210
+    second: Mewtwo_ready_132
+  - first:
+      213: 2879376449816335044
+    second: Mewtwo_ready_133
+  - first:
+      213: -3349052622042173615
+    second: Mewtwo_ready_134
+  - first:
+      213: -7720314656881785175
+    second: Mewtwo_ready_135
+  - first:
+      213: 586051636510686940
+    second: Mewtwo_ready_136
+  - first:
+      213: -8707110085129649365
+    second: Mewtwo_ready_137
+  - first:
+      213: -7720313919425439827
+    second: Mewtwo_ready_138
+  - first:
+      213: -6862051034130607615
+    second: Mewtwo_ready_139
+  - first:
+      213: 2471416023161929673
+    second: Mewtwo_ready_140
+  - first:
+      213: -7341676615996596102
+    second: Mewtwo_ready_141
+  - first:
+      213: -8158278064985942692
+    second: Mewtwo_ready_142
+  - first:
+      213: 2206849763780256236
+    second: Mewtwo_ready_143
+  - first:
+      213: 6337085848708101463
+    second: Mewtwo_ready_144
+  - first:
+      213: 9197189055622192520
+    second: Mewtwo_ready_145
+  - first:
+      213: -3355845039270937469
+    second: Mewtwo_ready_146
+  - first:
+      213: -715597653679239583
+    second: Mewtwo_ready_147
+  - first:
+      213: 1002334850188059359
+    second: Mewtwo_ready_148
+  - first:
+      213: -2461611979192718796
+    second: Mewtwo_ready_149
+  - first:
+      213: 4041102747659954798
+    second: Mewtwo_ready_150
+  - first:
+      213: -3456967703908848765
+    second: Mewtwo_ready_151
+  - first:
+      213: 8682973042308018057
+    second: Mewtwo_ready_152
+  - first:
+      213: -1825033642548682904
+    second: Mewtwo_ready_153
+  - first:
+      213: -3122610496576781687
+    second: Mewtwo_ready_154
+  - first:
+      213: -1602323139321217846
+    second: Mewtwo_ready_155
+  - first:
+      213: -2440035760742106124
+    second: Mewtwo_ready_156
+  - first:
+      213: -1967617816239754274
+    second: Mewtwo_ready_157
+  - first:
+      213: -5436174095458357511
+    second: Mewtwo_ready_158
+  - first:
+      213: 819611054055736063
+    second: Mewtwo_ready_159
+  - first:
+      213: 6882147640946051967
+    second: Mewtwo_ready_160
+  - first:
+      213: -3169726399991140673
+    second: Mewtwo_ready_161
+  - first:
+      213: 87300968208470518
+    second: Mewtwo_ready_162
+  - first:
+      213: -5634977065185791564
+    second: Mewtwo_ready_163
+  - first:
+      213: 8302528485520954069
+    second: Mewtwo_ready_164
+  - first:
+      213: 5643098581818828968
+    second: Mewtwo_ready_165
+  - first:
+      213: -2616829644430150867
+    second: Mewtwo_ready_166
+  - first:
+      213: -5997161696210144967
+    second: Mewtwo_ready_167
+  - first:
+      213: 1417713230121422093
+    second: Mewtwo_ready_168
+  - first:
+      213: -4352078103273456070
+    second: Mewtwo_ready_169
+  - first:
+      213: -4291032023708746902
+    second: Mewtwo_ready_170
+  - first:
+      213: -8990425730828214195
+    second: Mewtwo_ready_171
+  - first:
+      213: 7771882400986051938
+    second: Mewtwo_ready_172
+  - first:
+      213: -7657593635532622617
+    second: Mewtwo_ready_173
+  - first:
+      213: -4195541610012181506
+    second: Mewtwo_ready_174
+  - first:
+      213: -7148143515688661695
+    second: Mewtwo_ready_175
+  - first:
+      213: -7528702604892194930
+    second: Mewtwo_ready_176
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mewtwo_ready_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 972
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a021e24226682cd60800000000000000
+      internalID: 7909031651687928330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 933
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae61cf3da30cbc800800000000000000
+      internalID: 633811531472836330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 933
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e960d0b78cba3f860800000000000000
+      internalID: 7562577076831454878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 933
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114d9e7f63dd48d90800000000000000
+      internalID: -7096303884671790063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_4
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 933
+        width: 68
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2aa9a9a8540d7ef0800000000000000
+      internalID: -108926037136922066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_5
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 933
+        width: 69
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042f9d6db42290da0800000000000000
+      internalID: -5978209321235123648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_6
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 933
+        width: 67
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9363491cf7976dc0800000000000000
+      internalID: -3645778264321727585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_7
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 857
+        width: 69
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d94f69ddb812c480800000000000000
+      internalID: -8880508311545361968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_8
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 857
+        width: 68
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b5c0ba497f17d90800000000000000
+      internalID: -7101622919489627302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_9
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 857
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10318bc334902c4e0800000000000000
+      internalID: -1962996303193959679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_10
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 857
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52801f78ee0538130800000000000000
+      internalID: 3567784315220723749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_11
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 857
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b423b8616722910800000000000000
+      internalID: 1811139839353047918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_12
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 904
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff06dff55617334d0800000000000000
+      internalID: -3156054233640509185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_13
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 904
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff6c215a72c2eca0800000000000000
+      internalID: -5989010723845672976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_14
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 904
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a7c16a5b5c95af0800000000000000
+      internalID: -407076907333682683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_15
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 904
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c108a2944c5e5ed80800000000000000
+      internalID: -8221912913491099620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_16
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 904
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d193143c8f3fe7620800000000000000
+      internalID: 2773922670260074781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_17
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 904
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992eab653876b1670800000000000000
+      internalID: 8510509734640149145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_18
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 904
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9894048797a34560800000000000000
+      internalID: 7296860090467129503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_19
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 904
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52160ad9df4b8580800000000000000
+      internalID: -8823871247818026401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_20
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 904
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0c63667c628ed70800000000000000
+      internalID: 9072544087193075913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_21
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 904
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390fe93be73d9e3d0800000000000000
+      internalID: -3176775521000296301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_22
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 904
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09f7cbe4e14a2b30800000000000000
+      internalID: 4263292448723695887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_23
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 904
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12663b9824568c30800000000000000
+      internalID: 4361265822534361629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_24
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 904
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8dfb0bed1c5b5500800000000000000
+      internalID: 386003476637547917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_25
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 904
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152fd07dec672c470800000000000000
+      internalID: 8413417684624863825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_26
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 904
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25690a61e74ee3f10800000000000000
+      internalID: 2251488093928461906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_27
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 883
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6659177f7b41570800000000000000
+      internalID: 8436570275362203296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_28
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 881
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dafbb5aae75c7230800000000000000
+      internalID: 3637879264323042008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_29
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 881
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac1f39dceb9f71b0800000000000000
+      internalID: -5656631165394674515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_30
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 881
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51472fdf8acdb8b30800000000000000
+      internalID: 4290765688373670933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_31
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 881
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ab87334807ec8b0800000000000000
+      internalID: -5130039212426872268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_32
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 881
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b491b51a76da42d20800000000000000
+      internalID: 3252915491468679499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_33
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 881
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69e8361be7c90830800000000000000
+      internalID: 4037978353418430827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_34
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 881
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4dcf56ebf9255490800000000000000
+      internalID: -7758248621197243057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_35
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 881
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745b175d490df7f30800000000000000
+      internalID: 4575605084086449479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_36
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 881
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4793af5bd8bb27580800000000000000
+      internalID: -8830789702002263692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_37
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 881
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67fc5ef061cc89b40800000000000000
+      internalID: 5447328144432680822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_38
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 881
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d144cdf07c15760800000000000000
+      internalID: 7444950529954028914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_39
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 881
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ab302e1b019cc00800000000000000
+      internalID: 921285954961127980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_40
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 881
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b5dcc7f44a65610800000000000000
+      internalID: 1609654578134735714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_41
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 881
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c62ac053e406890800000000000000
+      internalID: -7466882192428078037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_42
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 881
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a908f11871a25a7f0800000000000000
+      internalID: -602028694745153382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_43
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 881
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359d4a1bf38d46840800000000000000
+      internalID: 5216532036476787027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_44
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 881
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95718a0369456d00800000000000000
+      internalID: 965258384867685789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_45
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 881
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d779f67ad2b6a1e30800000000000000
+      internalID: 4475007023572817789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_46
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 858
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6075f8d33b1bb8940800000000000000
+      internalID: 5299524769921586950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_47
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 858
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87acfb9eb95aa210800000000000000
+      internalID: 1344986113919199119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_48
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 858
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43198847b2c7a6f20800000000000000
+      internalID: 3416679793394487604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_49
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 858
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96df807ce50471940800000000000000
+      internalID: 5266749065043443049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_50
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 858
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18b7f74562005520800000000000000
+      internalID: 2688651611562555421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_51
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 858
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95af01ea4d393f5f0800000000000000
+      internalID: -724072573413819815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_52
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 858
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d9798a5c5e7aaa0800000000000000
+      internalID: -6149694129051296450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_53
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 858
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e8dce1509253610800000000000000
+      internalID: 1600230344568442394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_54
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 858
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84ad36db1516f320800000000000000
+      internalID: 2591281844900963467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_55
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 858
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32667aad8be25f570800000000000000
+      internalID: 8499751243208943139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_56
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 827
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93eb992782c181760800000000000000
+      internalID: 7428718545394581049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_57
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 782
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5d07ed5e6fde3c0800000000000000
+      internalID: -4328532199693298192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_58
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 782
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2cffaa61d022a310800000000000000
+      internalID: 1414729316757929007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_59
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 782
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdccaa030e4b96e0800000000000000
+      internalID: -1829783048625009165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_60
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 782
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c54e0ecd3e4a2e0800000000000000
+      internalID: -2115315387151918026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_61
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 782
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38bc921baca091b0800000000000000
+      internalID: -5651827681598326722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_62
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 782
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c1bc0daaff2bf10800000000000000
+      internalID: 2284169070142757896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_63
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 703
+        width: 72
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5daaaf451fe5b30800000000000000
+      internalID: 4278122043333596627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_64
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 703
+        width: 76
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3bc437dcf2bc5e30800000000000000
+      internalID: 4493663327220976445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_65
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 703
+        width: 81
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5f52298b8267830800000000000000
+      internalID: 4068484086566876640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_66
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 703
+        width: 85
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bd7f142deac0420800000000000000
+      internalID: 2597643303159061342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_67
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 703
+        width: 85
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf6e14bc9ae22dc0800000000000000
+      internalID: -3665109187968471093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_68
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 736
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b664c70739b92f70800000000000000
+      internalID: 9163058562866636471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_69
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 735
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2235e0e3c1f4a100800000000000000
+      internalID: 118485313812509227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_70
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 628
+        width: 84
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d19d033807fd1200800000000000000
+      internalID: 152549576988791248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_71
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 628
+        width: 85
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbc0874dd2e06fa0800000000000000
+      internalID: -5809394079292666931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_72
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 628
+        width: 85
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb6a861eff236dd0800000000000000
+      internalID: -2494097000286753815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_73
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 628
+        width: 85
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42efe5623012fa50800000000000000
+      internalID: 6553318216422122060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_74
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 628
+        width: 85
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3af5b19225a3c910800000000000000
+      internalID: 1856509039298869819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_75
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 554
+        width: 85
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a0bfa53a19b7f00800000000000000
+      internalID: 1115645463496428173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_76
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 554
+        width: 84
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d88301a22a2ed10800000000000000
+      internalID: 2153461873380986121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_77
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 554
+        width: 83
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c292c5a4f0f28f630800000000000000
+      internalID: 3960967614990919980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_78
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 554
+        width: 74
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390b60ebb5521b6f0800000000000000
+      internalID: -670713793541132141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_79
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 554
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd392cd99cb51280800000000000000
+      internalID: -9073138505258287689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_80
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 475
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d677d2403a73a60800000000000000
+      internalID: 7653765330077445419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_81
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 475
+        width: 55
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be73fd1f390db1ee0800000000000000
+      internalID: -1289207534474807317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_82
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 475
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc240879abfd5de0800000000000000
+      internalID: -1342640408604955442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_83
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 475
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a605af75b1a25b0800000000000000
+      internalID: -5392467539147068884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_84
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 475
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f1c84f72c3106c0800000000000000
+      internalID: -4178992836918894840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_85
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 532
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745e322580e5d6db0800000000000000
+      internalID: -4797074638248876729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_86
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 532
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d92a85f2ed6e540800000000000000
+      internalID: 5036957528192359686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_87
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 532
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5269677f9a32af2c0800000000000000
+      internalID: -4397162873265678811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_88
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 532
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198479322bda10840800000000000000
+      internalID: 5188619226320423057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_89
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 532
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daff174bfbee69890800000000000000
+      internalID: -7451506026304372819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_90
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 532
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26fd1a146407c1a0800000000000000
+      internalID: -6789453085256321492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_91
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 532
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0790cb0fac12c660800000000000000
+      internalID: 7404512275492542218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_92
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 532
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6971e5c7a5ddaa0800000000000000
+      internalID: -6134647627207698726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_93
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 532
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81cb2de376a795370800000000000000
+      internalID: 8311809171143179288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_94
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 532
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9362896e136750310800000000000000
+      internalID: 1370631618298390073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_95
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 532
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8763581cf928310800000000000000
+      internalID: 1405861687205460188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_96
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 532
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb341937eeeee8350800000000000000
+      internalID: 6021012459749458879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_97
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 532
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a171a263455a2060800000000000000
+      internalID: 6929444724568846755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_98
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 532
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161d06971a7819700800000000000000
+      internalID: 545366157484413281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_99
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 532
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98b03ac8ac21ba50800000000000000
+      internalID: 6535053637749618846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_100
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 532
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f9ff88795cbb6a0800000000000000
+      internalID: -6432330388139434168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_101
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 532
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff5e3f5248c157d0800000000000000
+      internalID: -2931341695050162180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_102
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 532
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e0a78f24d20cab0800000000000000
+      internalID: -4989938621466669528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_103
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 532
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b6cd51d3980b7a0800000000000000
+      internalID: -6363435378021733613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_104
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 509
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a39b2c1677e4fe00800000000000000
+      internalID: 1077740705313166241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_105
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 509
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1381edae9f300eb50800000000000000
+      internalID: 6620295824156792881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_106
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 509
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f66fe663d3fb0a0800000000000000
+      internalID: -6863700003090174096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_107
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 509
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454d91d13486bd8f0800000000000000
+      internalID: -514703094943460268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_108
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 509
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e7b7d1485dd22a0800000000000000
+      internalID: -6760512702206214577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_109
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 509
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974e829b2f052be90800000000000000
+      internalID: -7011452666443668359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_110
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 509
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1e54565ec79c600800000000000000
+      internalID: 489059359234843058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_111
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 509
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e5f59e9c723f800800000000000000
+      internalID: 644902919801364098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_112
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 509
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c2263e9bc96dfc0800000000000000
+      internalID: -3470414140644643741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_113
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 509
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc3094a1c40da900800000000000000
+      internalID: 697218747048410307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_114
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 509
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8669668e685f970800000000000000
+      internalID: 8788078580595058920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_115
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 509
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f35f9025098cd4a0800000000000000
+      internalID: -6567223501497871369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_116
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 509
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0978d2881b9e99eb0800000000000000
+      internalID: -4712478586363345008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_117
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 509
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a9f9822c7488d40800000000000000
+      internalID: 5586794236983876243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_118
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 509
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa65699201622a20800000000000000
+      internalID: 3036095762592524975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_119
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 509
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f29c5c3064063e0800000000000000
+      internalID: -2062571647318544576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_120
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 509
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0233ab7f1c72a1bc0800000000000000
+      internalID: -3811690420577357024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_121
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 496
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091f544b400ed41e0800000000000000
+      internalID: -2211865531160071792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_122
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 403
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94432e3e872a40280800000000000000
+      internalID: -9077952308769049527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_123
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 403
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ac0d41109fe91c0800000000000000
+      internalID: -4494881595029665224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_124
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 403
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414a15961fafefa30800000000000000
+      internalID: 4251111013045347348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_125
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 403
+        width: 71
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2dcfd11e71cec00800000000000000
+      internalID: 931145478597038831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_126
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 403
+        width: 73
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3b5a18ac0ba94d0800000000000000
+      internalID: -3126992607450385459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_127
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 403
+        width: 74
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1596d778a3243d60800000000000000
+      internalID: 7868953655395128606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_128
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 460
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97047d97b15bcc9a0800000000000000
+      internalID: -6211390656437862279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_129
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 427
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f0993a0fe6d34c0800000000000000
+      internalID: -4306163688880402631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_130
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 395
+        width: 8
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0febc3ec2d2bbb2d0800000000000000
+      internalID: -3261816886626828560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_131
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 328
+        width: 73
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c73d2f568defff0800000000000000
+      internalID: -325017576178610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_132
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 328
+        width: 71
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2944d9a5caeebf300800000000000000
+      internalID: 287085425290200210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_133
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 328
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c29de120a995f720800000000000000
+      internalID: 2879376449816335044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_134
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 328
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15fe5116266c581d0800000000000000
+      internalID: -3349052622042173615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_135
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 328
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6c15a39beebd490800000000000000
+      internalID: -7720314656881785175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_136
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 351
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde714ebbd2122800800000000000000
+      internalID: 586051636510686940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_137
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 333
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2340a382812a2780800000000000000
+      internalID: -8707110085129649365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_138
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 333
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7942ee46febd490800000000000000
+      internalID: -7720313919425439827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_139
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 333
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1021b00f0f815c0a0800000000000000
+      internalID: -6862051034130607615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_140
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 333
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf76c867cb3c4220800000000000000
+      internalID: 2471416023161929673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_141
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 333
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a702bbff3002d1a90800000000000000
+      internalID: -7341676615996596102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_142
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 310
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55d6a50359f7ce80800000000000000
+      internalID: -8158278064985942692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_143
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 310
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1e6c2fa2e40ae10800000000000000
+      internalID: 2206849763780256236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_144
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 310
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755b66b010ad1f750800000000000000
+      internalID: 6337085848708101463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_145
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 310
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d9870a7baf2af70800000000000000
+      internalID: 9197189055622192520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_146
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 310
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38cbff087b4ad61d0800000000000000
+      internalID: -3355845039270937469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_147
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 310
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e8852b9bfa116f0800000000000000
+      internalID: -715597653679239583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_148
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 310
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd224735c3209ed00800000000000000
+      internalID: 1002334850188059359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_149
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 310
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a2f5572f896ddd0800000000000000
+      internalID: -2461611979192718796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_150
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 310
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a602fc981e41830800000000000000
+      internalID: 4041102747659954798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_151
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 310
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38be38860326600d0800000000000000
+      internalID: -3456967703908848765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_152
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 263
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98fef054afd108870800000000000000
+      internalID: 8682973042308018057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_153
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 238
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f9fb0529d2ca6e0800000000000000
+      internalID: -1825033642548682904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_154
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 238
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98282a33c424aa4d0800000000000000
+      internalID: -3122610496576781687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_155
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 238
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: accbe51289763c9e0800000000000000
+      internalID: -1602323139321217846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_156
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 238
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb77b94760432ed0800000000000000
+      internalID: -2440035760742106124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_157
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 238
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3bc41650e91b4e0800000000000000
+      internalID: -1967617816239754274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_158
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 238
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe26075674de84b0800000000000000
+      internalID: -5436174095458357511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_159
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 238
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2c9f249e7df5b00800000000000000
+      internalID: 819611054055736063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_160
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 165
+        width: 73
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bc166f0dc428f50800000000000000
+      internalID: 6882147640946051967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_161
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 165
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbea95512aed204d0800000000000000
+      internalID: -3169726399991140673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_162
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 165
+        width: 80
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f11d9e94c7263100800000000000000
+      internalID: 87300968208470518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_163
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 165
+        width: 82
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1b020f63a8cc1b0800000000000000
+      internalID: -5634977065185791564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_164
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 165
+        width: 83
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2d90d3ba1883370800000000000000
+      internalID: 8302528485520954069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_165
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 165
+        width: 85
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a862d10340505e40800000000000000
+      internalID: 5643098581818828968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_166
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 88
+        width: 85
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23770e8d472fabd0800000000000000
+      internalID: -2616829644430150867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_167
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 88
+        width: 87
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931b0dc263dc5cca0800000000000000
+      internalID: -5997161696210144967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_168
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 88
+        width: 89
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d42c2ebaabca310800000000000000
+      internalID: 1417713230121422093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_169
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 88
+        width: 83
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e31abf5005a93c0800000000000000
+      internalID: -4352078103273456070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_170
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 88
+        width: 80
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6bb30bfb113374c0800000000000000
+      internalID: -4291032023708746902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_171
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 4
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40e37e5e679b3380800000000000000
+      internalID: -8990425730828214195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_172
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 4
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26532e2ddd54bdb60800000000000000
+      internalID: 7771882400986051938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_173
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 4
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e439cff823cab590800000000000000
+      internalID: -7657593635532622617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_174
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 4
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb7ad6722176c5c0800000000000000
+      internalID: -4195541610012181506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_175
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 4
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d8ddf4851bccc90800000000000000
+      internalID: -7148143515688661695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtwo_ready_176
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87b7df9edca48790800000000000000
+      internalID: -7528702604892194930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

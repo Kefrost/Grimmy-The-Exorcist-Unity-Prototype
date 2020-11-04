@@ -1,0 +1,3536 @@
+fileFormatVersion: 2
+guid: 1c4721c26ccdc6c44bb0716559175908
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 61954368263397417
+    second: Duskull_0
+  - first:
+      213: -5067672416655046597
+    second: Duskull_1
+  - first:
+      213: 2922759481316007362
+    second: Duskull_2
+  - first:
+      213: 4156151699986173807
+    second: Duskull_3
+  - first:
+      213: 7066012737665476856
+    second: Duskull_4
+  - first:
+      213: 6332202720913727041
+    second: Duskull_5
+  - first:
+      213: 1392574057122158608
+    second: Duskull_6
+  - first:
+      213: -7094887735333951730
+    second: Duskull_7
+  - first:
+      213: -288735467201174954
+    second: Duskull_8
+  - first:
+      213: 317408976961808165
+    second: Duskull_9
+  - first:
+      213: -1402620677234380345
+    second: Duskull_10
+  - first:
+      213: 3552503930028200967
+    second: Duskull_11
+  - first:
+      213: -7497590610372307696
+    second: Duskull_12
+  - first:
+      213: 6043362546852894583
+    second: Duskull_13
+  - first:
+      213: 1254829465851966603
+    second: Duskull_14
+  - first:
+      213: -7621294020371429344
+    second: Duskull_15
+  - first:
+      213: 997886977250526870
+    second: Duskull_16
+  - first:
+      213: 2289241360668544793
+    second: Duskull_17
+  - first:
+      213: -7374484811488093421
+    second: Duskull_18
+  - first:
+      213: 4696252870940973243
+    second: Duskull_19
+  - first:
+      213: 199245956086361163
+    second: Duskull_20
+  - first:
+      213: -3553384295517691242
+    second: Duskull_21
+  - first:
+      213: 9061601520213988080
+    second: Duskull_22
+  - first:
+      213: -9191139014384181887
+    second: Duskull_23
+  - first:
+      213: 1207769945685589244
+    second: Duskull_24
+  - first:
+      213: 3995669915097718946
+    second: Duskull_25
+  - first:
+      213: 5922929570732936981
+    second: Duskull_26
+  - first:
+      213: -6018979797094727345
+    second: Duskull_27
+  - first:
+      213: 6620283844976305510
+    second: Duskull_28
+  - first:
+      213: -3300837742820233736
+    second: Duskull_29
+  - first:
+      213: 6694057247302066529
+    second: Duskull_30
+  - first:
+      213: -2696366280702706336
+    second: Duskull_31
+  - first:
+      213: -8035961668976762951
+    second: Duskull_32
+  - first:
+      213: 4620252495885762726
+    second: Duskull_33
+  - first:
+      213: 6131461857277714504
+    second: Duskull_34
+  - first:
+      213: -3479492131048036869
+    second: Duskull_35
+  - first:
+      213: -4749654618701920681
+    second: Duskull_36
+  - first:
+      213: -5137020091281592351
+    second: Duskull_37
+  - first:
+      213: -7400976740128471217
+    second: Duskull_38
+  - first:
+      213: -6345296424597918189
+    second: Duskull_39
+  - first:
+      213: 2489475695357335614
+    second: Duskull_40
+  - first:
+      213: -1190797922709798368
+    second: Duskull_41
+  - first:
+      213: 1659428227694710047
+    second: Duskull_42
+  - first:
+      213: 4326456152604396809
+    second: Duskull_43
+  - first:
+      213: 3436589882830974516
+    second: Duskull_44
+  - first:
+      213: 2924785339299895001
+    second: Duskull_45
+  - first:
+      213: 1093086753605909127
+    second: Duskull_46
+  - first:
+      213: 3169704734118879549
+    second: Duskull_47
+  - first:
+      213: 3725495881284722097
+    second: Duskull_48
+  - first:
+      213: -8024555904598929411
+    second: Duskull_49
+  - first:
+      213: 7687132162927801302
+    second: Duskull_50
+  - first:
+      213: -7291914252139129009
+    second: Duskull_51
+  - first:
+      213: -1063483671286007417
+    second: Duskull_52
+  - first:
+      213: -6651401978105985178
+    second: Duskull_53
+  - first:
+      213: -3270237799674110289
+    second: Duskull_54
+  - first:
+      213: -3951854818570695648
+    second: Duskull_55
+  - first:
+      213: 3261001303251849850
+    second: Duskull_56
+  - first:
+      213: 684654000249053386
+    second: Duskull_57
+  - first:
+      213: -3799040712083331333
+    second: Duskull_58
+  - first:
+      213: -4940371727305757804
+    second: Duskull_59
+  - first:
+      213: -7296341764994297135
+    second: Duskull_60
+  - first:
+      213: 5705073243800018248
+    second: Duskull_61
+  - first:
+      213: 1777488694351110496
+    second: Duskull_62
+  - first:
+      213: -5885515698451063689
+    second: Duskull_63
+  - first:
+      213: -82987981123971803
+    second: Duskull_64
+  - first:
+      213: 7703835577794575105
+    second: Duskull_65
+  - first:
+      213: -3739185414891684688
+    second: Duskull_66
+  - first:
+      213: 4918755190503283150
+    second: Duskull_67
+  - first:
+      213: 1779168029118052984
+    second: Duskull_68
+  - first:
+      213: 3051918643660939646
+    second: Duskull_69
+  - first:
+      213: -8798400654743841293
+    second: Duskull_70
+  - first:
+      213: -905180736118511163
+    second: Duskull_71
+  - first:
+      213: 3866858048232305886
+    second: Duskull_72
+  - first:
+      213: 8399497736392328607
+    second: Duskull_73
+  - first:
+      213: -6489174537681129953
+    second: Duskull_74
+  - first:
+      213: 7085330976742518829
+    second: Duskull_75
+  - first:
+      213: 5945520640122473881
+    second: Duskull_76
+  - first:
+      213: -7039489667868172542
+    second: Duskull_77
+  - first:
+      213: 9051285127109079535
+    second: Duskull_78
+  - first:
+      213: -6351862770540171549
+    second: Duskull_79
+  - first:
+      213: 1597692642198723432
+    second: Duskull_80
+  - first:
+      213: 8660930582291320665
+    second: Duskull_81
+  - first:
+      213: -5821969900153732332
+    second: Duskull_82
+  - first:
+      213: -3050048148906011790
+    second: Duskull_83
+  - first:
+      213: 4742060859303824272
+    second: Duskull_84
+  - first:
+      213: 3974852810334041816
+    second: Duskull_85
+  - first:
+      213: -1254412500250544891
+    second: Duskull_86
+  - first:
+      213: -6539935995939177177
+    second: Duskull_87
+  - first:
+      213: -5257601243273176001
+    second: Duskull_88
+  - first:
+      213: 4794432376078984472
+    second: Duskull_89
+  - first:
+      213: 5314519910925385534
+    second: Duskull_90
+  - first:
+      213: 675386425577653569
+    second: Duskull_91
+  - first:
+      213: -668094698234940493
+    second: Duskull_92
+  - first:
+      213: 189615037573153695
+    second: Duskull_93
+  - first:
+      213: 7166916546295934496
+    second: Duskull_94
+  - first:
+      213: 251951929530661622
+    second: Duskull_95
+  - first:
+      213: -4600402716119801414
+    second: Duskull_96
+  - first:
+      213: 4427284571110620287
+    second: Duskull_97
+  - first:
+      213: -2884647741274250817
+    second: Duskull_98
+  - first:
+      213: 1190298914522358053
+    second: Duskull_99
+  - first:
+      213: -3532359154533202880
+    second: Duskull_100
+  - first:
+      213: 399248689803165747
+    second: Duskull_101
+  - first:
+      213: -1285647803120423473
+    second: Duskull_102
+  - first:
+      213: -5255830567123401836
+    second: Duskull_103
+  - first:
+      213: 8712115311403916318
+    second: Duskull_104
+  - first:
+      213: -4459666268163464703
+    second: Duskull_105
+  - first:
+      213: 3948203203251017813
+    second: Duskull_106
+  - first:
+      213: 5754640903634323691
+    second: Duskull_107
+  - first:
+      213: -985480711294942044
+    second: Duskull_108
+  - first:
+      213: -5695810318270461288
+    second: Duskull_109
+  - first:
+      213: 7469950443176827774
+    second: Duskull_110
+  - first:
+      213: -5325144687454130077
+    second: Duskull_111
+  - first:
+      213: -5054507257902240853
+    second: Duskull_112
+  - first:
+      213: 6996926560710643740
+    second: Duskull_113
+  - first:
+      213: 1135123169213056903
+    second: Duskull_114
+  - first:
+      213: 3918238618595336718
+    second: Duskull_115
+  - first:
+      213: -6168023808362751587
+    second: Duskull_116
+  - first:
+      213: -7842996473942284774
+    second: Duskull_117
+  - first:
+      213: -5580927012559032459
+    second: Duskull_118
+  - first:
+      213: -6706665575222510860
+    second: Duskull_119
+  - first:
+      213: 3219751483414483327
+    second: Duskull_120
+  - first:
+      213: 4730870736971430207
+    second: Duskull_121
+  - first:
+      213: 4011876313964375580
+    second: Duskull_122
+  - first:
+      213: 6759438395397742882
+    second: Duskull_123
+  - first:
+      213: -5770140654742238694
+    second: Duskull_124
+  - first:
+      213: 8639946122466662411
+    second: Duskull_125
+  - first:
+      213: -2980573148578505483
+    second: Duskull_126
+  - first:
+      213: 7698933059044207555
+    second: Duskull_127
+  - first:
+      213: 7439322392196413916
+    second: Duskull_128
+  - first:
+      213: 1864684575560499792
+    second: Duskull_129
+  - first:
+      213: 7190389623247055124
+    second: Duskull_130
+  - first:
+      213: 1375866620957602154
+    second: Duskull_131
+  - first:
+      213: -7049654003921317314
+    second: Duskull_132
+  - first:
+      213: 2093155420735416703
+    second: Duskull_133
+  - first:
+      213: 5338491681492463239
+    second: Duskull_134
+  - first:
+      213: 4333654248548982483
+    second: Duskull_135
+  - first:
+      213: 6942803575412702633
+    second: Duskull_136
+  - first:
+      213: -4590165231181215624
+    second: Duskull_137
+  - first:
+      213: -5688117744447499321
+    second: Duskull_138
+  - first:
+      213: 7100261354671878377
+    second: Duskull_139
+  - first:
+      213: 5141379917508772558
+    second: Duskull_140
+  - first:
+      213: -5999502001819574730
+    second: Duskull_141
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Duskull_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 523
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920af907b2b1cd000800000000000000
+      internalID: 61954368263397417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 523
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b380b3769c20ca9b0800000000000000
+      internalID: -5067672416655046597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 523
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cddeb7434abf8820800000000000000
+      internalID: 2922759481316007362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_3
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 523
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6fcf4e63fd9da930800000000000000
+      internalID: 4156151699986173807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_4
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 523
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8afe6c5258f0260800000000000000
+      internalID: 7066012737665476856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_5
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 523
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e13d143d080e750800000000000000
+      internalID: 6332202720913727041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_6
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 523
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018d03e0aba635310800000000000000
+      internalID: 1392574057122158608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_7
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 523
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07e42ee135e98d90800000000000000
+      internalID: -7094887735333951730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_8
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 523
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652ea635f943efbf0800000000000000
+      internalID: -288735467201174954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_9
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 523
+        width: 4
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527245868c9a76400800000000000000
+      internalID: 317408976961808165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_10
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 523
+        width: 4
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1b3daece3e88ce0800000000000000
+      internalID: -1402620677234380345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_11
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 460
+        width: 4
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704928c90870d4130800000000000000
+      internalID: 3552503930028200967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_12
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 466
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0155475501533f790800000000000000
+      internalID: -7497590610372307696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_13
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 466
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777111e97365ed350800000000000000
+      internalID: 6043362546852894583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_14
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 467
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84bcc530cc0a6110800000000000000
+      internalID: 1254829465851966603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_15
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 467
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028c3f2c779bb3690800000000000000
+      internalID: -7621294020371429344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_16
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 467
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69681053be439dd00800000000000000
+      internalID: 997886977250526870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_17
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 468
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91fc7cb73e405cf10800000000000000
+      internalID: 2289241360668544793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_18
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 468
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b1db9b22198a990800000000000000
+      internalID: -7374484811488093421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_19
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 468
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb858d3ba117c2140800000000000000
+      internalID: 4696252870940973243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_20
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 469
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ce573342dd3c200800000000000000
+      internalID: 199245956086361163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_21
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 469
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69267335fc7dfaec0800000000000000
+      internalID: -3553384295517691242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_22
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 407
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f29e7c729641cd70800000000000000
+      internalID: 9061601520213988080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_23
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 407
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d956e53c3827080800000000000000
+      internalID: -9191139014384181887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_24
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 406
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc7bf6dd5cd2c010800000000000000
+      internalID: 1207769945685589244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_25
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 406
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a06d192e98737730800000000000000
+      internalID: 3995669915097718946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_26
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 406
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f81354019723250800000000000000
+      internalID: 5922929570732936981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_27
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 406
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f418ae3b3c9487ca0800000000000000
+      internalID: -6018979797094727345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_28
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 405
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665e11cc419ffdb50800000000000000
+      internalID: 6620283844976305510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_29
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 405
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd6ffdbf811132d0800000000000000
+      internalID: -3300837742820233736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_30
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 400
+        width: 4
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161a19b899116ec50800000000000000
+      internalID: 6694057247302066529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_31
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 400
+        width: 4
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06dbf565725949ad0800000000000000
+      internalID: -2696366280702706336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_32
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 405
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf1cfb30778a7090800000000000000
+      internalID: -8035961668976762951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_33
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 405
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a002e57a2f6e1040800000000000000
+      internalID: 4620252495885762726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_34
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 344
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84025e4c214571550800000000000000
+      internalID: 6131461857277714504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_35
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 344
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf56d1a875c56bfc0800000000000000
+      internalID: -3479492131048036869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_36
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 344
+        width: 52
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7568a7ef946d51eb0800000000000000
+      internalID: -4749654618701920681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_37
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 343
+        width: 51
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1efad1fa173a5b8b0800000000000000
+      internalID: -5137020091281592351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_38
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 343
+        width: 51
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47c6bdedd27a4990800000000000000
+      internalID: -7400976740128471217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_39
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 343
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ee849458af0f7a0800000000000000
+      internalID: -6345296424597918189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_40
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 343
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e381eb284f46c8220800000000000000
+      internalID: 2489475695357335614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_41
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 343
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0220c91399f697fe0800000000000000
+      internalID: -1190797922709798368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_42
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 343
+        width: 51
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1dcff95e29770710800000000000000
+      internalID: 1659428227694710047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_43
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 343
+        width: 51
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90dc940c2f8aa0c30800000000000000
+      internalID: 4326456152604396809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 260
+        width: 743
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e67d46a4831bf20800000000000000
+      internalID: 3436589882830974516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_45
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 283
+        width: 52
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d69d3915cce69820800000000000000
+      internalID: 2924785339299895001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_46
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 283
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a7d596c9c6b2f00800000000000000
+      internalID: 1093086753605909127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_47
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 283
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31a70079ad0dfb20800000000000000
+      internalID: 3169704734118879549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_48
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 283
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd1828f3ce93b330800000000000000
+      internalID: 3725495881284722097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_49
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 279
+        width: 4
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff0e12bbec03a090800000000000000
+      internalID: -8024555904598929411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_50
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 283
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3bac859fd2eaa60800000000000000
+      internalID: 7687132162927801302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_51
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 284
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4793a43f9aedca90800000000000000
+      internalID: -7291914252139129009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_52
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 306
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789b19c4c3fbd31f0800000000000000
+      internalID: -1063483671286007417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_53
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 306
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66789ac342971b3a0800000000000000
+      internalID: -6651401978105985178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_54
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 303
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae9e533c08cd92d0800000000000000
+      internalID: -3270237799674110289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_55
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 306
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c8d27faf03829c0800000000000000
+      internalID: -3951854818570695648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_56
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 306
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7299646867614d20800000000000000
+      internalID: 3261001303251849850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_57
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 306
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac025ee8f21608900800000000000000
+      internalID: 684654000249053386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_58
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 306
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6a60db998174bc0800000000000000
+      internalID: -3799040712083331333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_59
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 306
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49bae87d616407bb0800000000000000
+      internalID: -4940371727305757804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_60
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 306
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d21ba982df2eba90800000000000000
+      internalID: -7296341764994297135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_61
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 306
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d194273ed7c2f40800000000000000
+      internalID: 5705073243800018248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_62
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 306
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061221bcc88eaa810800000000000000
+      internalID: 1777488694351110496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_63
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 306
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77cd6d1b7a2725ea0800000000000000
+      internalID: -5885515698451063689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_64
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 276
+        width: 4
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5259a70feda29def0800000000000000
+      internalID: -82987981123971803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_65
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 306
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b367e24a589ea60800000000000000
+      internalID: 7703835577794575105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_66
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 306
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc3f0c1daebb1cc0800000000000000
+      internalID: -3739185414891684688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_67
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 303
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec99e0bf8cde24440800000000000000
+      internalID: 4918755190503283150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_68
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 306
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a305365efd0b810800000000000000
+      internalID: 1779168029118052984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_69
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 306
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e716dce26d79a5a20800000000000000
+      internalID: 3051918643660939646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_70
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 306
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5dd6e683dc5e580800000000000000
+      internalID: -8798400654743841293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_71
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 306
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c921269ae62073f0800000000000000
+      internalID: -905180736118511163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_72
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 306
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed43fb948e6d9a530800000000000000
+      internalID: 3866858048232305886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_73
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 306
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95cc5550b2019470800000000000000
+      internalID: 8399497736392328607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_74
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 306
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ea10c9322d1f5a0800000000000000
+      internalID: -6489174537681129953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_75
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 306
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d203fc0dbf6245260800000000000000
+      internalID: 7085330976742518829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_76
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 286
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99dc04f758bb28250800000000000000
+      internalID: 5945520640122473881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_77
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 286
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f5fa2a175be4e90800000000000000
+      internalID: -7039489667868172542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_78
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 286
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1fc1a0edf9c9d70800000000000000
+      internalID: 9051285127109079535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_79
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 283
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eeacebb676a9d7a0800000000000000
+      internalID: -6351862770540171549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_80
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 290
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b928e3ef42c2610800000000000000
+      internalID: 1597692642198723432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_81
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 290
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f8acd1a7ec13870800000000000000
+      internalID: 8660930582291320665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_82
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 290
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4130250d835343fa0800000000000000
+      internalID: -5821969900153732332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_83
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 290
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2739e905e5d0ca5d0800000000000000
+      internalID: -3050048148906011790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_84
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 290
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b861e1a3f2fc140800000000000000
+      internalID: 4742060859303824272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_85
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 290
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d67c624293892730800000000000000
+      internalID: 3974852810334041816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_86
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 290
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505b1c82a7e679ee0800000000000000
+      internalID: -1254412500250544891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_87
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 290
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d314c9cda7d35a0800000000000000
+      internalID: -6539935995939177177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_88
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 290
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3cdc04768f3907b0800000000000000
+      internalID: -5257601243273176001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_89
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 290
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815e1d318de398240800000000000000
+      internalID: 4794432376078984472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_90
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 290
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3fb27293b7f0c940800000000000000
+      internalID: 5314519910925385534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_91
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 290
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1454dae20647f5900800000000000000
+      internalID: 675386425577653569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_92
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 290
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3726369637ab6f0800000000000000
+      internalID: -668094698234940493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_93
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 290
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93ce9e3fd5a1a200800000000000000
+      internalID: 189615037573153695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_94
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 290
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ea6dc70a0067360800000000000000
+      internalID: 7166916546295934496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_95
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 290
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa362ce1fc1f7300800000000000000
+      internalID: 251951929530661622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_96
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 290
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1efe98a161820c0800000000000000
+      internalID: -4600402716119801414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_97
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 290
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7cbd945cdfd07d30800000000000000
+      internalID: 4427284571110620287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_98
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 290
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1273fa92ca7f7d0800000000000000
+      internalID: -2884647741274250817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_99
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 290
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52163a86e8ac48010800000000000000
+      internalID: 1190298914522358053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_100
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 290
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04403fe601a8afec0800000000000000
+      internalID: -3532359154533202880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_101
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 290
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33002cc619a6a8500800000000000000
+      internalID: 399248689803165747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_102
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 290
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcdeebc7226782ee0800000000000000
+      internalID: -1285647803120423473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_103
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 195
+        width: 4
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49348fe12f98f07b0800000000000000
+      internalID: -5255830567123401836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_104
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 199
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1cd87a87b6a7e870800000000000000
+      internalID: 8712115311403916318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_105
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 198
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102235d48251c12c0800000000000000
+      internalID: -4459666268163464703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_106
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 199
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55816d615e5dac630800000000000000
+      internalID: 3948203203251017813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_107
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 198
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be88e0799679cdf40800000000000000
+      internalID: 5754640903634323691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_108
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 198
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4044ea38ed252f0800000000000000
+      internalID: -985480711294942044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_109
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 197
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a0c7771ba64f0b0800000000000000
+      internalID: -5695810318270461288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_110
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 199
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b935fb9589aa760800000000000000
+      internalID: 7469950443176827774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_111
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 199
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360fcbede194916b0800000000000000
+      internalID: -5325144687454130077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_112
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 201
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab6a1acd68cad9b0800000000000000
+      internalID: -5054507257902240853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_113
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 201
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1057aab2a31a1160800000000000000
+      internalID: 6996926560710643740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_114
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 138
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787824d1284c0cf00800000000000000
+      internalID: 1135123169213056903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_115
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 137
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02a79e8341606630800000000000000
+      internalID: 3918238618595336718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_116
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 135
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99d260a607c66aa0800000000000000
+      internalID: -6168023808362751587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_117
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 135
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16670cc244182390800000000000000
+      internalID: -7842996473942284774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_118
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 135
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f690b73709c82b0800000000000000
+      internalID: -5580927012559032459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_119
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 136
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa758951332de2a0800000000000000
+      internalID: -6706665575222510860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_120
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 135
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7115f94aeadeac20800000000000000
+      internalID: 3219751483414483327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_121
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 136
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39f87bbedd67a140800000000000000
+      internalID: 4730870736971430207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_122
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 132
+        width: 4
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e66a0704c0da730800000000000000
+      internalID: 4011876313964375580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_123
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 132
+        width: 4
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221a1d658695ecd50800000000000000
+      internalID: 6759438395397742882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_124
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 136
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a8c0265a75cefa0800000000000000
+      internalID: -5770140654742238694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_125
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 136
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b089324d83147e770800000000000000
+      internalID: 8639946122466662411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_126
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 73
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc19eb5380e2a6d0800000000000000
+      internalID: -2980573148578505483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_127
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 73
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb67d593da18da60800000000000000
+      internalID: 7698933059044207555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_128
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 72
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9f97cec48cd3760800000000000000
+      internalID: 7439322392196413916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_129
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 72
+        width: 59
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0520f60fdb0b0e910800000000000000
+      internalID: 1864684575560499792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_130
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 72
+        width: 59
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419ab4a144569c360800000000000000
+      internalID: 7190389623247055124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_131
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 72
+        width: 59
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61be70f66f081310800000000000000
+      internalID: 1375866620957602154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_132
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 72
+        width: 59
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e321cdab8099a2e90800000000000000
+      internalID: -7049654003921317314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_133
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 72
+        width: 59
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f792e90e3c16c0d10800000000000000
+      internalID: 2093155420735416703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_134
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 72
+        width: 59
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e6cb756e1261a40800000000000000
+      internalID: 5338491681492463239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_135
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 72
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dedf10149b342c30800000000000000
+      internalID: 4333654248548982483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_136
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 10
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad39c9311bc95060800000000000000
+      internalID: 6942803575412702633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_137
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 10
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878481fba057c40c0800000000000000
+      internalID: -4590165231181215624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_138
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 10
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c35c916c0fbf01b0800000000000000
+      internalID: -5688117744447499321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_139
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 10
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0b6a15512398260800000000000000
+      internalID: 7100261354671878377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_140
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 5
+        width: 4
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec200767bc9d95740800000000000000
+      internalID: 5141379917508772558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duskull_141
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 221
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e9c4057bc7dbca0800000000000000
+      internalID: -5999502001819574730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

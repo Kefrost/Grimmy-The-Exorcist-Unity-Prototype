@@ -1,0 +1,4880 @@
+fileFormatVersion: 2
+guid: d7c68b043a1eb604da0342f6e37433d7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3151618044717447179
+    second: Chandelure_0
+  - first:
+      213: -1187462588507873334
+    second: Chandelure_1
+  - first:
+      213: 7930964781097199304
+    second: Chandelure_2
+  - first:
+      213: -7039115884027257006
+    second: Chandelure_3
+  - first:
+      213: 5202331990753520939
+    second: Chandelure_4
+  - first:
+      213: -3515377877239913132
+    second: Chandelure_5
+  - first:
+      213: 8919925124330406369
+    second: Chandelure_6
+  - first:
+      213: -8582573620774008922
+    second: Chandelure_7
+  - first:
+      213: 1011102976554755732
+    second: Chandelure_8
+  - first:
+      213: -4679887756922715997
+    second: Chandelure_9
+  - first:
+      213: 3619708145401811045
+    second: Chandelure_10
+  - first:
+      213: 7758181616744324450
+    second: Chandelure_11
+  - first:
+      213: 4263261191375574522
+    second: Chandelure_12
+  - first:
+      213: 6724620086003761209
+    second: Chandelure_13
+  - first:
+      213: -81555139781152322
+    second: Chandelure_14
+  - first:
+      213: -4937533091291677697
+    second: Chandelure_15
+  - first:
+      213: 6863077181549378545
+    second: Chandelure_16
+  - first:
+      213: 5791054673721705684
+    second: Chandelure_17
+  - first:
+      213: -7509166387481991701
+    second: Chandelure_18
+  - first:
+      213: 6686872608326727337
+    second: Chandelure_19
+  - first:
+      213: -8860528495250688694
+    second: Chandelure_20
+  - first:
+      213: -4519408535483357832
+    second: Chandelure_21
+  - first:
+      213: -8326033912917358431
+    second: Chandelure_22
+  - first:
+      213: 1106452013645831224
+    second: Chandelure_23
+  - first:
+      213: -3999211546512790857
+    second: Chandelure_24
+  - first:
+      213: -4196469698357872796
+    second: Chandelure_25
+  - first:
+      213: -4901627180047359367
+    second: Chandelure_26
+  - first:
+      213: 7590265988776789924
+    second: Chandelure_27
+  - first:
+      213: -5689361755519763702
+    second: Chandelure_28
+  - first:
+      213: -3479080703466215654
+    second: Chandelure_29
+  - first:
+      213: 4365868633194326633
+    second: Chandelure_30
+  - first:
+      213: -2813465443496394332
+    second: Chandelure_31
+  - first:
+      213: 474860572266011901
+    second: Chandelure_32
+  - first:
+      213: 988110749624123149
+    second: Chandelure_33
+  - first:
+      213: -8342693517244370720
+    second: Chandelure_34
+  - first:
+      213: 5873599729785806137
+    second: Chandelure_35
+  - first:
+      213: -7794281231065273920
+    second: Chandelure_36
+  - first:
+      213: 7911490035282988184
+    second: Chandelure_37
+  - first:
+      213: -777038323140251738
+    second: Chandelure_38
+  - first:
+      213: 91382764930375544
+    second: Chandelure_39
+  - first:
+      213: 4383931071375051490
+    second: Chandelure_40
+  - first:
+      213: 3264338812663764721
+    second: Chandelure_41
+  - first:
+      213: 6661097658788637565
+    second: Chandelure_42
+  - first:
+      213: 5857391164490833435
+    second: Chandelure_43
+  - first:
+      213: 7295129511698095658
+    second: Chandelure_44
+  - first:
+      213: 8526626170190643121
+    second: Chandelure_45
+  - first:
+      213: -2449297396040360655
+    second: Chandelure_46
+  - first:
+      213: -4077410235358032904
+    second: Chandelure_47
+  - first:
+      213: 3572759807264934843
+    second: Chandelure_48
+  - first:
+      213: -7672927180924474710
+    second: Chandelure_49
+  - first:
+      213: 6492108945670400092
+    second: Chandelure_50
+  - first:
+      213: 7061268315686157455
+    second: Chandelure_51
+  - first:
+      213: 5465340529914273519
+    second: Chandelure_52
+  - first:
+      213: -5687619180489307609
+    second: Chandelure_53
+  - first:
+      213: -7674619569094035900
+    second: Chandelure_54
+  - first:
+      213: -4030783700661854088
+    second: Chandelure_55
+  - first:
+      213: -4048890775174364945
+    second: Chandelure_56
+  - first:
+      213: 6288350005297964787
+    second: Chandelure_57
+  - first:
+      213: 894173325141179750
+    second: Chandelure_58
+  - first:
+      213: -8772655229090974403
+    second: Chandelure_59
+  - first:
+      213: 8104515278668648936
+    second: Chandelure_60
+  - first:
+      213: -4674831851697015830
+    second: Chandelure_61
+  - first:
+      213: -8074549831909867030
+    second: Chandelure_62
+  - first:
+      213: 3447484770263609281
+    second: Chandelure_63
+  - first:
+      213: -1933700097548535323
+    second: Chandelure_64
+  - first:
+      213: -7899687071384509176
+    second: Chandelure_65
+  - first:
+      213: 7741409687233155622
+    second: Chandelure_66
+  - first:
+      213: -6600437536515313547
+    second: Chandelure_67
+  - first:
+      213: 714624601743671053
+    second: Chandelure_68
+  - first:
+      213: 7597688374773715264
+    second: Chandelure_69
+  - first:
+      213: 9036746171074543509
+    second: Chandelure_70
+  - first:
+      213: 5474211826369953603
+    second: Chandelure_71
+  - first:
+      213: 2895942171372340041
+    second: Chandelure_72
+  - first:
+      213: 4226646520620199479
+    second: Chandelure_73
+  - first:
+      213: -2419243711029931035
+    second: Chandelure_74
+  - first:
+      213: -4768860222601581276
+    second: Chandelure_75
+  - first:
+      213: 7636830817295573085
+    second: Chandelure_76
+  - first:
+      213: 4390176038490490870
+    second: Chandelure_77
+  - first:
+      213: 5134734184588928895
+    second: Chandelure_78
+  - first:
+      213: 852798579406877114
+    second: Chandelure_79
+  - first:
+      213: 1457240353457363834
+    second: Chandelure_80
+  - first:
+      213: 7142818875990008785
+    second: Chandelure_81
+  - first:
+      213: -5035820311935483384
+    second: Chandelure_82
+  - first:
+      213: 902928654776521902
+    second: Chandelure_83
+  - first:
+      213: 5357356226607310156
+    second: Chandelure_84
+  - first:
+      213: -8872998218992707817
+    second: Chandelure_85
+  - first:
+      213: -4017934242260254298
+    second: Chandelure_86
+  - first:
+      213: -9136887772750694014
+    second: Chandelure_87
+  - first:
+      213: 4024570071004105996
+    second: Chandelure_88
+  - first:
+      213: 3713414822624241858
+    second: Chandelure_89
+  - first:
+      213: 1595597921509245771
+    second: Chandelure_90
+  - first:
+      213: -7268708392395759398
+    second: Chandelure_91
+  - first:
+      213: 9064755275315971733
+    second: Chandelure_92
+  - first:
+      213: -5944296763042485527
+    second: Chandelure_93
+  - first:
+      213: 2186730064734284503
+    second: Chandelure_94
+  - first:
+      213: -8725971922114311111
+    second: Chandelure_95
+  - first:
+      213: -1600071763224907470
+    second: Chandelure_96
+  - first:
+      213: 4988168657383336426
+    second: Chandelure_97
+  - first:
+      213: 5679925789126320053
+    second: Chandelure_98
+  - first:
+      213: 4137192670586805236
+    second: Chandelure_99
+  - first:
+      213: 6894610025441602017
+    second: Chandelure_100
+  - first:
+      213: 2606282263088346332
+    second: Chandelure_101
+  - first:
+      213: 7055198637460104105
+    second: Chandelure_102
+  - first:
+      213: 2357074020828428822
+    second: Chandelure_103
+  - first:
+      213: 7865836400049763894
+    second: Chandelure_104
+  - first:
+      213: 3340084817998815926
+    second: Chandelure_105
+  - first:
+      213: 1433288591365429207
+    second: Chandelure_106
+  - first:
+      213: 582265468235438212
+    second: Chandelure_107
+  - first:
+      213: -2608602164168777062
+    second: Chandelure_108
+  - first:
+      213: -6243381641835215593
+    second: Chandelure_109
+  - first:
+      213: 8490831500215017673
+    second: Chandelure_110
+  - first:
+      213: -3021123351936407788
+    second: Chandelure_111
+  - first:
+      213: 5943985955851627884
+    second: Chandelure_112
+  - first:
+      213: 943898769534357707
+    second: Chandelure_113
+  - first:
+      213: 7957699089089138175
+    second: Chandelure_114
+  - first:
+      213: -7892180285707624018
+    second: Chandelure_115
+  - first:
+      213: -5839402885297433169
+    second: Chandelure_116
+  - first:
+      213: -8866104228904830407
+    second: Chandelure_117
+  - first:
+      213: -3972058511519771516
+    second: Chandelure_118
+  - first:
+      213: -4232616110016139443
+    second: Chandelure_119
+  - first:
+      213: 1249175440190577702
+    second: Chandelure_120
+  - first:
+      213: -2209618109490101239
+    second: Chandelure_121
+  - first:
+      213: 6381842847752104871
+    second: Chandelure_122
+  - first:
+      213: 6498671023065513151
+    second: Chandelure_123
+  - first:
+      213: -6063624813238924524
+    second: Chandelure_124
+  - first:
+      213: -7355483778593667163
+    second: Chandelure_125
+  - first:
+      213: 3888689777485061617
+    second: Chandelure_126
+  - first:
+      213: -6174021363156182558
+    second: Chandelure_127
+  - first:
+      213: 2399011933037945445
+    second: Chandelure_128
+  - first:
+      213: -2748382587170007933
+    second: Chandelure_129
+  - first:
+      213: -2943372475992174617
+    second: Chandelure_130
+  - first:
+      213: -7897937792228336652
+    second: Chandelure_131
+  - first:
+      213: -4311125970009341124
+    second: Chandelure_132
+  - first:
+      213: -544318385528275933
+    second: Chandelure_133
+  - first:
+      213: 2879901447774447823
+    second: Chandelure_134
+  - first:
+      213: 6073927209985598627
+    second: Chandelure_135
+  - first:
+      213: 4289896580108145178
+    second: Chandelure_136
+  - first:
+      213: 6233184203465888261
+    second: Chandelure_137
+  - first:
+      213: -2913873147669895327
+    second: Chandelure_138
+  - first:
+      213: 3010392448275256773
+    second: Chandelure_139
+  - first:
+      213: -5733819214053594563
+    second: Chandelure_140
+  - first:
+      213: -8326387366092198226
+    second: Chandelure_141
+  - first:
+      213: 7565451404297850388
+    second: Chandelure_142
+  - first:
+      213: -2243926357268912727
+    second: Chandelure_143
+  - first:
+      213: 750256539904335684
+    second: Chandelure_144
+  - first:
+      213: 563255330759274950
+    second: Chandelure_145
+  - first:
+      213: 6326351240443175306
+    second: Chandelure_146
+  - first:
+      213: 5851907786400758057
+    second: Chandelure_147
+  - first:
+      213: 6083473129699077385
+    second: Chandelure_148
+  - first:
+      213: 7700231003152139846
+    second: Chandelure_149
+  - first:
+      213: -8128748036235931362
+    second: Chandelure_150
+  - first:
+      213: 1255987972265058441
+    second: Chandelure_151
+  - first:
+      213: -1425558492723595369
+    second: Chandelure_152
+  - first:
+      213: -5877620308820019688
+    second: Chandelure_153
+  - first:
+      213: 7953428984320940849
+    second: Chandelure_154
+  - first:
+      213: 2403404369047326645
+    second: Chandelure_155
+  - first:
+      213: -3059872772506243959
+    second: Chandelure_156
+  - first:
+      213: -8654714149573594490
+    second: Chandelure_157
+  - first:
+      213: 5104829938072861998
+    second: Chandelure_158
+  - first:
+      213: -3888115636635486663
+    second: Chandelure_159
+  - first:
+      213: 1394932268198260620
+    second: Chandelure_160
+  - first:
+      213: 8044163246620710581
+    second: Chandelure_161
+  - first:
+      213: 7914987919192546532
+    second: Chandelure_162
+  - first:
+      213: -4452397417335101205
+    second: Chandelure_163
+  - first:
+      213: 6152942952423971086
+    second: Chandelure_164
+  - first:
+      213: -1252093169375339660
+    second: Chandelure_165
+  - first:
+      213: 7149403418199550635
+    second: Chandelure_166
+  - first:
+      213: 7989369384839086164
+    second: Chandelure_167
+  - first:
+      213: 6673316311761498872
+    second: Chandelure_168
+  - first:
+      213: -4865387436085619258
+    second: Chandelure_169
+  - first:
+      213: 817396561572570564
+    second: Chandelure_170
+  - first:
+      213: 5056723942865975832
+    second: Chandelure_171
+  - first:
+      213: -3723335289232899427
+    second: Chandelure_172
+  - first:
+      213: -2526312734729249487
+    second: Chandelure_173
+  - first:
+      213: 6777775063061447431
+    second: Chandelure_174
+  - first:
+      213: -4926563676868328577
+    second: Chandelure_175
+  - first:
+      213: -602877979609642602
+    second: Chandelure_176
+  - first:
+      213: 5007048994571379949
+    second: Chandelure_177
+  - first:
+      213: 2183876158260830331
+    second: Chandelure_178
+  - first:
+      213: 708835372902784524
+    second: Chandelure_179
+  - first:
+      213: 6148723439008821634
+    second: Chandelure_180
+  - first:
+      213: -6203598546335553686
+    second: Chandelure_181
+  - first:
+      213: 275228159476223629
+    second: Chandelure_182
+  - first:
+      213: 7707851731447560283
+    second: Chandelure_183
+  - first:
+      213: -2935011354809002238
+    second: Chandelure_184
+  - first:
+      213: -4517207332483140901
+    second: Chandelure_185
+  - first:
+      213: -2694769145074005841
+    second: Chandelure_186
+  - first:
+      213: -1598476047198142559
+    second: Chandelure_187
+  - first:
+      213: -6318866458908291087
+    second: Chandelure_188
+  - first:
+      213: 2818780652163977157
+    second: Chandelure_189
+  - first:
+      213: -7656565676663812039
+    second: Chandelure_190
+  - first:
+      213: 7392791690548998353
+    second: Chandelure_191
+  - first:
+      213: 833089917013141187
+    second: Chandelure_192
+  - first:
+      213: 379041579643322364
+    second: Chandelure_193
+  - first:
+      213: -7973824642056375684
+    second: Chandelure_194
+  - first:
+      213: 9049477686764304433
+    second: Chandelure_195
+  - first:
+      213: -5985680375387489400
+    second: Chandelure_196
+  - first:
+      213: -2494729596172385347
+    second: Chandelure_197
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chandelure_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2180
+        width: 4
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b083817e9ebccbb20800000000000000
+      internalID: 3151618044717447179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2183
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf1ce33119458fe0800000000000000
+      internalID: -1187462588507873334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 2183
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6ae67c272701e60800000000000000
+      internalID: 7930964781097199304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_3
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 2183
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25fdeb7f569005e90800000000000000
+      internalID: -7039115884027257006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_4
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 2184
+        width: 71
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2da388e165623840800000000000000
+      internalID: 5202331990753520939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_5
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 2184
+        width: 75
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45529d7227ed63fc0800000000000000
+      internalID: -3515377877239913132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_6
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 2183
+        width: 78
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1cbca04a0f9cb70800000000000000
+      internalID: 8919925124330406369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_7
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 2183
+        width: 75
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7802ba3c294e880800000000000000
+      internalID: -8582573620774008922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_8
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 2183
+        width: 76
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496e2e4dcc8280e00800000000000000
+      internalID: 1011102976554755732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_9
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2081
+        width: 74
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a00ce351e2bd0fb0800000000000000
+      internalID: -4679887756922715997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_10
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 2081
+        width: 71
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56053455169cb3230800000000000000
+      internalID: 3619708145401811045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_11
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 2080
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26dd20963199aab60800000000000000
+      internalID: 7758181616744324450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_12
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 2080
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af556a047752a2b30800000000000000
+      internalID: 4263261191375574522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_13
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 2080
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93006b3f656a25d50800000000000000
+      internalID: 6724620086003761209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_14
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 2080
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1bcbf48024edef0800000000000000
+      internalID: -81555139781152322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_15
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 2080
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbb2da40db5a7bb0800000000000000
+      internalID: -4937533091291677697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_16
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 2081
+        width: 72
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fbf650a55c8e3f50800000000000000
+      internalID: 6863077181549378545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_17
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1976
+        width: 77
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d44c0e1b85fd5050800000000000000
+      internalID: 5791054673721705684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_18
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1974
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be525d2b4f41ac790800000000000000
+      internalID: -7509166387481991701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_19
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1974
+        width: 76
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6ba9d653b8ccc50800000000000000
+      internalID: 6686872608326727337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_20
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1974
+        width: 79
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a453b565744190580800000000000000
+      internalID: -8860528495250688694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_21
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1976
+        width: 75
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87565afb1e5d741c0800000000000000
+      internalID: -4519408535483357832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_22
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1978
+        width: 72
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a884b8f44cf37c80800000000000000
+      internalID: -8326033912917358431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_23
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1977
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c10628e38ea5f00800000000000000
+      internalID: 1106452013645831224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_24
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1977
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bae6748942ff78c0800000000000000
+      internalID: -3999211546512790857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_25
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1874
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46730be0b0523c5c0800000000000000
+      internalID: -4196469698357872796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_26
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1874
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972a0e7bc0ce9fbb0800000000000000
+      internalID: -4901627180047359367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_27
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1875
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a705cba3ba065960800000000000000
+      internalID: 7590265988776789924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_28
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1877
+        width: 71
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b3d8b70a35b01b0800000000000000
+      internalID: -5689361755519763702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_29
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1874
+        width: 72
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17eafc7882d7bfc0800000000000000
+      internalID: -3479080703466215654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_30
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1873
+        width: 74
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a6199f36ea69c30800000000000000
+      internalID: 4365868633194326633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_31
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1872
+        width: 72
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a18f84e51094f8d0800000000000000
+      internalID: -2813465443496394332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_32
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1873
+        width: 71
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc11cfac2b079600800000000000000
+      internalID: 474860572266011901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_33
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1771
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f3716dd7976bd00800000000000000
+      internalID: 988110749624123149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_34
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1774
+        width: 71
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0f1b2927cc83c80800000000000000
+      internalID: -8342693517244370720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_35
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1773
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d96b6a5d7338150800000000000000
+      internalID: 5873599729785806137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_36
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1771
+        width: 67
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c92cd6248625d390800000000000000
+      internalID: -7794281231065273920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_37
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1771
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89cc51d25424bcd60800000000000000
+      internalID: 7911490035282988184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_38
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1771
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af2c5413c76735f0800000000000000
+      internalID: -777038323140251738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_39
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 1773
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f944af328a44100800000000000000
+      internalID: 91382764930375544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_40
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1770
+        width: 72
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea8b15151ad6dc30800000000000000
+      internalID: 4383931071375051490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_41
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1666
+        width: 77
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6185bdad24d4d20800000000000000
+      internalID: 3264338812663764721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_42
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1664
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b68465709f07c50800000000000000
+      internalID: 6661097658788637565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_43
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1663
+        width: 72
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1edcf5fa32a94150800000000000000
+      internalID: 5857391164490833435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_44
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1664
+        width: 78
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2edb3fb3a18d3560800000000000000
+      internalID: 7295129511698095658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_45
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1666
+        width: 73
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf33c66359a45670800000000000000
+      internalID: 8526626170190643121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_46
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1667
+        width: 71
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d99b7cef8520ed0800000000000000
+      internalID: -2449297396040360655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_47
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 1670
+        width: 72
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb41f57ef02a67c0800000000000000
+      internalID: -4077410235358032904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_48
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1669
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbbc1db8d1ef49130800000000000000
+      internalID: 3572759807264934843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_49
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1566
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaaae81c169448590800000000000000
+      internalID: -7672927180924474710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_50
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1566
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58e1dd70ba981a50800000000000000
+      internalID: 6492108945670400092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_51
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1566
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8cb134fe1aaef160800000000000000
+      internalID: 7061268315686157455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_52
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1566
+        width: 72
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feed51e514ac8db40800000000000000
+      internalID: 5465340529914273519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_53
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1566
+        width: 75
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a8c395d748111b0800000000000000
+      internalID: -5687619180489307609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_54
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1567
+        width: 77
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44673ede9264e7590800000000000000
+      internalID: -7674619569094035900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_55
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1567
+        width: 77
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870ad9b8497cf08c0800000000000000
+      internalID: -4030783700661854088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_56
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1567
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0406bba437fc7c0800000000000000
+      internalID: -4048890775174364945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_57
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1463
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f66c114305b44750800000000000000
+      internalID: 6288350005297964787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_58
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1463
+        width: 71
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d7ba4d6edb86c00800000000000000
+      internalID: 894173325141179750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_59
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1463
+        width: 70
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d353f057c84414680800000000000000
+      internalID: -8772655229090974403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_60
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1463
+        width: 67
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e155c5d4b5097070800000000000000
+      internalID: 8104515278668648936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_61
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1463
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3faeef239af1fb0800000000000000
+      internalID: -4674831851697015830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_62
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1464
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae182db65bf61ff80800000000000000
+      internalID: -8074549831909867030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_63
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1467
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfa12c022de7df20800000000000000
+      internalID: 3447484770263609281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_64
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1465
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e93b77a10e1a25e0800000000000000
+      internalID: -1933700097548535323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_65
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1360
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8056161867cae5290800000000000000
+      internalID: -7899687071384509176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_66
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1359
+        width: 73
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622dc4448130f6b60800000000000000
+      internalID: 7741409687233155622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_67
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1357
+        width: 76
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570b9d9f7098664a0800000000000000
+      internalID: -6600437536515313547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_68
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1354
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0fbfaef94bdae900800000000000000
+      internalID: 714624601743671053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_69
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1355
+        width: 78
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04190849259607960800000000000000
+      internalID: 7597688374773715264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_70
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1357
+        width: 75
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ff44c83c8f86d70800000000000000
+      internalID: 9036746171074543509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_71
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1358
+        width: 72
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ff50807ae48fb40800000000000000
+      internalID: 5474211826369953603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_72
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1359
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943c8bebf04703820800000000000000
+      internalID: 2895942171372340041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_73
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1256
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e25b4ed9018aa30800000000000000
+      internalID: 4226646520620199479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_74
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1261
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e396fa99ae1d6ed0800000000000000
+      internalID: -2419243711029931035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_75
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1266
+        width: 57
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42da750e4ea91ddb0800000000000000
+      internalID: -4768860222601581276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_76
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1262
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50a8aaaa297bf960800000000000000
+      internalID: 7636830817295573085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_77
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1258
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f748abc8d90dec30800000000000000
+      internalID: 4390176038490490870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_78
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1255
+        width: 74
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f776a70398d324740800000000000000
+      internalID: 5134734184588928895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_79
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 1250
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab131862acfb5db00800000000000000
+      internalID: 852798579406877114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_80
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1246
+        width: 79
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7bd0347168293410800000000000000
+      internalID: 1457240353457363834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_81
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1145
+        width: 78
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3e6566ce3602360800000000000000
+      internalID: 7142818875990008785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_82
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1147
+        width: 74
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80283627b1c2d1ab0800000000000000
+      internalID: -5035820311935483384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_83
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1150
+        width: 74
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4d97dd3d8d78c00800000000000000
+      internalID: 902928654776521902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_84
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1151
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45e7268a17295a40800000000000000
+      internalID: 5357356226607310156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_85
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1144
+        width: 4
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71714488127ccd480800000000000000
+      internalID: -8872998218992707817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_86
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1151
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a10337381e6d38c0800000000000000
+      internalID: -4017934242260254298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_87
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1146
+        width: 4
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289b590eaf0433180800000000000000
+      internalID: -9136887772750694014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_88
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1182
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d4edf08252ad730800000000000000
+      internalID: 4024570071004105996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_89
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1167
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8203e4b13b88330800000000000000
+      internalID: 3713414822624241858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_90
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1165
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4309e31bd3b42610800000000000000
+      internalID: 1595597921509245771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_91
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1167
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0a9577a3c502b90800000000000000
+      internalID: -7268708392395759398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_92
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1167
+        width: 57
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5968e0155ea7ccd70800000000000000
+      internalID: 9064755275315971733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_93
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1144
+        width: 35
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea2957969d918da0800000000000000
+      internalID: -5944296763042485527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_94
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1151
+        width: 43
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da67287863d85e10800000000000000
+      internalID: 2186730064734284503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_95
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1150
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c085ed4ce17e680800000000000000
+      internalID: -8725971922114311111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1050
+        width: 944
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231b8d975376bc9e0800000000000000
+      internalID: -1600071763224907470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_97
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1049
+        width: 4
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9221727f8893540800000000000000
+      internalID: 4988168657383336426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_98
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1050
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf5473696623de40800000000000000
+      internalID: 5679925789126320053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_99
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1050
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb1da960d24a6930800000000000000
+      internalID: 4137192670586805236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_100
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1051
+        width: 73
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e92b47f9439eaf50800000000000000
+      internalID: 6894610025441602017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_101
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1049
+        width: 78
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd438cbd8ef5b2420800000000000000
+      internalID: 2606282263088346332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_102
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1047
+        width: 76
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a321add7c919e160800000000000000
+      internalID: 7055198637460104105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_103
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1047
+        width: 76
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ab7c8655206b020800000000000000
+      internalID: 2357074020828428822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_104
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 1047
+        width: 81
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636bd46e780192d60800000000000000
+      internalID: 7865836400049763894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_105
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 946
+        width: 75
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2ae78027d5a5e20800000000000000
+      internalID: 3340084817998815926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_106
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 948
+        width: 72
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7d4f4416014e310800000000000000
+      internalID: 1433288591365429207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_107
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 947
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488562fbb5f941800800000000000000
+      internalID: 582265468235438212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_108
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 947
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92a76417226ccbd0800000000000000
+      internalID: -2608602164168777062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_109
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 947
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7158731c97d0b59a0800000000000000
+      internalID: -6243381641835215593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_110
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 947
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0630a534e75d570800000000000000
+      internalID: 8490831500215017673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_111
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 947
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41761396150d216d0800000000000000
+      internalID: -3021123351936407788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_112
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 948
+        width: 72
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d6278fbb74d7250800000000000000
+      internalID: 5943985955851627884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_113
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 845
+        width: 74
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0160e0ee6691d00800000000000000
+      internalID: 943898769534357707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_114
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 844
+        width: 77
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd8b9ae82d6f6e60800000000000000
+      internalID: 7957699089089138175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_115
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 844
+        width: 76
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea16e0f38d7597290800000000000000
+      internalID: -7892180285707624018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_116
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 844
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa59479a30646fea0800000000000000
+      internalID: -5839402885297433169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_117
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 845
+        width: 75
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93af98ead2545f480800000000000000
+      internalID: -8866104228904830407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_118
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 845
+        width: 70
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4841cc124d960e8c0800000000000000
+      internalID: -3972058511519771516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_119
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 844
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f64e3c21ab245c0800000000000000
+      internalID: -4232616110016139443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_120
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 844
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c93b6c176f55110800000000000000
+      internalID: 1249175440190577702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_121
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 741
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9048296590cd551e0800000000000000
+      internalID: -2209618109490101239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_122
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 741
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aba1a0f14cd09850800000000000000
+      internalID: 6381842847752104871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_123
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 742
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbcb1f13ddaef2a50800000000000000
+      internalID: 6498671023065513151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_124
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 740
+        width: 72
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b46abdb5da9dba0800000000000000
+      internalID: -6063624813238924524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_125
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 739
+        width: 76
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7c6c179721ce990800000000000000
+      internalID: -7355483778593667163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_126
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 737
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd90bcdfb667f530800000000000000
+      internalID: 3888689777485061617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_127
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 736
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e917651848715aa0800000000000000
+      internalID: -6174021363156182558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_128
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 737
+        width: 77
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56266a084a00b4120800000000000000
+      internalID: 2399011933037945445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_129
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 636
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384dcd83998cbd9d0800000000000000
+      internalID: -2748382587170007933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_130
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 637
+        width: 72
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef03d6e35a0727d0800000000000000
+      internalID: -2943372475992174617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_131
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 640
+        width: 72
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbd81c4c63e46290800000000000000
+      internalID: -7897937792228336652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_132
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 638
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33c1a785cdcb24c0800000000000000
+      internalID: -4311125970009341124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_133
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 638
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c7fd1ff413278f0800000000000000
+      internalID: -544318385528275933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_134
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 638
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8aabebb1777f720800000000000000
+      internalID: 2879901447774447823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_135
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 640
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a465cecd9cea4450800000000000000
+      internalID: 6073927209985598627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_136
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 641
+        width: 69
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a125284f536c88b30800000000000000
+      internalID: 4289896580108145178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_137
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 536
+        width: 72
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502192b1208b08650800000000000000
+      internalID: 6233184203465888261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_138
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 534
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16726908fc7df87d0800000000000000
+      internalID: -2913873147669895327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_139
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 533
+        width: 72
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c517f16bff07c920800000000000000
+      internalID: 3010392448275256773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_140
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 534
+        width: 70
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3aa60ccdc16d60b0800000000000000
+      internalID: -5733819214053594563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_141
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 536
+        width: 71
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae26cd3ecab27c80800000000000000
+      internalID: -8326387366092198226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_142
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 538
+        width: 71
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e47aef7f1edf860800000000000000
+      internalID: 7565451404297850388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_143
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 537
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5a9dcedd8fbd0e0800000000000000
+      internalID: -2243926357268912727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_144
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 536
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f59671952796a00800000000000000
+      internalID: 750256539904335684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_145
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 433
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c170c33db511d700800000000000000
+      internalID: 563255330759274950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_146
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 433
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81a7fa4fe6bbc750800000000000000
+      internalID: 6326351240443175306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_147
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 433
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92972c28027263150800000000000000
+      internalID: 5851907786400758057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_148
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 433
+        width: 72
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90de8507496dc6450800000000000000
+      internalID: 6083473129699077385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_149
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 433
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646455fbc47bcda60800000000000000
+      internalID: 7700231003152139846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_150
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 432
+        width: 77
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11d08f9ab2e03f80800000000000000
+      internalID: -8128748036235931362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_151
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 430
+        width: 76
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980a501086a2e6110800000000000000
+      internalID: 1255987972265058441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_152
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 432
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7973ba29a16673ce0800000000000000
+      internalID: -1425558492723595369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_153
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 330
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8163928587f7e6ea0800000000000000
+      internalID: -5877620308820019688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_154
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 330
+        width: 71
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13bdebca581406e60800000000000000
+      internalID: 7953428984320940849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_155
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 330
+        width: 71
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf00b43a8b9a5120800000000000000
+      internalID: 2403404369047326645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_156
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 330
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c20e0ece52985d0800000000000000
+      internalID: -3059872772506243959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_157
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 330
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6827e1ae55744e780800000000000000
+      internalID: -8654714149573594490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_158
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 331
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2dbc9938cff7d640800000000000000
+      internalID: 5104829938072861998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_159
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 334
+        width: 57
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93633b8bd63aa0ac0800000000000000
+      internalID: -3888115636635486663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_160
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 332
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8fefabd18bcb5310800000000000000
+      internalID: 1394932268198260620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_161
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 227
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6941e5adb92af60800000000000000
+      internalID: 8044163246620710581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_162
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 226
+        width: 73
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ecdafcb39fa7dd60800000000000000
+      internalID: 7914987919192546532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_163
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 224
+        width: 76
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8efd48328e532c0800000000000000
+      internalID: -4452397417335101205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_164
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 221
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09597af305a36550800000000000000
+      internalID: 6152942952423971086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_165
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 222
+        width: 77
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b90b575ebaf9ee0800000000000000
+      internalID: -1252093169375339660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_166
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 224
+        width: 74
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa6fb99788c73360800000000000000
+      internalID: 7149403418199550635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_167
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 225
+        width: 72
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45007b24021ffde60800000000000000
+      internalID: 7989369384839086164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_168
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 226
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f23d5c24d16c9c50800000000000000
+      internalID: 6673316311761498872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_169
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 123
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5d771a7ebaa7cb0800000000000000
+      internalID: -4865387436085619258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_170
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 128
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5a82d87d9f75b00800000000000000
+      internalID: 817396561572570564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_171
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 133
+        width: 57
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a3db562a71d2640800000000000000
+      internalID: 5056723942865975832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_172
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 129
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92c891184e045cc0800000000000000
+      internalID: -3723335289232899427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_173
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 125
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ddae6e3fbb0fcd0800000000000000
+      internalID: -2526312734729249487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_174
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 122
+        width: 74
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7034749728e7f0e50800000000000000
+      internalID: 6777775063061447431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_175
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 117
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73cbec107451abb0800000000000000
+      internalID: -4926563676868328577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_176
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 113
+        width: 79
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6994676fba522a7f0800000000000000
+      internalID: -602877979609642602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_177
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 12
+        width: 77
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de46766388c9c7540800000000000000
+      internalID: 5007048994571379949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_178
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 14
+        width: 74
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70e4969bcfae4e10800000000000000
+      internalID: 2183876158260830331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_179
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 17
+        width: 74
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e1a1e140a46d900800000000000000
+      internalID: 708835372902784524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_180
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 18
+        width: 68
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2813d34f367a45550800000000000000
+      internalID: 6148723439008821634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_181
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 11
+        width: 5
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a672a8c7df368e9a0800000000000000
+      internalID: -6203598546335553686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_182
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 10
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ec3c58d8ec1d300800000000000000
+      internalID: 275228159476223629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_183
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 50
+        width: 43
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58bf42df4ac7fa60800000000000000
+      internalID: 7707851731447560283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_184
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 50
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2071fd029beb447d0800000000000000
+      internalID: -2935011354809002238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_185
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 51
+        width: 40
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd27d824dd7af41c0800000000000000
+      internalID: -4517207332483140901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_186
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 51
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa84e247db14a9ad0800000000000000
+      internalID: -2694769145074005841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_187
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 32
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afb8c0118211d9e0800000000000000
+      internalID: -1598476047198142559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_188
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 32
+        width: 42
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff04a53f60ee48a0800000000000000
+      internalID: -6318866458908291087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_189
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 32
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf4aff81125e1720800000000000000
+      internalID: 2818780652163977157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_190
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 32
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9305103551a6eb590800000000000000
+      internalID: -7656565676663812039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_191
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 30
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0f1a5bfd8789660800000000000000
+      internalID: 7392791690548998353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_192
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 13
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c627899ddabf8b00800000000000000
+      internalID: 833089917013141187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_193
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 13
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff3eb5fe40a24500800000000000000
+      internalID: 379041579643322364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_194
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 13
+        width: 41
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7239f43cb8475190800000000000000
+      internalID: -7973824642056375684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_195
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 11
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138f86a8204369d70800000000000000
+      internalID: 9049477686764304433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_196
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 13
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b700e79679eeca0800000000000000
+      internalID: -5985680375387489400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelure_197
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 13
+        width: 37
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3cd7166a0f06dd0800000000000000
+      internalID: -2494729596172385347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

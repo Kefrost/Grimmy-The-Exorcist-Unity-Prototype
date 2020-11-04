@@ -1,0 +1,2360 @@
+fileFormatVersion: 2
+guid: 16cab1fe483977e44a6bf948215d4ee3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5928757631602893268
+    second: Ludicolo male_ready_0
+  - first:
+      213: -8570042306730070588
+    second: Ludicolo male_ready_1
+  - first:
+      213: -7365464077534782164
+    second: Ludicolo male_ready_2
+  - first:
+      213: 5919548209764974651
+    second: Ludicolo male_ready_3
+  - first:
+      213: -8082168289372289250
+    second: Ludicolo male_ready_4
+  - first:
+      213: -6997251104865324958
+    second: Ludicolo male_ready_5
+  - first:
+      213: 5993246550347115623
+    second: Ludicolo male_ready_6
+  - first:
+      213: 5469132610238529475
+    second: Ludicolo male_ready_7
+  - first:
+      213: 3395181579510065905
+    second: Ludicolo male_ready_8
+  - first:
+      213: -128569128436373415
+    second: Ludicolo male_ready_9
+  - first:
+      213: 8922045175227198523
+    second: Ludicolo male_ready_10
+  - first:
+      213: -8280099065905372637
+    second: Ludicolo male_ready_11
+  - first:
+      213: 1496459427728838226
+    second: Ludicolo male_ready_12
+  - first:
+      213: -4552541482578379995
+    second: Ludicolo male_ready_13
+  - first:
+      213: -6753908576899209684
+    second: Ludicolo male_ready_14
+  - first:
+      213: 5034567285936879070
+    second: Ludicolo male_ready_15
+  - first:
+      213: -7002099912475417355
+    second: Ludicolo male_ready_16
+  - first:
+      213: 1217302079238813493
+    second: Ludicolo male_ready_17
+  - first:
+      213: -3094731833335938562
+    second: Ludicolo male_ready_18
+  - first:
+      213: 2346356834504936155
+    second: Ludicolo male_ready_19
+  - first:
+      213: -6686181846236704014
+    second: Ludicolo male_ready_20
+  - first:
+      213: -1234998973802317276
+    second: Ludicolo male_ready_21
+  - first:
+      213: 912000280532932151
+    second: Ludicolo male_ready_22
+  - first:
+      213: -5769676879130919803
+    second: Ludicolo male_ready_23
+  - first:
+      213: 699198580630570686
+    second: Ludicolo male_ready_24
+  - first:
+      213: 4405888282314484511
+    second: Ludicolo male_ready_25
+  - first:
+      213: 5682334400592856069
+    second: Ludicolo male_ready_26
+  - first:
+      213: 1533512707771161187
+    second: Ludicolo male_ready_27
+  - first:
+      213: -5736217691450794834
+    second: Ludicolo male_ready_28
+  - first:
+      213: 1355595933353929926
+    second: Ludicolo male_ready_29
+  - first:
+      213: -2625226699251704586
+    second: Ludicolo male_ready_30
+  - first:
+      213: 3322500324265220668
+    second: Ludicolo male_ready_31
+  - first:
+      213: -5660543687310615783
+    second: Ludicolo male_ready_32
+  - first:
+      213: -8658673700272973811
+    second: Ludicolo male_ready_33
+  - first:
+      213: 5831761092002494682
+    second: Ludicolo male_ready_34
+  - first:
+      213: 7944118511006826749
+    second: Ludicolo male_ready_35
+  - first:
+      213: -925521750642246122
+    second: Ludicolo male_ready_36
+  - first:
+      213: 925618215944215072
+    second: Ludicolo male_ready_37
+  - first:
+      213: 5832105140844583447
+    second: Ludicolo male_ready_38
+  - first:
+      213: 3456185095749131143
+    second: Ludicolo male_ready_39
+  - first:
+      213: -4772436820767871914
+    second: Ludicolo male_ready_40
+  - first:
+      213: -6484953243962412358
+    second: Ludicolo male_ready_41
+  - first:
+      213: 2629099428114485879
+    second: Ludicolo male_ready_42
+  - first:
+      213: -5547853301396171376
+    second: Ludicolo male_ready_43
+  - first:
+      213: -4119666084326333710
+    second: Ludicolo male_ready_44
+  - first:
+      213: 1385047004967303652
+    second: Ludicolo male_ready_45
+  - first:
+      213: -5121389234906066385
+    second: Ludicolo male_ready_46
+  - first:
+      213: 102554388286910259
+    second: Ludicolo male_ready_47
+  - first:
+      213: 8862705837504229133
+    second: Ludicolo male_ready_48
+  - first:
+      213: 577634246041195527
+    second: Ludicolo male_ready_49
+  - first:
+      213: 3315121020913092692
+    second: Ludicolo male_ready_50
+  - first:
+      213: 5895876727277790062
+    second: Ludicolo male_ready_51
+  - first:
+      213: 4423050154412642233
+    second: Ludicolo male_ready_52
+  - first:
+      213: -8251503743106793416
+    second: Ludicolo male_ready_53
+  - first:
+      213: 5571850560288763316
+    second: Ludicolo male_ready_54
+  - first:
+      213: 4338695911973025381
+    second: Ludicolo male_ready_55
+  - first:
+      213: -544035544744088162
+    second: Ludicolo male_ready_56
+  - first:
+      213: -2780495847225411401
+    second: Ludicolo male_ready_57
+  - first:
+      213: 1039721176293915877
+    second: Ludicolo male_ready_58
+  - first:
+      213: 6326548010255709155
+    second: Ludicolo male_ready_59
+  - first:
+      213: 1553917336871409337
+    second: Ludicolo male_ready_60
+  - first:
+      213: -1558939169330650696
+    second: Ludicolo male_ready_61
+  - first:
+      213: 5465038996739727001
+    second: Ludicolo male_ready_62
+  - first:
+      213: -5966143880619907939
+    second: Ludicolo male_ready_63
+  - first:
+      213: -7363376923477359588
+    second: Ludicolo male_ready_64
+  - first:
+      213: -622551484700355351
+    second: Ludicolo male_ready_65
+  - first:
+      213: 3670403866326554631
+    second: Ludicolo male_ready_66
+  - first:
+      213: 7574481453272244993
+    second: Ludicolo male_ready_67
+  - first:
+      213: -1192057155668106470
+    second: Ludicolo male_ready_68
+  - first:
+      213: -286059317414770997
+    second: Ludicolo male_ready_69
+  - first:
+      213: 4420545586497536789
+    second: Ludicolo male_ready_70
+  - first:
+      213: -4208764166916201803
+    second: Ludicolo male_ready_71
+  - first:
+      213: 2840637173598413155
+    second: Ludicolo male_ready_72
+  - first:
+      213: -4518331737667831515
+    second: Ludicolo male_ready_73
+  - first:
+      213: -3479910768504825355
+    second: Ludicolo male_ready_74
+  - first:
+      213: 8413613887516393275
+    second: Ludicolo male_ready_75
+  - first:
+      213: -7271604385892867683
+    second: Ludicolo male_ready_76
+  - first:
+      213: 5252079808231694423
+    second: Ludicolo male_ready_77
+  - first:
+      213: 7624289817723453181
+    second: Ludicolo male_ready_78
+  - first:
+      213: 3468099337798194876
+    second: Ludicolo male_ready_79
+  - first:
+      213: 5030159988064553710
+    second: Ludicolo male_ready_80
+  - first:
+      213: 1005899260817796693
+    second: Ludicolo male_ready_81
+  - first:
+      213: -8382164859405286638
+    second: Ludicolo male_ready_82
+  - first:
+      213: 663668980584849921
+    second: Ludicolo male_ready_83
+  - first:
+      213: -4310699173742941476
+    second: Ludicolo male_ready_84
+  - first:
+      213: 2028414304547422021
+    second: Ludicolo male_ready_85
+  - first:
+      213: 7949500982889852661
+    second: Ludicolo male_ready_86
+  - first:
+      213: -3290371131638364782
+    second: Ludicolo male_ready_87
+  - first:
+      213: 1828763505924724788
+    second: Ludicolo male_ready_88
+  - first:
+      213: 2261336966116610479
+    second: Ludicolo male_ready_89
+  - first:
+      213: -8139059987553742406
+    second: Ludicolo male_ready_90
+  - first:
+      213: 7338884661014099317
+    second: Ludicolo male_ready_91
+  - first:
+      213: 5338240825919239282
+    second: Ludicolo male_ready_92
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ludicolo male_ready_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 682
+        width: 59
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1a31f67ad274250800000000000000
+      internalID: 5928757631602893268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 685
+        width: 60
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cde8459de7111980800000000000000
+      internalID: -8570042306730070588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 681
+        width: 60
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d93a4027d98c990800000000000000
+      internalID: -7365464077534782164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_3
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 685
+        width: 60
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3047d1dbb5762250800000000000000
+      internalID: 5919548209764974651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_4
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 681
+        width: 61
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17c90113ce56df80800000000000000
+      internalID: -8082168289372289250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_5
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 681
+        width: 62
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260fa427135c4ee90800000000000000
+      internalID: -6997251104865324958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_6
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 681
+        width: 61
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c66c4ebf94c2350800000000000000
+      internalID: 5993246550347115623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_7
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 589
+        width: 60
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfb5ced12346eb40800000000000000
+      internalID: 5469132610238529475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_8
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 585
+        width: 60
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1faa5aa78ab1e1f20800000000000000
+      internalID: 3395181579510065905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_9
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 589
+        width: 60
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958e7721f0b373ef0800000000000000
+      internalID: -128569128436373415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_10
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 586
+        width: 59
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ca76bd0d871db70800000000000000
+      internalID: 8922045175227198523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_11
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 593
+        width: 57
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322aaa7f4cd271d80800000000000000
+      internalID: -8280099065905372637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_12
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 588
+        width: 57
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ecf82cbed74c410800000000000000
+      internalID: 1496459427728838226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_13
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 592
+        width: 57
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b7fa954af12d0c0800000000000000
+      internalID: -4552541482578379995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_14
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 492
+        width: 57
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26657cdeeb4542a0800000000000000
+      internalID: -6753908576899209684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 493
+        width: 57
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5f114b5406ed540800000000000000
+      internalID: 5034567285936879070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_16
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 494
+        width: 59
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4eb137a3b83de90800000000000000
+      internalID: -7002099912475417355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_17
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 494
+        width: 59
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537bf51aac9b4e010800000000000000
+      internalID: 1217302079238813493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_18
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 494
+        width: 59
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef10bee4bcd4d05d0800000000000000
+      internalID: -3094731833335938562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_19
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 490
+        width: 59
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda0af40c1fef8020800000000000000
+      internalID: 2346356834504936155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_20
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 494
+        width: 59
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f255672909e533a0800000000000000
+      internalID: -6686181846236704014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_21
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 394
+        width: 59
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a7a840af66cdee0800000000000000
+      internalID: -1234998973802317276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_22
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 394
+        width: 59
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736d8345c6318ac00800000000000000
+      internalID: 912000280532932151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_23
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 392
+        width: 36
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58cfd9e827dfdefa0800000000000000
+      internalID: -5769676879130919803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_24
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 450
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb641f1976d04b900800000000000000
+      internalID: 699198580630570686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_25
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 450
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b2963ac0cd42d30800000000000000
+      internalID: 4405888282314484511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_26
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 448
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504c152f705bbde40800000000000000
+      internalID: 5682334400592856069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_27
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 450
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a5f3dcea1284510800000000000000
+      internalID: 1533512707771161187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_28
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 450
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac93c2c66cd460b0800000000000000
+      internalID: -5736217691450794834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_29
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 450
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc6682b15b00d210800000000000000
+      internalID: 1355595933353929926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_30
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 450
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc1b30e932519bd0800000000000000
+      internalID: -2625226699251704586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_31
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 450
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ad2f90174eb1e20800000000000000
+      internalID: 3322500324265220668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_32
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 450
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b554ad185b171b0800000000000000
+      internalID: -5660543687310615783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_33
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 450
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08563d252636d780800000000000000
+      internalID: -8658673700272973811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_34
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 448
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8b0cfa0d39ee050800000000000000
+      internalID: 5831761092002494682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_35
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 429
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0ca2e22bd2f3e60800000000000000
+      internalID: 7944118511006826749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_36
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 434
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e32151fd2e723f0800000000000000
+      internalID: -925521750642246122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_37
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 434
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a5cfefcd478dc00800000000000000
+      internalID: 925618215944215072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_38
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 434
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a55ccc9bccfe050800000000000000
+      internalID: 5832105140844583447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_39
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 434
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b502e6806d6ff20800000000000000
+      internalID: 3456185095749131143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_40
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 434
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ce2293ff5e4cdb0800000000000000
+      internalID: -4772436820767871914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_41
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 434
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab27a942261d006a0800000000000000
+      internalID: -6484953243962412358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_42
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 434
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77252f310007c7420800000000000000
+      internalID: 2629099428114485879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_43
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 434
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0959d40f0d01203b0800000000000000
+      internalID: -5547853301396171376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_44
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 434
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f22182f58104d6c0800000000000000
+      internalID: -4119666084326333710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_45
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 412
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e97b48a9eca83310800000000000000
+      internalID: 1385047004967303652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_46
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 412
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f221ae800ab2de8b0800000000000000
+      internalID: -5121389234906066385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_47
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 410
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33faffb3ca85c6100800000000000000
+      internalID: 102554388286910259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_48
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 412
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f6839a008aefa70800000000000000
+      internalID: 8862705837504229133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_49
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 412
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704d26d494b240800800000000000000
+      internalID: 577634246041195527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_50
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 412
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45884f6110da10e20800000000000000
+      internalID: 3315121020913092692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_51
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 412
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63a2e055ac52d150800000000000000
+      internalID: 5895876727277790062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_52
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 412
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf808d5ea4d16d30800000000000000
+      internalID: 4423050154412642233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_53
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 412
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83040516015cc7d80800000000000000
+      internalID: -8251503743106793416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_54
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 412
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bda29b4090335d40800000000000000
+      internalID: 5571850560288763316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_55
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 412
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566779dc1f4263c30800000000000000
+      internalID: 4338695911973025381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 299
+        width: 742
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9da752fd823378f0800000000000000
+      internalID: -544035544744088162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_57
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 391
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b83ea632c1b969d0800000000000000
+      internalID: -2780495847225411401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_58
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 391
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec3372b6e4dd6e00800000000000000
+      internalID: 1039721176293915877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_59
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 391
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3feb555e96cc750800000000000000
+      internalID: 6326548010255709155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_60
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 396
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b69a8ab59f909510800000000000000
+      internalID: 1553917336871409337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_61
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 396
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1aa99c5198d5ae0800000000000000
+      internalID: -1558939169330650696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_62
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 396
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e14543308b7db40800000000000000
+      internalID: 5465038996739727001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_63
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 396
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94a7c420cff33da0800000000000000
+      internalID: -5966143880619907939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_64
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 396
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14c2d073b700d990800000000000000
+      internalID: -7363376923477359588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_65
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 396
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e41b0c19b04c57f0800000000000000
+      internalID: -622551484700355351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_66
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 396
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7085d9aaed4efe230800000000000000
+      internalID: 3670403866326554631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_67
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 396
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103a31c10c6fd1960800000000000000
+      internalID: 7574481453272244993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_68
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 396
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13a07c2556f47fe0800000000000000
+      internalID: -1192057155668106470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_69
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 396
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc64dc00196b70cf0800000000000000
+      internalID: -286059317414770997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_70
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 396
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5134b943acee85d30800000000000000
+      internalID: 4420545586497536789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_71
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 300
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b221970a477795c0800000000000000
+      internalID: -4208764166916201803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_72
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 303
+        width: 53
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3616a148578fb6720800000000000000
+      internalID: 2840637173598413155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_73
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 299
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5297fe64939ab41c0800000000000000
+      internalID: -4518331737667831515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_74
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 303
+        width: 55
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f99639e79fd4bfc0800000000000000
+      internalID: -3479910768504825355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_75
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 299
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f35b2e04923c470800000000000000
+      internalID: 8413613887516393275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_76
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 298
+        width: 59
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91eeaf6652161b90800000000000000
+      internalID: -7271604385892867683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_77
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 299
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750e6a542c223e840800000000000000
+      internalID: 5252079808231694423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_78
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 207
+        width: 55
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfeb80aa13beec960800000000000000
+      internalID: 7624289817723453181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_79
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 203
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb69a3319f9212030800000000000000
+      internalID: 3468099337798194876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_80
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 207
+        width: 53
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea88f3bbd7bec540800000000000000
+      internalID: 5030159988064553710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_81
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 204
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e6fd85c0ca5fd00800000000000000
+      internalID: 1005899260817796693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_82
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 207
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213c26298719cab80800000000000000
+      internalID: -8382164859405286638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_83
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 200
+        width: 53
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102a43ceb63d53900800000000000000
+      internalID: 663668980584849921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_84
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 205
+        width: 53
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda6b77c0f15d24c0800000000000000
+      internalID: -4310699173742941476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_85
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 104
+        width: 53
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54fbedf1010662c10800000000000000
+      internalID: 2028414304547422021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_86
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 105
+        width: 53
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fea4c2960d425e60800000000000000
+      internalID: 7949500982889852661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_87
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 107
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295ce7f83e04652d0800000000000000
+      internalID: -3290371131638364782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_88
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 114
+        width: 53
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43857dc28b2116910800000000000000
+      internalID: 1828763505924724788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_89
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 106
+        width: 53
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa117d65df1e16f10800000000000000
+      internalID: 2261336966116610479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_90
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 114
+        width: 53
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1934c50104c0f80800000000000000
+      internalID: -8139059987553742406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_91
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 107
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575fe4357b4f8d560800000000000000
+      internalID: 7338884661014099317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ludicolo male_ready_92
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 12
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274776a7fbd351a40800000000000000
+      internalID: 5338240825919239282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

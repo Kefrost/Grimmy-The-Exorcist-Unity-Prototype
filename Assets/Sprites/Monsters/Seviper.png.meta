@@ -1,0 +1,4136 @@
+fileFormatVersion: 2
+guid: 7823faa9f1ac1d0449f8935fd77d4a9a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4743838422593386447
+    second: Seviper_0
+  - first:
+      213: 4011704641453797827
+    second: Seviper_1
+  - first:
+      213: 1066996692013646569
+    second: Seviper_2
+  - first:
+      213: -9150350199274547921
+    second: Seviper_3
+  - first:
+      213: -5994480039762336812
+    second: Seviper_4
+  - first:
+      213: -5915132762803003778
+    second: Seviper_5
+  - first:
+      213: 8949948239886786498
+    second: Seviper_6
+  - first:
+      213: 3712543344885558447
+    second: Seviper_7
+  - first:
+      213: 3679541886834679910
+    second: Seviper_8
+  - first:
+      213: 3910744066725970072
+    second: Seviper_9
+  - first:
+      213: -863790016104750944
+    second: Seviper_10
+  - first:
+      213: -4101915539408158648
+    second: Seviper_11
+  - first:
+      213: -2816605244992807157
+    second: Seviper_12
+  - first:
+      213: 5896937868436979719
+    second: Seviper_13
+  - first:
+      213: -7737293736040570586
+    second: Seviper_14
+  - first:
+      213: -384378176454797577
+    second: Seviper_15
+  - first:
+      213: -3776890805198730210
+    second: Seviper_16
+  - first:
+      213: 7425640733657518131
+    second: Seviper_17
+  - first:
+      213: -2753300131149736819
+    second: Seviper_18
+  - first:
+      213: -7757123706916422660
+    second: Seviper_19
+  - first:
+      213: -3595219913285824094
+    second: Seviper_20
+  - first:
+      213: -5944952609599709685
+    second: Seviper_21
+  - first:
+      213: -2369130620000135231
+    second: Seviper_22
+  - first:
+      213: 4557944478465699560
+    second: Seviper_23
+  - first:
+      213: -2943169529386905170
+    second: Seviper_24
+  - first:
+      213: -7658589117761872000
+    second: Seviper_25
+  - first:
+      213: 7186668956606673546
+    second: Seviper_26
+  - first:
+      213: -1798571058288660519
+    second: Seviper_27
+  - first:
+      213: 1367263733796372976
+    second: Seviper_28
+  - first:
+      213: -4160620963555055350
+    second: Seviper_29
+  - first:
+      213: -4428301949892378678
+    second: Seviper_30
+  - first:
+      213: 2488994574387666855
+    second: Seviper_31
+  - first:
+      213: 3576682261942588473
+    second: Seviper_32
+  - first:
+      213: -3921079126911845939
+    second: Seviper_33
+  - first:
+      213: 7909194630588261973
+    second: Seviper_34
+  - first:
+      213: -8573190945984559535
+    second: Seviper_35
+  - first:
+      213: -8193385816781939488
+    second: Seviper_36
+  - first:
+      213: 3710625292191752105
+    second: Seviper_37
+  - first:
+      213: -7923193640018969940
+    second: Seviper_38
+  - first:
+      213: -9020078352090277406
+    second: Seviper_39
+  - first:
+      213: -15629864485872637
+    second: Seviper_40
+  - first:
+      213: 1636240605229859615
+    second: Seviper_41
+  - first:
+      213: 1945481140466912830
+    second: Seviper_42
+  - first:
+      213: 4726838773340045526
+    second: Seviper_43
+  - first:
+      213: -748616760355674266
+    second: Seviper_44
+  - first:
+      213: 1857056541804856717
+    second: Seviper_45
+  - first:
+      213: 4742288067570554990
+    second: Seviper_46
+  - first:
+      213: 3817575619326040114
+    second: Seviper_47
+  - first:
+      213: -2856781179442129121
+    second: Seviper_48
+  - first:
+      213: -8165597061120984865
+    second: Seviper_49
+  - first:
+      213: -8201599524820029045
+    second: Seviper_50
+  - first:
+      213: -6735918472709364529
+    second: Seviper_51
+  - first:
+      213: -6596291441792636105
+    second: Seviper_52
+  - first:
+      213: -6358326208598717059
+    second: Seviper_53
+  - first:
+      213: 3939360324645557847
+    second: Seviper_54
+  - first:
+      213: 7932393574146436040
+    second: Seviper_55
+  - first:
+      213: 5128660173144202072
+    second: Seviper_56
+  - first:
+      213: 8624966623440848195
+    second: Seviper_57
+  - first:
+      213: 4995347329853342481
+    second: Seviper_58
+  - first:
+      213: 8440319778975746995
+    second: Seviper_59
+  - first:
+      213: -8028249107408971658
+    second: Seviper_60
+  - first:
+      213: -4941920816261563568
+    second: Seviper_61
+  - first:
+      213: 6412158675493632809
+    second: Seviper_62
+  - first:
+      213: -5772303833678538313
+    second: Seviper_63
+  - first:
+      213: 9100973495410017051
+    second: Seviper_64
+  - first:
+      213: -4462741200740662640
+    second: Seviper_65
+  - first:
+      213: -5786954150745861035
+    second: Seviper_66
+  - first:
+      213: -8114803902546605980
+    second: Seviper_67
+  - first:
+      213: 6850647916250141299
+    second: Seviper_68
+  - first:
+      213: -8006563763612358029
+    second: Seviper_69
+  - first:
+      213: -7440495584644019521
+    second: Seviper_70
+  - first:
+      213: 6735007798284409095
+    second: Seviper_71
+  - first:
+      213: 2351901692908028872
+    second: Seviper_72
+  - first:
+      213: 2277417932173057095
+    second: Seviper_73
+  - first:
+      213: -7302961908990286012
+    second: Seviper_74
+  - first:
+      213: 319653006974364138
+    second: Seviper_75
+  - first:
+      213: -7815788527238977041
+    second: Seviper_76
+  - first:
+      213: 300687264113083425
+    second: Seviper_77
+  - first:
+      213: 2622423869297057741
+    second: Seviper_78
+  - first:
+      213: 507228747896809519
+    second: Seviper_79
+  - first:
+      213: 3085469723257953253
+    second: Seviper_80
+  - first:
+      213: -3806603223082857224
+    second: Seviper_81
+  - first:
+      213: -6995726537302269879
+    second: Seviper_82
+  - first:
+      213: 3865344586912032883
+    second: Seviper_83
+  - first:
+      213: -3797763010507934056
+    second: Seviper_84
+  - first:
+      213: -4175462225133682798
+    second: Seviper_85
+  - first:
+      213: -7265801748490874239
+    second: Seviper_86
+  - first:
+      213: -3468779664773667404
+    second: Seviper_87
+  - first:
+      213: 6172350734359237765
+    second: Seviper_88
+  - first:
+      213: -8437516488836823048
+    second: Seviper_89
+  - first:
+      213: -3438159081481881552
+    second: Seviper_90
+  - first:
+      213: -185381408941879721
+    second: Seviper_91
+  - first:
+      213: -8883942094577955711
+    second: Seviper_92
+  - first:
+      213: 4618008563812527438
+    second: Seviper_93
+  - first:
+      213: -6582057684984222304
+    second: Seviper_94
+  - first:
+      213: -5059978618754737475
+    second: Seviper_95
+  - first:
+      213: -769319178734035809
+    second: Seviper_96
+  - first:
+      213: -75837944968936875
+    second: Seviper_97
+  - first:
+      213: -7771508512335333189
+    second: Seviper_98
+  - first:
+      213: 1718480537300218268
+    second: Seviper_99
+  - first:
+      213: 60811906284723623
+    second: Seviper_100
+  - first:
+      213: 4522075802339889569
+    second: Seviper_101
+  - first:
+      213: 2167099657171643637
+    second: Seviper_102
+  - first:
+      213: -5780875066838550309
+    second: Seviper_103
+  - first:
+      213: -3772652869137672124
+    second: Seviper_104
+  - first:
+      213: 7059533334071250002
+    second: Seviper_105
+  - first:
+      213: 4281940925124199264
+    second: Seviper_106
+  - first:
+      213: 4286632434299000875
+    second: Seviper_107
+  - first:
+      213: 2580933069839011191
+    second: Seviper_108
+  - first:
+      213: 2237586615456848070
+    second: Seviper_109
+  - first:
+      213: 6056980876987874560
+    second: Seviper_110
+  - first:
+      213: -2866078059205055915
+    second: Seviper_111
+  - first:
+      213: -2011408260758639390
+    second: Seviper_112
+  - first:
+      213: -380332187229031485
+    second: Seviper_113
+  - first:
+      213: -8898140710562558232
+    second: Seviper_114
+  - first:
+      213: -5657195807791379918
+    second: Seviper_115
+  - first:
+      213: -8637675230681710628
+    second: Seviper_116
+  - first:
+      213: -4768682193448564873
+    second: Seviper_117
+  - first:
+      213: 3594332211444312650
+    second: Seviper_118
+  - first:
+      213: -2219364842355221919
+    second: Seviper_119
+  - first:
+      213: -7267250819448614135
+    second: Seviper_120
+  - first:
+      213: 6782504538607604232
+    second: Seviper_121
+  - first:
+      213: -3736100324369354602
+    second: Seviper_122
+  - first:
+      213: -6599542176374408150
+    second: Seviper_123
+  - first:
+      213: 7287888786718696064
+    second: Seviper_124
+  - first:
+      213: 1671887576866790671
+    second: Seviper_125
+  - first:
+      213: 5731158961058238043
+    second: Seviper_126
+  - first:
+      213: -1936904529044139891
+    second: Seviper_127
+  - first:
+      213: 3086904683587949466
+    second: Seviper_128
+  - first:
+      213: -7955836300617934516
+    second: Seviper_129
+  - first:
+      213: 9156347353558647898
+    second: Seviper_130
+  - first:
+      213: -4390422306471243197
+    second: Seviper_131
+  - first:
+      213: -4898280688168349892
+    second: Seviper_132
+  - first:
+      213: 6816853989838642559
+    second: Seviper_133
+  - first:
+      213: -7263116847279218160
+    second: Seviper_134
+  - first:
+      213: 157058443733646025
+    second: Seviper_135
+  - first:
+      213: -4616581235651445174
+    second: Seviper_136
+  - first:
+      213: 1617169357377788539
+    second: Seviper_137
+  - first:
+      213: -6135087664955692375
+    second: Seviper_138
+  - first:
+      213: -324074846063453029
+    second: Seviper_139
+  - first:
+      213: -5067696133959210302
+    second: Seviper_140
+  - first:
+      213: 2681638781979409814
+    second: Seviper_141
+  - first:
+      213: 2696568285755080194
+    second: Seviper_142
+  - first:
+      213: -4582302355019349869
+    second: Seviper_143
+  - first:
+      213: -1066054817689446973
+    second: Seviper_144
+  - first:
+      213: 1150868679100945709
+    second: Seviper_145
+  - first:
+      213: 804323310110732720
+    second: Seviper_146
+  - first:
+      213: 5655996034455429009
+    second: Seviper_147
+  - first:
+      213: 4049951029940336695
+    second: Seviper_148
+  - first:
+      213: 369091963265990426
+    second: Seviper_149
+  - first:
+      213: 120170618989030286
+    second: Seviper_150
+  - first:
+      213: -6331183678773333936
+    second: Seviper_151
+  - first:
+      213: 8096112945906321995
+    second: Seviper_152
+  - first:
+      213: 2602693756883324314
+    second: Seviper_153
+  - first:
+      213: 6165542439526059321
+    second: Seviper_154
+  - first:
+      213: -7900033140831646378
+    second: Seviper_155
+  - first:
+      213: -8999409942790279349
+    second: Seviper_156
+  - first:
+      213: -2858106302493917501
+    second: Seviper_157
+  - first:
+      213: -654591372064529887
+    second: Seviper_158
+  - first:
+      213: -2094233357889430447
+    second: Seviper_159
+  - first:
+      213: -379509893632366490
+    second: Seviper_160
+  - first:
+      213: 6515769822704627948
+    second: Seviper_161
+  - first:
+      213: 1901940624863881332
+    second: Seviper_162
+  - first:
+      213: 1622804581840335364
+    second: Seviper_163
+  - first:
+      213: 6466270366167560964
+    second: Seviper_164
+  - first:
+      213: 7979970263896614124
+    second: Seviper_165
+  - first:
+      213: -3990447245705778913
+    second: Seviper_166
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Seviper_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1089
+        width: 74
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138c87da6108a2eb0800000000000000
+      internalID: -4743838422593386447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1089
+        width: 76
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1b3a1dd107ca730800000000000000
+      internalID: 4011704641453797827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_2
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1089
+        width: 77
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e28df396dbbece00800000000000000
+      internalID: 1066996692013646569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_3
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1089
+        width: 80
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25d0d179fc630180800000000000000
+      internalID: -9150350199274547921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_4
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1089
+        width: 83
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3ebc8f9245fcca0800000000000000
+      internalID: -5994480039762336812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_5
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1089
+        width: 86
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e1ad9871a39eda0800000000000000
+      internalID: -5915132762803003778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_6
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1127
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf959c518a943c70800000000000000
+      internalID: 8949948239886786498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_7
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1127
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: face425908a958330800000000000000
+      internalID: 3712543344885558447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_8
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1127
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660a3fcd9db501330800000000000000
+      internalID: 3679541886834679910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_9
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1127
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8900ba83201c54630800000000000000
+      internalID: 3910744066725970072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_10
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1127
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a02c819e833304f0800000000000000
+      internalID: -863790016104750944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_11
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1127
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8400ceebc811317c0800000000000000
+      internalID: -4101915539408158648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_12
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1127
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f93b3e37869e8d0800000000000000
+      internalID: -2816605244992807157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_13
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1127
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7004cbe7fb126d150800000000000000
+      internalID: 5896937868436979719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_14
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1127
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621627c475c9f9490800000000000000
+      internalID: -7737293736040570586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_15
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1127
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6dff4c51a6aaaf0800000000000000
+      internalID: -384378176454797577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_16
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1127
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1cc0b0d2d9c59bc0800000000000000
+      internalID: -3776890805198730210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_17
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1127
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330d35f87ec2d0760800000000000000
+      internalID: 7425640733657518131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1113
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8498ca4e105ac9d0800000000000000
+      internalID: -2753300131149736819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_19
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1104
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb3c7a6619295490800000000000000
+      internalID: -7757123706916422660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_20
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1104
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1103389863b1ec0800000000000000
+      internalID: -3595219913285824094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_21
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1104
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e174a69194f7da0800000000000000
+      internalID: -5944952609599709685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_22
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1104
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c71468d0482f1fd0800000000000000
+      internalID: -2369130620000135231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_23
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1104
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eea6e8aa52114f30800000000000000
+      internalID: 4557944478465699560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_24
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1104
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1d32718e2c727d0800000000000000
+      internalID: -2943169529386905170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_25
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1104
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f912b36c937b590800000000000000
+      internalID: -7658589117761872000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_26
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1104
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a823ed4e65d2cb360800000000000000
+      internalID: 7186668956606673546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_27
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1104
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dfe767d6213a07e0800000000000000
+      internalID: -1798571058288660519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_28
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1104
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1053f2f1f79f210800000000000000
+      internalID: 1367263733796372976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_29
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1104
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09e14e07418246c0800000000000000
+      internalID: -4160620963555055350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_30
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1104
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acfbe76b6d28b82c0800000000000000
+      internalID: -4428301949892378678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_31
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1104
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af504ec06faa8220800000000000000
+      internalID: 2488994574387666855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_32
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1081
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9345781319de2a130800000000000000
+      internalID: 3576682261942588473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_33
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1081
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc978301f478599c0800000000000000
+      internalID: -3921079126911845939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_34
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1081
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556e3af9c9a13cd60800000000000000
+      internalID: 7909194630588261973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_35
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1081
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156cef0e148e50980800000000000000
+      internalID: -8573190945984559535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_36
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1081
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec1df2920f3b4e80800000000000000
+      internalID: -8193385816781939488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_37
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1081
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af5ba32b0ace7330800000000000000
+      internalID: 3710625292191752105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_38
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1081
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caaf8000d592b0290800000000000000
+      internalID: -7923193640018969940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_39
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1081
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9d779778e32d280800000000000000
+      internalID: -9020078352090277406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_40
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1015
+        width: 88
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c9e6798b878cff0800000000000000
+      internalID: -15629864485872637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_41
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1015
+        width: 90
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13cbc9492815b610800000000000000
+      internalID: 1636240605229859615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_42
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1015
+        width: 86
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e80c62accbffa10800000000000000
+      internalID: 1945481140466912830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_43
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1015
+        width: 82
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d00a7b02da199140800000000000000
+      internalID: 4726838773340045526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_44
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1015
+        width: 78
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667a816d5016c95f0800000000000000
+      internalID: -748616760355674266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_45
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1015
+        width: 76
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85081ee51795c910800000000000000
+      internalID: 1857056541804856717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_46
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1025
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68dd1a2fddffc140800000000000000
+      internalID: 4742288067570554990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_47
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1025
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238de15acc0caf430800000000000000
+      internalID: 3817575619326040114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_48
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1025
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17945637acaa58d0800000000000000
+      internalID: -2856781179442129121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_49
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1025
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8f8e07cb8fdae80800000000000000
+      internalID: -8165597061120984865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_50
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1025
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81f615afa01e2e80800000000000000
+      internalID: -8201599524820029045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_51
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1025
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4aa2666d53582a0800000000000000
+      internalID: -6735918472709364529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_52
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1025
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b2001e1e34574a0800000000000000
+      internalID: -6596291441792636105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_53
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1025
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7dca6a4000b2c7a0800000000000000
+      internalID: -6358326208598717059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_54
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1025
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75614c8f75b6ba630800000000000000
+      internalID: 3939360324645557847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_55
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1025
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cbe6959de5851e60800000000000000
+      internalID: 7932393574146436040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_56
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1025
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b14f13149ac2740800000000000000
+      internalID: 5128660173144202072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_57
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1025
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345cacd627902b770800000000000000
+      internalID: 8624966623440848195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_58
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1025
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113ca951ee9035540800000000000000
+      internalID: 4995347329853342481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_59
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1002
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb8d88ce1a022570800000000000000
+      internalID: 8440319778975746995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_60
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1002
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6789a88e8fde59090800000000000000
+      internalID: -8028249107408971658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_61
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1002
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05bfe967335ca6bb0800000000000000
+      internalID: -4941920816261563568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_62
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1002
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bbc30a7509cf850800000000000000
+      internalID: 6412158675493632809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_63
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1002
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b917f90f38a4efa0800000000000000
+      internalID: -5772303833678538313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_64
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1002
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13c820dc272d4e70800000000000000
+      internalID: 9100973495410017051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_65
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1002
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0924a55c5882112c0800000000000000
+      internalID: -4462741200740662640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_66
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1002
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55412594cdb90bfa0800000000000000
+      internalID: -5786954150745861035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_67
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1002
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46881ce38dc626f80800000000000000
+      internalID: -8114803902546605980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_68
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1002
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3721c59cbf3621f50800000000000000
+      internalID: 6850647916250141299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_69
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1002
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37aee567da8f2e090800000000000000
+      internalID: -8006563763612358029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_70
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1002
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba4e6cefac0eb890800000000000000
+      internalID: -7440495584644019521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_71
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1002
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7095a30b8ed877d50800000000000000
+      internalID: 6735007798284409095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_72
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1002
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c34c68f022a3a020800000000000000
+      internalID: 2351901692908028872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_73
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 979
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c97440b830b9f10800000000000000
+      internalID: 2277417932173057095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_74
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 979
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447ec6626daa6aa90800000000000000
+      internalID: -7302961908990286012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_75
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 979
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9a71c57b2af6400800000000000000
+      internalID: 319653006974364138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_76
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 979
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9e85a8ebdb88390800000000000000
+      internalID: -7815788527238977041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_77
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 979
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124c1fd39714c2400800000000000000
+      internalID: 300687264113083425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_78
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 979
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfd4fb6d98b46420800000000000000
+      internalID: 2622423869297057741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_79
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 979
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28614adbd90a0700800000000000000
+      internalID: 507228747896809519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_80
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 908
+        width: 74
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb5304ad5ac1da20800000000000000
+      internalID: 3085469723257953253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_81
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 908
+        width: 78
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc0a4f698a3c2bc0800000000000000
+      internalID: -3806603223082857224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_82
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 908
+        width: 79
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940235e77cf2aee90800000000000000
+      internalID: -6995726537302269879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_83
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 908
+        width: 80
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378ee5d1c6674a530800000000000000
+      internalID: 3865344586912032883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_84
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 908
+        width: 81
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8967e81d9a2ab4bc0800000000000000
+      internalID: -3797763010507934056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_85
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 908
+        width: 88
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f38d19a37cd06c0800000000000000
+      internalID: -4175462225133682798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_86
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 956
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1821acc3ecfaa2b90800000000000000
+      internalID: -7265801748490874239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_87
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 956
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b52115f54b6cdfc0800000000000000
+      internalID: -3468779664773667404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_88
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 956
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5849a965a4898a550800000000000000
+      internalID: 6172350734359237765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_89
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 956
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f74160157be7ea80800000000000000
+      internalID: -8437516488836823048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_90
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 956
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0383df218843940d0800000000000000
+      internalID: -3438159081481881552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_91
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 956
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ece0c37946d6df0800000000000000
+      internalID: -185381408941879721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_92
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 956
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c8a8febb5e5b480800000000000000
+      internalID: -8883942094577955711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_93
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 931
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4de1cf4256761040800000000000000
+      internalID: 4618008563812527438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_94
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 820
+        width: 93
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ada263a865d7a4a0800000000000000
+      internalID: -6582057684984222304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_95
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 820
+        width: 92
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba5d02514857c9b0800000000000000
+      internalID: -5059978618754737475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_96
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 820
+        width: 97
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c99a07844d255f0800000000000000
+      internalID: -769319178734035809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_97
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 820
+        width: 92
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55281a57ac192fef0800000000000000
+      internalID: -75837944968936875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_98
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 820
+        width: 89
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8f359ee2e062490800000000000000
+      internalID: -7771508512335333189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_99
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 764
+        width: 74
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91b33b91f449d710800000000000000
+      internalID: 1718480537300218268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_100
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 766
+        width: 72
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad17384b1c08d000800000000000000
+      internalID: 60811906284723623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_101
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 733
+        width: 92
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1dbd5bbf3a1ce30800000000000000
+      internalID: 4522075802339889569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_102
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 733
+        width: 92
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc269a08a5131e10800000000000000
+      internalID: 2167099657171643637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_103
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 733
+        width: 91
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8fc2e41c436cfa0800000000000000
+      internalID: -5780875066838550309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_104
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 733
+        width: 86
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448d0323438d4abc0800000000000000
+      internalID: -3772652869137672124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_105
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 733
+        width: 80
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c88511a2088f160800000000000000
+      internalID: 7059533334071250002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_106
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 635
+        width: 120
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0634c3fa5928c6b30800000000000000
+      internalID: 4281940925124199264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_107
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 642
+        width: 79
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b285f09cc7d2d7b30800000000000000
+      internalID: 4286632434299000875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_108
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 642
+        width: 78
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d00d0e3f051d320800000000000000
+      internalID: 2580933069839011191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_109
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 642
+        width: 78
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c85978eb218d0f10800000000000000
+      internalID: 2237586615456848070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_110
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 642
+        width: 76
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d32303408be0450800000000000000
+      internalID: 6056980876987874560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_111
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 642
+        width: 76
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55aaa86b035a938d0800000000000000
+      internalID: -2866078059205055915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_112
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 549
+        width: 75
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ece13ff7da0614e0800000000000000
+      internalID: -2011408260758639390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_113
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 549
+        width: 74
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3f09b04e9c8baf0800000000000000
+      internalID: -380332187229031485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_114
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 598
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee0a790b24738480800000000000000
+      internalID: -8898140710562558232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_115
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 598
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a04cbc26a9d71b0800000000000000
+      internalID: -5657195807791379918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_116
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 598
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfb60e5420d02880800000000000000
+      internalID: -8637675230681710628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_117
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 598
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77784c48fcc32ddb0800000000000000
+      internalID: -4768682193448564873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_118
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 598
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ae1eb4a12a1e130800000000000000
+      internalID: 3594332211444312650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_119
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 575
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a1d604f6b3331e0800000000000000
+      internalID: -2219364842355221919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_120
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 575
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903591d12e9852b90800000000000000
+      internalID: -7267250819448614135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_121
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 575
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8025e2f41fb402e50800000000000000
+      internalID: 6782504538607604232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_122
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 575
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6903eb8bc84b62cc0800000000000000
+      internalID: -3736100324369354602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_123
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 575
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cbef04b57b964a0800000000000000
+      internalID: -6599542176374408150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_124
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 575
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082abe61d38c32560800000000000000
+      internalID: 7287888786718696064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_125
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 575
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d9883a4ecb33710800000000000000
+      internalID: 1671887576866790671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_126
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 575
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e4c29c5ba298f40800000000000000
+      internalID: 5731158961058238043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_127
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 575
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d809a7ec79bbe15e0800000000000000
+      internalID: -1936904529044139891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_128
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 575
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93dfb06473e6da20800000000000000
+      internalID: 3086904683587949466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_129
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 562
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4992825901379190800000000000000
+      internalID: -7955836300617934516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_130
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 484
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5483f8d761e11f70800000000000000
+      internalID: 9156347353558647898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_131
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 453
+        width: 72
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34294d87c261213c0800000000000000
+      internalID: -4390422306471243197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_132
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 453
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3fc1939aafc50cb0800000000000000
+      internalID: -4898280688168349892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_133
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 453
+        width: 75
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d590626945a9e50800000000000000
+      internalID: 6816853989838642559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_134
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 453
+        width: 75
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01264c385b9343b90800000000000000
+      internalID: -7263116847279218160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_135
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 453
+        width: 78
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca38bb82dbfd2200800000000000000
+      internalID: 157058443733646025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_136
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 452
+        width: 80
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ef24c63db9eefb0800000000000000
+      internalID: -4616581235651445174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_137
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 371
+        width: 83
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a562066f6517610800000000000000
+      internalID: 1617169357377788539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_138
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 371
+        width: 85
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa6f68164acbdaa0800000000000000
+      internalID: -6135087664955692375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_139
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 371
+        width: 86
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c9fbff4a7a08bf0800000000000000
+      internalID: -324074846063453029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_140
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 371
+        width: 84
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2caadb9473deba9b0800000000000000
+      internalID: -5067696133959210302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_141
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 372
+        width: 80
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d3bc7a348173520800000000000000
+      internalID: 2681638781979409814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_142
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 372
+        width: 77
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ef301a1922c6520800000000000000
+      internalID: 2696568285755080194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_143
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 387
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390c2a349446860c0800000000000000
+      internalID: -4582302355019349869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_144
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 294
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5d680aacc9431f0800000000000000
+      internalID: -1066054817689446973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_145
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 268
+        width: 72
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d255fe057f4b8ff00800000000000000
+      internalID: 1150868679100945709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_146
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 267
+        width: 77
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b177bff9c7892b00800000000000000
+      internalID: 804323310110732720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_147
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 268
+        width: 79
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19fdbb43d622e7e40800000000000000
+      internalID: 5655996034455429009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_148
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 268
+        width: 80
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73832511101543830800000000000000
+      internalID: 4049951029940336695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_149
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 268
+        width: 80
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1fbbef5f274f1500800000000000000
+      internalID: 369091963265990426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_150
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 268
+        width: 92
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ba7419a8eeaa100800000000000000
+      internalID: 120170618989030286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_151
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 173
+        width: 97
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050f6fafcfd1328a0800000000000000
+      internalID: -6331183678773333936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_152
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 173
+        width: 97
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a003a44db2b5070800000000000000
+      internalID: 8096112945906321995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_153
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 172
+        width: 100
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d4826ae20ae1420800000000000000
+      internalID: 2602693756883324314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_154
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 172
+        width: 95
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93dcb8bae28609550800000000000000
+      internalID: 6165542439526059321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_155
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 172
+        width: 86
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d8aeee6b17d5290800000000000000
+      internalID: -7900033140831646378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_156
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 91
+        width: 89
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4fedd3865cab1380800000000000000
+      internalID: -8999409942790279349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_157
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 91
+        width: 89
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce7b85f577f558d0800000000000000
+      internalID: -2858106302493917501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_158
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 91
+        width: 89
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122ee038d9c6ae6f0800000000000000
+      internalID: -654591372064529887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_159
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 91
+        width: 84
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c1a325bd9cfe2e0800000000000000
+      internalID: -2094233357889430447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_160
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 92
+        width: 80
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668eb4133c5bbbaf0800000000000000
+      internalID: -379509893632366490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_161
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 10
+        width: 79
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0f488b12aac6a50800000000000000
+      internalID: 6515769822704627948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_162
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 10
+        width: 77
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47865e0ebec056a10800000000000000
+      internalID: 1901940624863881332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_163
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 10
+        width: 76
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40238705b2c558610800000000000000
+      internalID: 1622804581840335364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_164
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 10
+        width: 75
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4037d0563aeccb950800000000000000
+      internalID: 6466270366167560964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_165
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 10
+        width: 74
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4ecb1ecac8ebe60800000000000000
+      internalID: 7979970263896614124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seviper_166
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1965c05f551f98c0800000000000000
+      internalID: -3990447245705778913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

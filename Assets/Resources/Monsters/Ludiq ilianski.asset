@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fd73012ff2053040a6fe22559110819, type: 3}
+  m_Name: Ludiq ilianski
+  m_EditorClassIdentifier: 
+  monsterName: Ludiq ilianski
+  description: "Ludicolo is a bipedal Pok\xE9mon that appears to be a mixture of
+    a pineapple and a duck. There is a green, sombrero-like growth on its head that
+    is similar to a lily pad. Growing out of the top of its head is a short brown
+    stem with a yellow spiky upper portion. It has black eyes surrounded by a patch
+    of green and an orange bill. Its body is covered with shaggy yellow fur and has
+    several zigzagging brown stripes. The female has thinner stripes than the male.\r"
+  frontSprite: {fileID: 5928757631602893268, guid: 16cab1fe483977e44a6bf948215d4ee3,
+    type: 3}
+  backSprite: {fileID: -4208764166916201803, guid: 16cab1fe483977e44a6bf948215d4ee3,
+    type: 3}
+  firstType: 3
+  secondType: 5
+  maxHp: 80
+  attack: 70
+  defense: 70
+  spAttack: 90
+  spDefense: 100
+  speed: 70
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 703cfe09921860642818514d8b396c36, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 350a12302eb9ecf43acdc5843e5b7aad, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: fd59e62c7a490744994cdbee09ed8508, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: 5dc141b6ecc1d144db802e9334aac113, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: a6ba1eb475ea1794697a92041a150571, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: ffc85dc13959d364b97e545671d49816, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: d5c322bf893409d4d8fd2e2d7d82581a, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: bb69778b290dad745a599cc0fc303ad7, type: 2}
+    level: 1

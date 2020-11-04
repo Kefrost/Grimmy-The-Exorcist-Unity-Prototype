@@ -1,0 +1,3488 @@
+fileFormatVersion: 2
+guid: cd61398483ae4bb439eb04dbfca3745e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3009014031251827758
+    second: Glalie_0
+  - first:
+      213: -4736222092091648019
+    second: Glalie_1
+  - first:
+      213: -1324259445943735513
+    second: Glalie_2
+  - first:
+      213: -7097885812655100846
+    second: Glalie_3
+  - first:
+      213: -3504859264706681951
+    second: Glalie_4
+  - first:
+      213: 7529498011712901558
+    second: Glalie_5
+  - first:
+      213: 9013361098379108184
+    second: Glalie_6
+  - first:
+      213: -4741317143835618168
+    second: Glalie_7
+  - first:
+      213: 3941663756303971255
+    second: Glalie_8
+  - first:
+      213: -4865602027639039127
+    second: Glalie_9
+  - first:
+      213: -172102914995682107
+    second: Glalie_10
+  - first:
+      213: -4402491072399846142
+    second: Glalie_11
+  - first:
+      213: -4970224658774915687
+    second: Glalie_12
+  - first:
+      213: -5014108057412262746
+    second: Glalie_13
+  - first:
+      213: 5106553564102875350
+    second: Glalie_14
+  - first:
+      213: 1335273293733088964
+    second: Glalie_15
+  - first:
+      213: -7272230347677509724
+    second: Glalie_16
+  - first:
+      213: -847136993252688659
+    second: Glalie_17
+  - first:
+      213: 7601227637908923933
+    second: Glalie_18
+  - first:
+      213: -6800790073758820057
+    second: Glalie_19
+  - first:
+      213: 381210495566570391
+    second: Glalie_20
+  - first:
+      213: 4925914185134892633
+    second: Glalie_21
+  - first:
+      213: -2393242447633707701
+    second: Glalie_22
+  - first:
+      213: -1358302912335184425
+    second: Glalie_23
+  - first:
+      213: 8656724210192586209
+    second: Glalie_24
+  - first:
+      213: -8313317533777816070
+    second: Glalie_25
+  - first:
+      213: 7670833872769971377
+    second: Glalie_26
+  - first:
+      213: -899677906823182656
+    second: Glalie_27
+  - first:
+      213: 2581798420345971987
+    second: Glalie_28
+  - first:
+      213: -8205706241648653066
+    second: Glalie_29
+  - first:
+      213: -4868378843081428163
+    second: Glalie_30
+  - first:
+      213: -3265178341528365611
+    second: Glalie_31
+  - first:
+      213: -2425545269632220218
+    second: Glalie_32
+  - first:
+      213: 3280543094697113930
+    second: Glalie_33
+  - first:
+      213: 7506458089223149163
+    second: Glalie_34
+  - first:
+      213: -2349331854597141469
+    second: Glalie_35
+  - first:
+      213: -3100451589401728779
+    second: Glalie_36
+  - first:
+      213: 1341545109317026103
+    second: Glalie_37
+  - first:
+      213: -8477094032919518982
+    second: Glalie_38
+  - first:
+      213: 5347585756348273571
+    second: Glalie_39
+  - first:
+      213: -1947020444190503639
+    second: Glalie_40
+  - first:
+      213: 8835239736317498289
+    second: Glalie_41
+  - first:
+      213: -3330881540420076714
+    second: Glalie_42
+  - first:
+      213: 3124751530628025177
+    second: Glalie_43
+  - first:
+      213: -8802056492663819092
+    second: Glalie_44
+  - first:
+      213: 2421620385645189556
+    second: Glalie_45
+  - first:
+      213: -6201953250951299887
+    second: Glalie_46
+  - first:
+      213: 9200319438129649511
+    second: Glalie_47
+  - first:
+      213: 4717160320979054012
+    second: Glalie_48
+  - first:
+      213: 4908389168421938128
+    second: Glalie_49
+  - first:
+      213: -968928214120496044
+    second: Glalie_50
+  - first:
+      213: 4297239516434641048
+    second: Glalie_51
+  - first:
+      213: -8499790487732596232
+    second: Glalie_52
+  - first:
+      213: -6876651955336129396
+    second: Glalie_53
+  - first:
+      213: -3914937133968196902
+    second: Glalie_54
+  - first:
+      213: -1109584403918857981
+    second: Glalie_55
+  - first:
+      213: -5621040175549753425
+    second: Glalie_56
+  - first:
+      213: 8098757306550363379
+    second: Glalie_57
+  - first:
+      213: -8573461091096158993
+    second: Glalie_58
+  - first:
+      213: 7066193133325227678
+    second: Glalie_59
+  - first:
+      213: -8057069195602273480
+    second: Glalie_60
+  - first:
+      213: 4000630431423601156
+    second: Glalie_61
+  - first:
+      213: -2082050468987263649
+    second: Glalie_62
+  - first:
+      213: -2915776429624723472
+    second: Glalie_63
+  - first:
+      213: -1390097925121837021
+    second: Glalie_64
+  - first:
+      213: 3786020180280885117
+    second: Glalie_65
+  - first:
+      213: 4107635067113451905
+    second: Glalie_66
+  - first:
+      213: 7767616435843032777
+    second: Glalie_67
+  - first:
+      213: -822988701037865058
+    second: Glalie_68
+  - first:
+      213: -723914256689535067
+    second: Glalie_69
+  - first:
+      213: -1335343463126197730
+    second: Glalie_70
+  - first:
+      213: -5066444012486949537
+    second: Glalie_71
+  - first:
+      213: -8512526216703578396
+    second: Glalie_72
+  - first:
+      213: -1373762345826698040
+    second: Glalie_73
+  - first:
+      213: -8919257309801546498
+    second: Glalie_74
+  - first:
+      213: -4897021760361653738
+    second: Glalie_75
+  - first:
+      213: 662498136320862722
+    second: Glalie_76
+  - first:
+      213: 3668512573154178045
+    second: Glalie_77
+  - first:
+      213: 6927544872330507426
+    second: Glalie_78
+  - first:
+      213: 4185064074400322645
+    second: Glalie_79
+  - first:
+      213: 7094879440854813228
+    second: Glalie_80
+  - first:
+      213: -3201750549171176010
+    second: Glalie_81
+  - first:
+      213: -7166759956440223614
+    second: Glalie_82
+  - first:
+      213: 7066706470847960476
+    second: Glalie_83
+  - first:
+      213: -6612814275731084453
+    second: Glalie_84
+  - first:
+      213: 7588686407513283675
+    second: Glalie_85
+  - first:
+      213: -9135370394141733033
+    second: Glalie_86
+  - first:
+      213: 8254748516306622809
+    second: Glalie_87
+  - first:
+      213: 1984998753785011565
+    second: Glalie_88
+  - first:
+      213: 2536057200858643335
+    second: Glalie_89
+  - first:
+      213: -4425930301159706930
+    second: Glalie_90
+  - first:
+      213: -2764184625245108664
+    second: Glalie_91
+  - first:
+      213: -2591054556563245538
+    second: Glalie_92
+  - first:
+      213: -3237483087977688553
+    second: Glalie_93
+  - first:
+      213: 6256395682278081224
+    second: Glalie_94
+  - first:
+      213: 6573553790647267616
+    second: Glalie_95
+  - first:
+      213: 6089737058330570827
+    second: Glalie_96
+  - first:
+      213: 3486361286186628647
+    second: Glalie_97
+  - first:
+      213: -7286104666884514224
+    second: Glalie_98
+  - first:
+      213: 5220048662163238308
+    second: Glalie_99
+  - first:
+      213: 8299340283247069411
+    second: Glalie_100
+  - first:
+      213: 1696746956888979147
+    second: Glalie_101
+  - first:
+      213: 5620540803382318278
+    second: Glalie_102
+  - first:
+      213: -3142631723516351978
+    second: Glalie_103
+  - first:
+      213: 2926028587121673279
+    second: Glalie_104
+  - first:
+      213: 8001540677960842278
+    second: Glalie_105
+  - first:
+      213: 4059486529169436545
+    second: Glalie_106
+  - first:
+      213: -7756647097453929048
+    second: Glalie_107
+  - first:
+      213: -1607193719937376340
+    second: Glalie_108
+  - first:
+      213: 5614649754248161209
+    second: Glalie_109
+  - first:
+      213: -1871343263226972213
+    second: Glalie_110
+  - first:
+      213: 9153475639438842262
+    second: Glalie_111
+  - first:
+      213: 2205317140633748241
+    second: Glalie_112
+  - first:
+      213: -4229658571517026554
+    second: Glalie_113
+  - first:
+      213: -3918536198996886317
+    second: Glalie_114
+  - first:
+      213: 1847380209691621259
+    second: Glalie_115
+  - first:
+      213: -6423381603573220995
+    second: Glalie_116
+  - first:
+      213: 1367096812600724073
+    second: Glalie_117
+  - first:
+      213: 3894302827370827224
+    second: Glalie_118
+  - first:
+      213: 7826585074175089957
+    second: Glalie_119
+  - first:
+      213: -5980542617431851940
+    second: Glalie_120
+  - first:
+      213: 8841831088808749242
+    second: Glalie_121
+  - first:
+      213: 9026886096241982395
+    second: Glalie_122
+  - first:
+      213: 7657561886381369256
+    second: Glalie_123
+  - first:
+      213: 7670727599872940367
+    second: Glalie_124
+  - first:
+      213: 4381071736575117416
+    second: Glalie_125
+  - first:
+      213: -3758430617321390428
+    second: Glalie_126
+  - first:
+      213: 4143876807776737034
+    second: Glalie_127
+  - first:
+      213: 8552683667539718373
+    second: Glalie_128
+  - first:
+      213: 6233156313008030759
+    second: Glalie_129
+  - first:
+      213: 1958137390592789944
+    second: Glalie_130
+  - first:
+      213: -424817944165272105
+    second: Glalie_131
+  - first:
+      213: 1676905625725431349
+    second: Glalie_132
+  - first:
+      213: 2945512496069359078
+    second: Glalie_133
+  - first:
+      213: -3182598821484746426
+    second: Glalie_134
+  - first:
+      213: 5519609642518729449
+    second: Glalie_135
+  - first:
+      213: 616448839607849101
+    second: Glalie_136
+  - first:
+      213: -7531210549771177321
+    second: Glalie_137
+  - first:
+      213: 7208898350480525092
+    second: Glalie_138
+  - first:
+      213: -278860020489889722
+    second: Glalie_139
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Glalie_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 609
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c6ee8a15a22c920800000000000000
+      internalID: 3009014031251827758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 609
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7158fc91f854eb0800000000000000
+      internalID: -4736222092091648019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 609
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b6116dc094f9de0800000000000000
+      internalID: -1324259445943735513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_3
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 609
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c6868a57e3f7d90800000000000000
+      internalID: -7097885812655100846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_4
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 609
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3eb6b711d3c5fc0800000000000000
+      internalID: -3504859264706681951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_5
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 609
+        width: 4
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b158257c862e7860800000000000000
+      internalID: 7529498011712901558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_6
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 609
+        width: 4
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f16350a24e51d70800000000000000
+      internalID: 9013361098379108184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_7
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 625
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8845532ad25733eb0800000000000000
+      internalID: -4741317143835618168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_8
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 609
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3b7827d4a93b630800000000000000
+      internalID: 3941663756303971255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_9
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 609
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b97242cb8e97cb0800000000000000
+      internalID: -4865602027639039127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_10
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 609
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c48fd68f419c9df0800000000000000
+      internalID: -172102914995682107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 545
+        width: 4
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20557cee1b537e2c0800000000000000
+      internalID: -4402491072399846142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 542
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99585d79107360bb0800000000000000
+      internalID: -4970224658774915687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_13
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 541
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4a484a94f4a6ab0800000000000000
+      internalID: -5014108057412262746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_14
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 540
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d85bde296f1ed640800000000000000
+      internalID: 5106553564102875350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_15
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 539
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cec60f6cf7d78210800000000000000
+      internalID: 1335273293733088964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_16
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 538
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7ddd95709d31b90800000000000000
+      internalID: -7272230347677509724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_17
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 539
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: decb419946d5e34f0800000000000000
+      internalID: -847136993252688659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_18
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 540
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16617e734cfc7960800000000000000
+      internalID: 7601227637908923933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_19
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 541
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7295a95c57dbe91a0800000000000000
+      internalID: -6800790073758820057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_20
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 542
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79365ec0de45a4500800000000000000
+      internalID: 381210495566570391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_21
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 541
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956e50f4adc5c5440800000000000000
+      internalID: 4925914185134892633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_22
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 464
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d086f7cae79ced0800000000000000
+      internalID: -2393242447633707701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_23
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 463
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ddf1e4a2b6562de0800000000000000
+      internalID: -1358302912335184425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_24
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 464
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e59d0bcdccd22870800000000000000
+      internalID: 8656724210192586209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_25
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 465
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af59526bfb921ac80800000000000000
+      internalID: -8313317533777816070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 466
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4fc75f3c6447a60800000000000000
+      internalID: 7670833872769971377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_27
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 471
+        width: 4
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6898fd5b3b383f0800000000000000
+      internalID: -899677906823182656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_28
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 471
+        width: 4
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315e26efbf364d320800000000000000
+      internalID: 2581798420345971987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_29
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 466
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc835f16a97f1e80800000000000000
+      internalID: -8205706241648653066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_30
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 465
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33ba1a6c3b007cb0800000000000000
+      internalID: -4868378843081428163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_31
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 463
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d517e81991cfa2d0800000000000000
+      internalID: -3265178341528365611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_32
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 462
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c341f8ad6bb65ed0800000000000000
+      internalID: -2425545269632220218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_33
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 460
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4938c54094d68d20800000000000000
+      internalID: 3280543094697113930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_34
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 385
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66d0897cdb4c2860800000000000000
+      internalID: 7506458089223149163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_35
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 384
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c4a33202f756fd0800000000000000
+      internalID: -2349331854597141469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_36
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 385
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f82a62d4bbf8f4d0800000000000000
+      internalID: -3100451589401728779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_37
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 384
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731010b4b202e9210800000000000000
+      internalID: 1341545109317026103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_38
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 385
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0af3004ef4b5a80800000000000000
+      internalID: -8477094032919518982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_39
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 384
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3d315a9e0763a40800000000000000
+      internalID: 5347585756348273571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_40
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 385
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d0a95c83bcaf4e0800000000000000
+      internalID: -1947020444190503639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_41
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 384
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3de94aab31d9a70800000000000000
+      internalID: 8835239736317498289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_42
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 385
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65bfa5203e456c1d0800000000000000
+      internalID: -3330881540420076714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_43
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 386
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b017226f85d5b20800000000000000
+      internalID: 3124751530628025177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_44
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 311
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca43ad55140d8d580800000000000000
+      internalID: -8802056492663819092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_45
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 313
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9d93319e25b9120800000000000000
+      internalID: 2421620385645189556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_46
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 314
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dcf77ba06c3ee9a0800000000000000
+      internalID: -6201953250951299887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_47
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 319
+        width: 4
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767d6d998c91eaf70800000000000000
+      internalID: 9200319438129649511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_48
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 314
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd2680c158b67140800000000000000
+      internalID: 4717160320979054012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_49
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 316
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d32a2361f91e1440800000000000000
+      internalID: 4908389168421938128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_50
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 344
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4548e704cecad82f0800000000000000
+      internalID: -968928214120496044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_51
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 344
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890bbdb829cd2ab30800000000000000
+      internalID: 4297239516434641048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_52
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 341
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f15471d59daa0a80800000000000000
+      internalID: -8499790487732596232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_53
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 344
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84d13e0b793190a0800000000000000
+      internalID: -6876651955336129396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_54
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 344
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adaf6db3b695ba9c0800000000000000
+      internalID: -3914937133968196902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_55
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 344
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3095a1c0dd6f990f0800000000000000
+      internalID: -1109584403918857981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_56
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 344
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7582cedbd0ef1b0800000000000000
+      internalID: -5621040175549753425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_57
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 344
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4a80b7cd0946070800000000000000
+      internalID: 8098757306550363379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_58
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 344
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec9491df82f40980800000000000000
+      internalID: -8573461091096158993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_59
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 344
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96972a6739201260800000000000000
+      internalID: 7066193133325227678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_60
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 344
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b5269314a8f2090800000000000000
+      internalID: -8057069195602273480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_61
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 344
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a1f9e5e28158730800000000000000
+      internalID: 4000630431423601156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_62
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 315
+        width: 4
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55249f21221b13e0800000000000000
+      internalID: -2082050468987263649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_63
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 315
+        width: 4
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7f2c329c41987d0800000000000000
+      internalID: -2915776429624723472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_64
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 345
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328fa1a5d4165bce0800000000000000
+      internalID: -1390097925121837021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_65
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 345
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f3a167b45aa8430800000000000000
+      internalID: 3786020180280885117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_66
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 342
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1813c329450410930800000000000000
+      internalID: 4107635067113451905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_67
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 345
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6e8e96efd1ccb60800000000000000
+      internalID: 7767616435843032777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_68
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 345
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e975a7403282494f0800000000000000
+      internalID: -822988701037865058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_69
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 345
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7ed2aa1d324f5f0800000000000000
+      internalID: -723914256689535067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_70
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 345
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a193bf138e77de0800000000000000
+      internalID: -1335343463126197730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_71
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 345
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f558f49830060b9b0800000000000000
+      internalID: -5066444012486949537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_72
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 345
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eeee28d18e6dd980800000000000000
+      internalID: -8512526216703578396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_73
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 345
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc313bcc6a6fece0800000000000000
+      internalID: -1373762345826698040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_74
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 345
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efcf8f4abbe683480800000000000000
+      internalID: -8919257309801546498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_75
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 328
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a194c87a84a0cb0800000000000000
+      internalID: -4897021760361653738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_76
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 328
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a63cf7b8aa13900800000000000000
+      internalID: 662498136320862722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_77
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 328
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3b8e8afbc29e230800000000000000
+      internalID: 3668512573154178045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_78
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 328
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4b6d09b55932060800000000000000
+      internalID: 6927544872330507426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_79
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 328
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55451ec2a95541a30800000000000000
+      internalID: 4185064074400322645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_80
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 328
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a8f5cd243167260800000000000000
+      internalID: 7094879440854813228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_81
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 328
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd7d31d6d81193d0800000000000000
+      internalID: -3201750549171176010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_82
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 328
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280f2ed6acd8a8c90800000000000000
+      internalID: -7166759956440223614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_83
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 328
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95d8de181cf11260800000000000000
+      internalID: 7066706470847960476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_84
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 328
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5baa61d3709a34a0800000000000000
+      internalID: -6612814275731084453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_85
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 328
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c1aafb41e605960800000000000000
+      internalID: 7588686407513283675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_86
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 329
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75fcf8d1705a83180800000000000000
+      internalID: -9135370394141733033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_87
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 329
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95993a04a02ce8270800000000000000
+      internalID: 8254748516306622809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_88
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 329
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6dd2fe79d12c8b10800000000000000
+      internalID: 1984998753785011565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_89
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 329
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b304b6692e13320800000000000000
+      internalID: 2536057200858643335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_90
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 329
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eceecb637dfe392c0800000000000000
+      internalID: -4425930301159706930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_91
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 329
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8464ba68ab4a3a9d0800000000000000
+      internalID: -2764184625245108664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_92
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 329
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16f36adb99ba0cd0800000000000000
+      internalID: -2591054556563245538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_93
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 329
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71251cec8462213d0800000000000000
+      internalID: -3237483087977688553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_94
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 329
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c20978a9be23d650800000000000000
+      internalID: 6256395682278081224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_95
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 329
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021f37b2854f93b50800000000000000
+      internalID: 6573553790647267616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_96
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 329
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b407359f697138450800000000000000
+      internalID: 6089737058330570827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_97
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 329
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726f3d54e1b026030800000000000000
+      internalID: 3486361286186628647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_98
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 318
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e580ea86e82ea90800000000000000
+      internalID: -7286104666884514224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_99
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 318
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad2e7ae996517840800000000000000
+      internalID: 5220048662163238308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_100
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 318
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8080d040e2d2370800000000000000
+      internalID: 8299340283247069411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_101
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 315
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6b7171e5e0c8710800000000000000
+      internalID: 1696746956888979147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 236
+        width: 794
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4113fe41c200e40800000000000000
+      internalID: 5620540803382318278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_103
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 238
+        width: 4
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a2feb09112364d0800000000000000
+      internalID: -3142631723516351978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_104
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 235
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34860a4f775b9820800000000000000
+      internalID: 2926028587121673279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_105
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 234
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62cb1b54ade2b0f60800000000000000
+      internalID: 8001540677960842278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_106
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 233
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18fa0ad7d71365830800000000000000
+      internalID: 4059486529169436545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_107
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 232
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad9134bf8ada5490800000000000000
+      internalID: -7756647097453929048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_108
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 233
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cafd4e5b3d912b9e0800000000000000
+      internalID: -1607193719937376340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_109
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 234
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7223c243e3bed40800000000000000
+      internalID: 5614649754248161209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_110
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 235
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc739868737a706e0800000000000000
+      internalID: -1871343263226972213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_111
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 236
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69991fcc89da70f70800000000000000
+      internalID: 9153475639438842262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_112
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 235
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1130e80514cda9e10800000000000000
+      internalID: 2205317140633748241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_113
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 158
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f9a8b50fb3d45c0800000000000000
+      internalID: -4229658571517026554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_114
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 157
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dcf74b96109e99c0800000000000000
+      internalID: -3918536198996886317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_115
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 158
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8771cb438633a910800000000000000
+      internalID: 1847380209691621259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_116
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 159
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d793d3ec6709bd6a0800000000000000
+      internalID: -6423381603573220995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_117
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 160
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a82a0de47e8f210800000000000000
+      internalID: 1367096812600724073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_118
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 163
+        width: 4
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ddcc31e9c75b0630800000000000000
+      internalID: 3894302827370827224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_119
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 163
+        width: 4
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d949e68ad9d9c60800000000000000
+      internalID: 7826585074175089957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_120
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 160
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5cb3ebfc28d00da0800000000000000
+      internalID: -5980542617431851940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_121
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 159
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8637c778e74ba70800000000000000
+      internalID: 8841831088808749242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_122
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 157
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb7a6af311f54d70800000000000000
+      internalID: 9026886096241982395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_123
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 156
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7e453d6ff154a60800000000000000
+      internalID: 7657561886381369256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_124
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 154
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49163f5c16e37a60800000000000000
+      internalID: 7670727599872940367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_125
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 78
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86840125881bccc30800000000000000
+      internalID: 4381071736575117416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_126
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 78
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae3b9d344f57dbc0800000000000000
+      internalID: -3758430617321390428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_127
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 78
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0713806002028930800000000000000
+      internalID: 4143876807776737034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_128
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 78
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e07df74b7c31b670800000000000000
+      internalID: 8552683667539718373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_129
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 78
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724c35a54ae908650800000000000000
+      internalID: 6233156313008030759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_130
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 78
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd81b30593bc2b10800000000000000
+      internalID: 1958137390592789944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_131
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 78
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d531df945eba1af0800000000000000
+      internalID: -424817944165272105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_132
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 78
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ee73f28c0954710800000000000000
+      internalID: 1676905625725431349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_133
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 78
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e530b9520090e820800000000000000
+      internalID: 2945512496069359078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_134
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 80
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64923d6eb3325d3d0800000000000000
+      internalID: -3182598821484746426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_135
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 5
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e25629c9b7999c40800000000000000
+      internalID: 5519609642518729449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_136
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 7
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80170b14f01e8800800000000000000
+      internalID: 616448839607849101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_137
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 8
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792f63438e3cb7790800000000000000
+      internalID: -7531210549771177321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_138
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 11
+        width: 4
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4278a4afad62b0460800000000000000
+      internalID: 7208898350480525092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glalie_139
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 0
+        width: 221
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64854a0f94a412cf0800000000000000
+      internalID: -278860020489889722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4040 @@
+fileFormatVersion: 2
+guid: d080b280520bab54fa860fe9e6f1a421
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7026113789545750719
+    second: Articuno_ready_0
+  - first:
+      213: -4928367475683412530
+    second: Articuno_ready_1
+  - first:
+      213: 7242496531030224859
+    second: Articuno_ready_2
+  - first:
+      213: 1580892276688785293
+    second: Articuno_ready_3
+  - first:
+      213: -7097559051530697932
+    second: Articuno_ready_4
+  - first:
+      213: -9102113421312507831
+    second: Articuno_ready_5
+  - first:
+      213: -8682178061061483127
+    second: Articuno_ready_6
+  - first:
+      213: 1125682675842927753
+    second: Articuno_ready_7
+  - first:
+      213: -1573489533645330225
+    second: Articuno_ready_8
+  - first:
+      213: 7186538004012192909
+    second: Articuno_ready_9
+  - first:
+      213: -6153057865373199082
+    second: Articuno_ready_10
+  - first:
+      213: 6523649095969710720
+    second: Articuno_ready_11
+  - first:
+      213: 7965753131533835764
+    second: Articuno_ready_12
+  - first:
+      213: -1282071279767539696
+    second: Articuno_ready_13
+  - first:
+      213: 2096639891269147833
+    second: Articuno_ready_14
+  - first:
+      213: -5711347196108077428
+    second: Articuno_ready_15
+  - first:
+      213: 4552516048182519663
+    second: Articuno_ready_16
+  - first:
+      213: -3822130720034682859
+    second: Articuno_ready_17
+  - first:
+      213: -597010608688758858
+    second: Articuno_ready_18
+  - first:
+      213: 2321321092985965027
+    second: Articuno_ready_19
+  - first:
+      213: 5021782726285712070
+    second: Articuno_ready_20
+  - first:
+      213: -8027197781793885297
+    second: Articuno_ready_21
+  - first:
+      213: 8515209124233817744
+    second: Articuno_ready_22
+  - first:
+      213: 444460932846894222
+    second: Articuno_ready_23
+  - first:
+      213: 4800908867218159289
+    second: Articuno_ready_24
+  - first:
+      213: -3878873484252095908
+    second: Articuno_ready_25
+  - first:
+      213: 5112120702413379457
+    second: Articuno_ready_26
+  - first:
+      213: 3984609463493643509
+    second: Articuno_ready_27
+  - first:
+      213: -2733904388123147553
+    second: Articuno_ready_28
+  - first:
+      213: 8650060580095949548
+    second: Articuno_ready_29
+  - first:
+      213: -6437594111003812414
+    second: Articuno_ready_30
+  - first:
+      213: 8951612544920842487
+    second: Articuno_ready_31
+  - first:
+      213: 8872582829002171940
+    second: Articuno_ready_32
+  - first:
+      213: 1196962086434151361
+    second: Articuno_ready_33
+  - first:
+      213: -4289921367405972227
+    second: Articuno_ready_34
+  - first:
+      213: -3409735123191369186
+    second: Articuno_ready_35
+  - first:
+      213: 69881039435128189
+    second: Articuno_ready_36
+  - first:
+      213: -8250858152159727378
+    second: Articuno_ready_37
+  - first:
+      213: -2852858672985195653
+    second: Articuno_ready_38
+  - first:
+      213: -7036044481804846809
+    second: Articuno_ready_39
+  - first:
+      213: -4158177013826947649
+    second: Articuno_ready_40
+  - first:
+      213: -7419064151497437986
+    second: Articuno_ready_41
+  - first:
+      213: 2641652790685397488
+    second: Articuno_ready_42
+  - first:
+      213: 5295155224560757785
+    second: Articuno_ready_43
+  - first:
+      213: 954725798566772795
+    second: Articuno_ready_44
+  - first:
+      213: 2146150024822395576
+    second: Articuno_ready_45
+  - first:
+      213: 6272645863332014505
+    second: Articuno_ready_46
+  - first:
+      213: -2633849458456631765
+    second: Articuno_ready_47
+  - first:
+      213: 1469050578950212737
+    second: Articuno_ready_48
+  - first:
+      213: -1526243092146541551
+    second: Articuno_ready_49
+  - first:
+      213: -7799485471074987190
+    second: Articuno_ready_50
+  - first:
+      213: -7663684090240927139
+    second: Articuno_ready_51
+  - first:
+      213: 7554083914040399622
+    second: Articuno_ready_52
+  - first:
+      213: -5298284947967918591
+    second: Articuno_ready_53
+  - first:
+      213: 2576063725827669583
+    second: Articuno_ready_54
+  - first:
+      213: 1252624783450517523
+    second: Articuno_ready_55
+  - first:
+      213: 3114539081483955726
+    second: Articuno_ready_56
+  - first:
+      213: 2622810989499425873
+    second: Articuno_ready_57
+  - first:
+      213: -7903410568889454196
+    second: Articuno_ready_58
+  - first:
+      213: 4699340018774878266
+    second: Articuno_ready_59
+  - first:
+      213: 2144042394143238975
+    second: Articuno_ready_60
+  - first:
+      213: 2324263410394021402
+    second: Articuno_ready_61
+  - first:
+      213: 5806576562449671576
+    second: Articuno_ready_62
+  - first:
+      213: 3244650306139247225
+    second: Articuno_ready_63
+  - first:
+      213: 5205698762632237034
+    second: Articuno_ready_64
+  - first:
+      213: 1372694469388346429
+    second: Articuno_ready_65
+  - first:
+      213: -1370372773183251715
+    second: Articuno_ready_66
+  - first:
+      213: 3746360503510514789
+    second: Articuno_ready_67
+  - first:
+      213: 5802340897082625806
+    second: Articuno_ready_68
+  - first:
+      213: 3717854379137282370
+    second: Articuno_ready_69
+  - first:
+      213: -7018222093866078001
+    second: Articuno_ready_70
+  - first:
+      213: 2127149988081693059
+    second: Articuno_ready_71
+  - first:
+      213: -613990177765139668
+    second: Articuno_ready_72
+  - first:
+      213: -1712823712168680887
+    second: Articuno_ready_73
+  - first:
+      213: 6605636122496261473
+    second: Articuno_ready_74
+  - first:
+      213: 2750616036221304643
+    second: Articuno_ready_75
+  - first:
+      213: -6332563297333928053
+    second: Articuno_ready_76
+  - first:
+      213: 6657890037910165560
+    second: Articuno_ready_77
+  - first:
+      213: 2990152579621299717
+    second: Articuno_ready_78
+  - first:
+      213: -735151593758087286
+    second: Articuno_ready_79
+  - first:
+      213: 6538751745593452509
+    second: Articuno_ready_80
+  - first:
+      213: -5689881815507232728
+    second: Articuno_ready_81
+  - first:
+      213: 1442896428383675694
+    second: Articuno_ready_82
+  - first:
+      213: 3323077983339261975
+    second: Articuno_ready_83
+  - first:
+      213: -4068408468865221567
+    second: Articuno_ready_84
+  - first:
+      213: -2097982373229440559
+    second: Articuno_ready_85
+  - first:
+      213: 7534487151265194313
+    second: Articuno_ready_86
+  - first:
+      213: 5786758958314139137
+    second: Articuno_ready_87
+  - first:
+      213: 8379551611087806966
+    second: Articuno_ready_88
+  - first:
+      213: 1903511237980575195
+    second: Articuno_ready_89
+  - first:
+      213: -5250949574069144335
+    second: Articuno_ready_90
+  - first:
+      213: -247934035397607695
+    second: Articuno_ready_91
+  - first:
+      213: 2335319126983966828
+    second: Articuno_ready_92
+  - first:
+      213: -7147944192129090251
+    second: Articuno_ready_93
+  - first:
+      213: 268015278828526392
+    second: Articuno_ready_94
+  - first:
+      213: 5541346020260235288
+    second: Articuno_ready_95
+  - first:
+      213: 3223602329628553302
+    second: Articuno_ready_96
+  - first:
+      213: -2286012754452223526
+    second: Articuno_ready_97
+  - first:
+      213: -8949893442138538135
+    second: Articuno_ready_98
+  - first:
+      213: -6804916686613120386
+    second: Articuno_ready_99
+  - first:
+      213: 3794494985410463816
+    second: Articuno_ready_100
+  - first:
+      213: -1048943781034461640
+    second: Articuno_ready_101
+  - first:
+      213: 3438258252043888687
+    second: Articuno_ready_102
+  - first:
+      213: -1635276529519120892
+    second: Articuno_ready_103
+  - first:
+      213: -5668502445193166826
+    second: Articuno_ready_104
+  - first:
+      213: 5342112885553052112
+    second: Articuno_ready_105
+  - first:
+      213: -1819634773873373858
+    second: Articuno_ready_106
+  - first:
+      213: 2993822375940764362
+    second: Articuno_ready_107
+  - first:
+      213: 278321055595335642
+    second: Articuno_ready_108
+  - first:
+      213: -8211677726320321690
+    second: Articuno_ready_109
+  - first:
+      213: 1879816984649729415
+    second: Articuno_ready_110
+  - first:
+      213: -8881897016675322069
+    second: Articuno_ready_111
+  - first:
+      213: -1327810348623577861
+    second: Articuno_ready_112
+  - first:
+      213: -1927619825844522148
+    second: Articuno_ready_113
+  - first:
+      213: -1681344213708621268
+    second: Articuno_ready_114
+  - first:
+      213: 4527925768343244447
+    second: Articuno_ready_115
+  - first:
+      213: 4041520566352155235
+    second: Articuno_ready_116
+  - first:
+      213: -919826976098386781
+    second: Articuno_ready_117
+  - first:
+      213: -3051211337589445924
+    second: Articuno_ready_118
+  - first:
+      213: 2929222450285498496
+    second: Articuno_ready_119
+  - first:
+      213: 7231318792291352971
+    second: Articuno_ready_120
+  - first:
+      213: -6069718897493074593
+    second: Articuno_ready_121
+  - first:
+      213: 4841193416699522101
+    second: Articuno_ready_122
+  - first:
+      213: 5749604103341701364
+    second: Articuno_ready_123
+  - first:
+      213: 2391694603784648999
+    second: Articuno_ready_124
+  - first:
+      213: -46556363125501549
+    second: Articuno_ready_125
+  - first:
+      213: -7411588194912900986
+    second: Articuno_ready_126
+  - first:
+      213: 2463621278475503691
+    second: Articuno_ready_127
+  - first:
+      213: 8827394249810608691
+    second: Articuno_ready_128
+  - first:
+      213: -1484058099141516694
+    second: Articuno_ready_129
+  - first:
+      213: -7905579995406692613
+    second: Articuno_ready_130
+  - first:
+      213: -77391653620570750
+    second: Articuno_ready_131
+  - first:
+      213: -8838117682319755293
+    second: Articuno_ready_132
+  - first:
+      213: 6381247643766902476
+    second: Articuno_ready_133
+  - first:
+      213: 4039228183618545676
+    second: Articuno_ready_134
+  - first:
+      213: 6658352221444286485
+    second: Articuno_ready_135
+  - first:
+      213: -9171172343827737031
+    second: Articuno_ready_136
+  - first:
+      213: -2572502172110094711
+    second: Articuno_ready_137
+  - first:
+      213: 4237817075234308864
+    second: Articuno_ready_138
+  - first:
+      213: -6331391817393903967
+    second: Articuno_ready_139
+  - first:
+      213: -3063833092422022143
+    second: Articuno_ready_140
+  - first:
+      213: -183816317468795841
+    second: Articuno_ready_141
+  - first:
+      213: 4311107275195941612
+    second: Articuno_ready_142
+  - first:
+      213: 5428446480847140488
+    second: Articuno_ready_143
+  - first:
+      213: -7599506566393067642
+    second: Articuno_ready_144
+  - first:
+      213: -1529111550778893952
+    second: Articuno_ready_145
+  - first:
+      213: -720374606966689040
+    second: Articuno_ready_146
+  - first:
+      213: -1784381930894859228
+    second: Articuno_ready_147
+  - first:
+      213: -6758275980728475568
+    second: Articuno_ready_148
+  - first:
+      213: 3583963945574848545
+    second: Articuno_ready_149
+  - first:
+      213: -8989879806431392540
+    second: Articuno_ready_150
+  - first:
+      213: 5886310853127556569
+    second: Articuno_ready_151
+  - first:
+      213: 8372526176873045218
+    second: Articuno_ready_152
+  - first:
+      213: -4568863122697492579
+    second: Articuno_ready_153
+  - first:
+      213: 9173927680876520836
+    second: Articuno_ready_154
+  - first:
+      213: 4836988286955122055
+    second: Articuno_ready_155
+  - first:
+      213: -5240035115309737962
+    second: Articuno_ready_156
+  - first:
+      213: 1929109526335196497
+    second: Articuno_ready_157
+  - first:
+      213: -6061087842484358504
+    second: Articuno_ready_158
+  - first:
+      213: -8912244975770805609
+    second: Articuno_ready_159
+  - first:
+      213: -1958134701524232769
+    second: Articuno_ready_160
+  - first:
+      213: -1904973168298758144
+    second: Articuno_ready_161
+  - first:
+      213: 787328555918463207
+    second: Articuno_ready_162
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Articuno_ready_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 487
+        width: 72
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb029510445c18160800000000000000
+      internalID: 7026113789545750719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 487
+        width: 68
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec53d4974ebea9bb0800000000000000
+      internalID: -4928367475683412530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_2
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 487
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf2e0bf834828460800000000000000
+      internalID: 7242496531030224859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_3
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 487
+        width: 63
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f8134562570f510800000000000000
+      internalID: 1580892276688785293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_4
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 487
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4338729a5a7608d90800000000000000
+      internalID: -7097559051530697932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_5
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 487
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9404a51811ccea180800000000000000
+      internalID: -9102113421312507831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_6
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 487
+        width: 64
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9859db9bd05b28780800000000000000
+      internalID: -8682178061061483127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_7
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 391
+        width: 72
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ccd67fd6a3f9f00800000000000000
+      internalID: 1125682675842927753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_8
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 391
+        width: 72
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc866491b97d92ae0800000000000000
+      internalID: -1573489533645330225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_9
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 391
+        width: 73
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84ddfd1d36bbb360800000000000000
+      internalID: 7186538004012192909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_10
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 391
+        width: 67
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615d104c872fb9aa0800000000000000
+      internalID: -6153057865373199082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_11
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 391
+        width: 66
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082a29cf948a88a50800000000000000
+      internalID: 6523649095969710720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_12
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 391
+        width: 63
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd978dc44a0c8e60800000000000000
+      internalID: 7965753131533835764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_13
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 391
+        width: 67
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010b9b8b6fa253ee0800000000000000
+      internalID: -1282071279767539696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_14
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 291
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcd2056fd2c81d10800000000000000
+      internalID: 2096639891269147833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_15
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 295
+        width: 70
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c860e033cf73db0b0800000000000000
+      internalID: -5711347196108077428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_16
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 295
+        width: 72
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f672f2eb939cd2f30800000000000000
+      internalID: 4552516048182519663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_17
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 362
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51889335c5015fac0800000000000000
+      internalID: -3822130720034682859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_18
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 362
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf77f5b30ef6b7f0800000000000000
+      internalID: -597010608688758858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_19
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 362
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9cc053c3df63020800000000000000
+      internalID: 2321321092985965027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_20
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 362
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cad37378c4f0b540800000000000000
+      internalID: 5021782726285712070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_21
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 362
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f833f5ab52aa99090800000000000000
+      internalID: -8027197781793885297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_22
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 362
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e2f1e35991c2670800000000000000
+      internalID: 8515209124233817744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_23
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 362
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8cb0e21dda0b2600800000000000000
+      internalID: 444460932846894222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_24
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 362
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6bf8dad2140a240800000000000000
+      internalID: 4800908867218159289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_25
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 362
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ad8720e197b2ac0800000000000000
+      internalID: -3878873484252095908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_26
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 362
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187154491b6e1f640800000000000000
+      internalID: 5112120702413379457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_27
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 362
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fcc238123d2c4730800000000000000
+      internalID: 3984609463493643509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_28
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 362
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2c900a1783f0ad0800000000000000
+      internalID: -2733904388123147553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_29
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 360
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea7a3284403b0870800000000000000
+      internalID: 8650060580095949548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_30
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 362
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd987d834219a6a0800000000000000
+      internalID: -6437594111003812414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_31
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 362
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0ffe29e248a3c70800000000000000
+      internalID: 8951612544920842487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_32
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 362
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426a7e2f21fb12b70800000000000000
+      internalID: 8872582829002171940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_33
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 362
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb94830da67c9010800000000000000
+      internalID: 1196962086434151361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_34
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 293
+        width: 34
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4b86dce332774c0800000000000000
+      internalID: -4289921367405972227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_35
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 344
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12710498ff2ea0d0800000000000000
+      internalID: -3409735123191369186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_36
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 346
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7dd0146f6448f000800000000000000
+      internalID: 69881039435128189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_37
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 344
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0326cb9301f7d80800000000000000
+      internalID: -8250858152159727378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_38
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 346
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b335ae62c9868d0800000000000000
+      internalID: -2852858672985195653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_39
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 346
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729bc2682d2fa5e90800000000000000
+      internalID: -7036044481804846809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_40
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 346
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb576a179003b46c0800000000000000
+      internalID: -4158177013826947649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_41
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 346
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc092c46703a0990800000000000000
+      internalID: -7419064151497437986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_42
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 346
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1f8b0973909a420800000000000000
+      internalID: 2641652790685397488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_43
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 346
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c6f7e2f9b2c7940800000000000000
+      internalID: 5295155224560757785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_44
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 346
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3049713e0edf3d00800000000000000
+      internalID: 954725798566772795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_45
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 346
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b21c38a318a8cd10800000000000000
+      internalID: 2146150024822395576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_46
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 346
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a96ab5cd2aec0750800000000000000
+      internalID: 6272645863332014505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_47
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 346
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2666dc4fdfa27bd0800000000000000
+      internalID: -2633849458456631765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_48
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 346
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18cc86bd7bd136410800000000000000
+      internalID: 1469050578950212737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_49
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 349
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c26bb7ef1b1dae0800000000000000
+      internalID: -1526243092146541551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_50
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 349
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4351c99949a2c390800000000000000
+      internalID: -7799485471074987190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_51
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 347
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a70628cef15a590800000000000000
+      internalID: -7663684090240927139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_52
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 349
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607dedbeb4f75d860800000000000000
+      internalID: 7554083914040399622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_53
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 349
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10eb29d49e5b876b0800000000000000
+      internalID: -5298284947967918591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_54
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 349
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e3ab06f4400c320800000000000000
+      internalID: 2576063725827669583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_55
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 349
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3103b669a97326110800000000000000
+      internalID: 1252624783450517523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_56
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 327
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e2ce60bc0193b20800000000000000
+      internalID: 3114539081483955726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_57
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 333
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154aa1ed2b8166420800000000000000
+      internalID: 2622810989499425873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_58
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 333
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81b64f26f1715290800000000000000
+      internalID: -7903410568889454196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_59
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 333
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38aad159d8673140800000000000000
+      internalID: 4699340018774878266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_60
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 333
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b2946a23b21cd10800000000000000
+      internalID: 2144042394143238975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_61
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 333
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e39fcd141714020800000000000000
+      internalID: 2324263410394021402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_62
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 333
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895ebe57e9a159050800000000000000
+      internalID: 5806576562449671576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_63
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 333
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972dac53340570d20800000000000000
+      internalID: 3244650306139247225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_64
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 333
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef8262917b5e3840800000000000000
+      internalID: 5205698762632237034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_65
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 333
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d342909d85acc0310800000000000000
+      internalID: 1372694469388346429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_66
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 314
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa9b8c29357bfce0800000000000000
+      internalID: -1370372773183251715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_67
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 314
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c3c44670fbdf330800000000000000
+      internalID: 3746360503510514789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_68
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 314
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0fc454cd4e068050800000000000000
+      internalID: 5802340897082625806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_69
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 314
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241bb1b1cd8789330800000000000000
+      internalID: 3717854379137282370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_70
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 314
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0705490344a9e90800000000000000
+      internalID: -7018222093866078001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_71
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 314
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381f59fd4a7258d10800000000000000
+      internalID: 2127149988081693059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_72
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 314
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2bdab6bf2baa77f0800000000000000
+      internalID: -613990177765139668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_73
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 314
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942e151a8e3da38e0800000000000000
+      internalID: -1712823712168680887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_74
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 314
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16dd0e42e0febab50800000000000000
+      internalID: 6605636122496261473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_75
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 314
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34fb67826b62c2620800000000000000
+      internalID: 2750616036221304643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_76
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 314
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f1cb08b373e18a0800000000000000
+      internalID: -6332563297333928053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_77
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 314
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8385f37e6b3956c50800000000000000
+      internalID: 6657890037910165560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_78
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 314
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506ab8cbde72f7920800000000000000
+      internalID: 2990152579621299717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_79
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 314
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87acfd35873cc5f0800000000000000
+      internalID: -735151593758087286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_80
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 314
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7209e91105eba50800000000000000
+      internalID: 6538751745593452509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_81
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 314
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8289cb492aa7901b0800000000000000
+      internalID: -5689881815507232728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_82
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 312
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e252d7528a2360410800000000000000
+      internalID: 1442896428383675694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_83
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 297
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710bbd5c1d1fd1e20800000000000000
+      internalID: 3323077983339261975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_84
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 297
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14cf81c8d0c1a87c0800000000000000
+      internalID: -4068408468865221567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_85
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 297
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1d0aaa52872e2e0800000000000000
+      internalID: -2097982373229440559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_86
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 295
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94128e70520ef8860800000000000000
+      internalID: 7534487151265194313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_87
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 298
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10eaf1fec92be4050800000000000000
+      internalID: 5786758958314139137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_88
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 298
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1e0f32bc52a4470800000000000000
+      internalID: 8379551611087806966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_89
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 298
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5dbcdb261aa6a10800000000000000
+      internalID: 1903511237980575195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_90
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 298
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4be10ee21e027b0800000000000000
+      internalID: -5250949574069144335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_91
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 296
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe7564fe492f8cf0800000000000000
+      internalID: -247934035397607695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_92
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 298
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c600e097f58b86020800000000000000
+      internalID: 2335319126983966828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_93
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 296
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d34d1f0a66dcc90800000000000000
+      internalID: -7147944192129090251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_94
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 298
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b93f0e97e28b300800000000000000
+      internalID: 268015278828526392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_95
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 298
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818c22b98d0d6ec40800000000000000
+      internalID: 5541346020260235288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_96
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 298
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650b1aa4d398cbc20800000000000000
+      internalID: 3223602329628553302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_97
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 298
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9ecdaf2837640e0800000000000000
+      internalID: -2286012754452223526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_98
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 298
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ffbbb35579bc380800000000000000
+      internalID: -8949893442138538135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_99
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 298
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7afb48d3541091a0800000000000000
+      internalID: -6804916686613120386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_100
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 298
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848446bc511c8a430800000000000000
+      internalID: 3794494985410463816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_101
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 298
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836f51e40376171f0800000000000000
+      internalID: -1048943781034461640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_102
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 298
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28a12fd9a527bf20800000000000000
+      internalID: 3438258252043888687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_103
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 298
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40eaa7419a45e49e0800000000000000
+      internalID: -1635276529519120892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_104
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 298
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61004d12f0f6551b0800000000000000
+      internalID: -5668502445193166826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_105
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 197
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d93d6d9d5ff22a40800000000000000
+      internalID: 5342112885553052112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_106
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 197
+        width: 75
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d445260db5fb6e0800000000000000
+      internalID: -1819634773873373858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_107
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 197
+        width: 70
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2b096c6913c8920800000000000000
+      internalID: 2993822375940764362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_108
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 196
+        width: 66
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf8544868bccd300800000000000000
+      internalID: 278321055595335642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_109
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 195
+        width: 65
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b90b08d924a0e80800000000000000
+      internalID: -8211677726320321690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_110
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 196
+        width: 66
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7850bcc7693761a10800000000000000
+      internalID: 1879816984649729415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_111
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 197
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27377db8b92db480800000000000000
+      internalID: -8881897016675322069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_112
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 101
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc3431e58ba29de0800000000000000
+      internalID: -1327810348623577861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_113
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 101
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53798a3bf7bf35e0800000000000000
+      internalID: -1927619825844522148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_114
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 101
+        width: 75
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a3db4885aaaa8e0800000000000000
+      internalID: -1681344213708621268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_115
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 101
+        width: 74
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ecf6f0f7c66de30800000000000000
+      internalID: 4527925768343244447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_116
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 101
+        width: 71
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3621bddca8d561830800000000000000
+      internalID: 4041520566352155235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_117
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 101
+        width: 71
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac75da1d3e1c33f0800000000000000
+      internalID: -919826976098386781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_118
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 101
+        width: 72
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda2658547be7a5d0800000000000000
+      internalID: -3051211337589445924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_119
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 5
+        width: 76
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080dd518c40b6a820800000000000000
+      internalID: 2929222450285498496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_120
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 5
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b810220e02eca5460800000000000000
+      internalID: 7231318792291352971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_121
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 6
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d137c42d604cba0800000000000000
+      internalID: -6069718897493074593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_122
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 47
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ca55343cf5f2340800000000000000
+      internalID: 4841193416699522101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_123
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 45
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f87fc22872bacf40800000000000000
+      internalID: 5749604103341701364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_124
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 45
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7297dc50291013120800000000000000
+      internalID: 2391694603784648999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_125
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 47
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391ded10c399a5ff0800000000000000
+      internalID: -46556363125501549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_126
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 47
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688ecb41ecfb42990800000000000000
+      internalID: -7411588194912900986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_127
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 47
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4840acff7a803220800000000000000
+      internalID: 2463621278475503691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_128
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 45
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3328948fc44318a70800000000000000
+      internalID: 8827394249810608691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_129
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 47
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62e0ae8501976be0800000000000000
+      internalID: -1484058099141516694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_130
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 47
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe895631ecb94290800000000000000
+      internalID: -7905579995406692613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_131
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 47
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285ad5973bc0deef0800000000000000
+      internalID: -77391653620570750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_132
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 47
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e77b365bc2b85580800000000000000
+      internalID: -8838117682319755293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_133
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 47
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce46863ceebe8850800000000000000
+      internalID: 6381247643766902476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_134
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 28
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08645bd1a83e0830800000000000000
+      internalID: 4039228183618545676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_135
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518ae946118376c50800000000000000
+      internalID: 6658352221444286485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_136
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936d240285379b080800000000000000
+      internalID: -9171172343827737031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_137
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 28
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ef47777e2ac4cd0800000000000000
+      internalID: -2572502172110094711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_138
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0030d605d20cfca30800000000000000
+      internalID: 4237817075234308864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_139
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6eb6eefa06228a0800000000000000
+      internalID: -6331391817393903967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_140
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 28
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c491b09041b75d0800000000000000
+      internalID: -3063833092422022143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_141
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 28
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c1a5d7804f27df0800000000000000
+      internalID: -183816317468795841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_142
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 28
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce208aeb93124db30800000000000000
+      internalID: 4311107275195941612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_143
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886fc1d2057b55b40800000000000000
+      internalID: 5428446480847140488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_144
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68784e1ba01298690800000000000000
+      internalID: -7599506566393067642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_145
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08990e9652187cae0800000000000000
+      internalID: -1529111550778893952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_146
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 28
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2f9869c17b006f0800000000000000
+      internalID: -720374606966689040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_147
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 26
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424e261861a9c37e0800000000000000
+      internalID: -1784381930894859228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_148
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 9
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050ef9a6dc7c532a0800000000000000
+      internalID: -6758275980728475568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_149
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 9
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128dbc7483cccb130800000000000000
+      internalID: 3583963945574848545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_150
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 9
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec033c42f78d3380800000000000000
+      internalID: -8989879806431392540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_151
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 9
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ddc13ea88060b150800000000000000
+      internalID: 5886310853127556569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_152
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 9
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec5d25c230313470800000000000000
+      internalID: 8372526176873045218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_153
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 9
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97eb3062332890c0800000000000000
+      internalID: -4568863122697492579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_154
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 9
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485a4c5ce96505f70800000000000000
+      internalID: 9173927680876520836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_155
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 9
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d6fa2383f602340800000000000000
+      internalID: 4836988286955122055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_156
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 9
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618d36553d7a747b0800000000000000
+      internalID: -5240035115309737962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_157
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 9
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d0802b4e295ca10800000000000000
+      internalID: 1929109526335196497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_158
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 7
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892f74468b0b2eba0800000000000000
+      internalID: -6061087842484358504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_159
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 9
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79adbe3e968515480800000000000000
+      internalID: -8912244975770805609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_160
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 9
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb558451dde43d4e0800000000000000
+      internalID: -1958134701524232769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_161
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 9
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000f6e41ffc2095e0800000000000000
+      internalID: -1904973168298758144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Articuno_ready_162
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 9
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e09a0176272dea00800000000000000
+      internalID: 787328555918463207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fd73012ff2053040a6fe22559110819, type: 3}
+  m_Name: Starboks
+  m_EditorClassIdentifier: 
+  monsterName: Starboks
+  description: "Arbok is a serpentine Pok\xE9mon that resembles a cobra. It has narrow
+    eyes and several sharp teeth. Just below its head is a large hood with a face-like
+    pattern. This pattern has over 20 possible variations. The pattern typically
+    has two red and yellow eyespots outlined in black, a wide black streak resembling
+    an upturned mouth, and a black V-shaped stripe above the eyespots."
+  frontSprite: {fileID: -8830704635637084417, guid: 92cd13894434e9847a2335a50551d228,
+    type: 3}
+  backSprite: {fileID: -740710458397598357, guid: 92cd13894434e9847a2335a50551d228,
+    type: 3}
+  firstType: 8
+  secondType: 0
+  maxHp: 60
+  attack: 85
+  defense: 69
+  spAttack: 65
+  spDefense: 79
+  speed: 80
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 8348591baf7100e4b908fb79f9ee2c32, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: ef1d32a71ae5c524fa414d82769b6241, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 4c093ea8cda953d40bea03876bae222b, type: 2}
+    level: 20
+  - moveBase: {fileID: 11400000, guid: 33c3dc2749cdc9f40a90701132472ce2, type: 2}
+    level: 17
+  - moveBase: {fileID: 11400000, guid: 334c85aeb37ffb240a33687416223a88, type: 2}
+    level: 4
+  - moveBase: {fileID: 11400000, guid: 05ecc7bd3f7afc94b8dff9e4b75f91bb, type: 2}
+    level: 63
+  - moveBase: {fileID: 11400000, guid: 3c3ddeaa44618e04b81dcdb43c4229bf, type: 2}
+    level: 39

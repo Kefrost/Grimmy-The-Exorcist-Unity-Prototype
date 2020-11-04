@@ -1,0 +1,3536 @@
+fileFormatVersion: 2
+guid: 7d65e4aff4670484bafea39a0031e869
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2481938378895121487
+    second: Pupitar_0
+  - first:
+      213: -3541708256772248866
+    second: Pupitar_1
+  - first:
+      213: 6173659975918956356
+    second: Pupitar_2
+  - first:
+      213: -3289034216008978132
+    second: Pupitar_3
+  - first:
+      213: -3303860174192077040
+    second: Pupitar_4
+  - first:
+      213: -618538506089086964
+    second: Pupitar_5
+  - first:
+      213: 5558851156294002787
+    second: Pupitar_6
+  - first:
+      213: 1496696798109972234
+    second: Pupitar_7
+  - first:
+      213: -7439531261818003499
+    second: Pupitar_8
+  - first:
+      213: 110260086768547443
+    second: Pupitar_9
+  - first:
+      213: -8483800004438193140
+    second: Pupitar_10
+  - first:
+      213: 3264746387257522901
+    second: Pupitar_11
+  - first:
+      213: -360747658826323312
+    second: Pupitar_12
+  - first:
+      213: -1227170999395557373
+    second: Pupitar_13
+  - first:
+      213: -3160997758460703700
+    second: Pupitar_14
+  - first:
+      213: 5572265634475925059
+    second: Pupitar_15
+  - first:
+      213: -1597025096701601900
+    second: Pupitar_16
+  - first:
+      213: -7041879091191247196
+    second: Pupitar_17
+  - first:
+      213: -7836209309684580829
+    second: Pupitar_18
+  - first:
+      213: -5744471365780201723
+    second: Pupitar_19
+  - first:
+      213: 4652525182941672967
+    second: Pupitar_20
+  - first:
+      213: 5724227476094914429
+    second: Pupitar_21
+  - first:
+      213: 1408219357987044871
+    second: Pupitar_22
+  - first:
+      213: 6692902541647581170
+    second: Pupitar_23
+  - first:
+      213: -7689446432154293079
+    second: Pupitar_24
+  - first:
+      213: -8965283271575068149
+    second: Pupitar_25
+  - first:
+      213: -3073138295888859306
+    second: Pupitar_26
+  - first:
+      213: -7038514748324556866
+    second: Pupitar_27
+  - first:
+      213: 349527161546348641
+    second: Pupitar_28
+  - first:
+      213: -4507681390643127534
+    second: Pupitar_29
+  - first:
+      213: -4115353503354343423
+    second: Pupitar_30
+  - first:
+      213: 7511793114370396646
+    second: Pupitar_31
+  - first:
+      213: -1850031990367544883
+    second: Pupitar_32
+  - first:
+      213: 4683988883565303576
+    second: Pupitar_33
+  - first:
+      213: 4535017101722142914
+    second: Pupitar_34
+  - first:
+      213: 62538169008002404
+    second: Pupitar_35
+  - first:
+      213: 2402750399488878265
+    second: Pupitar_36
+  - first:
+      213: 3545284079698635779
+    second: Pupitar_37
+  - first:
+      213: 7342802971513684402
+    second: Pupitar_38
+  - first:
+      213: -3977292741933632239
+    second: Pupitar_39
+  - first:
+      213: 9027482035329075644
+    second: Pupitar_40
+  - first:
+      213: -57143582493502298
+    second: Pupitar_41
+  - first:
+      213: -3884497219245796351
+    second: Pupitar_42
+  - first:
+      213: -2420557419857389102
+    second: Pupitar_43
+  - first:
+      213: -6846626098476835531
+    second: Pupitar_44
+  - first:
+      213: -1859245446513990754
+    second: Pupitar_45
+  - first:
+      213: 4633589225723556657
+    second: Pupitar_46
+  - first:
+      213: 109283103756046660
+    second: Pupitar_47
+  - first:
+      213: -4623701868502795774
+    second: Pupitar_48
+  - first:
+      213: -9114263209030386221
+    second: Pupitar_49
+  - first:
+      213: -9206366635958082640
+    second: Pupitar_50
+  - first:
+      213: -3533403666669238819
+    second: Pupitar_51
+  - first:
+      213: -5270282120992146452
+    second: Pupitar_52
+  - first:
+      213: -3192618498109514186
+    second: Pupitar_53
+  - first:
+      213: -1895072085471897135
+    second: Pupitar_54
+  - first:
+      213: -3304122770403349697
+    second: Pupitar_55
+  - first:
+      213: 7457999504116303616
+    second: Pupitar_56
+  - first:
+      213: -767887654229075820
+    second: Pupitar_57
+  - first:
+      213: 7582018121502523422
+    second: Pupitar_58
+  - first:
+      213: 4887099238980899029
+    second: Pupitar_59
+  - first:
+      213: 6887968096939098156
+    second: Pupitar_60
+  - first:
+      213: -7696566865020292716
+    second: Pupitar_61
+  - first:
+      213: 4865451872268106160
+    second: Pupitar_62
+  - first:
+      213: -6656937230825203356
+    second: Pupitar_63
+  - first:
+      213: 3816894185475087605
+    second: Pupitar_64
+  - first:
+      213: 6056365233090364962
+    second: Pupitar_65
+  - first:
+      213: 8898867800188592723
+    second: Pupitar_66
+  - first:
+      213: 5559187282071221418
+    second: Pupitar_67
+  - first:
+      213: -7010015943092987083
+    second: Pupitar_68
+  - first:
+      213: 8073405603322669595
+    second: Pupitar_69
+  - first:
+      213: -2872471705977858338
+    second: Pupitar_70
+  - first:
+      213: -5133619986887733050
+    second: Pupitar_71
+  - first:
+      213: -8391545724307425439
+    second: Pupitar_72
+  - first:
+      213: 4160416552230097206
+    second: Pupitar_73
+  - first:
+      213: 3299669922338704659
+    second: Pupitar_74
+  - first:
+      213: 3935807348024522100
+    second: Pupitar_75
+  - first:
+      213: -8407647977732419065
+    second: Pupitar_76
+  - first:
+      213: 4017908555939468110
+    second: Pupitar_77
+  - first:
+      213: 3972259688649533180
+    second: Pupitar_78
+  - first:
+      213: 3082256282519659032
+    second: Pupitar_79
+  - first:
+      213: 3965866185999822422
+    second: Pupitar_80
+  - first:
+      213: -1648286780099218974
+    second: Pupitar_81
+  - first:
+      213: 2046531292375674499
+    second: Pupitar_82
+  - first:
+      213: 2499200878498951754
+    second: Pupitar_83
+  - first:
+      213: -5552647145198549486
+    second: Pupitar_84
+  - first:
+      213: -6936619959203754218
+    second: Pupitar_85
+  - first:
+      213: -4670174271404068136
+    second: Pupitar_86
+  - first:
+      213: 8177669138118131604
+    second: Pupitar_87
+  - first:
+      213: -5717638353136952511
+    second: Pupitar_88
+  - first:
+      213: -3987181487033800320
+    second: Pupitar_89
+  - first:
+      213: -8545540242383465950
+    second: Pupitar_90
+  - first:
+      213: 1469655227854447994
+    second: Pupitar_91
+  - first:
+      213: -6663419841211297891
+    second: Pupitar_92
+  - first:
+      213: -7809326276562858370
+    second: Pupitar_93
+  - first:
+      213: 2589902876316308137
+    second: Pupitar_94
+  - first:
+      213: -2738899999530718173
+    second: Pupitar_95
+  - first:
+      213: -3779029730148795148
+    second: Pupitar_96
+  - first:
+      213: 1204502066051486642
+    second: Pupitar_97
+  - first:
+      213: 4940238152778895162
+    second: Pupitar_98
+  - first:
+      213: -2917993539312851944
+    second: Pupitar_99
+  - first:
+      213: -6882095987145379046
+    second: Pupitar_100
+  - first:
+      213: -5972306784843331745
+    second: Pupitar_101
+  - first:
+      213: -3346796017565748565
+    second: Pupitar_102
+  - first:
+      213: 5374122321076473424
+    second: Pupitar_103
+  - first:
+      213: 1192558152978864841
+    second: Pupitar_104
+  - first:
+      213: -2813994733526563227
+    second: Pupitar_105
+  - first:
+      213: 6624647337055074592
+    second: Pupitar_106
+  - first:
+      213: -8678414463922612951
+    second: Pupitar_107
+  - first:
+      213: 7220769986789663828
+    second: Pupitar_108
+  - first:
+      213: 4429265969107620721
+    second: Pupitar_109
+  - first:
+      213: -4159794282817914803
+    second: Pupitar_110
+  - first:
+      213: 3306535873138283981
+    second: Pupitar_111
+  - first:
+      213: 4097018928191238847
+    second: Pupitar_112
+  - first:
+      213: -3935368116610952424
+    second: Pupitar_113
+  - first:
+      213: -1509936364485037694
+    second: Pupitar_114
+  - first:
+      213: -4424083973301742461
+    second: Pupitar_115
+  - first:
+      213: 3441346094056816049
+    second: Pupitar_116
+  - first:
+      213: -8395653055923734540
+    second: Pupitar_117
+  - first:
+      213: -3541322391471024741
+    second: Pupitar_118
+  - first:
+      213: 2934130280246322657
+    second: Pupitar_119
+  - first:
+      213: -4547629291009103750
+    second: Pupitar_120
+  - first:
+      213: -3642561190030930304
+    second: Pupitar_121
+  - first:
+      213: -6189006122909499027
+    second: Pupitar_122
+  - first:
+      213: 8564930695114673695
+    second: Pupitar_123
+  - first:
+      213: -2593842666896687482
+    second: Pupitar_124
+  - first:
+      213: 8424134827922272792
+    second: Pupitar_125
+  - first:
+      213: -7197003134783102246
+    second: Pupitar_126
+  - first:
+      213: -5806752150338192457
+    second: Pupitar_127
+  - first:
+      213: 8707649094940154835
+    second: Pupitar_128
+  - first:
+      213: 9127738353616714113
+    second: Pupitar_129
+  - first:
+      213: 485431119080760410
+    second: Pupitar_130
+  - first:
+      213: 492437694802639407
+    second: Pupitar_131
+  - first:
+      213: -3392824924157864958
+    second: Pupitar_132
+  - first:
+      213: 4596008781230777383
+    second: Pupitar_133
+  - first:
+      213: 8316373889795477046
+    second: Pupitar_134
+  - first:
+      213: -555763172496052465
+    second: Pupitar_135
+  - first:
+      213: 6240700322300297135
+    second: Pupitar_136
+  - first:
+      213: 8009178998806435197
+    second: Pupitar_137
+  - first:
+      213: 4328242041654948970
+    second: Pupitar_138
+  - first:
+      213: 7202251620742300729
+    second: Pupitar_139
+  - first:
+      213: 1939292489522994465
+    second: Pupitar_140
+  - first:
+      213: 5114883440723863011
+    second: Pupitar_141
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pupitar_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 618
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4cd3744ecd917220800000000000000
+      internalID: 2481938378895121487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 618
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edaa501fa1359dec0800000000000000
+      internalID: -3541708256772248866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 618
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f22b4e90f3da550800000000000000
+      internalID: 6173659975918956356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_3
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 619
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21fdac7ec00b52d0800000000000000
+      internalID: -3289034216008978132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 618
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01798b91da45622d0800000000000000
+      internalID: -3303860174192077040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_5
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 619
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00c8a081828a67f0800000000000000
+      internalID: -618538506089086964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_6
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 618
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3686c22bca1052d40800000000000000
+      internalID: 5558851156294002787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_7
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 618
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a073fcbdec555c410800000000000000
+      internalID: 1496696798109972234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_8
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 618
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df9ce3dbb971c890800000000000000
+      internalID: -7439531261818003499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_9
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 619
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3763eb8f6f8b78100800000000000000
+      internalID: 110260086768547443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_10
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 618
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c010658dc734a80800000000000000
+      internalID: -8483800004438193140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_11
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 618
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da7936ba85be4d20800000000000000
+      internalID: 3264746387257522901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_12
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 618
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a6a166aed5efaf0800000000000000
+      internalID: -360747658826323312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_13
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 618
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300ed565a7638fee0800000000000000
+      internalID: -1227170999395557373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_14
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 538
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2cc42f4941e124d0800000000000000
+      internalID: -3160997758460703700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_15
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 539
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34edd09421aa45d40800000000000000
+      internalID: 5572265634475925059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_16
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 538
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49797bdc22a36d9e0800000000000000
+      internalID: -1597025096701601900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_17
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 540
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae8b4aa648364e90800000000000000
+      internalID: -7041879091191247196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_18
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 545
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e34ae9621304390800000000000000
+      internalID: -7836209309684580829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_19
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 539
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f94447ab98740b0800000000000000
+      internalID: -5744471365780201723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_20
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 539
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7063cc5f007119040800000000000000
+      internalID: 4652525182941672967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_21
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 539
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f0b2eaf8a807f40800000000000000
+      internalID: 5724227476094914429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_22
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 539
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e75a68b000b8310800000000000000
+      internalID: 1408219357987044871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_23
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 539
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff863fa667f1ec50800000000000000
+      internalID: 6692902541647581170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_24
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 539
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac6c0cd539994590800000000000000
+      internalID: -7689446432154293079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_25
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 539
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0224075d5ae49380800000000000000
+      internalID: -8965283271575068149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_26
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 539
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f25e780050a55d0800000000000000
+      internalID: -3073138295888859306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_27
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 539
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf44c7c02c225e90800000000000000
+      internalID: -7038514748324556866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_28
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 459
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168125ff915c9d400800000000000000
+      internalID: 349527161546348641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_29
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 459
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bd31e68af7171c0800000000000000
+      internalID: -4507681390643127534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_30
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 459
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100b763fac353e6c0800000000000000
+      internalID: -4115353503354343423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_31
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 459
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1d540d9004f3860800000000000000
+      internalID: 7511793114370396646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_32
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 459
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc99807e4bd5356e0800000000000000
+      internalID: -1850031990367544883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_33
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 459
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817d9c0a21fd00140800000000000000
+      internalID: 4683988883565303576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_34
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 459
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c84876c60e9fee30800000000000000
+      internalID: 4535017101722142914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_35
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 459
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46510a4222e2ed000800000000000000
+      internalID: 62538169008002404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_36
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 459
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6667d02c8485120800000000000000
+      internalID: 2402750399488878265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_37
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 459
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ce8463611633130800000000000000
+      internalID: 3545284079698635779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_38
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 459
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b181c41660e6e560800000000000000
+      internalID: 7342802971513684402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_39
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 459
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1157e45e251ddc8c0800000000000000
+      internalID: -3977292741933632239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_40
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 458
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9820cd41f084d70800000000000000
+      internalID: 9027482035329075644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_41
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 459
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a41848e63cf43ff0800000000000000
+      internalID: -57143582493502298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_42
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 379
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1049cdb2c5e771ac0800000000000000
+      internalID: -3884497219245796351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_43
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 378
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9d6fee9d3786ed0800000000000000
+      internalID: -2420557419857389102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_44
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 391
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d9e52a6d5ebf0a0800000000000000
+      internalID: -6846626098476835531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_45
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 391
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93654afd12a236e0800000000000000
+      internalID: -1859245446513990754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_46
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 391
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133745ad9d0dd4040800000000000000
+      internalID: 4633589225723556657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_47
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 391
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441d4536760448100800000000000000
+      internalID: 109283103756046660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_48
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 391
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ab494e5af45dfb0800000000000000
+      internalID: -4623701868502795774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_49
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 391
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ddf45c96e1a38180800000000000000
+      internalID: -9114263209030386221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_50
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 391
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3e5bf625a6c3080800000000000000
+      internalID: -9206366635958082640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_51
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 391
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd50e100614d6fec0800000000000000
+      internalID: -3533403666669238819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_52
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 391
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebbb2885523cd6b0800000000000000
+      internalID: -5270282120992146452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_53
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 391
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e57d4246a81b3d0800000000000000
+      internalID: -3192618498109514186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_54
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 391
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d950b19af953b5e0800000000000000
+      internalID: -1895072085471897135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_55
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 391
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b24d7a8d56522d0800000000000000
+      internalID: -3304122770403349697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_56
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 391
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00744e9e803208760800000000000000
+      internalID: 7457999504116303616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_57
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 391
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49894463f3ae755f0800000000000000
+      internalID: -767887654229075820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_58
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 391
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e108bbc6f4db83960800000000000000
+      internalID: 7582018121502523422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_59
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 391
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0d9896dd672d340800000000000000
+      internalID: 4887099238980899029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_60
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 391
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20474a7d7af69f50800000000000000
+      internalID: 6887968096939098156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_61
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 391
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4917c64e63d403590800000000000000
+      internalID: -7696566865020292716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_62
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 391
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9bc4613be858340800000000000000
+      internalID: 4865451872268106160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_63
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 391
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4695798cbdecd93a0800000000000000
+      internalID: -6656937230825203356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_64
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 391
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc1f76f90558f430800000000000000
+      internalID: 3816894185475087605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_65
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 391
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226806c67188c0450800000000000000
+      internalID: 6056365233090364962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_66
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 391
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3522765bd112f7b70800000000000000
+      internalID: 8898867800188592723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_67
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 391
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa479b31163362d40800000000000000
+      internalID: 5559187282071221418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_68
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 391
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b1e12f3ab67be90800000000000000
+      internalID: -7010015943092987083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_69
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 391
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a22b91f9f7a0070800000000000000
+      internalID: 8073405603322669595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_70
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 391
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed654d1d33ee228d0800000000000000
+      internalID: -2872471705977858338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_71
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 391
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c016bd22d7b1c8b0800000000000000
+      internalID: -5133619986887733050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_72
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 391
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1673532cf9d3b8b80800000000000000
+      internalID: -8391545724307425439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_73
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 391
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6319459bfc4ccb930800000000000000
+      internalID: 4160416552230097206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_74
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 391
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d0a0ddf48cacd20800000000000000
+      internalID: 3299669922338704659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_75
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 391
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475bf532eebce9630800000000000000
+      internalID: 3935807348024522100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_76
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 391
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7025abab5b8025b80800000000000000
+      internalID: -8407647977732419065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_77
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 391
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4356c83b8a72c730800000000000000
+      internalID: 4017908555939468110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_78
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 391
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf62f81142d402730800000000000000
+      internalID: 3972259688649533180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_79
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 263
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812ec4a22cf56ca20800000000000000
+      internalID: 3082256282519659032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_80
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 263
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ea04bb846990730800000000000000
+      internalID: 3965866185999822422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_81
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 263
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1b63018eb1029e0800000000000000
+      internalID: -1648286780099218974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_82
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 263
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ee5cf0e5db66c10800000000000000
+      internalID: 2046531292375674499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_83
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 262
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42364925f1fea220800000000000000
+      internalID: 2499200878498951754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_84
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 263
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2168a5337d801f2b0800000000000000
+      internalID: -5552647145198549486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_85
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 263
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f86cd16ec2cbf90800000000000000
+      internalID: -6936619959203754218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_86
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 263
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2bac96e35303fb0800000000000000
+      internalID: -4670174271404068136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_87
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 263
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fb43401caec7170800000000000000
+      internalID: 8177669138118131604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_88
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 264
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b5f1f063ed6a0b0800000000000000
+      internalID: -5717638353136952511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_89
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 264
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0892652009faaa8c0800000000000000
+      internalID: -3987181487033800320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_90
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 264
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2229deefc64286980800000000000000
+      internalID: -8545540242383465950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_91
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 265
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a756f86a4a3456410800000000000000
+      internalID: 1469655227854447994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_92
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 264
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f8f4f65f6c683a0800000000000000
+      internalID: -6663419841211297891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_93
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 240
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ec8568023bf9390800000000000000
+      internalID: -7809326276562858370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_94
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 238
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a29891b1fe21f320800000000000000
+      internalID: 2589902876316308137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_95
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 180
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c67a436f87df9d0800000000000000
+      internalID: -2738899999530718173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_96
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 180
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc37da8b703e8bc0800000000000000
+      internalID: -3779029730148795148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_97
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 179
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b319325f3047b010800000000000000
+      internalID: 1204502066051486642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_98
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 181
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3fc73aec604f8440800000000000000
+      internalID: 4940238152778895162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_99
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 186
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8146f5016543187d0800000000000000
+      internalID: -2917993539312851944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_100
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 181
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13fe00a922ed70a0800000000000000
+      internalID: -6882095987145379046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_101
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 181
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5702cf2f9a1e1da0800000000000000
+      internalID: -5972306784843331745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_102
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 181
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba23d4d01cacd81d0800000000000000
+      internalID: -3346796017565748565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_103
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 181
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ec24717c7b49a40800000000000000
+      internalID: 5374122321076473424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_104
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 181
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca1d4a5251dc8010800000000000000
+      internalID: 1192558152978864841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_105
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 181
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5664454f2bea2f8d0800000000000000
+      internalID: -2813994733526563227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_106
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 181
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029b76777a97feb50800000000000000
+      internalID: 6624647337055074592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_107
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 181
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925d7487604109780800000000000000
+      internalID: -8678414463922612951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_108
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 181
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4546663bb04553460800000000000000
+      internalID: 7220769986789663828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_109
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 98
+        width: 76
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173d2608ee9e77d30800000000000000
+      internalID: 4429265969107620721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_110
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 123
+        width: 120
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48ffe9a3217546c0800000000000000
+      internalID: -4159794282817914803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_111
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 97
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc55e7b9bdc23ed20800000000000000
+      internalID: 3306535873138283981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_112
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 97
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2f3ec12098bd830800000000000000
+      internalID: 4097018928191238847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_113
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 97
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81391056c83c269c0800000000000000
+      internalID: -3935368116610952424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_114
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 97
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281bc6160e0ab0be0800000000000000
+      internalID: -1509936364485037694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_115
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 97
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384d9dae01f7a92c0800000000000000
+      internalID: -4424083973301742461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_116
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 97
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd3f6d1a0e12cf20800000000000000
+      internalID: 3441346094056816049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_117
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 97
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f73e381706ac7b80800000000000000
+      internalID: -8395653055923734540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_118
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 97
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b959b353c02badec0800000000000000
+      internalID: -3541322391471024741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_119
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 97
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5acc6b1ff18b820800000000000000
+      internalID: 2934130280246322657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_120
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 97
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78ad33114393e0c0800000000000000
+      internalID: -4547629291009103750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_121
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 97
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e059395e5037dc0800000000000000
+      internalID: -3642561190030930304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_122
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 97
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d610343d8bb3c1aa0800000000000000
+      internalID: -6189006122909499027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_123
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 96
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e4628961fbcd670800000000000000
+      internalID: 8564930695114673695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_124
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 96
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68efe5456d1d00cd0800000000000000
+      internalID: -2593842666896687482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_125
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 86
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812bd463ef988e470800000000000000
+      internalID: 8424134827922272792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_126
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 86
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad261efb7cb1f1c90800000000000000
+      internalID: -7197003134783102246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_127
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 86
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb3b5c4fa54a6fa0800000000000000
+      internalID: -5806752150338192457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_128
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 86
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dbd8ac77b8c7d870800000000000000
+      internalID: 8707649094940154835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_129
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 86
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189780afbad3cae70800000000000000
+      internalID: 9127738353616714113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_130
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 63
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54aab7e7099cb600800000000000000
+      internalID: 485431119080760410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_131
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 63
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a39b0797d75d600800000000000000
+      internalID: 492437694802639407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_132
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 63
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2049a7a15b34ae0d0800000000000000
+      internalID: -3392824924157864958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_133
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 63
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72426d5c2ad48cf30800000000000000
+      internalID: 4596008781230777383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_134
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 63
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ec790adf1b96370800000000000000
+      internalID: 8316373889795477046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_135
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 63
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fe024d6588948f0800000000000000
+      internalID: -555763172496052465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_136
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 63
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafff54e0eb6b9650800000000000000
+      internalID: 6240700322300297135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_137
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 63
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75506e6dd1562f60800000000000000
+      internalID: 8009178998806435197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_138
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 63
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6431c27431011c30800000000000000
+      internalID: 4328242041654948970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_139
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 63
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934835d90b983f360800000000000000
+      internalID: 7202251620742300729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_140
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 12
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12dd9919e30c9ea10800000000000000
+      internalID: 1939292489522994465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pupitar_141
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 11
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5afd7b367bbf640800000000000000
+      internalID: 5114883440723863011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

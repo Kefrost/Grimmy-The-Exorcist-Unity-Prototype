@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fd73012ff2053040a6fe22559110819, type: 3}
+  m_Name: The Spoon Guy
+  m_EditorClassIdentifier: 
+  monsterName: The Spoon Guy
+  description: "Alakazam is a Pok\xE9mon characterized by its humanoid structure
+    and large mustache. A female Alakazam has a significantly shorter mustache than
+    a male. It has a long, thin snout, narrow eyes, ear-like spikes extending from
+    the top of its head, and an additional spike protruding from each cheek. Covering
+    its yellow, skeletal body are brown armor-like sections over its chest, shoulders,
+    forearms, and knees. There are three toes on each foot, each of which has a white
+    claw. Two of the toes face forward, while one faces backwards. It wields a silver
+    spoon in each hand, which act as amplifiers for its psychic abilities. The spoons
+    are created using its psychic powers and it may give one to someone it trusts.
+    Alakazam is able to lower the accuracy of its opponents by bending the spoons
+    it wields, using its signature move Kinesis."
+  frontSprite: {fileID: 4805499687555430833, guid: c58fb5d4b4215b34989110e659240bad,
+    type: 3}
+  backSprite: {fileID: 1309593516745217837, guid: c58fb5d4b4215b34989110e659240bad,
+    type: 3}
+  firstType: 11
+  secondType: 0
+  maxHp: 55
+  attack: 50
+  defense: 45
+  spAttack: 135
+  spDefense: 85
+  speed: 120
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 3f4fe16dd0ba4374287db7b58e195eea, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 8153340651a7ca143973f27858d9f12b, type: 2}
+    level: 20
+  - moveBase: {fileID: 11400000, guid: d1788c029f5f4df49816ef8672998b46, type: 2}
+    level: 35
+  - moveBase: {fileID: 11400000, guid: 9531eeaa05d48ba4188b911c818251ab, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 5428c9d870b166c4d8a09d03a76ba99c, type: 2}
+    level: 30
+  - moveBase: {fileID: 11400000, guid: 795c47586bdbd4945bca6972e1dda46c, type: 2}
+    level: 5

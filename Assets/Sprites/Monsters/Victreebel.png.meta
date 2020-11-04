@@ -1,0 +1,2192 @@
+fileFormatVersion: 2
+guid: 60806cdf1f217ba40b09f8f06de032c2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6092079115642293614
+    second: Victreebel_0
+  - first:
+      213: 3763073776302407877
+    second: Victreebel_1
+  - first:
+      213: -3654422490016538180
+    second: Victreebel_2
+  - first:
+      213: -3665310365664150817
+    second: Victreebel_3
+  - first:
+      213: -6115273207657740407
+    second: Victreebel_4
+  - first:
+      213: 4867508284776303961
+    second: Victreebel_5
+  - first:
+      213: -7747899021797097042
+    second: Victreebel_6
+  - first:
+      213: -6034343950131599514
+    second: Victreebel_7
+  - first:
+      213: -4965736125301420008
+    second: Victreebel_8
+  - first:
+      213: 3234765475272304532
+    second: Victreebel_9
+  - first:
+      213: -3814693334376213421
+    second: Victreebel_10
+  - first:
+      213: -3244452970514037568
+    second: Victreebel_11
+  - first:
+      213: 6112694125079053067
+    second: Victreebel_12
+  - first:
+      213: -2620728373376101359
+    second: Victreebel_13
+  - first:
+      213: 5393606443080920678
+    second: Victreebel_14
+  - first:
+      213: -1975791405119939559
+    second: Victreebel_15
+  - first:
+      213: 2697570145408173500
+    second: Victreebel_16
+  - first:
+      213: 8648828815050675968
+    second: Victreebel_17
+  - first:
+      213: -7535989916517787192
+    second: Victreebel_18
+  - first:
+      213: 352761659502872543
+    second: Victreebel_19
+  - first:
+      213: -3577477903707230451
+    second: Victreebel_20
+  - first:
+      213: 4664564539601660804
+    second: Victreebel_21
+  - first:
+      213: 3781385871067869559
+    second: Victreebel_22
+  - first:
+      213: -5518910807452181455
+    second: Victreebel_23
+  - first:
+      213: -505295949742136428
+    second: Victreebel_24
+  - first:
+      213: -5854747551346191005
+    second: Victreebel_25
+  - first:
+      213: -6078418202232364314
+    second: Victreebel_26
+  - first:
+      213: 7697566386782648327
+    second: Victreebel_27
+  - first:
+      213: 1156160760280108718
+    second: Victreebel_28
+  - first:
+      213: -2384095007521648517
+    second: Victreebel_29
+  - first:
+      213: -8763831501978446018
+    second: Victreebel_30
+  - first:
+      213: -1645576804699275570
+    second: Victreebel_31
+  - first:
+      213: 7375468563747576102
+    second: Victreebel_32
+  - first:
+      213: 7664082981489338636
+    second: Victreebel_33
+  - first:
+      213: 1741297316464953261
+    second: Victreebel_34
+  - first:
+      213: 5603783071015433238
+    second: Victreebel_35
+  - first:
+      213: 5411100991853623918
+    second: Victreebel_36
+  - first:
+      213: -4841268633458501402
+    second: Victreebel_37
+  - first:
+      213: 6715754085135752997
+    second: Victreebel_38
+  - first:
+      213: -1408122754709347640
+    second: Victreebel_39
+  - first:
+      213: -5411119980037452574
+    second: Victreebel_40
+  - first:
+      213: -4446984381144063647
+    second: Victreebel_41
+  - first:
+      213: -3227908010374861187
+    second: Victreebel_42
+  - first:
+      213: -6963493225342979854
+    second: Victreebel_43
+  - first:
+      213: 757079005726947976
+    second: Victreebel_44
+  - first:
+      213: -431429757025273659
+    second: Victreebel_45
+  - first:
+      213: -7995359252620708546
+    second: Victreebel_46
+  - first:
+      213: 1842943502355173332
+    second: Victreebel_47
+  - first:
+      213: 6977712256629683639
+    second: Victreebel_48
+  - first:
+      213: 5639309898248042246
+    second: Victreebel_49
+  - first:
+      213: -4178592154908427818
+    second: Victreebel_50
+  - first:
+      213: 1451538045470442590
+    second: Victreebel_51
+  - first:
+      213: -7130288995436581056
+    second: Victreebel_52
+  - first:
+      213: -2130170308159055012
+    second: Victreebel_53
+  - first:
+      213: 4494848053593154348
+    second: Victreebel_54
+  - first:
+      213: 5422183096429749874
+    second: Victreebel_55
+  - first:
+      213: 1183586013779612059
+    second: Victreebel_56
+  - first:
+      213: -5599145398853687430
+    second: Victreebel_57
+  - first:
+      213: 5341530079708300698
+    second: Victreebel_58
+  - first:
+      213: -100802523838057222
+    second: Victreebel_59
+  - first:
+      213: -336820453263531578
+    second: Victreebel_60
+  - first:
+      213: -179018277654857960
+    second: Victreebel_61
+  - first:
+      213: -8650704146228015178
+    second: Victreebel_62
+  - first:
+      213: 412607504782630434
+    second: Victreebel_63
+  - first:
+      213: -852176803863186154
+    second: Victreebel_64
+  - first:
+      213: 5599510515754468053
+    second: Victreebel_65
+  - first:
+      213: -9144280293289534363
+    second: Victreebel_66
+  - first:
+      213: -366652941109645670
+    second: Victreebel_67
+  - first:
+      213: 2747963184836067088
+    second: Victreebel_68
+  - first:
+      213: -810488582508248025
+    second: Victreebel_69
+  - first:
+      213: 2033055749950274871
+    second: Victreebel_70
+  - first:
+      213: 6727399354801048358
+    second: Victreebel_71
+  - first:
+      213: 7528445051846339686
+    second: Victreebel_72
+  - first:
+      213: 5076390679716877033
+    second: Victreebel_73
+  - first:
+      213: -4148085696200379383
+    second: Victreebel_74
+  - first:
+      213: 61663106282971085
+    second: Victreebel_75
+  - first:
+      213: -4134913848367194754
+    second: Victreebel_76
+  - first:
+      213: -3467672248493823129
+    second: Victreebel_77
+  - first:
+      213: -8564830670652696461
+    second: Victreebel_78
+  - first:
+      213: -1236311479275689348
+    second: Victreebel_79
+  - first:
+      213: -7968641966790838449
+    second: Victreebel_80
+  - first:
+      213: 3888814676651337470
+    second: Victreebel_81
+  - first:
+      213: 3136466136787990288
+    second: Victreebel_82
+  - first:
+      213: -6303918436242689761
+    second: Victreebel_83
+  - first:
+      213: -2856254832330799251
+    second: Victreebel_84
+  - first:
+      213: 4345709385172884794
+    second: Victreebel_85
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Victreebel_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 543
+        width: 55
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d4f6fada96b8450800000000000000
+      internalID: 6092079115642293614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 543
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0c71479af193430800000000000000
+      internalID: 3763073776302407877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 543
+        width: 55
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1ad577b12e84dc0800000000000000
+      internalID: -3654422490016538180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 544
+        width: 57
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdaf70f54a3322dc0800000000000000
+      internalID: -3665310365664150817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_4
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 544
+        width: 55
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987c811fa6f222ba0800000000000000
+      internalID: -6115273207657740407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_5
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 545
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95dcc5feefcdc8340800000000000000
+      internalID: 4867508284776303961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_6
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 544
+        width: 60
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1003ac3eee97490800000000000000
+      internalID: -7747899021797097042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_7
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 543
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667e0ef0624b14ca0800000000000000
+      internalID: -6034343950131599514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_8
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 543
+        width: 64
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810951bbd49261bb0800000000000000
+      internalID: -4965736125301420008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_9
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 543
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497ad4daf0234ec20800000000000000
+      internalID: 3234765475272304532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 459
+        width: 62
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354947d9f9c7f0bc0800000000000000
+      internalID: -3814693334376213421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_11
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 459
+        width: 59
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4cc02963369f2d0800000000000000
+      internalID: -3244452970514037568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_12
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 460
+        width: 57
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0344f99be6a4d450800000000000000
+      internalID: 6112694125079053067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_13
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 460
+        width: 55
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114512cfd6d41abd0800000000000000
+      internalID: -2620728373376101359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_14
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 461
+        width: 55
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ea812cb70f9da40800000000000000
+      internalID: 5393606443080920678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_15
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 460
+        width: 55
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c5e8b6f249494e0800000000000000
+      internalID: -1975791405119939559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_16
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 459
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5c0c141c1bf6520800000000000000
+      internalID: 2697570145408173500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_17
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 459
+        width: 54
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007124cdbffc60870800000000000000
+      internalID: 8648828815050675968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_18
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 459
+        width: 55
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9180b2919ca6790800000000000000
+      internalID: -7535989916517787192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_19
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 459
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7cb0d3cd245e400800000000000000
+      internalID: 352761659502872543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 381
+        width: 55
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0fa8b50dce3a5ec0800000000000000
+      internalID: -3577477903707230451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_21
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 382
+        width: 57
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b27de1cbcdbb040800000000000000
+      internalID: 4664564539601660804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_22
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 382
+        width: 55
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7717ea34a6e2a7430800000000000000
+      internalID: 3781385871067869559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_23
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 382
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c9fbe6cd3e863b0800000000000000
+      internalID: -5518910807452181455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_24
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 381
+        width: 60
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4932d29c204dcf8f0800000000000000
+      internalID: -505295949742136428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_25
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 380
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3651c603f12cfbea0800000000000000
+      internalID: -5854747551346191005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_26
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 380
+        width: 64
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2eba399de15aba0800000000000000
+      internalID: -6078418202232364314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_27
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 380
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708ba2768df33da60800000000000000
+      internalID: 7697566386782648327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_28
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 380
+        width: 62
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaecdbbf5128b0010800000000000000
+      internalID: 1156160760280108718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_29
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 380
+        width: 59
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70d3edd83ef9eed0800000000000000
+      internalID: -2384095007521648517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 300
+        width: 57
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3752358ead906680800000000000000
+      internalID: -8763831501978446018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_31
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 300
+        width: 55
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecef6416d9cb929e0800000000000000
+      internalID: -1645576804699275570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_32
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 301
+        width: 55
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6291c32f49dea5660800000000000000
+      internalID: 7375468563747576102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_33
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 300
+        width: 55
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09e9c89dda4c5a60800000000000000
+      internalID: 7664082981489338636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_34
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 299
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da70c3cfea45a2810800000000000000
+      internalID: 1741297316464953261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_35
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 299
+        width: 54
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614f8325303a4cd40800000000000000
+      internalID: 5603783071015433238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_36
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 342
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6af23fcea7181b40800000000000000
+      internalID: 5411100991853623918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_37
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 345
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e81778f3db50dcb0800000000000000
+      internalID: -4841268633458501402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_38
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 301
+        width: 55
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f156342c6233d50800000000000000
+      internalID: 6715754085135752997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_39
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 305
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2a76da0d7557ce0800000000000000
+      internalID: -1408122754709347640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_40
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 325
+        width: 77
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec49d82c07d7e4b0800000000000000
+      internalID: -5411119980037452574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_41
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 227
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161a23834432942c0800000000000000
+      internalID: -4446984381144063647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_42
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 226
+        width: 65
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ee7f944ca2433d0800000000000000
+      internalID: -3227908010374861187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_43
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 226
+        width: 65
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0b7934ec3bc5f90800000000000000
+      internalID: -6963493225342979854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_44
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 225
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ab243385fa18a00800000000000000
+      internalID: 757079005726947976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_45
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 225
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8b9fafbe0430af0800000000000000
+      internalID: -431429757025273659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_46
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 225
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35f8e7fe17ca0190800000000000000
+      internalID: -7995359252620708546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_47
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 226
+        width: 65
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df8efed953739910800000000000000
+      internalID: 1842943502355173332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_48
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 226
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b53d41f350d5d060800000000000000
+      internalID: 6977712256629683639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_49
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 227
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6073b6f597ad24e40800000000000000
+      internalID: 5639309898248042246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_50
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 227
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9f2710398a206c0800000000000000
+      internalID: -4178592154908427818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_51
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 148
+        width: 67
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e540b3a6926e42410800000000000000
+      internalID: 1451538045470442590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_52
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 148
+        width: 65
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f2021cfef1c0d90800000000000000
+      internalID: -7130288995436581056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_53
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 147
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b581f046d1072e0800000000000000
+      internalID: -2130170308159055012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_54
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 147
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23a6c17d78e06e30800000000000000
+      internalID: 4494848053593154348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_55
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 147
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276a2d95cc67f3b40800000000000000
+      internalID: 5422183096429749874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_56
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 148
+        width: 65
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9154786531fc6010800000000000000
+      internalID: 1183586013779612059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_57
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 148
+        width: 65
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77209fdce6db42b0800000000000000
+      internalID: -5599145398853687430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_58
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 149
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95c31e8e4de02a40800000000000000
+      internalID: 5341530079708300698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_59
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 149
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af47b2e73a0e99ef0800000000000000
+      internalID: -100802523838057222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_60
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 148
+        width: 65
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c12422159f535bf0800000000000000
+      internalID: -336820453263531578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_61
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 76
+        width: 65
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817741033dff38df0800000000000000
+      internalID: -179018277654857960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_62
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 75
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf8413996682f780800000000000000
+      internalID: -8650704146228015178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_63
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 75
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e9a3ae650e9b500800000000000000
+      internalID: 412607504782630434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_64
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 75
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61538ef36b57c24f0800000000000000
+      internalID: -852176803863186154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_65
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 76
+        width: 65
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d20c97852575bd40800000000000000
+      internalID: 5599510515754468053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_66
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 76
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c5fdf858df81180800000000000000
+      internalID: -9144280293289534363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_67
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 77
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9eae49b71369eaf0800000000000000
+      internalID: -366652941109645670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_68
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 77
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f310015f9b22620800000000000000
+      internalID: 2747963184836067088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_69
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 76
+        width: 67
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7240619ade090c4f0800000000000000
+      internalID: -810488582508248025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_70
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 76
+        width: 65
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73df958de6dd63c10800000000000000
+      internalID: 2033055749950274871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_71
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62bcb15e1168c5d50800000000000000
+      internalID: 6727399354801048358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_72
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c295223e86a7860800000000000000
+      internalID: 7528445051846339686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_73
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2d0a56d66f27640800000000000000
+      internalID: 5076390679716877033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_74
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 2
+        width: 65
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904f81c690a0f66c0800000000000000
+      internalID: -4148085696200379383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_75
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 2
+        width: 65
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf5eb9b4421bd000800000000000000
+      internalID: 61663106282971085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_76
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 3
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7dda3b33c5dd96c0800000000000000
+      internalID: -4134913848367194754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_77
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 42
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76bab07667a50efc0800000000000000
+      internalID: -3467672248493823129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_78
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 45
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378106a22eb932980800000000000000
+      internalID: -8564830670652696461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_79
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 49
+        width: 61
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ae806824db7dee0800000000000000
+      internalID: -1236311479275689348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_80
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 49
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f477923d952b96190800000000000000
+      internalID: -7968641966790838449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_81
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 25
+        width: 77
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6e0273858d7f530800000000000000
+      internalID: 3888814676651337470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_82
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 32
+        width: 118
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0173a4d6557f68b20800000000000000
+      internalID: 3136466136787990288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_83
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 15
+        width: 62
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11f7b2f49bf388a0800000000000000
+      internalID: -6303918436242689761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_84
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 15
+        width: 39
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d670ee2fc5b8c58d0800000000000000
+      internalID: -2856254832330799251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victreebel_85
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 15
+        width: 61
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d9f4849af0f4c30800000000000000
+      internalID: 4345709385172884794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

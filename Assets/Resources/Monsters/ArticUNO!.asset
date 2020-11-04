@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fd73012ff2053040a6fe22559110819, type: 3}
+  m_Name: ArticUNO!
+  m_EditorClassIdentifier: 
+  monsterName: ArticUNO!
+  description: "Articuno is a large avian Pok\xE9mon with predominantly blue plumage
+    and wings said to be made of ice. On its forehead is a crest that consists of
+    three, darker blue rhombus-shaped feathers. It has circular red eyes, a short
+    gray beak, and long, thin gray legs. Each foot has three forward-facing toes
+    and one that faces backward. On its chest is a mass of pale blue, downy feathers.
+    Its long, streamer-like tail is longer than its body and the same shade of blue
+    as its crest."
+  frontSprite: {fileID: 7026113789545750719, guid: d080b280520bab54fa860fe9e6f1a421,
+    type: 3}
+  backSprite: {fileID: 5342112885553052112, guid: d080b280520bab54fa860fe9e6f1a421,
+    type: 3}
+  firstType: 6
+  secondType: 10
+  maxHp: 90
+  attack: 85
+  defense: 100
+  spAttack: 95
+  spDefense: 125
+  speed: 85
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: fe136643dcf81714ea0f0f8e00827f9e, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: be5f0dc8ed4f9814eaa64699b17c6656, type: 2}
+    level: 5
+  - moveBase: {fileID: 11400000, guid: 09144e9b582aa6648bc76a17a731fa82, type: 2}
+    level: 15
+  - moveBase: {fileID: 11400000, guid: 95ae8c38c1324ba4395376fee93d0a22, type: 2}
+    level: 20
+  - moveBase: {fileID: 11400000, guid: eda37ef57ef3c8d47a6ea1f39ba610c2, type: 2}
+    level: 25
+  - moveBase: {fileID: 11400000, guid: d674a5cecc4f6214d9d94352f4020238, type: 2}
+    level: 30
+  - moveBase: {fileID: 11400000, guid: f81d51b67c3e0be4fade569545fcddd0, type: 2}
+    level: 35
+  - moveBase: {fileID: 11400000, guid: d736f341256486d4085a41aedab5f70f, type: 2}
+    level: 45
+  - moveBase: {fileID: 11400000, guid: fea0a7f9c1771ec49a46a93e9f43959f, type: 2}
+    level: 55
+  - moveBase: {fileID: 11400000, guid: 5e5e922277827ce49923e861e169b8d4, type: 2}
+    level: 65

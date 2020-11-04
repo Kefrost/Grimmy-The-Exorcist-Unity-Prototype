@@ -1,0 +1,1376 @@
+fileFormatVersion: 2
+guid: 5116ee0eccd9f634cbccf42251a0050a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8151255446664493667
+    second: Gyarados_0
+  - first:
+      213: -3206514066621549269
+    second: Gyarados_1
+  - first:
+      213: -6146731088212192204
+    second: Gyarados_2
+  - first:
+      213: 2760702891148011847
+    second: Gyarados_3
+  - first:
+      213: -7561070477006161322
+    second: Gyarados_4
+  - first:
+      213: 1249032459328573279
+    second: Gyarados_5
+  - first:
+      213: -5251029331677829318
+    second: Gyarados_6
+  - first:
+      213: -5261199419768180465
+    second: Gyarados_7
+  - first:
+      213: 5769271413067388164
+    second: Gyarados_8
+  - first:
+      213: 312965718666351063
+    second: Gyarados_9
+  - first:
+      213: -8776659717518186554
+    second: Gyarados_10
+  - first:
+      213: -6656682668598752661
+    second: Gyarados_11
+  - first:
+      213: 5750008314161091936
+    second: Gyarados_12
+  - first:
+      213: 4008982802475691425
+    second: Gyarados_13
+  - first:
+      213: -8948598153886842537
+    second: Gyarados_14
+  - first:
+      213: -7930481038952509485
+    second: Gyarados_15
+  - first:
+      213: 4020974328461493369
+    second: Gyarados_16
+  - first:
+      213: 7484320433526711542
+    second: Gyarados_17
+  - first:
+      213: -7508684612142666115
+    second: Gyarados_18
+  - first:
+      213: -615617115133994603
+    second: Gyarados_19
+  - first:
+      213: 4507182123382721541
+    second: Gyarados_20
+  - first:
+      213: 8081906333743185496
+    second: Gyarados_21
+  - first:
+      213: 267979128857937290
+    second: Gyarados_22
+  - first:
+      213: -6313251243084807364
+    second: Gyarados_23
+  - first:
+      213: 1573120060576277581
+    second: Gyarados_24
+  - first:
+      213: -4139425523853629485
+    second: Gyarados_25
+  - first:
+      213: -6491205827821598427
+    second: Gyarados_26
+  - first:
+      213: -5214082919244873196
+    second: Gyarados_27
+  - first:
+      213: 7957167332844482811
+    second: Gyarados_28
+  - first:
+      213: -8858589040364090980
+    second: Gyarados_29
+  - first:
+      213: 6641163998401240175
+    second: Gyarados_30
+  - first:
+      213: 4187550884884172210
+    second: Gyarados_31
+  - first:
+      213: -4060499214027320230
+    second: Gyarados_32
+  - first:
+      213: -7845005466120354154
+    second: Gyarados_33
+  - first:
+      213: 2031302987251304258
+    second: Gyarados_34
+  - first:
+      213: 2063949239098814103
+    second: Gyarados_35
+  - first:
+      213: -6031138891952062393
+    second: Gyarados_36
+  - first:
+      213: 8866991907280885056
+    second: Gyarados_37
+  - first:
+      213: 1151841476719111988
+    second: Gyarados_38
+  - first:
+      213: 5068423710290286188
+    second: Gyarados_39
+  - first:
+      213: 1542004000550593120
+    second: Gyarados_40
+  - first:
+      213: 4315840853653142174
+    second: Gyarados_41
+  - first:
+      213: -8089599069680860399
+    second: Gyarados_42
+  - first:
+      213: -6495446800770541615
+    second: Gyarados_43
+  - first:
+      213: -4381787705524446800
+    second: Gyarados_44
+  - first:
+      213: 2148346503626384413
+    second: Gyarados_45
+  - first:
+      213: -6071885476511080522
+    second: Gyarados_46
+  - first:
+      213: -512960682374568176
+    second: Gyarados_47
+  - first:
+      213: 4747272437229769328
+    second: Gyarados_48
+  - first:
+      213: -6508817630531578554
+    second: Gyarados_49
+  - first:
+      213: 6983636885123464769
+    second: Gyarados_50
+  - first:
+      213: 2992205399889764068
+    second: Gyarados_51
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gyarados_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 353
+        width: 91
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d954814cb5ce0ee80800000000000000
+      internalID: -8151255446664493667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gyarados_1
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 353
+        width: 82
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25babbf17c2083d0800000000000000
+      internalID: -3206514066621549269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gyarados_2
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 351
+        width: 86
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434134d54ac62baa0800000000000000
+      internalID: -6146731088212192204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gyarados_3
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 350
+        width: 90
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749654517acff4620800000000000000
+      internalID: 2760702891148011847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gyarados_4
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 348
+        width: 95
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65aba50267ea11790800000000000000
+      internalID: -7561070477006161322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gyarados_5
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 346
+        width: 99
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f46337764755110800000000000000
+      internalID: 1249032459328573279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gyarados_6
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 348
+        width: 95
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37af2cd4a89027b0800000000000000
+      internalID: -5251029331677829318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gyarados_7
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 350
+        width: 90
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01f934b0077cf6b0800000000000000
+      internalID: -5261199419768180465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gyarados_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 221
+        width: 1008
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40592b488c1901050800000000000000
+      internalID: 5769271413067388164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gyarados_9
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 239
+        width: 86
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d19bf7b9a0e75400800000000000000
+      internalID: 312965718666351063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gyarados_10
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 241
+        width: 82
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c729d6dc7a033680800000000000000
+      internalID: -8776659717518186554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gyarados_11
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 241
+        width: 81
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a0caba166be93a0800000000000000
+      internalID: -6656682668598752661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gyarados_12
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 236
+        width: 105
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0655d1dc8122ccf40800000000000000
+      internalID: 5750008314161091936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gyarados_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 232
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ada63c4e94c2a730800000000000000
+      internalID: 4008982802475691425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gyarados_14
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 232
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751cbd7046130d380800000000000000
+      internalID: -8948598153886842537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gyarados_15
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 232
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dfc347338541f190800000000000000
+      internalID: -7930481038952509485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gyarados_16
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 241
+        width: 81
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97489e209de5dc730800000000000000
+      internalID: 4020974328461493369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gyarados_17
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 236
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4ae89d7c5add760800000000000000
+      internalID: 7484320433526711542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gyarados_18
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 241
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e6bc2c02bcbc790800000000000000
+      internalID: -7508684612142666115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gyarados_19
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 257
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59999c6de73e477f0800000000000000
+      internalID: -615617115133994603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gyarados_20
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 257
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50cc73ad24abc8e30800000000000000
+      internalID: 4507182123382721541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gyarados_21
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 241
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85efdb2adf2b82070800000000000000
+      internalID: 8081906333743185496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gyarados_22
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 255
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85cbce099d08b300800000000000000
+      internalID: 267979128857937290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gyarados_23
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 241
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3303268173d268a0800000000000000
+      internalID: -6313251243084807364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gyarados_24
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 241
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44a0bf3c58d4d510800000000000000
+      internalID: 1573120060576277581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gyarados_25
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 257
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7e48cea6ecd86c0800000000000000
+      internalID: -4139425523853629485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gyarados_26
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 241
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5298fb401ba9ae5a0800000000000000
+      internalID: -6491205827821598427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gyarados_27
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 257
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4124af8d53bd3a7b0800000000000000
+      internalID: -5214082919244873196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gyarados_28
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 257
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0b984c7898d6e60800000000000000
+      internalID: 7957167332844482811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gyarados_29
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 241
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c990eedd338ff0580800000000000000
+      internalID: -8858589040364090980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gyarados_30
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 257
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c91db58772a2c50800000000000000
+      internalID: 6641163998401240175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gyarados_31
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 241
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdc46cd75b2d1a30800000000000000
+      internalID: 4187550884884172210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gyarados_32
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 257
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5416217a7536a7c0800000000000000
+      internalID: -4060499214027320230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gyarados_33
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 239
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69606ead711f02390800000000000000
+      internalID: -7845005466120354154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gyarados_34
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 257
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247cd4afd43a03c10800000000000000
+      internalID: 2031302987251304258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gyarados_35
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 257
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e2ceec5ee94ac10800000000000000
+      internalID: 2063949239098814103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gyarados_36
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 257
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7408722d1271d4ca0800000000000000
+      internalID: -6031138891952062393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gyarados_37
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 257
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0459dbb0922ed0b70800000000000000
+      internalID: 8866991907280885056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gyarados_38
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 257
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f676968b92cff00800000000000000
+      internalID: 1151841476719111988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gyarados_39
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 257
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c661507c288a65640800000000000000
+      internalID: 5068423710290286188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gyarados_40
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 127
+        width: 101
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062ac07f77c466510800000000000000
+      internalID: 1542004000550593120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gyarados_41
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 90
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a3d1dd362f4eb30800000000000000
+      internalID: 4315840853653142174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gyarados_42
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 127
+        width: 93
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1138754b188fbbf80800000000000000
+      internalID: -8089599069680860399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gyarados_43
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 126
+        width: 97
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7df9e8c898bd5a0800000000000000
+      internalID: -6495446800770541615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gyarados_44
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 125
+        width: 103
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b99a0b2c43c033c0800000000000000
+      internalID: -4381787705524446800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gyarados_45
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 124
+        width: 108
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d146a1b33c570dd10800000000000000
+      internalID: 2148346503626384413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gyarados_46
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 125
+        width: 103
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf14bf44545cbba0800000000000000
+      internalID: -6071885476511080522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gyarados_47
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 126
+        width: 97
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01762572af891e8f0800000000000000
+      internalID: -512960682374568176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gyarados_48
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 15
+        width: 93
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07255192123b1e140800000000000000
+      internalID: 4747272437229769328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gyarados_49
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 90
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6459d58a9d80ca5a0800000000000000
+      internalID: -6508817630531578554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gyarados_50
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 17
+        width: 91
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e79120fbcdae060800000000000000
+      internalID: 6983636885123464769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gyarados_51
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 15
+        width: 105
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee5f6335f2768920800000000000000
+      internalID: 2992205399889764068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4856 @@
+fileFormatVersion: 2
+guid: e44a079af572da248a92ff10c051d451
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7344684868397416222
+    second: Tangrowth_0
+  - first:
+      213: 2312654520329857345
+    second: Tangrowth_1
+  - first:
+      213: -5295539014531081980
+    second: Tangrowth_2
+  - first:
+      213: 4785848404903363729
+    second: Tangrowth_3
+  - first:
+      213: 1996146084737503123
+    second: Tangrowth_4
+  - first:
+      213: 7159762070575798458
+    second: Tangrowth_5
+  - first:
+      213: -1797569176313972697
+    second: Tangrowth_6
+  - first:
+      213: -2287881237317504335
+    second: Tangrowth_7
+  - first:
+      213: 7360942062392502329
+    second: Tangrowth_8
+  - first:
+      213: -1283082908040289849
+    second: Tangrowth_9
+  - first:
+      213: 1245578476522932820
+    second: Tangrowth_10
+  - first:
+      213: -3652559062009130182
+    second: Tangrowth_11
+  - first:
+      213: -3744237181288159463
+    second: Tangrowth_12
+  - first:
+      213: 1148145491094734951
+    second: Tangrowth_13
+  - first:
+      213: 7759335191956567135
+    second: Tangrowth_14
+  - first:
+      213: 4099698202227888824
+    second: Tangrowth_15
+  - first:
+      213: 8478237942915293220
+    second: Tangrowth_16
+  - first:
+      213: -2982639013036155561
+    second: Tangrowth_17
+  - first:
+      213: -7363226431189647242
+    second: Tangrowth_18
+  - first:
+      213: -3312834660866356239
+    second: Tangrowth_19
+  - first:
+      213: 1536880088769238427
+    second: Tangrowth_20
+  - first:
+      213: -8754566689172146600
+    second: Tangrowth_21
+  - first:
+      213: 6366121130423549144
+    second: Tangrowth_22
+  - first:
+      213: -976453478621214492
+    second: Tangrowth_23
+  - first:
+      213: -8716944512176898036
+    second: Tangrowth_24
+  - first:
+      213: -4678578539527433725
+    second: Tangrowth_25
+  - first:
+      213: -1166267353269421425
+    second: Tangrowth_26
+  - first:
+      213: 6934557873224184808
+    second: Tangrowth_27
+  - first:
+      213: 157431706122202516
+    second: Tangrowth_28
+  - first:
+      213: -987025155640561086
+    second: Tangrowth_29
+  - first:
+      213: -3764013312725809688
+    second: Tangrowth_30
+  - first:
+      213: -2508326956832858186
+    second: Tangrowth_31
+  - first:
+      213: -6931873452867754732
+    second: Tangrowth_32
+  - first:
+      213: -2655230419236620451
+    second: Tangrowth_33
+  - first:
+      213: -7620200490475124802
+    second: Tangrowth_34
+  - first:
+      213: -34477617974244622
+    second: Tangrowth_35
+  - first:
+      213: -97272903768559722
+    second: Tangrowth_36
+  - first:
+      213: 76174286251881468
+    second: Tangrowth_37
+  - first:
+      213: -810441769654312745
+    second: Tangrowth_38
+  - first:
+      213: -1467996779741503479
+    second: Tangrowth_39
+  - first:
+      213: -1256682167261812337
+    second: Tangrowth_40
+  - first:
+      213: 5018524326312797681
+    second: Tangrowth_41
+  - first:
+      213: 2562261657771930414
+    second: Tangrowth_42
+  - first:
+      213: 4599063740571114685
+    second: Tangrowth_43
+  - first:
+      213: 3347427676224405017
+    second: Tangrowth_44
+  - first:
+      213: -4640840408689238528
+    second: Tangrowth_45
+  - first:
+      213: -3652689481559455259
+    second: Tangrowth_46
+  - first:
+      213: 5916678601936561445
+    second: Tangrowth_47
+  - first:
+      213: -4945344785715139498
+    second: Tangrowth_48
+  - first:
+      213: -8040189564050173673
+    second: Tangrowth_49
+  - first:
+      213: -3883693230242374768
+    second: Tangrowth_50
+  - first:
+      213: 4717983870691015548
+    second: Tangrowth_51
+  - first:
+      213: 5548222334664200817
+    second: Tangrowth_52
+  - first:
+      213: 2541316573594115148
+    second: Tangrowth_53
+  - first:
+      213: 5458695104113103269
+    second: Tangrowth_54
+  - first:
+      213: 824116367887884572
+    second: Tangrowth_55
+  - first:
+      213: 5475145520413370516
+    second: Tangrowth_56
+  - first:
+      213: -5873782523481349322
+    second: Tangrowth_57
+  - first:
+      213: -7448197420868830804
+    second: Tangrowth_58
+  - first:
+      213: 1238969822552955581
+    second: Tangrowth_59
+  - first:
+      213: 5065521462940986062
+    second: Tangrowth_60
+  - first:
+      213: -2627651174166443139
+    second: Tangrowth_61
+  - first:
+      213: 53712185482003485
+    second: Tangrowth_62
+  - first:
+      213: 7710365773821386431
+    second: Tangrowth_63
+  - first:
+      213: -8622263100999911364
+    second: Tangrowth_64
+  - first:
+      213: -7965007016339400147
+    second: Tangrowth_65
+  - first:
+      213: 8830210664363851762
+    second: Tangrowth_66
+  - first:
+      213: 2621621211416718248
+    second: Tangrowth_67
+  - first:
+      213: -4845927828649418338
+    second: Tangrowth_68
+  - first:
+      213: -4933245863184691920
+    second: Tangrowth_69
+  - first:
+      213: -1286018943108443619
+    second: Tangrowth_70
+  - first:
+      213: -8911550708211665879
+    second: Tangrowth_71
+  - first:
+      213: 5983170559751496428
+    second: Tangrowth_72
+  - first:
+      213: 8936613129330899071
+    second: Tangrowth_73
+  - first:
+      213: 41467260369305774
+    second: Tangrowth_74
+  - first:
+      213: -3215863909011099113
+    second: Tangrowth_75
+  - first:
+      213: 1618417678748522086
+    second: Tangrowth_76
+  - first:
+      213: -7727417742671916296
+    second: Tangrowth_77
+  - first:
+      213: -8648359871292844649
+    second: Tangrowth_78
+  - first:
+      213: -1861017084373018976
+    second: Tangrowth_79
+  - first:
+      213: -8145904310617129020
+    second: Tangrowth_80
+  - first:
+      213: -9190760024698602873
+    second: Tangrowth_81
+  - first:
+      213: -911830350030710196
+    second: Tangrowth_82
+  - first:
+      213: -1640829143828298176
+    second: Tangrowth_83
+  - first:
+      213: 8486809345301271051
+    second: Tangrowth_84
+  - first:
+      213: 4552951482243006256
+    second: Tangrowth_85
+  - first:
+      213: -828278738836666250
+    second: Tangrowth_86
+  - first:
+      213: 6780282226767244399
+    second: Tangrowth_87
+  - first:
+      213: -7302566484980264415
+    second: Tangrowth_88
+  - first:
+      213: -2335267684967407526
+    second: Tangrowth_89
+  - first:
+      213: 943263510401353331
+    second: Tangrowth_90
+  - first:
+      213: 1366987383695821149
+    second: Tangrowth_91
+  - first:
+      213: -1915726089272357868
+    second: Tangrowth_92
+  - first:
+      213: -5917934197857412047
+    second: Tangrowth_93
+  - first:
+      213: -3004306363289479073
+    second: Tangrowth_94
+  - first:
+      213: 3016957083236387075
+    second: Tangrowth_95
+  - first:
+      213: -1967869200199764081
+    second: Tangrowth_96
+  - first:
+      213: 7971982274893986286
+    second: Tangrowth_97
+  - first:
+      213: -8768810288153859652
+    second: Tangrowth_98
+  - first:
+      213: 8082886421447549098
+    second: Tangrowth_99
+  - first:
+      213: 2155416753118573104
+    second: Tangrowth_100
+  - first:
+      213: -3043329182742088235
+    second: Tangrowth_101
+  - first:
+      213: -2742779456444601861
+    second: Tangrowth_102
+  - first:
+      213: -1164770602840050321
+    second: Tangrowth_103
+  - first:
+      213: -5372367066873064800
+    second: Tangrowth_104
+  - first:
+      213: 4083471637836716097
+    second: Tangrowth_105
+  - first:
+      213: -2745158529367722874
+    second: Tangrowth_106
+  - first:
+      213: -417046483105492527
+    second: Tangrowth_107
+  - first:
+      213: -4871006529201698817
+    second: Tangrowth_108
+  - first:
+      213: -3725858888464693732
+    second: Tangrowth_109
+  - first:
+      213: 8767172608125762923
+    second: Tangrowth_110
+  - first:
+      213: -7017904147346807241
+    second: Tangrowth_111
+  - first:
+      213: -8396521912886917875
+    second: Tangrowth_112
+  - first:
+      213: 4611300635371736903
+    second: Tangrowth_113
+  - first:
+      213: -4419913403279568337
+    second: Tangrowth_114
+  - first:
+      213: 763032845622449042
+    second: Tangrowth_115
+  - first:
+      213: -5053786665018389227
+    second: Tangrowth_116
+  - first:
+      213: 2875668628992879531
+    second: Tangrowth_117
+  - first:
+      213: 1028915890131251206
+    second: Tangrowth_118
+  - first:
+      213: -557099171392587901
+    second: Tangrowth_119
+  - first:
+      213: -4683413319308814320
+    second: Tangrowth_120
+  - first:
+      213: -4661154897238842271
+    second: Tangrowth_121
+  - first:
+      213: -7871579080113926938
+    second: Tangrowth_122
+  - first:
+      213: 7664325989728120886
+    second: Tangrowth_123
+  - first:
+      213: 7896159455038245915
+    second: Tangrowth_124
+  - first:
+      213: -5254041522378587365
+    second: Tangrowth_125
+  - first:
+      213: 9159754243701205989
+    second: Tangrowth_126
+  - first:
+      213: 5111144084645732411
+    second: Tangrowth_127
+  - first:
+      213: -7365671582184034716
+    second: Tangrowth_128
+  - first:
+      213: -2757716694741282183
+    second: Tangrowth_129
+  - first:
+      213: 6476414774464450224
+    second: Tangrowth_130
+  - first:
+      213: 2632292290043717817
+    second: Tangrowth_131
+  - first:
+      213: -2273688319070359806
+    second: Tangrowth_132
+  - first:
+      213: 4774036462495230752
+    second: Tangrowth_133
+  - first:
+      213: -8640118728323965141
+    second: Tangrowth_134
+  - first:
+      213: 2021020599419570879
+    second: Tangrowth_135
+  - first:
+      213: 4926843442662871083
+    second: Tangrowth_136
+  - first:
+      213: -7647421313030511129
+    second: Tangrowth_137
+  - first:
+      213: 36410510022342308
+    second: Tangrowth_138
+  - first:
+      213: -8610966998761008323
+    second: Tangrowth_139
+  - first:
+      213: 6349078437029312053
+    second: Tangrowth_140
+  - first:
+      213: 6579253555162039279
+    second: Tangrowth_141
+  - first:
+      213: 2805937660119532611
+    second: Tangrowth_142
+  - first:
+      213: 3388438652072311989
+    second: Tangrowth_143
+  - first:
+      213: 6679151452682402461
+    second: Tangrowth_144
+  - first:
+      213: 4585202272540396744
+    second: Tangrowth_145
+  - first:
+      213: 8606099989699157246
+    second: Tangrowth_146
+  - first:
+      213: 121059612692699209
+    second: Tangrowth_147
+  - first:
+      213: -4932590558539849910
+    second: Tangrowth_148
+  - first:
+      213: 7913545689532922155
+    second: Tangrowth_149
+  - first:
+      213: -146429823289585365
+    second: Tangrowth_150
+  - first:
+      213: -686137245816352558
+    second: Tangrowth_151
+  - first:
+      213: -8756605036961429285
+    second: Tangrowth_152
+  - first:
+      213: -2842004409767711134
+    second: Tangrowth_153
+  - first:
+      213: -7500645225993429591
+    second: Tangrowth_154
+  - first:
+      213: -4362436315690095158
+    second: Tangrowth_155
+  - first:
+      213: 1984779465668713607
+    second: Tangrowth_156
+  - first:
+      213: -1871718667154785793
+    second: Tangrowth_157
+  - first:
+      213: -4647707034319866036
+    second: Tangrowth_158
+  - first:
+      213: 2514144806624765551
+    second: Tangrowth_159
+  - first:
+      213: 4815765444900722756
+    second: Tangrowth_160
+  - first:
+      213: 9006350872431382792
+    second: Tangrowth_161
+  - first:
+      213: -4975237798837258306
+    second: Tangrowth_162
+  - first:
+      213: -5590645412043903198
+    second: Tangrowth_163
+  - first:
+      213: 542908428190596766
+    second: Tangrowth_164
+  - first:
+      213: 1753296461062783188
+    second: Tangrowth_165
+  - first:
+      213: -2393752417950182186
+    second: Tangrowth_166
+  - first:
+      213: 8975560766500704423
+    second: Tangrowth_167
+  - first:
+      213: -4078898180319620347
+    second: Tangrowth_168
+  - first:
+      213: -7449761324179203043
+    second: Tangrowth_169
+  - first:
+      213: -1834914428695609977
+    second: Tangrowth_170
+  - first:
+      213: 4105388954655164694
+    second: Tangrowth_171
+  - first:
+      213: -1006731380973982251
+    second: Tangrowth_172
+  - first:
+      213: -1116156232098632867
+    second: Tangrowth_173
+  - first:
+      213: -6431713474476900750
+    second: Tangrowth_174
+  - first:
+      213: 8521709457859110799
+    second: Tangrowth_175
+  - first:
+      213: -2263682494379901372
+    second: Tangrowth_176
+  - first:
+      213: 4885638583404755433
+    second: Tangrowth_177
+  - first:
+      213: -6222825915662178184
+    second: Tangrowth_178
+  - first:
+      213: 2739443016611616076
+    second: Tangrowth_179
+  - first:
+      213: 2230145756408154310
+    second: Tangrowth_180
+  - first:
+      213: 7168840172496316516
+    second: Tangrowth_181
+  - first:
+      213: 6938272018859308123
+    second: Tangrowth_182
+  - first:
+      213: -8946097089786848145
+    second: Tangrowth_183
+  - first:
+      213: -3231012269937471031
+    second: Tangrowth_184
+  - first:
+      213: 3787246161244721476
+    second: Tangrowth_185
+  - first:
+      213: 6738633537366137240
+    second: Tangrowth_186
+  - first:
+      213: 264508042466879892
+    second: Tangrowth_187
+  - first:
+      213: 6781958797375777312
+    second: Tangrowth_188
+  - first:
+      213: 5325251291248066
+    second: Tangrowth_189
+  - first:
+      213: 7746753489599798106
+    second: Tangrowth_190
+  - first:
+      213: 8041617856626840095
+    second: Tangrowth_191
+  - first:
+      213: 750592389327391984
+    second: Tangrowth_192
+  - first:
+      213: -5754618067294448862
+    second: Tangrowth_193
+  - first:
+      213: 730498038303336912
+    second: Tangrowth_194
+  - first:
+      213: -6634468552326434030
+    second: Tangrowth_195
+  - first:
+      213: 3495060091159415822
+    second: Tangrowth_196
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tangrowth_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 765
+        width: 81
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fb30859ff8de560800000000000000
+      internalID: 7344684868397416222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 765
+        width: 86
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14966748803381020800000000000000
+      internalID: 2312654520329857345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_2
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 765
+        width: 90
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40917a0c2577286b0800000000000000
+      internalID: -5295539014531081980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_3
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 765
+        width: 81
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194822b84cfba6240800000000000000
+      internalID: 4785848404903363729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_4
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 763
+        width: 71
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39fc09cb94cb3bb10800000000000000
+      internalID: 1996146084737503123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_5
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 764
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab85cfc4ba59c5360800000000000000
+      internalID: 7159762070575798458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_6
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 764
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7283d9aab50cd07e0800000000000000
+      internalID: -1797569176313972697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_7
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 765
+        width: 74
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2b869e220df30e0800000000000000
+      internalID: -2287881237317504335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_8
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 681
+        width: 81
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938e2294ec1572660800000000000000
+      internalID: 7360942062392502329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_9
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 681
+        width: 86
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c122e8a4e2913ee0800000000000000
+      internalID: -1283082908040289849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_10
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 681
+        width: 90
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a8509660f294110800000000000000
+      internalID: 1245578476522932820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_11
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 681
+        width: 81
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33dfcb92e08f4dc0800000000000000
+      internalID: -3652559062009130182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_12
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 679
+        width: 71
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91762861f1cc90cc0800000000000000
+      internalID: -3744237181288159463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_13
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 680
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7680b23bd380fef00800000000000000
+      internalID: 1148145491094734951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_14
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 680
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5432c11f32beab60800000000000000
+      internalID: 7759335191956567135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_15
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 681
+        width: 74
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2d9163bcd05e830800000000000000
+      internalID: 4099698202227888824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_16
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 597
+        width: 81
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42064bc4d70c8a570800000000000000
+      internalID: 8478237942915293220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_17
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 597
+        width: 85
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d12cece998b96d0800000000000000
+      internalID: -2982639013036155561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_18
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 597
+        width: 88
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6708c28a29090d990800000000000000
+      internalID: -7363226431189647242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_19
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 597
+        width: 92
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb85779d627602d0800000000000000
+      internalID: -3312834660866356239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_20
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 597
+        width: 95
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9516794c48145510800000000000000
+      internalID: 1536880088769238427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_21
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 597
+        width: 95
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8563d69daf7818680800000000000000
+      internalID: -8754566689172146600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_22
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 597
+        width: 95
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcf0006071095850800000000000000
+      internalID: 6366121130423549144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_23
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 597
+        width: 95
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e886131cb0f272f0800000000000000
+      internalID: -976453478621214492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_24
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 513
+        width: 95
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00c7e88621370780800000000000000
+      internalID: -8716944512176898036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 513
+        width: 95
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30293b14b99521fb0800000000000000
+      internalID: -4678578539527433725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_26
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 513
+        width: 95
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8abd37750690dfe0800000000000000
+      internalID: -1166267353269421425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_27
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 513
+        width: 95
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e37ae315af7c3060800000000000000
+      internalID: 6934557873224184808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_28
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 513
+        width: 95
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d2cc77d4f4f2200800000000000000
+      internalID: 157431706122202516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_29
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 513
+        width: 92
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2427ba5b9d16d42f0800000000000000
+      internalID: -987025155640561086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_30
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 513
+        width: 88
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5032da5d983cbc0800000000000000
+      internalID: -3764013312725809688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_31
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 513
+        width: 85
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfd0752ce1a03dd0800000000000000
+      internalID: -2508326956832858186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_32
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 427
+        width: 81
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4156bdd32d90dcf90800000000000000
+      internalID: -6931873452867754732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_33
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 429
+        width: 81
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57f690700ab62bd0800000000000000
+      internalID: -2655230419236620451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_34
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 482
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb709f7070c9f3690800000000000000
+      internalID: -7620200490475124802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_35
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 482
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa81f30ac2858ff0800000000000000
+      internalID: -34477617974244622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_36
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 482
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69faa943fca66aef0800000000000000
+      internalID: -97272903768559722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_37
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 482
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3ff091c10ae0100800000000000000
+      internalID: 76174286251881468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_38
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 482
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0ad90218bb0c4f0800000000000000
+      internalID: -810441769654312745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_39
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 482
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9002714e4b0a0abe0800000000000000
+      internalID: -1467996779741503479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_40
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 482
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89aac02a3e5f8ee0800000000000000
+      internalID: -1256682167261812337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_41
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 482
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5e786194165a540800000000000000
+      internalID: 5018524326312797681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_42
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 482
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23791df66bfe8320800000000000000
+      internalID: 2562261657771930414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_43
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 482
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbcde1cea1823df30800000000000000
+      internalID: 4599063740571114685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_44
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 482
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ebaa07cb3747e20800000000000000
+      internalID: 3347427676224405017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_45
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 482
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e9ccc8c3c689fb0800000000000000
+      internalID: -4640840408689238528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_46
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 482
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9c7d0f44a0f4dc0800000000000000
+      internalID: -3652689481559455259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_47
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 482
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525659e27d34c1250800000000000000
+      internalID: 5916678601936561445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_48
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 480
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c6e937e1b9e5bb0800000000000000
+      internalID: -4945344785715139498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_49
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 482
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7119cf3b0328b6090800000000000000
+      internalID: -8040189564050173673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_50
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 427
+        width: 30
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b50d275995a1ac0800000000000000
+      internalID: -3883693230242374768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_51
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 482
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b7f8c5555a97140800000000000000
+      internalID: 4717983870691015548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_52
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 482
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1725c8051de3ffc40800000000000000
+      internalID: 5548222334664200817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_53
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 482
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4cd3ee85f1944320800000000000000
+      internalID: 2541316573594115148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_54
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 477
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a153d9964e21cb40800000000000000
+      internalID: 5458695104113103269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_55
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 477
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11ea816879df6b00800000000000000
+      internalID: 824116367887884572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_56
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 475
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4986fcd97df9bfb40800000000000000
+      internalID: 5475145520413370516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_57
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 477
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6332fff5ae12c7ea0800000000000000
+      internalID: -5873782523481349322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_58
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 477
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9f12078efa2a890800000000000000
+      internalID: -7448197420868830804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_59
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 477
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba92b04d74b13110800000000000000
+      internalID: 1238969822552955581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_60
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 477
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecae6b8aee85c4640800000000000000
+      internalID: 5065521462940986062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_61
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 464
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7bcb22dd25b88bd0800000000000000
+      internalID: -2627651174166443139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_62
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 466
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14c3c7b2f2deb000800000000000000
+      internalID: 53712185482003485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_63
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 464
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe14fce1d8b00b60800000000000000
+      internalID: 7710365773821386431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_64
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 466
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3831f07461975880800000000000000
+      internalID: -8622263100999911364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_65
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 466
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a989da15c967190800000000000000
+      internalID: -7965007016339400147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_66
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 466
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fff54590d53b8a70800000000000000
+      internalID: 8830210664363851762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_67
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 466
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab6f121a9ed16420800000000000000
+      internalID: 2621621211416718248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_68
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 466
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91eb2e805ecfbcb0800000000000000
+      internalID: -4845927828649418338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_69
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 466
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d063f5607998bb0800000000000000
+      internalID: -4933245863184691920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_70
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 466
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d121999b594272ee0800000000000000
+      internalID: -1286018943108443619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_71
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 466
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924b927a8dfc35480800000000000000
+      internalID: -8911550708211665879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_72
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 466
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce220948ced780350800000000000000
+      internalID: 5983170559751496428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_73
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 466
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f783cdcfa4a350c70800000000000000
+      internalID: 8936613129330899071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_74
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 466
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea00f1ce042539000800000000000000
+      internalID: 41467260369305774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_75
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 461
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712f46920d4fe53d0800000000000000
+      internalID: -3215863909011099113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_76
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 461
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6669408dd46c57610800000000000000
+      internalID: 1618417678748522086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_77
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 461
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f25df03182b2c490800000000000000
+      internalID: -7727417742671916296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_78
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 461
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795d8dd948adaf780800000000000000
+      internalID: -8648359871292844649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_79
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 461
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6530562d65c26e0800000000000000
+      internalID: -1861017084373018976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_80
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 461
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfb757303fe3fe80800000000000000
+      internalID: -8145904310617129020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_81
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 461
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78abaf7c37cd37080800000000000000
+      internalID: -9190760024698602873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_82
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 461
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4adff2b0278853f0800000000000000
+      internalID: -911830350030710196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_83
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 461
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0468101569a9a39e0800000000000000
+      internalID: -1640829143828298176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_84
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 446
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02d52f622437c570800000000000000
+      internalID: 8486809345301271051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_85
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 446
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03fbea220455f2f30800000000000000
+      internalID: 4552951482243006256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_86
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 446
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678c1ac10ec5184f0800000000000000
+      internalID: -828278738836666250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_87
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 446
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c2b5303c6681e50800000000000000
+      internalID: 6780282226767244399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_88
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 446
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122141af87218aa90800000000000000
+      internalID: -7302566484980264415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_89
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 446
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50a11ec966779fd0800000000000000
+      internalID: -2335267684967407526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_90
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 446
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3768f034a25271d00800000000000000
+      internalID: 943263510401353331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_91
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 446
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5941a968c388f210800000000000000
+      internalID: 1366987383695821149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_92
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 446
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c09f19549f965e0800000000000000
+      internalID: -1915726089272357868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_93
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 446
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c929c93364fdda0800000000000000
+      internalID: -5917934197857412047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_94
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 446
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f585fa3b74f8e46d0800000000000000
+      internalID: -3004306363289479073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_95
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 446
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30947e09b726ed920800000000000000
+      internalID: 3016957083236387075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_96
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 446
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8739ad7369b0b4e0800000000000000
+      internalID: -1967869200199764081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_97
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 446
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee934c244ab22ae60800000000000000
+      internalID: 7971982274893986286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_98
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 444
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb96cc7808dee4680800000000000000
+      internalID: -8768810288153859652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_99
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 446
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0a536106e2c2070800000000000000
+      internalID: 8082886421447549098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_100
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 446
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032fe88fd1499ed10800000000000000
+      internalID: 2155416753118573104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_101
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 446
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5f3188b3ce3c5d0800000000000000
+      internalID: -3043329182742088235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_102
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 446
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf96161cd90bfe9d0800000000000000
+      internalID: -2742779456444601861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_103
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 440
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65b6e4de47e5dfe0800000000000000
+      internalID: -1164770602840050321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 419
+        width: 928
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a21600ed948175b0800000000000000
+      internalID: -5372367066873064800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_105
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 425
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148d3a7c1d76ba830800000000000000
+      internalID: 4083471637836716097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_106
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 425
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68437ecacdc37e9d0800000000000000
+      internalID: -2745158529367722874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_107
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 425
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1dba7ee6a563af0800000000000000
+      internalID: -417046483105492527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_108
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 428
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff703509e55b66cb0800000000000000
+      internalID: -4871006529201698817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_109
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 430
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1684d5d4171b4cc0800000000000000
+      internalID: -3725858888464693732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_110
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 428
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6dfedf59014ba970800000000000000
+      internalID: 8767172608125762923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_111
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 430
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73627a54c556b9e90800000000000000
+      internalID: -7017904147346807241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_112
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 430
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0587919ecf897b80800000000000000
+      internalID: -8396521912886917875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_113
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 430
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f8dd30f71aeff30800000000000000
+      internalID: 4611300635371736903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_114
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 430
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22988b6d2059a2c0800000000000000
+      internalID: -4419913403279568337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_115
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 430
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29318439456d69a00800000000000000
+      internalID: 763032845622449042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_116
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 430
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d09f4edc75dd9b0800000000000000
+      internalID: -5053786665018389227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_117
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 430
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babead2d16d68e720800000000000000
+      internalID: 2875668628992879531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_118
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 430
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6003707fc81774e00800000000000000
+      internalID: 1028915890131251206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_119
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 430
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387fa785149c448f0800000000000000
+      internalID: -557099171392587901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_120
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 430
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018d34e566c210fb0800000000000000
+      internalID: -4683413319308814320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_121
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 430
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164a10b1150405fb0800000000000000
+      internalID: -4661154897238842271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_122
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 342
+        width: 93
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecc964388882c290800000000000000
+      internalID: -7871579080113926938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_123
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 345
+        width: 86
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630f98c51e72d5a60800000000000000
+      internalID: 7664325989728120886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_124
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 345
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c856f403bc49d60800000000000000
+      internalID: 7896159455038245915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_125
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 345
+        width: 81
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13c87f8215e517b0800000000000000
+      internalID: -5254041522378587365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_126
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 343
+        width: 71
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebefa544fbfd1f70800000000000000
+      internalID: 9159754243701205989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_127
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 343
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30e529077e6ee640800000000000000
+      internalID: 5111144084645732411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_128
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 343
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e2bb398b0e7c990800000000000000
+      internalID: -7365671582184034716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_129
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 345
+        width: 74
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97218c2f64f9ab9d0800000000000000
+      internalID: -2757716694741282183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_130
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 261
+        width: 81
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be8b028ce8d0e950800000000000000
+      internalID: 6476414774464450224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_131
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 261
+        width: 86
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b82e0d24e7c78420800000000000000
+      internalID: 2632292290043717817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_132
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 261
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f2bd3358c3270e0800000000000000
+      internalID: -2273688319070359806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_133
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 261
+        width: 81
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b6ac36ed8c04240800000000000000
+      internalID: 4774036462495230752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_134
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 259
+        width: 71
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2fdc0d3bc1281880800000000000000
+      internalID: -8640118728323965141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_135
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 259
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba8620078b1c0c10800000000000000
+      internalID: 2021020599419570879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_136
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 259
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2012efe10aaf5440800000000000000
+      internalID: 4926843442662871083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_137
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 261
+        width: 74
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5a01565d6eed590800000000000000
+      internalID: -7647421313030511129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_138
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 177
+        width: 81
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6f8fb7a2b518000800000000000000
+      internalID: 36410510022342308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_139
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 173
+        width: 107
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d331d323323bf7880800000000000000
+      internalID: -8610966998761008323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_140
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 177
+        width: 88
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536793a13357c1850800000000000000
+      internalID: 6349078437029312053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_141
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 177
+        width: 92
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3c8a200443e4b50800000000000000
+      internalID: 6579253555162039279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_142
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 177
+        width: 95
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344c0557f61b0f620800000000000000
+      internalID: 2805937660119532611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_143
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 177
+        width: 95
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc39f75007260f20800000000000000
+      internalID: 3388438652072311989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_144
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 177
+        width: 95
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a3b2acbdc11bc50800000000000000
+      internalID: 6679151452682402461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_145
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 177
+        width: 95
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc85166c29e1af30800000000000000
+      internalID: 4585202272540396744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_146
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 93
+        width: 95
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efcd283f7520f6770800000000000000
+      internalID: 8606099989699157246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_147
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 93
+        width: 95
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948d13b83171ea100800000000000000
+      internalID: 121059612692699209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_148
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 93
+        width: 95
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f59cf550beb8bb0800000000000000
+      internalID: -4932590558539849910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_149
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 93
+        width: 95
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29fe6a70ef82dd60800000000000000
+      internalID: 7913545689532922155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_150
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 93
+        width: 95
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b211d4ef9d6c7fdf0800000000000000
+      internalID: -146429823289585365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_151
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 93
+        width: 92
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d093fb6fc95a76f0800000000000000
+      internalID: -686137245816352558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_152
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 93
+        width: 88
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd884850d1a4a7680800000000000000
+      internalID: -8756605036961429285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_153
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 93
+        width: 85
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ea3b10c0c2f88d0800000000000000
+      internalID: -2842004409767711134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_154
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 9
+        width: 81
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad9e6638ea58e790800000000000000
+      internalID: -7500645225993429591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_155
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 6
+        width: 89
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd2708b8438573c0800000000000000
+      internalID: -4362436315690095158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_156
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 47
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c5ca0886a5b8b10800000000000000
+      internalID: 1984779465668713607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_157
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 45
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff975ccf9c15606e0800000000000000
+      internalID: -1871718667154785793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_158
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 45
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47b74fa317008fb0800000000000000
+      internalID: -4647707034319866036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_159
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 47
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6623c0916904e220800000000000000
+      internalID: 2514144806624765551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_160
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 47
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44898e8382905d240800000000000000
+      internalID: 4815765444900722756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_161
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 47
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8015dc9966cfcfc70800000000000000
+      internalID: 9006350872431382792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_162
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 45
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb77537f49764fab0800000000000000
+      internalID: -4975237798837258306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_163
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 47
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22fa4f54e990a62b0800000000000000
+      internalID: -5590645412043903198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_164
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 47
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ebdd7c65cc88700800000000000000
+      internalID: 542908428190596766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_165
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 47
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0c89b87d5f45810800000000000000
+      internalID: 1753296461062783188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_166
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 47
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4d8d7cbdea7ced0800000000000000
+      internalID: -2393752417950182186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_167
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 47
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0153b66f89f8c70800000000000000
+      internalID: 8975560766500704423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_168
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 28
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503df0747b7d467c0800000000000000
+      internalID: -4078898180319620347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_169
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1cdad2db812d9890800000000000000
+      internalID: -7449761324179203043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_170
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78dfb548c031986e0800000000000000
+      internalID: -1834914428695609977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_171
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 28
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6198803c08549f830800000000000000
+      internalID: 4105388954655164694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_172
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ddaec4942f5702f0800000000000000
+      internalID: -1006731380973982251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_173
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b2cef02dd9280f0800000000000000
+      internalID: -1116156232098632867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_174
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 28
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ef5b0fba6fdb6a0800000000000000
+      internalID: -6431713474476900750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_175
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 28
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8767ca1a91334670800000000000000
+      internalID: 8521709457859110799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_176
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 28
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e373ec3c8c590e0800000000000000
+      internalID: -2263682494379901372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_177
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e978c808664dc340800000000000000
+      internalID: 4885638583404755433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_178
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8786cd5bcc414a9a0800000000000000
+      internalID: -6222825915662178184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_179
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c455f8fc8e4740620800000000000000
+      internalID: 2739443016611616076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_180
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 28
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c88d08efb113fe10800000000000000
+      internalID: 2230145756408154310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_181
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 26
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468613d9726dc7360800000000000000
+      internalID: 7168840172496316516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_182
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 9
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54342ff3a1b94060800000000000000
+      internalID: 6938272018859308123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_183
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 9
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c5915681419d380800000000000000
+      internalID: -8946097089786848145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_184
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 9
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1d27985732923d0800000000000000
+      internalID: -3231012269937471031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_185
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 9
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44114f561500f8430800000000000000
+      internalID: 3787246161244721476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_186
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 9
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8991e3adf7f648d50800000000000000
+      internalID: 6738633537366137240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_187
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 9
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499e877c9a8bba300800000000000000
+      internalID: 264508042466879892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_188
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 9
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a2be6089b5e1e50800000000000000
+      internalID: 6781958797375777312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_189
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 9
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5fd8fa94be21000800000000000000
+      internalID: 5325251291248066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_190
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 9
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b1d16314ff18b60800000000000000
+      internalID: 7746753489599798106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_191
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 9
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f125ea395d0999f60800000000000000
+      internalID: 8041617856626840095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_192
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 7
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc88f02dc3aa6a00800000000000000
+      internalID: 750592389327391984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_193
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 9
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2239ed86b5d7320b0800000000000000
+      internalID: -5754618067294448862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_194
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 9
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9a0327810432a00800000000000000
+      internalID: 730498038303336912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_195
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 9
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2133519a002ade3a0800000000000000
+      internalID: -6634468552326434030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangrowth_196
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 9
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c8332a2a2f08030800000000000000
+      internalID: 3495060091159415822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

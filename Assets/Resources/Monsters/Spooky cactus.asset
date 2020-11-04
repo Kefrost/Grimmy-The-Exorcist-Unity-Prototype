@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fd73012ff2053040a6fe22559110819, type: 3}
+  m_Name: Spooky cactus
+  m_EditorClassIdentifier: 
+  monsterName: Spooky cactus
+  description: 
+  frontSprite: {fileID: -1774650323563330436, guid: b31c9d3687543c54eba859e86417d681,
+    type: 3}
+  backSprite: {fileID: 2101221058430883082, guid: b31c9d3687543c54eba859e86417d681,
+    type: 3}
+  firstType: 5
+  secondType: 16
+  maxHp: 70
+  attack: 115
+  defense: 60
+  spAttack: 115
+  spDefense: 60
+  speed: 55
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 4ab5f066d5e2f98459c24eda1a6d9de3, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: b1fd44a2622d7e3469394893c27b9734, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: e05a8a0201bc04f489e184d8df465a56, type: 2}
+    level: 13
+  - moveBase: {fileID: 11400000, guid: f80d348e72993ea4bbfd1d87888d4979, type: 2}
+    level: 35
+  - moveBase: {fileID: 11400000, guid: ffc85dc13959d364b97e545671d49816, type: 2}
+    level: 44

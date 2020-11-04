@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fd73012ff2053040a6fe22559110819, type: 3}
+  m_Name: Hector
+  m_EditorClassIdentifier: 
+  monsterName: Hector
+  description: Dusclops has a roundish gray body with two stubby legs. Its body is
+    hollow and can absorb anything much like a black hole. It has a single red eye
+    and three tooth-like projections. It has two wispy, light gray growths coming
+    out of its shoulders and one on top of its head. Its light gray hands appear
+    to be directly attached to its body. It will wave these hands to hypnotize opponents
+    and then force them to do as it wills. Dusclops preys on drifting will-o'-the-wisps,
+    sucking them into its body. It usually lives in thick forests.
+  frontSprite: {fileID: -4520135962906272245, guid: 5ea46547c50900949be381738b15ba1e,
+    type: 3}
+  backSprite: {fileID: 4102069039836761439, guid: 5ea46547c50900949be381738b15ba1e,
+    type: 3}
+  firstType: 14
+  secondType: 0
+  maxHp: 40
+  attack: 70
+  defense: 130
+  spAttack: 60
+  spDefense: 130
+  speed: 25
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 053122082475d7842a7c8f276c78d83a, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 2cc1b62d12c92a94d99ae17d70c405de, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 6c51f8213b53128498afe131a76ec619, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 589ebb5e38ffebb48ac557b16b7ca967, type: 2}
+    level: 12
+  - moveBase: {fileID: 11400000, guid: ddec2c4873837fe4eb8e8846ec345cec, type: 2}
+    level: 42
+  - moveBase: {fileID: 11400000, guid: f8e971741eff7ff4089a6a7ea5de694d, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: ce9c6912fb1fd56498bff05d84ae6837, type: 2}
+    level: 24

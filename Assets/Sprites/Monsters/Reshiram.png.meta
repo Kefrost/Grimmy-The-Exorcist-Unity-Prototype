@@ -1,0 +1,5576 @@
+fileFormatVersion: 2
+guid: b721580d42f7ff944933d0d7a0c0dfd8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3750397946185350185
+    second: Reshiram_0
+  - first:
+      213: 6908307809404518187
+    second: Reshiram_1
+  - first:
+      213: -819892885520208608
+    second: Reshiram_2
+  - first:
+      213: 4358382557946942432
+    second: Reshiram_3
+  - first:
+      213: -434005652058200159
+    second: Reshiram_4
+  - first:
+      213: -7269270918370732927
+    second: Reshiram_5
+  - first:
+      213: -6744029005088561391
+    second: Reshiram_6
+  - first:
+      213: 2594435191592117933
+    second: Reshiram_7
+  - first:
+      213: -2439759934575076078
+    second: Reshiram_8
+  - first:
+      213: -4813232462695826929
+    second: Reshiram_9
+  - first:
+      213: -1051406961030884323
+    second: Reshiram_10
+  - first:
+      213: -7474058466449595906
+    second: Reshiram_11
+  - first:
+      213: -870538952557616973
+    second: Reshiram_12
+  - first:
+      213: -409337489024494194
+    second: Reshiram_13
+  - first:
+      213: -3270556488612966121
+    second: Reshiram_14
+  - first:
+      213: 1074402174742040428
+    second: Reshiram_15
+  - first:
+      213: 4515146703101752741
+    second: Reshiram_16
+  - first:
+      213: -6349320135641197133
+    second: Reshiram_17
+  - first:
+      213: 3403200663099918492
+    second: Reshiram_18
+  - first:
+      213: 3246436375393463364
+    second: Reshiram_19
+  - first:
+      213: 5857849300460953636
+    second: Reshiram_20
+  - first:
+      213: -8226865215492217682
+    second: Reshiram_21
+  - first:
+      213: 389226992102727908
+    second: Reshiram_22
+  - first:
+      213: 8887260828285826950
+    second: Reshiram_23
+  - first:
+      213: -3615137783519402194
+    second: Reshiram_24
+  - first:
+      213: -961765650801585705
+    second: Reshiram_25
+  - first:
+      213: 1154415316074549635
+    second: Reshiram_26
+  - first:
+      213: 4063445113853839227
+    second: Reshiram_27
+  - first:
+      213: -6149467990354401209
+    second: Reshiram_28
+  - first:
+      213: -700866587653092272
+    second: Reshiram_29
+  - first:
+      213: -4474186782667873074
+    second: Reshiram_30
+  - first:
+      213: -4763183981452634618
+    second: Reshiram_31
+  - first:
+      213: 7235236523709262246
+    second: Reshiram_32
+  - first:
+      213: -1344166187606384988
+    second: Reshiram_33
+  - first:
+      213: 347400942127370526
+    second: Reshiram_34
+  - first:
+      213: -4368841233486715765
+    second: Reshiram_35
+  - first:
+      213: -4209611384447723333
+    second: Reshiram_36
+  - first:
+      213: 3107670882436300015
+    second: Reshiram_37
+  - first:
+      213: -299132683129822656
+    second: Reshiram_38
+  - first:
+      213: 6351574170000935324
+    second: Reshiram_39
+  - first:
+      213: 3313457604774897628
+    second: Reshiram_40
+  - first:
+      213: -1153013412110827107
+    second: Reshiram_41
+  - first:
+      213: -3590763372200536707
+    second: Reshiram_42
+  - first:
+      213: -6906094025985959024
+    second: Reshiram_43
+  - first:
+      213: 8445869447797588789
+    second: Reshiram_44
+  - first:
+      213: 8600159829208827502
+    second: Reshiram_45
+  - first:
+      213: 43498540947192077
+    second: Reshiram_46
+  - first:
+      213: -6061919368809816279
+    second: Reshiram_47
+  - first:
+      213: -3924299175433302124
+    second: Reshiram_48
+  - first:
+      213: 5699469324219648860
+    second: Reshiram_49
+  - first:
+      213: -2660109473417537692
+    second: Reshiram_50
+  - first:
+      213: -4226690679803309398
+    second: Reshiram_51
+  - first:
+      213: 3590784967493150046
+    second: Reshiram_52
+  - first:
+      213: 5546368589569683321
+    second: Reshiram_53
+  - first:
+      213: -8650942907765419173
+    second: Reshiram_54
+  - first:
+      213: 6420533008761450435
+    second: Reshiram_55
+  - first:
+      213: -3492974322914610434
+    second: Reshiram_56
+  - first:
+      213: -6276598283891051231
+    second: Reshiram_57
+  - first:
+      213: -9029371564285582549
+    second: Reshiram_58
+  - first:
+      213: -7375990811825350803
+    second: Reshiram_59
+  - first:
+      213: -1966306484550296178
+    second: Reshiram_60
+  - first:
+      213: 5834322262617430387
+    second: Reshiram_61
+  - first:
+      213: -8781787656226215785
+    second: Reshiram_62
+  - first:
+      213: 9185704040035051626
+    second: Reshiram_63
+  - first:
+      213: 7888029386219145196
+    second: Reshiram_64
+  - first:
+      213: -6984943883321998862
+    second: Reshiram_65
+  - first:
+      213: -2793998596967465789
+    second: Reshiram_66
+  - first:
+      213: -185374724591149060
+    second: Reshiram_67
+  - first:
+      213: 180053763581362420
+    second: Reshiram_68
+  - first:
+      213: 4374589850113307648
+    second: Reshiram_69
+  - first:
+      213: 7084139989319518780
+    second: Reshiram_70
+  - first:
+      213: 3428344401773993915
+    second: Reshiram_71
+  - first:
+      213: 3581996325726380823
+    second: Reshiram_72
+  - first:
+      213: -1277223857416148481
+    second: Reshiram_73
+  - first:
+      213: -8356753154788789282
+    second: Reshiram_74
+  - first:
+      213: 7724000249136343993
+    second: Reshiram_75
+  - first:
+      213: -4702491604925870317
+    second: Reshiram_76
+  - first:
+      213: 4783584369856342224
+    second: Reshiram_77
+  - first:
+      213: 7694292180378960812
+    second: Reshiram_78
+  - first:
+      213: 743703312449271598
+    second: Reshiram_79
+  - first:
+      213: 3386327006700469502
+    second: Reshiram_80
+  - first:
+      213: -3750928238788152170
+    second: Reshiram_81
+  - first:
+      213: -6126235139135059806
+    second: Reshiram_82
+  - first:
+      213: -3335437662612935681
+    second: Reshiram_83
+  - first:
+      213: 4675354027017333493
+    second: Reshiram_84
+  - first:
+      213: 2505450502730178602
+    second: Reshiram_85
+  - first:
+      213: -2921986323689978991
+    second: Reshiram_86
+  - first:
+      213: 3644244671599037837
+    second: Reshiram_87
+  - first:
+      213: 2523294404221202747
+    second: Reshiram_88
+  - first:
+      213: 6663308424421770080
+    second: Reshiram_89
+  - first:
+      213: -4342694746285656559
+    second: Reshiram_90
+  - first:
+      213: -4349832557337938291
+    second: Reshiram_91
+  - first:
+      213: -7820768335817932419
+    second: Reshiram_92
+  - first:
+      213: 3040050506645351580
+    second: Reshiram_93
+  - first:
+      213: 7033169421254466166
+    second: Reshiram_94
+  - first:
+      213: 1841809201457144703
+    second: Reshiram_95
+  - first:
+      213: 2119487669136279336
+    second: Reshiram_96
+  - first:
+      213: -8693363752870229931
+    second: Reshiram_97
+  - first:
+      213: 909044695176564834
+    second: Reshiram_98
+  - first:
+      213: -8129288641937402483
+    second: Reshiram_99
+  - first:
+      213: 8090409528470935965
+    second: Reshiram_100
+  - first:
+      213: 2350947319441313528
+    second: Reshiram_101
+  - first:
+      213: -8472335316594822508
+    second: Reshiram_102
+  - first:
+      213: 2373272706094430622
+    second: Reshiram_103
+  - first:
+      213: 8044130526591991845
+    second: Reshiram_104
+  - first:
+      213: -5225411555631063556
+    second: Reshiram_105
+  - first:
+      213: -1510230515578148227
+    second: Reshiram_106
+  - first:
+      213: -2119888864268452120
+    second: Reshiram_107
+  - first:
+      213: 2071009118092714945
+    second: Reshiram_108
+  - first:
+      213: -2806939223325537524
+    second: Reshiram_109
+  - first:
+      213: -3047044003743939823
+    second: Reshiram_110
+  - first:
+      213: 3936284246816119256
+    second: Reshiram_111
+  - first:
+      213: 48860726878649776
+    second: Reshiram_112
+  - first:
+      213: -3462186657561374651
+    second: Reshiram_113
+  - first:
+      213: 3674821533421028482
+    second: Reshiram_114
+  - first:
+      213: 2175736807877952718
+    second: Reshiram_115
+  - first:
+      213: -6763423248723477188
+    second: Reshiram_116
+  - first:
+      213: 2750239072794918765
+    second: Reshiram_117
+  - first:
+      213: -3329831890134538811
+    second: Reshiram_118
+  - first:
+      213: -5189304811446980465
+    second: Reshiram_119
+  - first:
+      213: 856499577186881160
+    second: Reshiram_120
+  - first:
+      213: -4018059021170332063
+    second: Reshiram_121
+  - first:
+      213: 4735390744269311705
+    second: Reshiram_122
+  - first:
+      213: -739453120140517974
+    second: Reshiram_123
+  - first:
+      213: 298658852213924550
+    second: Reshiram_124
+  - first:
+      213: 4614418944080888335
+    second: Reshiram_125
+  - first:
+      213: -4244692271286616990
+    second: Reshiram_126
+  - first:
+      213: -4509329521678958115
+    second: Reshiram_127
+  - first:
+      213: -5496594297670867016
+    second: Reshiram_128
+  - first:
+      213: -6275387939185853549
+    second: Reshiram_129
+  - first:
+      213: 2863045646278587719
+    second: Reshiram_130
+  - first:
+      213: 4746409426565882122
+    second: Reshiram_131
+  - first:
+      213: 8800954852611982148
+    second: Reshiram_132
+  - first:
+      213: 7368414572674613419
+    second: Reshiram_133
+  - first:
+      213: 4672711669229481823
+    second: Reshiram_134
+  - first:
+      213: 3084981248651847726
+    second: Reshiram_135
+  - first:
+      213: -8916869136188499971
+    second: Reshiram_136
+  - first:
+      213: -8498097224217200139
+    second: Reshiram_137
+  - first:
+      213: 254173756672912804
+    second: Reshiram_138
+  - first:
+      213: 1816258132797994851
+    second: Reshiram_139
+  - first:
+      213: -1443311126218420830
+    second: Reshiram_140
+  - first:
+      213: -376634638571690154
+    second: Reshiram_141
+  - first:
+      213: 2300927189889629617
+    second: Reshiram_142
+  - first:
+      213: 3826038766723121226
+    second: Reshiram_143
+  - first:
+      213: 8348655118940159192
+    second: Reshiram_144
+  - first:
+      213: -8209767126528458332
+    second: Reshiram_145
+  - first:
+      213: -7973508499254160022
+    second: Reshiram_146
+  - first:
+      213: -6649014752395753486
+    second: Reshiram_147
+  - first:
+      213: 2718145909253951962
+    second: Reshiram_148
+  - first:
+      213: 4285434572493678761
+    second: Reshiram_149
+  - first:
+      213: -269260156156368932
+    second: Reshiram_150
+  - first:
+      213: 6122035648297154696
+    second: Reshiram_151
+  - first:
+      213: -6527597721983123177
+    second: Reshiram_152
+  - first:
+      213: 7052746395646444835
+    second: Reshiram_153
+  - first:
+      213: -4333734317294326378
+    second: Reshiram_154
+  - first:
+      213: -6735949974853317823
+    second: Reshiram_155
+  - first:
+      213: -5053838505090356681
+    second: Reshiram_156
+  - first:
+      213: -8890958451543250253
+    second: Reshiram_157
+  - first:
+      213: -6949428484989808672
+    second: Reshiram_158
+  - first:
+      213: 5164297223594910159
+    second: Reshiram_159
+  - first:
+      213: -2159722590191543738
+    second: Reshiram_160
+  - first:
+      213: 6478077579758088455
+    second: Reshiram_161
+  - first:
+      213: 125910779954817769
+    second: Reshiram_162
+  - first:
+      213: -4986539401540116163
+    second: Reshiram_163
+  - first:
+      213: -4636366681740502797
+    second: Reshiram_164
+  - first:
+      213: 2041203001408650733
+    second: Reshiram_165
+  - first:
+      213: 8086083751609353387
+    second: Reshiram_166
+  - first:
+      213: 9150798582908923393
+    second: Reshiram_167
+  - first:
+      213: 3564114700242786119
+    second: Reshiram_168
+  - first:
+      213: -2894883341906314440
+    second: Reshiram_169
+  - first:
+      213: -2553152051640421299
+    second: Reshiram_170
+  - first:
+      213: 3744175123942548656
+    second: Reshiram_171
+  - first:
+      213: -7203759468235392371
+    second: Reshiram_172
+  - first:
+      213: -553509372960035809
+    second: Reshiram_173
+  - first:
+      213: 6115749925295891518
+    second: Reshiram_174
+  - first:
+      213: 2085149009340320635
+    second: Reshiram_175
+  - first:
+      213: -9218827971035032649
+    second: Reshiram_176
+  - first:
+      213: -8941153567819699745
+    second: Reshiram_177
+  - first:
+      213: 2455099769740786857
+    second: Reshiram_178
+  - first:
+      213: 5304108170461098764
+    second: Reshiram_179
+  - first:
+      213: 1017431236659270643
+    second: Reshiram_180
+  - first:
+      213: -7097320422676205444
+    second: Reshiram_181
+  - first:
+      213: -2052243107406815253
+    second: Reshiram_182
+  - first:
+      213: 8555088253875034329
+    second: Reshiram_183
+  - first:
+      213: 6486366762233383930
+    second: Reshiram_184
+  - first:
+      213: 7390236639842486462
+    second: Reshiram_185
+  - first:
+      213: 5456619426858187414
+    second: Reshiram_186
+  - first:
+      213: 4956610457324910473
+    second: Reshiram_187
+  - first:
+      213: 1105716263484658199
+    second: Reshiram_188
+  - first:
+      213: -1385731650147323298
+    second: Reshiram_189
+  - first:
+      213: -8291541465026382983
+    second: Reshiram_190
+  - first:
+      213: -6615111210518243393
+    second: Reshiram_191
+  - first:
+      213: -103062259366543763
+    second: Reshiram_192
+  - first:
+      213: 258290900051867194
+    second: Reshiram_193
+  - first:
+      213: -3894781409907806076
+    second: Reshiram_194
+  - first:
+      213: -2637044002153022730
+    second: Reshiram_195
+  - first:
+      213: 160298391950712575
+    second: Reshiram_196
+  - first:
+      213: 6184227178592124143
+    second: Reshiram_197
+  - first:
+      213: -8152315163227645143
+    second: Reshiram_198
+  - first:
+      213: 2625990838963247073
+    second: Reshiram_199
+  - first:
+      213: 8360588285496741722
+    second: Reshiram_200
+  - first:
+      213: -9103124666611745259
+    second: Reshiram_201
+  - first:
+      213: -6249036329570454223
+    second: Reshiram_202
+  - first:
+      213: -4080186238003880712
+    second: Reshiram_203
+  - first:
+      213: 8268015085217392367
+    second: Reshiram_204
+  - first:
+      213: 1829001308442699811
+    second: Reshiram_205
+  - first:
+      213: 7892386498783625795
+    second: Reshiram_206
+  - first:
+      213: -6655337619670085782
+    second: Reshiram_207
+  - first:
+      213: -7559352727022627302
+    second: Reshiram_208
+  - first:
+      213: 5940853104528449826
+    second: Reshiram_209
+  - first:
+      213: -7708199711279586806
+    second: Reshiram_210
+  - first:
+      213: -3981615463777129160
+    second: Reshiram_211
+  - first:
+      213: -409455957089385492
+    second: Reshiram_212
+  - first:
+      213: 3571984259428610747
+    second: Reshiram_213
+  - first:
+      213: 118721682915865431
+    second: Reshiram_214
+  - first:
+      213: -5208219990292560888
+    second: Reshiram_215
+  - first:
+      213: -7788017291770270452
+    second: Reshiram_216
+  - first:
+      213: -6109013516455630159
+    second: Reshiram_217
+  - first:
+      213: 3581496170733398382
+    second: Reshiram_218
+  - first:
+      213: -1933473885599350511
+    second: Reshiram_219
+  - first:
+      213: -1835902546106557042
+    second: Reshiram_220
+  - first:
+      213: 8135059858678539631
+    second: Reshiram_221
+  - first:
+      213: 3680504946731933118
+    second: Reshiram_222
+  - first:
+      213: 5560975329851492976
+    second: Reshiram_223
+  - first:
+      213: 4620266619930410536
+    second: Reshiram_224
+  - first:
+      213: -1861811587203459001
+    second: Reshiram_225
+  - first:
+      213: 8719756702422356519
+    second: Reshiram_226
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Reshiram_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1402
+        width: 111
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c7bb4cf071c0430800000000000000
+      internalID: 3750397946185350185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_1
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1402
+        width: 94
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ffc92d95d3fdf50800000000000000
+      internalID: 6908307809404518187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_2
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1402
+        width: 93
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02da2bcb3c72f94f0800000000000000
+      internalID: -819892885520208608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_3
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1402
+        width: 94
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e39fa148d51c7c30800000000000000
+      internalID: 4358382557946942432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_4
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1402
+        width: 94
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a72f8ea82a1af9f0800000000000000
+      internalID: -434005652058200159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_5
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1402
+        width: 94
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1845f6e2d9c5e1b90800000000000000
+      internalID: -7269270918370732927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_6
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1402
+        width: 95
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117e3cce9556862a0800000000000000
+      internalID: -6744029005088561391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_7
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1402
+        width: 95
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6ee939f09410420800000000000000
+      internalID: 2594435191592117933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_8
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 1402
+        width: 98
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d1c62144b342ed0800000000000000
+      internalID: -2439759934575076078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_9
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 1402
+        width: 99
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0af2a7a396f33db0800000000000000
+      internalID: -4813232462695826929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_10
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1295
+        width: 101
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14916580f6a861f0800000000000000
+      internalID: -1051406961030884323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_11
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1295
+        width: 101
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef165cc8c6fc64890800000000000000
+      internalID: -7474058466449595906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_12
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1295
+        width: 100
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0a9a95f693be3f0800000000000000
+      internalID: -870538952557616973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_13
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1295
+        width: 99
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85d175f8bdb15af0800000000000000
+      internalID: -409337489024494194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_14
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1295
+        width: 97
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7111066a336ac92d0800000000000000
+      internalID: -3270556488612966121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_15
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 1295
+        width: 96
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f0863e51b09ee00800000000000000
+      internalID: 1074402174742040428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_16
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1295
+        width: 95
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5f723110609ae30800000000000000
+      internalID: 4515146703101752741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_17
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1295
+        width: 94
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b51fdd0afea2e7a0800000000000000
+      internalID: -6349320135641197133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_18
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 1295
+        width: 93
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98c17fd8f89a3f20800000000000000
+      internalID: 3403200663099918492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_19
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1295
+        width: 94
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ceb3ddea8ad0d20800000000000000
+      internalID: 3246436375393463364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_20
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1188
+        width: 94
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420eebd07e24b4150800000000000000
+      internalID: 5857849300460953636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_21
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1188
+        width: 94
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4a19f9cad44dd80800000000000000
+      internalID: -8226865215492217682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_22
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1188
+        width: 95
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0e64913efc66500800000000000000
+      internalID: 389226992102727908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_23
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1188
+        width: 95
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6877838f2a4e55b70800000000000000
+      internalID: 8887260828285826950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_24
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1188
+        width: 98
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27ab37f65374ddc0800000000000000
+      internalID: -3615137783519402194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_25
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 1188
+        width: 99
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d19cca7c3f17a2f0800000000000000
+      internalID: -961765650801585705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_26
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1188
+        width: 101
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381d4e51d9e450010800000000000000
+      internalID: 1154415316074549635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_27
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1188
+        width: 101
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b770e8f4dc1446830800000000000000
+      internalID: 4063445113853839227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_28
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 1188
+        width: 100
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7486a4da173b8aaa0800000000000000
+      internalID: -6149467990354401209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_29
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 1188
+        width: 99
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c4ff74d850646f0800000000000000
+      internalID: -700866587653092272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_30
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1081
+        width: 97
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4655093de78e1c0800000000000000
+      internalID: -4474186782667873074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_31
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1081
+        width: 96
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6065fa1c765c5edb0800000000000000
+      internalID: -4763183981452634618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_32
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1081
+        width: 122
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a96f9dc849b86460800000000000000
+      internalID: 7235236523709262246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_33
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1081
+        width: 94
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae51ac59ff885de0800000000000000
+      internalID: -1344166187606384988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_34
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1081
+        width: 93
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e115326f05732d400800000000000000
+      internalID: 347400942127370526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_35
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1081
+        width: 95
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84e1f59b02ce53c0800000000000000
+      internalID: -4368841233486715765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_36
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1081
+        width: 96
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb89d83dfb47495c0800000000000000
+      internalID: -4209611384447723333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_37
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1081
+        width: 97
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecb072d33aa02b20800000000000000
+      internalID: 3107670882436300015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_38
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 1081
+        width: 98
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0426659d86449dbf0800000000000000
+      internalID: -299132683129822656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_39
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 1081
+        width: 104
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99c3773e03552850800000000000000
+      internalID: 6351574170000935324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_40
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 974
+        width: 106
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7ace6d224cbfd20800000000000000
+      internalID: 3313457604774897628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_41
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 974
+        width: 108
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d918fdd196cafffe0800000000000000
+      internalID: -1153013412110827107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_42
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 974
+        width: 104
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75d087dcbb0b2ec0800000000000000
+      internalID: -3590763372200536707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_43
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 974
+        width: 104
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bd8abc210a820a0800000000000000
+      internalID: -6906094025985959024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_44
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 974
+        width: 101
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533cc4fb381c53570800000000000000
+      internalID: 8445869447797588789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_45
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 974
+        width: 99
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66839f8cc7e95770800000000000000
+      internalID: 8600159829208827502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_46
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 974
+        width: 96
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09b76941b98a9000800000000000000
+      internalID: 43498540947192077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_47
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 974
+        width: 122
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92fd705937cbfdba0800000000000000
+      internalID: -6061919368809816279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_48
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 974
+        width: 94
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f80f711b61a89c0800000000000000
+      internalID: -3924299175433302124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_49
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 974
+        width: 93
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b095e3725981f40800000000000000
+      internalID: 5699469324219648860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_50
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 867
+        width: 95
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467db4d1784651bd0800000000000000
+      internalID: -2660109473417537692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_51
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 867
+        width: 96
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa29ede7837c755c0800000000000000
+      internalID: -4226690679803309398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_52
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 867
+        width: 97
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55ed3437e705d130800000000000000
+      internalID: 3590784967493150046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_53
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 867
+        width: 98
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f6fa6a8d8a8fc40800000000000000
+      internalID: 5546368589569683321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_54
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 867
+        width: 101
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b531572924da1f780800000000000000
+      internalID: -8650942907765419173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_55
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 867
+        width: 104
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf65e701c05a1950800000000000000
+      internalID: 6420533008761450435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_56
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 867
+        width: 106
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef23d112c56768fc0800000000000000
+      internalID: -3492974322914610434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_57
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 867
+        width: 108
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125f8da9d1b05e8a0800000000000000
+      internalID: -6276598283891051231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_58
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 867
+        width: 104
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23aeb5e66a31b280800000000000000
+      internalID: -9029371564285582549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_59
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 867
+        width: 104
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67da92bf6733a990800000000000000
+      internalID: -7375990811825350803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_60
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 760
+        width: 101
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d15d49ba646b4e0800000000000000
+      internalID: -1966306484550296178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_61
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 760
+        width: 99
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3791770bf2da7f050800000000000000
+      internalID: 5834322262617430387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_62
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 760
+        width: 112
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798e9b197a2d02680800000000000000
+      internalID: -8781787656226215785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_63
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 760
+        width: 96
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68e82e082d2a7f70800000000000000
+      internalID: 9185704040035051626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_64
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 825
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce74f672fe8e77d60800000000000000
+      internalID: 7888029386219145196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_65
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 825
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f10e82cb8e701f90800000000000000
+      internalID: -6984943883321998862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_66
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 825
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc70dc4419b939d0800000000000000
+      internalID: -2793998596967465789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_67
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 825
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff986e8baa6d6df0800000000000000
+      internalID: -185374724591149060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_68
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 823
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f04dbaa1fdaf7200800000000000000
+      internalID: 180053763581362420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_69
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 825
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00478068a4aa5bc30800000000000000
+      internalID: 4374589850113307648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_70
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 825
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a878279cbef4260800000000000000
+      internalID: 7084139989319518780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_71
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 760
+        width: 37
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf107bb11de39f20800000000000000
+      internalID: 3428344401773993915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_72
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 825
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713eca51eaec5b130800000000000000
+      internalID: 3581996325726380823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_73
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 825
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff96e003ba3664ee0800000000000000
+      internalID: -1277223857416148481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_74
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 825
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3703d1849d60c80800000000000000
+      internalID: -8356753154788789282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_75
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 825
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbecc69d49213b60800000000000000
+      internalID: 7724000249136343993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_76
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 825
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f0329dcc46dbeb0800000000000000
+      internalID: -4702491604925870317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_77
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 825
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8e56ec3a4b26240800000000000000
+      internalID: 4783584369856342224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_78
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 823
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3cd81d8fd97ca60800000000000000
+      internalID: 7694292180378960812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_79
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 825
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27f1dce83a225a00800000000000000
+      internalID: 743703312449271598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_80
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 825
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc71b79876aefe20800000000000000
+      internalID: 3386327006700469502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_81
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 825
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694fc0dd3a602fbc0800000000000000
+      internalID: -3750928238788152170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_82
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 825
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8c651699d3bfaa0800000000000000
+      internalID: -6126235139135059806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_83
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 825
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb2f752e1526b1d0800000000000000
+      internalID: -3335437662612935681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_84
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 809
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa6f8b67b132e040800000000000000
+      internalID: 4675354027017333493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_85
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 809
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a206e8135f525c220800000000000000
+      internalID: 2505450502730178602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_86
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 809
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193c8e18be40377d0800000000000000
+      internalID: -2921986323689978991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_87
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 809
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d45458835f29230800000000000000
+      internalID: 3644244671599037837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_88
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 808
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31f55344ea840320800000000000000
+      internalID: 2523294404221202747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_89
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 809
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063078255b3d87c50800000000000000
+      internalID: 6663308424421770080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_90
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 808
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11630b70326abb3c0800000000000000
+      internalID: -4342694746285656559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_91
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 805
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d867173e55a42a3c0800000000000000
+      internalID: -4349832557337938291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_92
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 810
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7103f082ac077390800000000000000
+      internalID: -7820768335817932419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_93
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 810
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ca7d334dd603a20800000000000000
+      internalID: 3040050506645351580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_94
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 810
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a13074356da9160800000000000000
+      internalID: 7033169421254466166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_95
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 810
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7326ecd5bb6f8910800000000000000
+      internalID: 1841809201457144703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_96
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 810
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82740b83ecee96d10800000000000000
+      internalID: 2119487669136279336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_97
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 810
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558c9e6e9b7fa5780800000000000000
+      internalID: -8693363752870229931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_98
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 810
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260d3fc75539d9c00800000000000000
+      internalID: 909044695176564834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_99
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 810
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8514bc0d07fe2f80800000000000000
+      internalID: -8129288641937402483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_100
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 809
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9912ffe998e64070800000000000000
+      internalID: 8090409528470935965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_101
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 810
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fec4f4912e30a020800000000000000
+      internalID: 2350947319441313528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_102
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 809
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4927e5cfae73c6a80800000000000000
+      internalID: -8472335316594822508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_103
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 790
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9973e9b3fe8fe020800000000000000
+      internalID: 2373272706094430622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_104
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 776
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5204464281e72af60800000000000000
+      internalID: 8044130526591991845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_105
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 776
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd936520eb9b77b0800000000000000
+      internalID: -5225411555631063556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_106
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 776
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a620ef8559a0be0800000000000000
+      internalID: -1510230515578148227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_107
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 774
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eef8f14f44a492e0800000000000000
+      internalID: -2119888864268452120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_108
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 776
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3e28af1d3bdbc10800000000000000
+      internalID: 2071009118092714945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_109
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 776
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b029fe5afbb09d0800000000000000
+      internalID: -2806939223325537524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_110
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 776
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113cbdd5f99b6b5d0800000000000000
+      internalID: -3047044003743939823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_111
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 776
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9d07acaad70a630800000000000000
+      internalID: 3936284246816119256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 750
+        width: 1340
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bdb11d72969da000800000000000000
+      internalID: 48860726878649776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_113
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 756
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54015f11497d3ffc0800000000000000
+      internalID: -3462186657561374651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_114
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 756
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2844480f6b69ff230800000000000000
+      internalID: 3674821533421028482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_115
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 756
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4ce466915c13e10800000000000000
+      internalID: 2175736807877952718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_116
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 760
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3df732b36e7322a0800000000000000
+      internalID: -6763423248723477188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_117
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 760
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f37558ddfca2620800000000000000
+      internalID: 2750239072794918765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_118
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 760
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c563c2c98f0ac1d0800000000000000
+      internalID: -3329831890134538811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_119
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 760
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f803a72a4c2ebf7b0800000000000000
+      internalID: -5189304811446980465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_120
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 759
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e0f78d3d5e2eb00800000000000000
+      internalID: 856499577186881160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_121
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 760
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ea69cdb9cfc38c0800000000000000
+      internalID: -4018059021170332063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_122
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 759
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de48d0facc77b140800000000000000
+      internalID: 4735390744269311705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_123
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 651
+        width: 105
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad58f51e4fecb5f0800000000000000
+      internalID: -739453120140517974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_124
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 651
+        width: 91
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2ac3bc4ac052400800000000000000
+      internalID: 298658852213924550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_125
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 652
+        width: 91
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0246c6d495b90040800000000000000
+      internalID: 4614418944080888335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_126
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 652
+        width: 92
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c7d1d5ed2d715c0800000000000000
+      internalID: -4244692271286616990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_127
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 653
+        width: 91
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1c42501b4ab61c0800000000000000
+      internalID: -4509329521678958115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_128
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 652
+        width: 92
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7e3e4cb9c28b3b0800000000000000
+      internalID: -5496594297670867016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_129
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 653
+        width: 92
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b7e01fae759e8a0800000000000000
+      internalID: -6275387939185853549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_130
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 652
+        width: 92
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745f922a8d49bb720800000000000000
+      internalID: 2863045646278587719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_131
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 652
+        width: 91
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a016605d932aed140800000000000000
+      internalID: 4746409426565882122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_132
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 651
+        width: 92
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443003a1fc5432a70800000000000000
+      internalID: 8800954852611982148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_133
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 544
+        width: 93
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0051aa30ed14660800000000000000
+      internalID: 7368414572674613419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_134
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 543
+        width: 93
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5fee3e818ec8d040800000000000000
+      internalID: 4672711669229481823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_135
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 543
+        width: 93
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2862a8c91e00da20800000000000000
+      internalID: 3084981248651847726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_136
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 543
+        width: 92
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df717d4a3cae04480800000000000000
+      internalID: -8916869136188499971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_137
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 543
+        width: 92
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9fcc37991b01a80800000000000000
+      internalID: -8498097224217200139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_138
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 544
+        width: 91
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad27bd5fa1078300800000000000000
+      internalID: 254173756672912804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_139
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 544
+        width: 91
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367b6d91625a43910800000000000000
+      internalID: 1816258132797994851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_140
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 544
+        width: 91
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2adc16d7d2458fbe0800000000000000
+      internalID: -1443311126218420830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_141
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 545
+        width: 91
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657a3ddaacce5caf0800000000000000
+      internalID: -376634638571690154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_142
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 545
+        width: 92
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bdb86f96198eef10800000000000000
+      internalID: 2300927189889629617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_143
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 439
+        width: 91
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40c763bcf1d81530800000000000000
+      internalID: 3826038766723121226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_144
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 438
+        width: 92
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcbcacf8916cd370800000000000000
+      internalID: 8348655118940159192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_145
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 439
+        width: 92
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1879eab4c011e80800000000000000
+      internalID: -8209767126528458332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_146
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 438
+        width: 92
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65d560f348685190800000000000000
+      internalID: -7973508499254160022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_147
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 438
+        width: 91
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f78e198f44f9b3a0800000000000000
+      internalID: -6649014752395753486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_148
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 437
+        width: 92
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad153c89d4bc8b520800000000000000
+      internalID: 2718145909253951962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_149
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 437
+        width: 93
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8e9a9d90ce87b30800000000000000
+      internalID: 4285434572493678761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_150
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 436
+        width: 93
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd722288055634cf0800000000000000
+      internalID: -269260156156368932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_151
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 436
+        width: 93
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888b7077cf6d5f450800000000000000
+      internalID: 6122035648297154696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_152
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 436
+        width: 92
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7110c80e4705965a0800000000000000
+      internalID: -6527597721983123177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_153
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 329
+        width: 92
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3254c63da7360e160800000000000000
+      internalID: 7052746395646444835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_154
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 330
+        width: 91
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d60ca799b7bd3c0800000000000000
+      internalID: -4333734317294326378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_155
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 330
+        width: 115
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b011cbf291582a0800000000000000
+      internalID: -6735949974853317823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_156
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 331
+        width: 90
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ae5efe7a82dd9b0800000000000000
+      internalID: -5053838505090356681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_157
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 331
+        width: 90
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bae1070568fc9480800000000000000
+      internalID: -8890958451543250253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_158
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 332
+        width: 92
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef8330dc9bae8f90800000000000000
+      internalID: -6949428484989808672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_159
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 331
+        width: 94
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc129e696f44ba740800000000000000
+      internalID: 5164297223594910159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_160
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 332
+        width: 94
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a1f363fbf1702e0800000000000000
+      internalID: -2159722590191543738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_161
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 331
+        width: 96
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70137e88c31c6e950800000000000000
+      internalID: 6478077579758088455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_162
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 331
+        width: 96
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea6990ff235fb100800000000000000
+      internalID: 125910779954817769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_163
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 223
+        width: 97
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3166b885d04ccab0800000000000000
+      internalID: -4986539401540116163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_164
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 223
+        width: 97
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f89666411158afb0800000000000000
+      internalID: -4636366681740502797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_165
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 222
+        width: 97
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded7c65a05fc35c10800000000000000
+      internalID: 2041203001408650733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_166
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 222
+        width: 96
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4cbb6845a873070800000000000000
+      internalID: 8086083751609353387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_167
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 222
+        width: 95
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e2f6104da2efe70800000000000000
+      internalID: 9150798582908923393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_168
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 223
+        width: 93
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74718b6bf67467130800000000000000
+      internalID: 3564114700242786119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_169
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 223
+        width: 91
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b7a7330fe43d7d0800000000000000
+      internalID: -2894883341906314440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_170
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 223
+        width: 115
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44b9687cb1619cd0800000000000000
+      internalID: -2553152051640421299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_171
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 224
+        width: 90
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4237f007bf5f330800000000000000
+      internalID: 3744175123942548656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_172
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 224
+        width: 90
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8af8784eea170c90800000000000000
+      internalID: -7203759468235392371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_173
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 118
+        width: 92
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c2edc682a8158f0800000000000000
+      internalID: -553509372960035809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_174
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 117
+        width: 94
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34226887228fd450800000000000000
+      internalID: 6115749925295891518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_175
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 118
+        width: 94
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7bcc75f9ffefec10800000000000000
+      internalID: 2085149009340320635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_176
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 117
+        width: 96
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b39505cdc4201080800000000000000
+      internalID: -9218827971035032649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_177
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 117
+        width: 96
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9e3ebc334aae380800000000000000
+      internalID: -8941153567819699745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_178
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 116
+        width: 97
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9acfa8f9b34421220800000000000000
+      internalID: 2455099769740786857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_179
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 116
+        width: 97
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03b496574afb9940800000000000000
+      internalID: 5304108170461098764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_180
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 115
+        width: 99
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f35674b154ae1e00800000000000000
+      internalID: 1017431236659270643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_181
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 115
+        width: 97
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c707245cda0418d90800000000000000
+      internalID: -7097320422676205444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_182
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 115
+        width: 96
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: befd54e54c7f483e0800000000000000
+      internalID: -2052243107406815253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_183
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 8
+        width: 95
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8965aa077c9b670800000000000000
+      internalID: 8555088253875034329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_184
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 9
+        width: 109
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb42d93434340a50800000000000000
+      internalID: 6486366762233383930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_185
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 9
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb843eb91156f8660800000000000000
+      internalID: 7390236639842486462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_186
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 50
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ab064557ec9bb40800000000000000
+      internalID: 5456619426858187414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_187
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 48
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98776de13fa69c440800000000000000
+      internalID: 4956610457324910473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_188
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 48
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7121063551b485f00800000000000000
+      internalID: 1105716263484658199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_189
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 50
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52f3f6f764e4cce0800000000000000
+      internalID: -1385731650147323298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_190
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 50
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9733ea0d7f68eec80800000000000000
+      internalID: -8291541465026382983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_191
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 50
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb71b5307676234a0800000000000000
+      internalID: -6615111210518243393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_192
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 48
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e35b0db69d19ef0800000000000000
+      internalID: -103062259366543763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_193
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 50
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36be428432a59300800000000000000
+      internalID: 258290900051867194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_194
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 50
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48076a071f4f2f9c0800000000000000
+      internalID: -3894781409907806076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_195
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 50
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa3892a376576bd0800000000000000
+      internalID: -2637044002153022730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_196
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 50
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffed946c98e793200800000000000000
+      internalID: 160298391950712575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_197
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 50
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecbc4e7ad9c2d550800000000000000
+      internalID: 6184227178592124143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_198
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 31
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b19c64d882dde80800000000000000
+      internalID: -8152315163227645143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_199
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 31
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e795d341c4617420800000000000000
+      internalID: 2625990838963247073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_200
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 31
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f4356dfb6c60470800000000000000
+      internalID: 8360588285496741722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_201
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 31
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51eb28c98543ba180800000000000000
+      internalID: -9103124666611745259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_202
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 31
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135317b2196f649a0800000000000000
+      internalID: -6249036329570454223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_203
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 31
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc575afb344067c0800000000000000
+      internalID: -4080186238003880712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_204
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 31
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe624f70ae3edb270800000000000000
+      internalID: 8268015085217392367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_205
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 31
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328a373effae16910800000000000000
+      internalID: 1829001308442699811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_206
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 31
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342461a74b3678d60800000000000000
+      internalID: 7892386498783625795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_207
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 31
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f454742bd73a3a0800000000000000
+      internalID: -6655337619670085782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_208
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 31
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a169fe5feb8c71790800000000000000
+      internalID: -7559352727022627302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_209
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 31
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221e13e2c66227250800000000000000
+      internalID: 5940853104528449826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_210
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 31
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02696fc339f60590800000000000000
+      internalID: -7708199711279586806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_211
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 29
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83dac59c4d57eb8c0800000000000000
+      internalID: -3981615463777129160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_212
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 12
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce30586f9f1515af0800000000000000
+      internalID: -409455957089385492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_213
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 12
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2778e32cc329130800000000000000
+      internalID: 3571984259428610747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_214
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 12
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7533659ddb8c5a100800000000000000
+      internalID: 118721682915865431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_215
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 12
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804068e538fa8b7b0800000000000000
+      internalID: -5208219990292560888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_216
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 12
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0dee6b29876be390800000000000000
+      internalID: -7788017291770270452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_217
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 12
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba2a9fd29c683ba0800000000000000
+      internalID: -6109013516455630159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_218
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 12
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e696cfcaac704b130800000000000000
+      internalID: 3581496170733398382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_219
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 12
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1114b5abebbea25e0800000000000000
+      internalID: -1933473885599350511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_220
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 12
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d55118c509586e0800000000000000
+      internalID: -1835902546106557042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_221
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 12
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65e21f07d985e070800000000000000
+      internalID: 8135059858678539631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_222
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 10
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd5608bfb7c31330800000000000000
+      internalID: 3680504946731933118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_223
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 12
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a4284699d8c2d40800000000000000
+      internalID: 5560975329851492976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_224
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 12
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82efb88f20c7e1040800000000000000
+      internalID: 4620266619930410536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_225
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 12
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748180ac9348926e0800000000000000
+      internalID: -1861811587203459001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reshiram_226
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 12
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72257b7858cc20970800000000000000
+      internalID: 8719756702422356519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

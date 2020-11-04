@@ -1,0 +1,5000 @@
+fileFormatVersion: 2
+guid: 0450150deef6d6c48809ba31b63979c2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8380635033291975632
+    second: Munchlax_0
+  - first:
+      213: 8922126126679340256
+    second: Munchlax_1
+  - first:
+      213: 3981507805059443830
+    second: Munchlax_2
+  - first:
+      213: -6243683531918267519
+    second: Munchlax_3
+  - first:
+      213: 6025094084518497490
+    second: Munchlax_4
+  - first:
+      213: 8502200141835518012
+    second: Munchlax_5
+  - first:
+      213: -7605423641396645254
+    second: Munchlax_6
+  - first:
+      213: 5450067273326859188
+    second: Munchlax_7
+  - first:
+      213: -6815893933510441778
+    second: Munchlax_8
+  - first:
+      213: 4577152845124877014
+    second: Munchlax_9
+  - first:
+      213: 2186878648945431457
+    second: Munchlax_10
+  - first:
+      213: 6487723702248037323
+    second: Munchlax_11
+  - first:
+      213: 7123942507899264183
+    second: Munchlax_12
+  - first:
+      213: -7850550077346530876
+    second: Munchlax_13
+  - first:
+      213: -1488605621153497842
+    second: Munchlax_14
+  - first:
+      213: 7805232399027516191
+    second: Munchlax_15
+  - first:
+      213: 4124906509049116996
+    second: Munchlax_16
+  - first:
+      213: 1321066556157977521
+    second: Munchlax_17
+  - first:
+      213: -4210877188875216245
+    second: Munchlax_18
+  - first:
+      213: -2791666815768148987
+    second: Munchlax_19
+  - first:
+      213: -7767971403143738768
+    second: Munchlax_20
+  - first:
+      213: -8628481300847551804
+    second: Munchlax_21
+  - first:
+      213: 8290166433780829931
+    second: Munchlax_22
+  - first:
+      213: 4678327835913335478
+    second: Munchlax_23
+  - first:
+      213: -3649181850706052126
+    second: Munchlax_24
+  - first:
+      213: 5538131386097739841
+    second: Munchlax_25
+  - first:
+      213: -934054442335481081
+    second: Munchlax_26
+  - first:
+      213: 1550973763363762031
+    second: Munchlax_27
+  - first:
+      213: -5120597867093774381
+    second: Munchlax_28
+  - first:
+      213: 4307818009515475082
+    second: Munchlax_29
+  - first:
+      213: 8668880367144227616
+    second: Munchlax_30
+  - first:
+      213: -6768297313940841323
+    second: Munchlax_31
+  - first:
+      213: -7573937053569119037
+    second: Munchlax_32
+  - first:
+      213: 1880832331818697050
+    second: Munchlax_33
+  - first:
+      213: -9006292046085206582
+    second: Munchlax_34
+  - first:
+      213: 350910408610364114
+    second: Munchlax_35
+  - first:
+      213: -4747099721977789985
+    second: Munchlax_36
+  - first:
+      213: 8065242874180690012
+    second: Munchlax_37
+  - first:
+      213: 5858794983749081687
+    second: Munchlax_38
+  - first:
+      213: 5981792482504275524
+    second: Munchlax_39
+  - first:
+      213: 3491536611409838772
+    second: Munchlax_40
+  - first:
+      213: 3588726543949039348
+    second: Munchlax_41
+  - first:
+      213: 4732491451219845657
+    second: Munchlax_42
+  - first:
+      213: 4186871503373394344
+    second: Munchlax_43
+  - first:
+      213: 6647461063609273926
+    second: Munchlax_44
+  - first:
+      213: -238158905093100857
+    second: Munchlax_45
+  - first:
+      213: -2033234435806021499
+    second: Munchlax_46
+  - first:
+      213: -743346566875787553
+    second: Munchlax_47
+  - first:
+      213: 8644740787145111505
+    second: Munchlax_48
+  - first:
+      213: 1413106405233207494
+    second: Munchlax_49
+  - first:
+      213: 6144627256970076904
+    second: Munchlax_50
+  - first:
+      213: 7845789107743303040
+    second: Munchlax_51
+  - first:
+      213: 1176386413862221272
+    second: Munchlax_52
+  - first:
+      213: -5811643166484718878
+    second: Munchlax_53
+  - first:
+      213: -3677526523196619578
+    second: Munchlax_54
+  - first:
+      213: -1331816025754292185
+    second: Munchlax_55
+  - first:
+      213: -4248742700130523739
+    second: Munchlax_56
+  - first:
+      213: 8442463430578714354
+    second: Munchlax_57
+  - first:
+      213: -2360469513139375397
+    second: Munchlax_58
+  - first:
+      213: -8778348221279489260
+    second: Munchlax_59
+  - first:
+      213: 2845344171847298505
+    second: Munchlax_60
+  - first:
+      213: 4494441140238854976
+    second: Munchlax_61
+  - first:
+      213: 6976418157092930274
+    second: Munchlax_62
+  - first:
+      213: -7544364459896876060
+    second: Munchlax_63
+  - first:
+      213: -9138407218320780915
+    second: Munchlax_64
+  - first:
+      213: 4649726941983684441
+    second: Munchlax_65
+  - first:
+      213: -7903836221513977829
+    second: Munchlax_66
+  - first:
+      213: -6697483422072354843
+    second: Munchlax_67
+  - first:
+      213: 7500048267237836075
+    second: Munchlax_68
+  - first:
+      213: -1304874403411051664
+    second: Munchlax_69
+  - first:
+      213: 1390217294072273957
+    second: Munchlax_70
+  - first:
+      213: 7312662518955856588
+    second: Munchlax_71
+  - first:
+      213: 4394313341656051288
+    second: Munchlax_72
+  - first:
+      213: 7702716990815455925
+    second: Munchlax_73
+  - first:
+      213: -4908108289185512017
+    second: Munchlax_74
+  - first:
+      213: -6299791080831088153
+    second: Munchlax_75
+  - first:
+      213: -1383035414532627831
+    second: Munchlax_76
+  - first:
+      213: 4735989977143784373
+    second: Munchlax_77
+  - first:
+      213: -7579896242353322167
+    second: Munchlax_78
+  - first:
+      213: 7407109291154903126
+    second: Munchlax_79
+  - first:
+      213: -5990772663492700307
+    second: Munchlax_80
+  - first:
+      213: 7270947132073274596
+    second: Munchlax_81
+  - first:
+      213: 2017969371868244988
+    second: Munchlax_82
+  - first:
+      213: -4993040674584614583
+    second: Munchlax_83
+  - first:
+      213: 8800308635632020873
+    second: Munchlax_84
+  - first:
+      213: 7216502311303319813
+    second: Munchlax_85
+  - first:
+      213: 5947556563529259942
+    second: Munchlax_86
+  - first:
+      213: 6630102738737181079
+    second: Munchlax_87
+  - first:
+      213: -2141560409878445405
+    second: Munchlax_88
+  - first:
+      213: -2583444471326144206
+    second: Munchlax_89
+  - first:
+      213: -4484095214507725031
+    second: Munchlax_90
+  - first:
+      213: -5175408071254043613
+    second: Munchlax_91
+  - first:
+      213: -7514325481794745757
+    second: Munchlax_92
+  - first:
+      213: 3124431755632126354
+    second: Munchlax_93
+  - first:
+      213: 1017742266799445288
+    second: Munchlax_94
+  - first:
+      213: 1258384678815468545
+    second: Munchlax_95
+  - first:
+      213: -72685168406710123
+    second: Munchlax_96
+  - first:
+      213: -5444973337268429010
+    second: Munchlax_97
+  - first:
+      213: -1658446121157392615
+    second: Munchlax_98
+  - first:
+      213: -8999489362849732842
+    second: Munchlax_99
+  - first:
+      213: -8631284652576886853
+    second: Munchlax_100
+  - first:
+      213: -3687232153104546249
+    second: Munchlax_101
+  - first:
+      213: -5644315524221372345
+    second: Munchlax_102
+  - first:
+      213: -8351806191277808905
+    second: Munchlax_103
+  - first:
+      213: 1396153585203139494
+    second: Munchlax_104
+  - first:
+      213: 1625738092386084615
+    second: Munchlax_105
+  - first:
+      213: -757457576052005039
+    second: Munchlax_106
+  - first:
+      213: -3808686176376922063
+    second: Munchlax_107
+  - first:
+      213: -7115404240029899395
+    second: Munchlax_108
+  - first:
+      213: -2851730213716007348
+    second: Munchlax_109
+  - first:
+      213: 8645344079352661961
+    second: Munchlax_110
+  - first:
+      213: -6410792356725744899
+    second: Munchlax_111
+  - first:
+      213: 6590972053359218174
+    second: Munchlax_112
+  - first:
+      213: 7927576629364924919
+    second: Munchlax_113
+  - first:
+      213: -8368399735923410855
+    second: Munchlax_114
+  - first:
+      213: -6968137107254472785
+    second: Munchlax_115
+  - first:
+      213: 2342631046838455206
+    second: Munchlax_116
+  - first:
+      213: 6505319037248963051
+    second: Munchlax_117
+  - first:
+      213: 1707936292724957946
+    second: Munchlax_118
+  - first:
+      213: -4871887879387447345
+    second: Munchlax_119
+  - first:
+      213: -724268853686849244
+    second: Munchlax_120
+  - first:
+      213: -4212665553652452963
+    second: Munchlax_121
+  - first:
+      213: -2708080141722395363
+    second: Munchlax_122
+  - first:
+      213: -5179859209521436623
+    second: Munchlax_123
+  - first:
+      213: -1540540409726475889
+    second: Munchlax_124
+  - first:
+      213: 6298107298134099436
+    second: Munchlax_125
+  - first:
+      213: -2811765262213474391
+    second: Munchlax_126
+  - first:
+      213: -2591268570142030738
+    second: Munchlax_127
+  - first:
+      213: 3793970272612345310
+    second: Munchlax_128
+  - first:
+      213: -5132026432192102468
+    second: Munchlax_129
+  - first:
+      213: -8626499778608933674
+    second: Munchlax_130
+  - first:
+      213: 9123040748036996752
+    second: Munchlax_131
+  - first:
+      213: -6431312435560508864
+    second: Munchlax_132
+  - first:
+      213: -1618753278852798940
+    second: Munchlax_133
+  - first:
+      213: 418172915230040465
+    second: Munchlax_134
+  - first:
+      213: -5482848470454956243
+    second: Munchlax_135
+  - first:
+      213: 7757968341570172136
+    second: Munchlax_136
+  - first:
+      213: 5062085481293958944
+    second: Munchlax_137
+  - first:
+      213: -6384284366339897329
+    second: Munchlax_138
+  - first:
+      213: -4876751639449075203
+    second: Munchlax_139
+  - first:
+      213: -3640919617458013056
+    second: Munchlax_140
+  - first:
+      213: 6128077357437950746
+    second: Munchlax_141
+  - first:
+      213: 880551492988321673
+    second: Munchlax_142
+  - first:
+      213: -3991841395113639316
+    second: Munchlax_143
+  - first:
+      213: -1460748512040918493
+    second: Munchlax_144
+  - first:
+      213: 3461260304539788831
+    second: Munchlax_145
+  - first:
+      213: -1460661282241184439
+    second: Munchlax_146
+  - first:
+      213: 3170947009045371309
+    second: Munchlax_147
+  - first:
+      213: 1270620764827074380
+    second: Munchlax_148
+  - first:
+      213: 242211062076028631
+    second: Munchlax_149
+  - first:
+      213: -7070038983051445037
+    second: Munchlax_150
+  - first:
+      213: -3171584194697123274
+    second: Munchlax_151
+  - first:
+      213: 1810605533827681019
+    second: Munchlax_152
+  - first:
+      213: -6055838294747183438
+    second: Munchlax_153
+  - first:
+      213: -2291693090338260772
+    second: Munchlax_154
+  - first:
+      213: 5328547817250622113
+    second: Munchlax_155
+  - first:
+      213: -5992766828664019999
+    second: Munchlax_156
+  - first:
+      213: 393900617533741907
+    second: Munchlax_157
+  - first:
+      213: -1567355322677487697
+    second: Munchlax_158
+  - first:
+      213: 6152269832528773919
+    second: Munchlax_159
+  - first:
+      213: 5971441612758347391
+    second: Munchlax_160
+  - first:
+      213: 2877640859428930272
+    second: Munchlax_161
+  - first:
+      213: 767715162384399740
+    second: Munchlax_162
+  - first:
+      213: 369569277889357276
+    second: Munchlax_163
+  - first:
+      213: -2400272402853927873
+    second: Munchlax_164
+  - first:
+      213: 6291430493166504320
+    second: Munchlax_165
+  - first:
+      213: 7673248337921015870
+    second: Munchlax_166
+  - first:
+      213: 4043360733791232780
+    second: Munchlax_167
+  - first:
+      213: -4836221194342418320
+    second: Munchlax_168
+  - first:
+      213: -74925985528606272
+    second: Munchlax_169
+  - first:
+      213: 7992448741517380522
+    second: Munchlax_170
+  - first:
+      213: -1657493969451378231
+    second: Munchlax_171
+  - first:
+      213: -5027199970291569790
+    second: Munchlax_172
+  - first:
+      213: -3570598271106391905
+    second: Munchlax_173
+  - first:
+      213: -7755151857552804986
+    second: Munchlax_174
+  - first:
+      213: 2628137816334780539
+    second: Munchlax_175
+  - first:
+      213: -7214459829674757446
+    second: Munchlax_176
+  - first:
+      213: -2634121021239196413
+    second: Munchlax_177
+  - first:
+      213: 8625660279280426381
+    second: Munchlax_178
+  - first:
+      213: -4897883744231290177
+    second: Munchlax_179
+  - first:
+      213: 988671626131644443
+    second: Munchlax_180
+  - first:
+      213: 2118086402320750039
+    second: Munchlax_181
+  - first:
+      213: 6455788888106964451
+    second: Munchlax_182
+  - first:
+      213: 4640109402315198024
+    second: Munchlax_183
+  - first:
+      213: 8127315358804264006
+    second: Munchlax_184
+  - first:
+      213: 733234357366525937
+    second: Munchlax_185
+  - first:
+      213: -627225052972215424
+    second: Munchlax_186
+  - first:
+      213: -8803207569769413972
+    second: Munchlax_187
+  - first:
+      213: -1437765617981462167
+    second: Munchlax_188
+  - first:
+      213: 3085821982236021592
+    second: Munchlax_189
+  - first:
+      213: 2559209739441167235
+    second: Munchlax_190
+  - first:
+      213: -6316816773070402407
+    second: Munchlax_191
+  - first:
+      213: 2178690211604804491
+    second: Munchlax_192
+  - first:
+      213: 8543633303958448902
+    second: Munchlax_193
+  - first:
+      213: -6627290617929492036
+    second: Munchlax_194
+  - first:
+      213: 1713163692618615076
+    second: Munchlax_195
+  - first:
+      213: 8810986360330713786
+    second: Munchlax_196
+  - first:
+      213: -4419098221511422439
+    second: Munchlax_197
+  - first:
+      213: -6958269279493088
+    second: Munchlax_198
+  - first:
+      213: -2009184389649462369
+    second: Munchlax_199
+  - first:
+      213: -8684811935782517117
+    second: Munchlax_200
+  - first:
+      213: -3478030016721725052
+    second: Munchlax_201
+  - first:
+      213: 4442843883466344497
+    second: Munchlax_202
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Munchlax_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 730
+        width: 6
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dbef87092ffd4470800000000000000
+      internalID: 8380635033291975632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 736
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e434f5d072c1db70800000000000000
+      internalID: 8922126126679340256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 735
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c6307f048214730800000000000000
+      internalID: 3981507805059443830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 735
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b2e0e78eaf959a0800000000000000
+      internalID: -6243683531918267519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_4
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 735
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc4806c52f6d9350800000000000000
+      internalID: 6025094084518497490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_5
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 735
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30c16f7bf1edf570800000000000000
+      internalID: 8502200141835518012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_6
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 735
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72f1305e7b147690800000000000000
+      internalID: -7605423641396645254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_7
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 736
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b311a43f4782ab40800000000000000
+      internalID: 5450067273326859188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_8
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 730
+        width: 6
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4ce5264941961a0800000000000000
+      internalID: -6815893933510441778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_9
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 730
+        width: 6
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da36580340558f30800000000000000
+      internalID: 4577152845124877014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_10
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 736
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3574d6b8a595e10800000000000000
+      internalID: 2186878648945431457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 670
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb50617556090a50800000000000000
+      internalID: 6487723702248037323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_12
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 670
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc14a777f35dd260800000000000000
+      internalID: 7123942507899264183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_13
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 670
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c938547c4e3d0390800000000000000
+      internalID: -7850550077346530876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_14
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 670
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0dfe741319675be0800000000000000
+      internalID: -1488605621153497842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_15
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 670
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13b7655381c15c60800000000000000
+      internalID: 7805232399027516191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_16
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 669
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449b1938d9c9e3930800000000000000
+      internalID: 4124906509049116996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_17
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 669
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3e174980f555210800000000000000
+      internalID: 1321066556157977521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_18
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 669
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a1c44c185ff85c0800000000000000
+      internalID: -4210877188875216245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_19
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 603
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504c4ea62d10249d0800000000000000
+      internalID: -2791666815768148987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_20
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 603
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a89325a2f923490800000000000000
+      internalID: -7767971403143738768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_21
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 604
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca91e7f8f9714880800000000000000
+      internalID: -8628481300847551804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_22
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 595
+        width: 6
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee8f56c2769c0370800000000000000
+      internalID: 8290166433780829931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_23
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 595
+        width: 6
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2bf624162cce040800000000000000
+      internalID: 4678327835913335478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_24
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 603
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebfcd3e0708b5dc0800000000000000
+      internalID: -3649181850706052126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_25
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 603
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1482cc347256bdc40800000000000000
+      internalID: 5538131386097739841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_26
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 603
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703d7bbfe629903f0800000000000000
+      internalID: -934054442335481081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_27
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 603
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f6f3d9b6a268510800000000000000
+      internalID: 1550973763363762031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_28
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 603
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dfa046be5bffe8b0800000000000000
+      internalID: -5120597867093774381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_29
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 538
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a804336e7a178cb30800000000000000
+      internalID: 4307818009515475082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_30
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 537
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0235df3a3cc0e4870800000000000000
+      internalID: 8668880367144227616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_31
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 537
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c5354f37d2212a0800000000000000
+      internalID: -6768297313940841323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_32
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 537
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc08d2d068f3e690800000000000000
+      internalID: -7573937053569119037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_33
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 537
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a518f1c6a0f0a1a10800000000000000
+      internalID: 1880832331818697050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_34
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 537
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd4aa9f919330380800000000000000
+      internalID: -9006292046085206582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_35
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 538
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da353d482faed400800000000000000
+      internalID: 350910408610364114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_36
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 537
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1882e34f9ee1eb0800000000000000
+      internalID: -4747099721977789985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_37
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 471
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c506ace99af7def60800000000000000
+      internalID: 8065242874180690012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_38
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 471
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a543a1ffe9e4150800000000000000
+      internalID: 5858794983749081687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_39
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 471
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446f4c7e198930350800000000000000
+      internalID: 5981792482504275524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_40
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 471
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2ca539c0e647030800000000000000
+      internalID: 3491536611409838772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_41
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 472
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6091027c7bdc130800000000000000
+      internalID: 3588726543949039348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_42
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 471
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912288ca6ef2da140800000000000000
+      internalID: 4732491451219845657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_43
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 471
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1e6c60371ca1a30800000000000000
+      internalID: 4186871503373394344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_44
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 471
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ecbaa1e96804c50800000000000000
+      internalID: 6647461063609273926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_45
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 401
+        width: 6
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca64d5dcb3e1bcf0800000000000000
+      internalID: -238158905093100857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_46
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 401
+        width: 6
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588b0bc9d0088c3e0800000000000000
+      internalID: -2033234435806021499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_47
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 452
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdecc506c3a1fa5f0800000000000000
+      internalID: -743346566875787553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_48
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 452
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d77d11b1f948f770800000000000000
+      internalID: 8644740787145111505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_49
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 452
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c821c1e9cc5c9310800000000000000
+      internalID: 1413106405233207494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_50
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 450
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e262e04fe9164550800000000000000
+      internalID: 6144627256970076904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_51
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 452
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0852badef97d1ec60800000000000000
+      internalID: 7845789107743303040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_52
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 452
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d57adce53d535010800000000000000
+      internalID: 1176386413862221272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_53
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 452
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea1a5cd455e85fa0800000000000000
+      internalID: -5811643166484718878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_54
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 405
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4c9cc8c1dc6fcc0800000000000000
+      internalID: -3677526523196619578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_55
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 405
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7203ebe7160748de0800000000000000
+      internalID: -1331816025754292185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_56
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 406
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5afa8660f6905c0800000000000000
+      internalID: -4248742700130523739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_57
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 406
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6bed092c7a92570800000000000000
+      internalID: 8442463430578714354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_58
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 436
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2303eeb7ded3fd0800000000000000
+      internalID: -2360469513139375397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_59
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 435
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41334fb6dca0d2680800000000000000
+      internalID: -8778348221279489260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_60
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 436
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cdafa2f271bc7720800000000000000
+      internalID: 2845344171847298505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_61
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 436
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ba6db87667f5e30800000000000000
+      internalID: 4494441140238854976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_62
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 436
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e20c1ae95731d060800000000000000
+      internalID: 6976418157092930274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_63
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 436
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3d3c7de780d4790800000000000000
+      internalID: -7544364459896876060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_64
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 436
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81df136d0bdd2180800000000000000
+      internalID: -9138407218320780915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_65
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 436
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9573087b406278040800000000000000
+      internalID: 4649726941983684441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_66
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 436
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b103bc535deef4290800000000000000
+      internalID: -7903836221513977829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_67
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 436
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e74f4aff42cd03a0800000000000000
+      internalID: -6697483422072354843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_68
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 435
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25cefe7926851860800000000000000
+      internalID: 7500048267237836075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_69
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 436
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b3f24c4a724ede0800000000000000
+      internalID: -1304874403411051664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_70
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 435
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c58c5634b0b4310800000000000000
+      internalID: 1390217294072273957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_71
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 420
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc25dac11dbcb7560800000000000000
+      internalID: 7312662518955856588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_72
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 420
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e2b21c3bcbbfc30800000000000000
+      internalID: 4394313341656051288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_73
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 420
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bacbeada4c85ea60800000000000000
+      internalID: 7702716990815455925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_74
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 418
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa582f7e385e2ebb0800000000000000
+      internalID: -4908108289185512017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_75
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 420
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e983e3c365a298a0800000000000000
+      internalID: -6299791080831088153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_76
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 420
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9826ffc3e987ecce0800000000000000
+      internalID: -1383035414532627831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_77
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 420
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b33777bacd99b140800000000000000
+      internalID: 4735989977143784373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_78
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 420
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9474630178ccec690800000000000000
+      internalID: -7579896242353322167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_79
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 419
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65098cfd7a65bc660800000000000000
+      internalID: 7407109291154903126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_80
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 419
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d679566c0008cdca0800000000000000
+      internalID: -5990772663492700307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_81
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 419
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec6fdbb4e797e460800000000000000
+      internalID: 7270947132073274596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_82
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 417
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb23d9b374410c10800000000000000
+      internalID: 2017969371868244988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_83
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 419
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949ae42f5f725bab0800000000000000
+      internalID: -4993040674584614583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_84
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 419
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d26acf31af02a70800000000000000
+      internalID: 8800308635632020873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_85
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 419
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50115021e9a262460800000000000000
+      internalID: 7216502311303319813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_86
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 419
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab54bade27f98250800000000000000
+      internalID: 5947556563529259942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 528
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79136c6205bd20c50800000000000000
+      internalID: 6630102738737181079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_88
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 402
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2c7285726a742e0800000000000000
+      internalID: -2141560409878445405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_89
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 402
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23988a5e0f2c52cd0800000000000000
+      internalID: -2583444471326144206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_90
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 402
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91fec30092b45c1c0800000000000000
+      internalID: -4484095214507725031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_91
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 404
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324963997c14d28b0800000000000000
+      internalID: -5175408071254043613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_92
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 404
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a45f279c0c7b790800000000000000
+      internalID: -7514325481794745757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_93
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 404
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2992767b0263c5b20800000000000000
+      internalID: 3124431755632126354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_94
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 404
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8255b7d033fbf1e00800000000000000
+      internalID: 1017742266799445288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_95
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 404
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c079bb23ea67110800000000000000
+      internalID: 1258384678815468545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_96
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 404
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598bda47935cdfef0800000000000000
+      internalID: -72685168406710123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_97
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 404
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f54a439919f64b0800000000000000
+      internalID: -5444973337268429010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_98
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 404
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9170a452a040cf8e0800000000000000
+      internalID: -1658446121157392615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_99
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 403
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6176f671b146b1380800000000000000
+      internalID: -8999489362849732842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_100
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 404
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbfafd7c654873880800000000000000
+      internalID: -8631284652576886853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_101
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 403
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7360ecd74e154dcc0800000000000000
+      internalID: -3687232153104546249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_102
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 403
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748ff828fec5ba1b0800000000000000
+      internalID: -5644315524221372345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_103
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 403
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f26affc48c681c80800000000000000
+      internalID: -8351806191277808905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_104
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 403
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3dbe1e942206310800000000000000
+      internalID: 1396153585203139494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_105
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 403
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7076e767e28cf8610800000000000000
+      internalID: 1625738092386084615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_106
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 403
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157edf60958fc75f0800000000000000
+      internalID: -757457576052005039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_107
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 403
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130ec141a14d42bc0800000000000000
+      internalID: -3808686176376922063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_108
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 403
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75a5bfea81014d90800000000000000
+      internalID: -7115404240029899395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_109
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 403
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c466530da7e9c68d0800000000000000
+      internalID: -2851730213716007348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_110
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 403
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c787da92ae6af770800000000000000
+      internalID: 8645344079352661961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_111
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 403
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa9290415a4807a0800000000000000
+      internalID: -6410792356725744899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_112
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 334
+        width: 6
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efdc00d7926d77b50800000000000000
+      internalID: 6590972053359218174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_113
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 340
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f12cfa31f8640e60800000000000000
+      internalID: 7927576629364924919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_114
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 339
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958ffc127c87ddb80800000000000000
+      internalID: -8368399735923410855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_115
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 340
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf01ef38343c4f90800000000000000
+      internalID: -6968137107254472785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_116
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 339
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab8b9a7682b28020800000000000000
+      internalID: 2342631046838455206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_117
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 340
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be18fcd9239874a50800000000000000
+      internalID: 6505319037248963051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_118
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 339
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af26eda520fc3b710800000000000000
+      internalID: 1707936292724957946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_119
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 340
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf749b39c3936cb0800000000000000
+      internalID: -4871887879387447345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_120
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 334
+        width: 6
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421bd1e9051e2f5f0800000000000000
+      internalID: -724268853686849244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_121
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 334
+        width: 6
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d917505affa9985c0800000000000000
+      internalID: -4212665553652452963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_122
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 339
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1dd8598577fa6ad0800000000000000
+      internalID: -2708080141722395363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_123
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 273
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13860f53e717d18b0800000000000000
+      internalID: -5179859209521436623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_124
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 273
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f816e14d8a6ee9ae0800000000000000
+      internalID: -1540540409726475889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_125
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 273
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce50496083f576750800000000000000
+      internalID: 6298107298134099436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_126
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 273
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a79bf1346a9af8d0800000000000000
+      internalID: -2811765262213474391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_127
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 274
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64cc0fe6f6f90cd0800000000000000
+      internalID: -2591268570142030738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_128
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 273
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed563739cd3e6a430800000000000000
+      internalID: 3793970272612345310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_129
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 273
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf364b862167c8b0800000000000000
+      internalID: -5132026432192102468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_130
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 273
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d457011824884880800000000000000
+      internalID: -8626499778608933674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_131
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 207
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09eb822793d8b9e70800000000000000
+      internalID: 9123040748036996752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_132
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 207
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0421dd61a636fb6a0800000000000000
+      internalID: -6431312435560508864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_133
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 208
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426eafa28780989e0800000000000000
+      internalID: -1618753278852798940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_134
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 199
+        width: 6
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191e9f20d06adc500800000000000000
+      internalID: 418172915230040465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_135
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 199
+        width: 6
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f0d319d5209e3b0800000000000000
+      internalID: -5482848470454956243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_136
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 207
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4340a6a17d9ab60800000000000000
+      internalID: 7757968341570172136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_137
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 206
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f4037dce3204640800000000000000
+      internalID: 5062085481293958944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_138
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 205
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f080b37b1377667a0800000000000000
+      internalID: -6384284366339897329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_139
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 206
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df185d8d83c425cb0800000000000000
+      internalID: -4876751639449075203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_140
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 207
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08cf9a9f5ead87dc0800000000000000
+      internalID: -3640919617458013056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_141
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 142
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b143e73ed4b0550800000000000000
+      internalID: 6128077357437950746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_142
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 141
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f3202eae8583c00800000000000000
+      internalID: 880551492988321673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_143
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 141
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c624d8c96612a98c0800000000000000
+      internalID: -3991841395113639316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_144
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 141
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322ee99b7f06abbe0800000000000000
+      internalID: -1460748512040918493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_145
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 141
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16214f88edd80030800000000000000
+      internalID: 3461260304539788831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_146
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 141
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94df8de7d40babbe0800000000000000
+      internalID: -1460661282241184439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_147
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 142
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da99cbb1187710c20800000000000000
+      internalID: 3170947009045371309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_148
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 141
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fb0c38ad622a110800000000000000
+      internalID: 1270620764827074380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_149
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 74
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d636bb7da18c5300800000000000000
+      internalID: 242211062076028631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_150
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 73
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dcfd0be00d22ed90800000000000000
+      internalID: -7070038983051445037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_151
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 74
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63aa5db8af44cf3d0800000000000000
+      internalID: -3171584194697123274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_152
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 75
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfac728d320902910800000000000000
+      internalID: 1810605533827681019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_153
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 76
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b60368f72755fba0800000000000000
+      internalID: -6055838294747183438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_154
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 75
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8bb28b6454230e0800000000000000
+      internalID: -2291693090338260772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_155
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 75
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa08e7020ec2f940800000000000000
+      internalID: 5328547817250622113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_156
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 75
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3acb3025a65dca0800000000000000
+      internalID: -5992766828664019999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_157
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 9
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35bd7e0568a677500800000000000000
+      internalID: 393900617533741907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_158
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 9
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa79df263a2af3ae0800000000000000
+      internalID: -1567355322677487697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_159
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 10
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13ca3a01d0416550800000000000000
+      internalID: 6152269832528773919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_160
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 5
+        width: 6
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e627d3282ded250800000000000000
+      internalID: 5971441612758347391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_161
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 5
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e249618d1f6fe720800000000000000
+      internalID: 2877640859428930272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_162
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 47
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d7a966fd877aa00800000000000000
+      internalID: 767715162384399740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_163
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 45
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd52e78dc49f02500800000000000000
+      internalID: 369569277889357276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_164
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 45
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34e7bf77f480bed0800000000000000
+      internalID: -2400272402853927873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_165
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 47
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089004a33b6af4750800000000000000
+      internalID: 6291430493166504320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_166
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 47
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30832f65badc7a60800000000000000
+      internalID: 7673248337921015870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_167
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 47
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03a36c2a27ec1830800000000000000
+      internalID: 4043360733791232780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_168
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 45
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0783108727a42ecb0800000000000000
+      internalID: -4836221194342418320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_169
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 47
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c11f10963fc5fef0800000000000000
+      internalID: -74925985528606272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_170
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 47
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab49abd8c1eaee60800000000000000
+      internalID: 7992448741517380522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_171
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 47
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c99f7d34066ff8e0800000000000000
+      internalID: -1657493969451378231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_172
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 47
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28baae3234ccb3ab0800000000000000
+      internalID: -5027199970291569790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_173
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 47
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90641f4acfa27ec0800000000000000
+      internalID: -3570598271106391905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_174
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 28
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683ba5f597a206490800000000000000
+      internalID: -7755151857552804986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_175
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78c7636b65097420800000000000000
+      internalID: 2628137816334780539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_176
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab239ed320711eb90800000000000000
+      internalID: -7214459829674757446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_177
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 28
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30506a923e8b17bd0800000000000000
+      internalID: -2634121021239196413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_178
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8dd4b3c25084b770800000000000000
+      internalID: 8625660279280426381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_179
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba0fe94fa8370cb0800000000000000
+      internalID: -4897883744231290177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_180
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 28
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10a5131b9778bd00800000000000000
+      internalID: 988671626131644443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_181
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 28
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5d9ed5c54f46d10800000000000000
+      internalID: 2118086402320750039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_182
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 28
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5978c1ac1979950800000000000000
+      internalID: 6455788888106964451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_183
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e82f3caeaf46040800000000000000
+      internalID: 4640109402315198024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_184
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644ca1b22460ac070800000000000000
+      internalID: 8127315358804264006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_185
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff81ff53c8fc2a00800000000000000
+      internalID: 733234357366525937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_186
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 28
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0839d533326ab47f0800000000000000
+      internalID: -627225052972215424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_187
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 26
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca24ddf4b59b4d580800000000000000
+      internalID: -8803207569769413972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_188
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 9
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969e1fdb9c70c0ce0800000000000000
+      internalID: -1437765617981462167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_189
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 9
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85315435eba03da20800000000000000
+      internalID: 3085821982236021592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_190
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 9
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b5c11e2b3248320800000000000000
+      internalID: 2559209739441167235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_191
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 9
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99cc8e1ec982658a0800000000000000
+      internalID: -6316816773070402407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_192
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 9
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83335a44334c3e10800000000000000
+      internalID: 2178690211604804491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_193
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 9
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60be3ad4935119670800000000000000
+      internalID: 8543633303958448902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_194
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 9
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9980fbb422704a0800000000000000
+      internalID: -6627290617929492036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_195
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 9
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42901ac3d4166c710800000000000000
+      internalID: 1713163692618615076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_196
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 9
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abaf2508969e64a70800000000000000
+      internalID: 8810986360330713786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_197
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 9
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e4047b4953ca2c0800000000000000
+      internalID: -4419098221511422439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_198
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 7
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024285fad7747eff0800000000000000
+      internalID: -6958269279493088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_199
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 9
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b0fa65171fd14e0800000000000000
+      internalID: -2009184389649462369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_200
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 9
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3864c9afe89597780800000000000000
+      internalID: -8684811935782517117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_201
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 9
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489d72f802e8bbfc0800000000000000
+      internalID: -3478030016721725052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Munchlax_202
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 9
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138478a09f628ad30800000000000000
+      internalID: 4442843883466344497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

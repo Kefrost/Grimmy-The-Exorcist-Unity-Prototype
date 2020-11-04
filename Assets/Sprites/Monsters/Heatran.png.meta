@@ -1,0 +1,4016 @@
+fileFormatVersion: 2
+guid: b7db38e3efead5545a24614813384f2e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3606528521256300134
+    second: Heatran_0
+  - first:
+      213: 4746074217125115408
+    second: Heatran_1
+  - first:
+      213: 7038472807593690426
+    second: Heatran_2
+  - first:
+      213: 9107466601657618206
+    second: Heatran_3
+  - first:
+      213: -1439110239821136197
+    second: Heatran_4
+  - first:
+      213: 6789282052364874765
+    second: Heatran_5
+  - first:
+      213: -8391013975221841704
+    second: Heatran_6
+  - first:
+      213: -6434531124527098236
+    second: Heatran_7
+  - first:
+      213: 4709371238666500631
+    second: Heatran_8
+  - first:
+      213: 5672853691470346951
+    second: Heatran_9
+  - first:
+      213: -6244476176108790272
+    second: Heatran_10
+  - first:
+      213: -3972877667879212005
+    second: Heatran_11
+  - first:
+      213: 4520263134272836637
+    second: Heatran_12
+  - first:
+      213: -8840126348368737726
+    second: Heatran_13
+  - first:
+      213: 6197979297442736680
+    second: Heatran_14
+  - first:
+      213: 1480316250970670451
+    second: Heatran_15
+  - first:
+      213: 7718605029484474309
+    second: Heatran_16
+  - first:
+      213: -8157978083531014125
+    second: Heatran_17
+  - first:
+      213: 168180126905801500
+    second: Heatran_18
+  - first:
+      213: 542762438740076324
+    second: Heatran_19
+  - first:
+      213: -9107315231313900726
+    second: Heatran_20
+  - first:
+      213: -9053068731125543847
+    second: Heatran_21
+  - first:
+      213: -2658838686683188995
+    second: Heatran_22
+  - first:
+      213: 5415799596953616385
+    second: Heatran_23
+  - first:
+      213: 4479104154760266889
+    second: Heatran_24
+  - first:
+      213: -584527399807951188
+    second: Heatran_25
+  - first:
+      213: 7987308007986867413
+    second: Heatran_26
+  - first:
+      213: 8629502158052672109
+    second: Heatran_27
+  - first:
+      213: 7670296906314571597
+    second: Heatran_28
+  - first:
+      213: 5209535239793788482
+    second: Heatran_29
+  - first:
+      213: 3964842369404532126
+    second: Heatran_30
+  - first:
+      213: 376809700833698959
+    second: Heatran_31
+  - first:
+      213: 8541643333485623603
+    second: Heatran_32
+  - first:
+      213: -2242483895680283748
+    second: Heatran_33
+  - first:
+      213: -7409999514736782097
+    second: Heatran_34
+  - first:
+      213: 4913467492874640876
+    second: Heatran_35
+  - first:
+      213: -788733382506869557
+    second: Heatran_36
+  - first:
+      213: -7508638330281372422
+    second: Heatran_37
+  - first:
+      213: -8485763163962257515
+    second: Heatran_38
+  - first:
+      213: -2653353442356352601
+    second: Heatran_39
+  - first:
+      213: 2672388074298725160
+    second: Heatran_40
+  - first:
+      213: -7207773792581804366
+    second: Heatran_41
+  - first:
+      213: 857183715865853831
+    second: Heatran_42
+  - first:
+      213: -9127257044700408263
+    second: Heatran_43
+  - first:
+      213: -4313430059989857929
+    second: Heatran_44
+  - first:
+      213: -4762134217443431897
+    second: Heatran_45
+  - first:
+      213: -8766011678825895818
+    second: Heatran_46
+  - first:
+      213: -736536132499425792
+    second: Heatran_47
+  - first:
+      213: -3063977009921150055
+    second: Heatran_48
+  - first:
+      213: 4886880263721165553
+    second: Heatran_49
+  - first:
+      213: -7517898453808808276
+    second: Heatran_50
+  - first:
+      213: -8270186538082273332
+    second: Heatran_51
+  - first:
+      213: 1738625771335905368
+    second: Heatran_52
+  - first:
+      213: 7019389382201662383
+    second: Heatran_53
+  - first:
+      213: -1317782480220191674
+    second: Heatran_54
+  - first:
+      213: 4373483917219802377
+    second: Heatran_55
+  - first:
+      213: -7855278056710598299
+    second: Heatran_56
+  - first:
+      213: -5949991839461937590
+    second: Heatran_57
+  - first:
+      213: -5312793858631706918
+    second: Heatran_58
+  - first:
+      213: -9052949904446229118
+    second: Heatran_59
+  - first:
+      213: 7195450113388447369
+    second: Heatran_60
+  - first:
+      213: 5734210009868596571
+    second: Heatran_61
+  - first:
+      213: 5334078697003533512
+    second: Heatran_62
+  - first:
+      213: -7438202252625710159
+    second: Heatran_63
+  - first:
+      213: 1924426310586127066
+    second: Heatran_64
+  - first:
+      213: 6927937016385878928
+    second: Heatran_65
+  - first:
+      213: 4709596154202736020
+    second: Heatran_66
+  - first:
+      213: 681473716835387340
+    second: Heatran_67
+  - first:
+      213: 7981291971165318911
+    second: Heatran_68
+  - first:
+      213: 8106034141501493204
+    second: Heatran_69
+  - first:
+      213: 9220970282664396050
+    second: Heatran_70
+  - first:
+      213: 1985370966004907040
+    second: Heatran_71
+  - first:
+      213: -3026197566555474118
+    second: Heatran_72
+  - first:
+      213: -7565454288297780014
+    second: Heatran_73
+  - first:
+      213: -6423544516384933838
+    second: Heatran_74
+  - first:
+      213: -8137549664892458649
+    second: Heatran_75
+  - first:
+      213: 5256156619522663467
+    second: Heatran_76
+  - first:
+      213: 5518533145640743287
+    second: Heatran_77
+  - first:
+      213: -2145434316613543150
+    second: Heatran_78
+  - first:
+      213: -245614752833025315
+    second: Heatran_79
+  - first:
+      213: -7551817117972514314
+    second: Heatran_80
+  - first:
+      213: -8313253115276659742
+    second: Heatran_81
+  - first:
+      213: -5061369268021022316
+    second: Heatran_82
+  - first:
+      213: -6555031472991332737
+    second: Heatran_83
+  - first:
+      213: 8731005692517328676
+    second: Heatran_84
+  - first:
+      213: 7723661923038285420
+    second: Heatran_85
+  - first:
+      213: -8314101242767422831
+    second: Heatran_86
+  - first:
+      213: -7887268184189223663
+    second: Heatran_87
+  - first:
+      213: -8638840069928745784
+    second: Heatran_88
+  - first:
+      213: -256135302583782392
+    second: Heatran_89
+  - first:
+      213: 7159691703989580938
+    second: Heatran_90
+  - first:
+      213: 334328963375643264
+    second: Heatran_91
+  - first:
+      213: 3862115895766803598
+    second: Heatran_92
+  - first:
+      213: -7332712972308658905
+    second: Heatran_93
+  - first:
+      213: -6683946046916165528
+    second: Heatran_94
+  - first:
+      213: -2441689698704656177
+    second: Heatran_95
+  - first:
+      213: 6425391434461263827
+    second: Heatran_96
+  - first:
+      213: -3231162204754805442
+    second: Heatran_97
+  - first:
+      213: -2037161476245726759
+    second: Heatran_98
+  - first:
+      213: -1708498582162786910
+    second: Heatran_99
+  - first:
+      213: -7603925252767253469
+    second: Heatran_100
+  - first:
+      213: -4999519962690120368
+    second: Heatran_101
+  - first:
+      213: 448565371891178535
+    second: Heatran_102
+  - first:
+      213: -8857188064742336920
+    second: Heatran_103
+  - first:
+      213: -433417623662794863
+    second: Heatran_104
+  - first:
+      213: -3797410265005134381
+    second: Heatran_105
+  - first:
+      213: -8614196512159429512
+    second: Heatran_106
+  - first:
+      213: 7522912292971141287
+    second: Heatran_107
+  - first:
+      213: -4585254329325100238
+    second: Heatran_108
+  - first:
+      213: -5985591625180297814
+    second: Heatran_109
+  - first:
+      213: 8008207908788877876
+    second: Heatran_110
+  - first:
+      213: 9210468255106191492
+    second: Heatran_111
+  - first:
+      213: 5781323461653501769
+    second: Heatran_112
+  - first:
+      213: -9043457556075476393
+    second: Heatran_113
+  - first:
+      213: -8682166961613032427
+    second: Heatran_114
+  - first:
+      213: -3072709940003046859
+    second: Heatran_115
+  - first:
+      213: -3281484518521727520
+    second: Heatran_116
+  - first:
+      213: 3426903944596144765
+    second: Heatran_117
+  - first:
+      213: -4188778217568023819
+    second: Heatran_118
+  - first:
+      213: -3291880960198698985
+    second: Heatran_119
+  - first:
+      213: -1947354333605448031
+    second: Heatran_120
+  - first:
+      213: 4986339416435150689
+    second: Heatran_121
+  - first:
+      213: -4804773867992905552
+    second: Heatran_122
+  - first:
+      213: -8661905965240955720
+    second: Heatran_123
+  - first:
+      213: -4010245795294226940
+    second: Heatran_124
+  - first:
+      213: -180279954514347589
+    second: Heatran_125
+  - first:
+      213: 7768486699042900299
+    second: Heatran_126
+  - first:
+      213: 6586217950438846798
+    second: Heatran_127
+  - first:
+      213: -8715904476285572364
+    second: Heatran_128
+  - first:
+      213: 4781588403315451898
+    second: Heatran_129
+  - first:
+      213: -4353404124524698470
+    second: Heatran_130
+  - first:
+      213: -4735079947488740334
+    second: Heatran_131
+  - first:
+      213: -1944519008764426825
+    second: Heatran_132
+  - first:
+      213: -6429134763225555902
+    second: Heatran_133
+  - first:
+      213: -2933644749512692525
+    second: Heatran_134
+  - first:
+      213: -5554120774316923233
+    second: Heatran_135
+  - first:
+      213: -1752280924869265767
+    second: Heatran_136
+  - first:
+      213: -4608313573674113897
+    second: Heatran_137
+  - first:
+      213: 1697877201275690063
+    second: Heatran_138
+  - first:
+      213: -1643602378733683199
+    second: Heatran_139
+  - first:
+      213: -8106836934334566012
+    second: Heatran_140
+  - first:
+      213: 788277217831360965
+    second: Heatran_141
+  - first:
+      213: 5554886592883527450
+    second: Heatran_142
+  - first:
+      213: -853168030433089686
+    second: Heatran_143
+  - first:
+      213: 8112130436057279728
+    second: Heatran_144
+  - first:
+      213: 4821922470167091287
+    second: Heatran_145
+  - first:
+      213: -5061508871245869080
+    second: Heatran_146
+  - first:
+      213: -2469106559201399874
+    second: Heatran_147
+  - first:
+      213: -3843926248308761798
+    second: Heatran_148
+  - first:
+      213: -2215711747934510754
+    second: Heatran_149
+  - first:
+      213: -1784862530995973795
+    second: Heatran_150
+  - first:
+      213: -2399842547133961398
+    second: Heatran_151
+  - first:
+      213: -8892833978990553667
+    second: Heatran_152
+  - first:
+      213: -5971409709715166903
+    second: Heatran_153
+  - first:
+      213: -943803399455629619
+    second: Heatran_154
+  - first:
+      213: 4778800721999258925
+    second: Heatran_155
+  - first:
+      213: -7836518245657379900
+    second: Heatran_156
+  - first:
+      213: -6340363670281037421
+    second: Heatran_157
+  - first:
+      213: -4386753027936976876
+    second: Heatran_158
+  - first:
+      213: 6152462889004192845
+    second: Heatran_159
+  - first:
+      213: -1822404519765378302
+    second: Heatran_160
+  - first:
+      213: 9212955815003562657
+    second: Heatran_161
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Heatran_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 777
+        width: 80
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91143a0b6903fdc0800000000000000
+      internalID: -3606528521256300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 777
+        width: 80
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016f16dca517dd140800000000000000
+      internalID: 4746074217125115408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_2
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 777
+        width: 80
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a354ed12abdada160800000000000000
+      internalID: 7038472807593690426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_3
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 777
+        width: 80
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f498bee98346e70800000000000000
+      internalID: 9107466601657618206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_4
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 777
+        width: 80
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe75d29cd0470ce0800000000000000
+      internalID: -1439110239821136197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_5
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 777
+        width: 80
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04b4233e00683e50800000000000000
+      internalID: 6789282052364874765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_6
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 777
+        width: 80
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0509d3f312d8b80800000000000000
+      internalID: -8391013975221841704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_7
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 777
+        width: 80
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4861e5aa804f3b6a0800000000000000
+      internalID: -6434531124527098236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_8
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 777
+        width: 80
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a7824b03c0b5140800000000000000
+      internalID: 4709371238666500631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_9
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 777
+        width: 80
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca7ad650660abe40800000000000000
+      internalID: 5672853691470346951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 718
+        width: 80
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e55a2a00a2759a0800000000000000
+      internalID: -6244476176108790272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_11
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 718
+        width: 80
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c2afd6fc08dd8c0800000000000000
+      internalID: -3972877667879212005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_12
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 718
+        width: 80
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1450a90f533bbe30800000000000000
+      internalID: 4520263134272836637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_13
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 718
+        width: 80
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a09e35cef815580800000000000000
+      internalID: -8840126348368737726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_14
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 718
+        width: 80
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82aac4d2555a30650800000000000000
+      internalID: 6197979297442736680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_15
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 718
+        width: 80
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375485689c32b8410800000000000000
+      internalID: 1480316250970670451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_16
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 714
+        width: 80
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf27ff116efd1b60800000000000000
+      internalID: 7718605029484474309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_17
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 714
+        width: 80
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31046b5e72a09ce80800000000000000
+      internalID: -8157978083531014125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_18
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 756
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b10823fee755200800000000000000
+      internalID: 168180126905801500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_19
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 758
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427e686ff87488700800000000000000
+      internalID: 542762438740076324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_20
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 757
+        width: 44
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4bc70cbc015c9180800000000000000
+      internalID: -9107315231313900726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_21
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 740
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cc01a44f90d5280800000000000000
+      internalID: -9053068731125543847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_22
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 738
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0be253d48e91bd0800000000000000
+      internalID: -2658838686683188995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_23
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 741
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100cf1f0a09c82b40800000000000000
+      internalID: 5415799596953616385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_24
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 741
+        width: 34
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98446785f79f82e30800000000000000
+      internalID: 4479104154760266889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_25
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 723
+        width: 75
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caed6f44d6753e7f0800000000000000
+      internalID: -584527399807951188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_26
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 651
+        width: 80
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dca0bf805e98de60800000000000000
+      internalID: 7987308007986867413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_27
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 651
+        width: 80
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62423fdd7622c770800000000000000
+      internalID: 8629502158052672109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_28
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 651
+        width: 80
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f58a6b56e527a60800000000000000
+      internalID: 7670296906314571597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_29
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 651
+        width: 80
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246c9c403bcfb4840800000000000000
+      internalID: 5209535239793788482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_30
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 651
+        width: 80
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9576cad023f50730800000000000000
+      internalID: 3964842369404532126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_31
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 651
+        width: 81
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f842d1e2d62ba3500800000000000000
+      internalID: 376809700833698959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_32
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 651
+        width: 82
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3397e723b530a8670800000000000000
+      internalID: 8541643333485623603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_33
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 651
+        width: 83
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b417f27c811e0e0800000000000000
+      internalID: -2242483895680283748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_34
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 651
+        width: 83
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe41c4283b46a2990800000000000000
+      internalID: -7409999514736782097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_35
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 651
+        width: 83
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cedd830f6a4203440800000000000000
+      internalID: 4913467492874640876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 592
+        width: 84
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc8f21ea2bdd05f0800000000000000
+      internalID: -788733382506869557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_37
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 592
+        width: 83
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af452b89835fbc790800000000000000
+      internalID: -7508638330281372422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_38
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 593
+        width: 83
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f4fe3ac538c3a80800000000000000
+      internalID: -8485763163962257515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_39
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 594
+        width: 83
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a92acc2a156d2bd0800000000000000
+      internalID: -2653353442356352601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_40
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 595
+        width: 83
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823d09e6bca361520800000000000000
+      internalID: 2672388074298725160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_41
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 596
+        width: 83
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be9acf8ce7d8fb90800000000000000
+      internalID: -7207773792581804366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_42
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 596
+        width: 83
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ffe6b4c0455eb00800000000000000
+      internalID: 857183715865853831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_43
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 595
+        width: 83
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93653fc7318755180800000000000000
+      internalID: -9127257044700408263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_44
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 594
+        width: 83
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77900d6c63e9324c0800000000000000
+      internalID: -4313430059989857929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_45
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 593
+        width: 83
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a2d8cf82089edb0800000000000000
+      internalID: -4762134217443431897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_46
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 533
+        width: 82
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67828aa82ded85680800000000000000
+      internalID: -8766011678825895818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_47
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 533
+        width: 81
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006b1223a4c47c5f0800000000000000
+      internalID: -736536132499425792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_48
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 533
+        width: 80
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993bfa3a4219a75d0800000000000000
+      internalID: -3063977009921150055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_49
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 533
+        width: 80
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2a7f245bfa1d340800000000000000
+      internalID: 4886880263721165553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_50
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 533
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae7443103f0ba790800000000000000
+      internalID: -7517898453808808276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_51
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 532
+        width: 81
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7736339256a3d80800000000000000
+      internalID: -8270186538082273332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_52
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 532
+        width: 80
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850f0d96de6d02810800000000000000
+      internalID: 1738625771335905368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_53
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 532
+        width: 80
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab574ae371e96160800000000000000
+      internalID: 7019389382201662383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_54
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 532
+        width: 79
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6440e3fe0db46bde0800000000000000
+      internalID: -1317782480220191674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_55
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 532
+        width: 78
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d25c4737cb1bc30800000000000000
+      internalID: 4373483917219802377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_56
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 471
+        width: 78
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56118d9f9327cf290800000000000000
+      internalID: -7855278056710598299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_57
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 471
+        width: 77
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ee56842f16d6da0800000000000000
+      internalID: -5949991839461937590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_58
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 471
+        width: 77
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6516b422a2546b0800000000000000
+      internalID: -5312793858631706918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_59
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 472
+        width: 77
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2857318c6067d5280800000000000000
+      internalID: -9052949904446229118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_60
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 473
+        width: 77
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986009741cf5bd360800000000000000
+      internalID: 7195450113388447369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_61
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 474
+        width: 78
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55f4b17f91049f40800000000000000
+      internalID: 5734210009868596571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_62
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 475
+        width: 77
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4cfd25054760a40800000000000000
+      internalID: 5334078697003533512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_63
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 475
+        width: 77
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3fbb4e57236c890800000000000000
+      internalID: -7438202252625710159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_64
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 474
+        width: 78
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2d6ee888fe4ba10800000000000000
+      internalID: 1924426310586127066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_65
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 473
+        width: 77
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bb5f7b20af42060800000000000000
+      internalID: 6927937016385878928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_66
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 412
+        width: 78
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495ccceefb8db5140800000000000000
+      internalID: 4709596154202736020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_67
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 411
+        width: 79
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc70dbf1cb4157900800000000000000
+      internalID: 681473716835387340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_68
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 411
+        width: 80
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe6cf5d2ce33ce60800000000000000
+      internalID: 7981291971165318911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_69
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 411
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df8265aa1b6e7070800000000000000
+      internalID: 8106034141501493204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_70
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 411
+        width: 80
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21505a60e9777ff70800000000000000
+      internalID: 9220970282664396050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_71
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 459
+        width: 37
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02cb818ef547d8b10800000000000000
+      internalID: 1985370966004907040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_72
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 460
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a373f41c859c006d0800000000000000
+      internalID: -3026197566555474118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_73
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 416
+        width: 80
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc1e85886b120790800000000000000
+      internalID: -7565454288297780014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_74
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 463
+        width: 54
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238b7f5bb4cfad6a0800000000000000
+      internalID: -6423544516384933838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_75
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 463
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7696cf1c1bd911f80800000000000000
+      internalID: -8137549664892458649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_76
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 443
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24677ed89e91f840800000000000000
+      internalID: 5256156619522663467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_77
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 441
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771b22358a4c59c40800000000000000
+      internalID: 5518533145640743287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_78
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 444
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b11552bd2e932e0800000000000000
+      internalID: -2145434316613543150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_79
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 446
+        width: 104
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddacac10fa6679cf0800000000000000
+      internalID: -245614752833025315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_80
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 413
+        width: 135
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9b88aa75e823790800000000000000
+      internalID: -7551817117972514314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_81
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 424
+        width: 55
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e37600565461ac80800000000000000
+      internalID: -8313253115276659742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_82
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 428
+        width: 57
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491378e877762c9b0800000000000000
+      internalID: -5061369268021022316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_83
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 429
+        width: 35
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7698d8fa99d705a0800000000000000
+      internalID: -6555031472991332737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_84
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 409
+        width: 75
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427a8622b63ca2970800000000000000
+      internalID: 8731005692517328676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_85
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 353
+        width: 83
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e48e7e895ff2b60800000000000000
+      internalID: 7723661923038285420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_86
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 353
+        width: 83
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ac63e38f06e9c80800000000000000
+      internalID: -8314101242767422831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_87
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 353
+        width: 83
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d3921006bca8290800000000000000
+      internalID: -7887268184189223663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_88
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 353
+        width: 83
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c48c781abcac1880800000000000000
+      internalID: -8638840069928745784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_89
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 353
+        width: 83
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8047e03ac46027cf0800000000000000
+      internalID: -256135302583782392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_90
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 353
+        width: 83
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a843c9dcba55c5360800000000000000
+      internalID: 7159691703989580938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_91
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 353
+        width: 83
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a312cbb66c3a400800000000000000
+      internalID: 334328963375643264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_92
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 353
+        width: 83
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84e190e1fdf89530800000000000000
+      internalID: 3862115895766803598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_93
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 353
+        width: 83
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725c4ade668fc3a90800000000000000
+      internalID: -7332712972308658905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_94
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 353
+        width: 83
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8608fafbb7add33a0800000000000000
+      internalID: -6683946046916165528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_95
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 299
+        width: 83
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc87af8d7206d1ed0800000000000000
+      internalID: -2441689698704656177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_96
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 299
+        width: 83
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7b6e967739b2950800000000000000
+      internalID: 6425391434461263827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_97
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 299
+        width: 83
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3dfbed181b9823d0800000000000000
+      internalID: -3231162204754805442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_98
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 299
+        width: 83
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d953424e6c8ab3e0800000000000000
+      internalID: -2037161476245726759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_99
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 299
+        width: 83
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5bdee67913a48e0800000000000000
+      internalID: -1708498582162786910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_100
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 299
+        width: 83
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c7f2a154e697690800000000000000
+      internalID: -7603925252767253469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_101
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 299
+        width: 83
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055916025132e9ab0800000000000000
+      internalID: -4999519962690120368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_102
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 299
+        width: 83
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c5d1244df993600800000000000000
+      internalID: 448565371891178535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_103
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 335
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866143ce162f41580800000000000000
+      internalID: -8857188064742336920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_104
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 337
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1976f26b7f03cf9f0800000000000000
+      internalID: -433417623662794863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_105
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 336
+        width: 44
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd62f7cb73ec4bc0800000000000000
+      internalID: -3797410265005134381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_106
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 319
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c045389e9347880800000000000000
+      internalID: -8614196512159429512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_107
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 317
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8d6f25fd0c66860800000000000000
+      internalID: 7522912292971141287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_108
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 320
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23361cf2b77ed50c0800000000000000
+      internalID: -4585254329325100238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_109
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 320
+        width: 34
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa543924128eeeca0800000000000000
+      internalID: -5985591625180297814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_110
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 302
+        width: 75
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ab5dae9aed22f60800000000000000
+      internalID: 8008207908788877876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_111
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 242
+        width: 83
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480dd90341822df70800000000000000
+      internalID: 9210468255106191492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_112
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 242
+        width: 83
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9471d7fbe036b3050800000000000000
+      internalID: 5781323461653501769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_113
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 242
+        width: 83
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a8ccc544f2f7280800000000000000
+      internalID: -9043457556075476393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_114
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 242
+        width: 83
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5143c64062fb28780800000000000000
+      internalID: -8682166961613032427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_115
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 243
+        width: 84
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a7e48e69a8b55d0800000000000000
+      internalID: -3072709940003046859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_116
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 244
+        width: 85
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e591996733d572d0800000000000000
+      internalID: -3281484518521727520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_117
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 245
+        width: 86
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72c9092bfece8f20800000000000000
+      internalID: 3426903944596144765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_118
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 246
+        width: 86
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fac6fa77687ed5c0800000000000000
+      internalID: -4188778217568023819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_119
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 246
+        width: 86
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7181c7435b3e052d0800000000000000
+      internalID: -3291880960198698985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_120
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 245
+        width: 87
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a631a51d8b99f4e0800000000000000
+      internalID: -1947354333605448031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_121
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 182
+        width: 86
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f452ec749033540800000000000000
+      internalID: 4986339416435150689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_122
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 181
+        width: 86
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b80434bf93025db0800000000000000
+      internalID: -4804773867992905552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_123
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 180
+        width: 86
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcc9f7da6abac780800000000000000
+      internalID: -8661905965240955720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_124
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 184
+        width: 86
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406db7542beb858c0800000000000000
+      internalID: -4010245795294226940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_125
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 185
+        width: 86
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb97c0726548f7df0800000000000000
+      internalID: -180279954514347589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_126
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 185
+        width: 86
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b498cca5e753fcb60800000000000000
+      internalID: 7768486699042900299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_127
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 185
+        width: 86
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e417535a452f66b50800000000000000
+      internalID: 6586217950438846798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_128
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 185
+        width: 86
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fae2c2ce03ea0780800000000000000
+      internalID: -8715904476285572364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_129
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 185
+        width: 86
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7aeb1a15d9b5240800000000000000
+      internalID: 4781588403315451898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_130
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 185
+        width: 85
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a942cf9930a9593c0800000000000000
+      internalID: -4353404124524698470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_131
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 126
+        width: 84
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21cbbd210ed994eb0800000000000000
+      internalID: -4735079947488740334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_132
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 126
+        width: 83
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b50a97934ea305e0800000000000000
+      internalID: -1944519008764426825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_133
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 126
+        width: 83
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c53d0feff17c6a0800000000000000
+      internalID: -6429134763225555902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_134
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 128
+        width: 83
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc2b18b4a99947d0800000000000000
+      internalID: -2933644749512692525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_135
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 128
+        width: 84
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96e83f259ccbe2b0800000000000000
+      internalID: -5554120774316923233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_136
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 128
+        width: 83
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996797668c5aea7e0800000000000000
+      internalID: -1752280924869265767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_137
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 128
+        width: 83
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7942b8b783bfb00c0800000000000000
+      internalID: -4608313573674113897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_138
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 128
+        width: 82
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c954e9152109710800000000000000
+      internalID: 1697877201275690063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_139
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 128
+        width: 81
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e779f3850c039e0800000000000000
+      internalID: -1643602378733683199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_140
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 129
+        width: 81
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481b8f492cabe7f80800000000000000
+      internalID: -8106836934334566012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_141
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 72
+        width: 80
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c91f5104f580fa00800000000000000
+      internalID: 788277217831360965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_142
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 73
+        width: 80
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f0768dcebe61d40800000000000000
+      internalID: 5554886592883527450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_143
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 74
+        width: 80
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67e0545230f824f0800000000000000
+      internalID: -853168030433089686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_144
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 75
+        width: 80
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc24d4d6a3149070800000000000000
+      internalID: 8112130436057279728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_145
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 74
+        width: 81
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75898c060f8eae240800000000000000
+      internalID: 4821922470167091287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_146
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 71
+        width: 80
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efc6e5af78e1c9b0800000000000000
+      internalID: -5061508871245869080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_147
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 70
+        width: 80
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebba6329aa8fbbdd0800000000000000
+      internalID: -2469106559201399874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_148
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 69
+        width: 80
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b91c27171a7aac0800000000000000
+      internalID: -3843926248308761798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_149
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 68
+        width: 80
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5124b397e53041e0800000000000000
+      internalID: -2215711747934510754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_150
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 69
+        width: 81
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5194131cf4ea37e0800000000000000
+      internalID: -1784862530995973795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_151
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 58
+        width: 37
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b26351beb02bed0800000000000000
+      internalID: -2399842547133961398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_152
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 59
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db59eb3cc9e469480800000000000000
+      internalID: -8892833978990553667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_153
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 9
+        width: 82
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949eb14c18a412da0800000000000000
+      internalID: -5971409709715166903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_154
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 9
+        width: 83
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce14a50fcfe6e2f0800000000000000
+      internalID: -943803399455629619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_155
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 9
+        width: 83
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25652fffe5b15240800000000000000
+      internalID: 4778800721999258925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_156
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 9
+        width: 83
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb79bbdc281f3390800000000000000
+      internalID: -7836518245657379900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_157
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 42
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3995b16a5d08208a0800000000000000
+      internalID: -6340363670281037421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_158
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 40
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4108274fc5f1f13c0800000000000000
+      internalID: -4386753027936976876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_159
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 43
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d445ed08660f16550800000000000000
+      internalID: 6152462889004192845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_160
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 23
+        width: 55
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b715aaeb485b6e0800000000000000
+      internalID: -1822404519765378302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heatran_161
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 8
+        width: 75
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a228ac508efadf70800000000000000
+      internalID: 9212955815003562657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

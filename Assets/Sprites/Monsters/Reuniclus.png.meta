@@ -1,0 +1,5240 @@
+fileFormatVersion: 2
+guid: fcd71d7be1caa9543a19e2b9df8ed90a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1102037563035158183
+    second: Reuniclus_0
+  - first:
+      213: -2734686733406936767
+    second: Reuniclus_1
+  - first:
+      213: 6843006205396110438
+    second: Reuniclus_2
+  - first:
+      213: 3345732676139957637
+    second: Reuniclus_3
+  - first:
+      213: 5853333431160381184
+    second: Reuniclus_4
+  - first:
+      213: -7843719102903703550
+    second: Reuniclus_5
+  - first:
+      213: 4124372633581244527
+    second: Reuniclus_6
+  - first:
+      213: 613785585148371195
+    second: Reuniclus_7
+  - first:
+      213: -6181955634425117929
+    second: Reuniclus_8
+  - first:
+      213: -6252294992726323649
+    second: Reuniclus_9
+  - first:
+      213: 6143472637858753787
+    second: Reuniclus_10
+  - first:
+      213: -6842740257913259331
+    second: Reuniclus_11
+  - first:
+      213: -6337822877822888523
+    second: Reuniclus_12
+  - first:
+      213: 5170463116136905007
+    second: Reuniclus_13
+  - first:
+      213: -8976402743035155462
+    second: Reuniclus_14
+  - first:
+      213: 3503702342184735473
+    second: Reuniclus_15
+  - first:
+      213: 2777428426347115779
+    second: Reuniclus_16
+  - first:
+      213: -7775943448710394792
+    second: Reuniclus_17
+  - first:
+      213: 8340752076458521562
+    second: Reuniclus_18
+  - first:
+      213: -3800293267227871284
+    second: Reuniclus_19
+  - first:
+      213: 2636243716320844533
+    second: Reuniclus_20
+  - first:
+      213: -5520737443515757115
+    second: Reuniclus_21
+  - first:
+      213: 4583756980773551137
+    second: Reuniclus_22
+  - first:
+      213: 4726186400735949309
+    second: Reuniclus_23
+  - first:
+      213: -5971515231362659549
+    second: Reuniclus_24
+  - first:
+      213: -2901170314623679232
+    second: Reuniclus_25
+  - first:
+      213: -8451759051883899059
+    second: Reuniclus_26
+  - first:
+      213: 8023449574752998801
+    second: Reuniclus_27
+  - first:
+      213: -4110643115869500356
+    second: Reuniclus_28
+  - first:
+      213: -7412978344401712584
+    second: Reuniclus_29
+  - first:
+      213: -4030035648646146358
+    second: Reuniclus_30
+  - first:
+      213: -5287352710760194584
+    second: Reuniclus_31
+  - first:
+      213: 3845208175832838046
+    second: Reuniclus_32
+  - first:
+      213: -7006048366922669072
+    second: Reuniclus_33
+  - first:
+      213: 6351451072099290994
+    second: Reuniclus_34
+  - first:
+      213: -4236384253023328254
+    second: Reuniclus_35
+  - first:
+      213: 7528975352255891273
+    second: Reuniclus_36
+  - first:
+      213: 6779457948737623971
+    second: Reuniclus_37
+  - first:
+      213: -4301093942166057797
+    second: Reuniclus_38
+  - first:
+      213: -2562558417725515308
+    second: Reuniclus_39
+  - first:
+      213: 4767460120538504014
+    second: Reuniclus_40
+  - first:
+      213: -2907056411796162040
+    second: Reuniclus_41
+  - first:
+      213: 5387918432420301171
+    second: Reuniclus_42
+  - first:
+      213: -3106763725320948529
+    second: Reuniclus_43
+  - first:
+      213: -8955036781842237795
+    second: Reuniclus_44
+  - first:
+      213: -732039313221891061
+    second: Reuniclus_45
+  - first:
+      213: 4285071435076841529
+    second: Reuniclus_46
+  - first:
+      213: 3459727532490511827
+    second: Reuniclus_47
+  - first:
+      213: 7986061496674099262
+    second: Reuniclus_48
+  - first:
+      213: 3867038970192113726
+    second: Reuniclus_49
+  - first:
+      213: -909977977482900107
+    second: Reuniclus_50
+  - first:
+      213: -6008017284997747754
+    second: Reuniclus_51
+  - first:
+      213: -7251133904222325348
+    second: Reuniclus_52
+  - first:
+      213: 8911331414967496426
+    second: Reuniclus_53
+  - first:
+      213: -1419536664628661805
+    second: Reuniclus_54
+  - first:
+      213: 946510495840303300
+    second: Reuniclus_55
+  - first:
+      213: -4015546118208390099
+    second: Reuniclus_56
+  - first:
+      213: -7531219662946796532
+    second: Reuniclus_57
+  - first:
+      213: -2649542076072353406
+    second: Reuniclus_58
+  - first:
+      213: -443100774740444911
+    second: Reuniclus_59
+  - first:
+      213: -5721927514265863389
+    second: Reuniclus_60
+  - first:
+      213: 818378886220853747
+    second: Reuniclus_61
+  - first:
+      213: -6002110823062876260
+    second: Reuniclus_62
+  - first:
+      213: 4988476957953819792
+    second: Reuniclus_63
+  - first:
+      213: -172767738972752580
+    second: Reuniclus_64
+  - first:
+      213: -3913457437607920026
+    second: Reuniclus_65
+  - first:
+      213: -3847659771431971872
+    second: Reuniclus_66
+  - first:
+      213: 1202304955739723942
+    second: Reuniclus_67
+  - first:
+      213: 6621930193857161046
+    second: Reuniclus_68
+  - first:
+      213: -521019216121030546
+    second: Reuniclus_69
+  - first:
+      213: -788973737924922295
+    second: Reuniclus_70
+  - first:
+      213: 7040929361346104823
+    second: Reuniclus_71
+  - first:
+      213: 7347790758864640355
+    second: Reuniclus_72
+  - first:
+      213: 8767582794161575457
+    second: Reuniclus_73
+  - first:
+      213: 6788174406219957784
+    second: Reuniclus_74
+  - first:
+      213: 1769934916207731688
+    second: Reuniclus_75
+  - first:
+      213: -8513077547096000316
+    second: Reuniclus_76
+  - first:
+      213: 7915918451636042928
+    second: Reuniclus_77
+  - first:
+      213: 8976250056075860824
+    second: Reuniclus_78
+  - first:
+      213: -5845439856726704599
+    second: Reuniclus_79
+  - first:
+      213: -7750915655831359890
+    second: Reuniclus_80
+  - first:
+      213: -7556442883036628860
+    second: Reuniclus_81
+  - first:
+      213: 651005347815656371
+    second: Reuniclus_82
+  - first:
+      213: 8850813845853494251
+    second: Reuniclus_83
+  - first:
+      213: 2149927931254529728
+    second: Reuniclus_84
+  - first:
+      213: 468858143895231681
+    second: Reuniclus_85
+  - first:
+      213: 8531137582403739752
+    second: Reuniclus_86
+  - first:
+      213: 2195725374874337287
+    second: Reuniclus_87
+  - first:
+      213: -841081738931017301
+    second: Reuniclus_88
+  - first:
+      213: -6467672048580319095
+    second: Reuniclus_89
+  - first:
+      213: 4252018060623131076
+    second: Reuniclus_90
+  - first:
+      213: 1938628737889258602
+    second: Reuniclus_91
+  - first:
+      213: -6179013864995779214
+    second: Reuniclus_92
+  - first:
+      213: -3016391050130428124
+    second: Reuniclus_93
+  - first:
+      213: 7739370706297045442
+    second: Reuniclus_94
+  - first:
+      213: -281616481123451694
+    second: Reuniclus_95
+  - first:
+      213: -2089993244559836934
+    second: Reuniclus_96
+  - first:
+      213: 7409600125136803621
+    second: Reuniclus_97
+  - first:
+      213: -248528810945901490
+    second: Reuniclus_98
+  - first:
+      213: 2956320205082751988
+    second: Reuniclus_99
+  - first:
+      213: 1597812358766412592
+    second: Reuniclus_100
+  - first:
+      213: -8328217050032039616
+    second: Reuniclus_101
+  - first:
+      213: -4937606600529319852
+    second: Reuniclus_102
+  - first:
+      213: 6678974746950108940
+    second: Reuniclus_103
+  - first:
+      213: 8165181523863222743
+    second: Reuniclus_104
+  - first:
+      213: 3327773952034196519
+    second: Reuniclus_105
+  - first:
+      213: -1801986187605038008
+    second: Reuniclus_106
+  - first:
+      213: 3115680802178543255
+    second: Reuniclus_107
+  - first:
+      213: 7570638637328408768
+    second: Reuniclus_108
+  - first:
+      213: 1980872539670704895
+    second: Reuniclus_109
+  - first:
+      213: 1959042140239773347
+    second: Reuniclus_110
+  - first:
+      213: -1011676183237428081
+    second: Reuniclus_111
+  - first:
+      213: -3875629568846450507
+    second: Reuniclus_112
+  - first:
+      213: 3278363480285282100
+    second: Reuniclus_113
+  - first:
+      213: 3755276104276276571
+    second: Reuniclus_114
+  - first:
+      213: 7113863930405801125
+    second: Reuniclus_115
+  - first:
+      213: 999445259605169238
+    second: Reuniclus_116
+  - first:
+      213: -782266357218203999
+    second: Reuniclus_117
+  - first:
+      213: -348851954829874561
+    second: Reuniclus_118
+  - first:
+      213: -2649789185910122163
+    second: Reuniclus_119
+  - first:
+      213: 5566005191519462335
+    second: Reuniclus_120
+  - first:
+      213: 4953534886924011045
+    second: Reuniclus_121
+  - first:
+      213: -8042791010592715483
+    second: Reuniclus_122
+  - first:
+      213: 1941375330085766383
+    second: Reuniclus_123
+  - first:
+      213: 640398625425673685
+    second: Reuniclus_124
+  - first:
+      213: -3685498532745596275
+    second: Reuniclus_125
+  - first:
+      213: 864285900260192849
+    second: Reuniclus_126
+  - first:
+      213: 4486299166676528990
+    second: Reuniclus_127
+  - first:
+      213: 393763943687485193
+    second: Reuniclus_128
+  - first:
+      213: -6607802843376353000
+    second: Reuniclus_129
+  - first:
+      213: 2819839107064897050
+    second: Reuniclus_130
+  - first:
+      213: -107036999355655472
+    second: Reuniclus_131
+  - first:
+      213: 4334277616753528821
+    second: Reuniclus_132
+  - first:
+      213: -1364611411494657194
+    second: Reuniclus_133
+  - first:
+      213: 6219682455258895289
+    second: Reuniclus_134
+  - first:
+      213: 6886819149519380389
+    second: Reuniclus_135
+  - first:
+      213: 4232139632879498588
+    second: Reuniclus_136
+  - first:
+      213: 8492146260999235554
+    second: Reuniclus_137
+  - first:
+      213: 424915805079428718
+    second: Reuniclus_138
+  - first:
+      213: -4544726265163479101
+    second: Reuniclus_139
+  - first:
+      213: 6015753821280453417
+    second: Reuniclus_140
+  - first:
+      213: -5024297907941901610
+    second: Reuniclus_141
+  - first:
+      213: 3250394653081949564
+    second: Reuniclus_142
+  - first:
+      213: 1203536576022950871
+    second: Reuniclus_143
+  - first:
+      213: -8762502098306560298
+    second: Reuniclus_144
+  - first:
+      213: -6301865757433444682
+    second: Reuniclus_145
+  - first:
+      213: -3141550784929842659
+    second: Reuniclus_146
+  - first:
+      213: -5822363246935589852
+    second: Reuniclus_147
+  - first:
+      213: -9208986543503896381
+    second: Reuniclus_148
+  - first:
+      213: 6189463939726143306
+    second: Reuniclus_149
+  - first:
+      213: 8307934724925862456
+    second: Reuniclus_150
+  - first:
+      213: 8380313105467175783
+    second: Reuniclus_151
+  - first:
+      213: -2570093168100223759
+    second: Reuniclus_152
+  - first:
+      213: -7179008153596080990
+    second: Reuniclus_153
+  - first:
+      213: 8164104954946679141
+    second: Reuniclus_154
+  - first:
+      213: 7107921411754193472
+    second: Reuniclus_155
+  - first:
+      213: 1106306807036180704
+    second: Reuniclus_156
+  - first:
+      213: -2480184110852925271
+    second: Reuniclus_157
+  - first:
+      213: 1200459622907649571
+    second: Reuniclus_158
+  - first:
+      213: -3731884782441594373
+    second: Reuniclus_159
+  - first:
+      213: 2129056220301197327
+    second: Reuniclus_160
+  - first:
+      213: 4223918266121962534
+    second: Reuniclus_161
+  - first:
+      213: 7906556258516977749
+    second: Reuniclus_162
+  - first:
+      213: -4246077501934909411
+    second: Reuniclus_163
+  - first:
+      213: -3525500780740005735
+    second: Reuniclus_164
+  - first:
+      213: 8731292276609542777
+    second: Reuniclus_165
+  - first:
+      213: 7251601237254537337
+    second: Reuniclus_166
+  - first:
+      213: -3575518339958870477
+    second: Reuniclus_167
+  - first:
+      213: 2991655667080448389
+    second: Reuniclus_168
+  - first:
+      213: -8656583148841626789
+    second: Reuniclus_169
+  - first:
+      213: -1424836651840133100
+    second: Reuniclus_170
+  - first:
+      213: 2869694747405220544
+    second: Reuniclus_171
+  - first:
+      213: -6078448916057545089
+    second: Reuniclus_172
+  - first:
+      213: -2910223808451020824
+    second: Reuniclus_173
+  - first:
+      213: 8851531267649714989
+    second: Reuniclus_174
+  - first:
+      213: -7349608258117376967
+    second: Reuniclus_175
+  - first:
+      213: -7707170827943640877
+    second: Reuniclus_176
+  - first:
+      213: -1949292072127608645
+    second: Reuniclus_177
+  - first:
+      213: 7146121024843813415
+    second: Reuniclus_178
+  - first:
+      213: -2130558013407683710
+    second: Reuniclus_179
+  - first:
+      213: -8937839578789826078
+    second: Reuniclus_180
+  - first:
+      213: -6319222145919004748
+    second: Reuniclus_181
+  - first:
+      213: 8783978139179731265
+    second: Reuniclus_182
+  - first:
+      213: 6103752479977554263
+    second: Reuniclus_183
+  - first:
+      213: -3064693487992677864
+    second: Reuniclus_184
+  - first:
+      213: 429373950123382851
+    second: Reuniclus_185
+  - first:
+      213: 4297484789846995463
+    second: Reuniclus_186
+  - first:
+      213: -1919118758937661077
+    second: Reuniclus_187
+  - first:
+      213: 2350545608927848931
+    second: Reuniclus_188
+  - first:
+      213: 7223669193807746177
+    second: Reuniclus_189
+  - first:
+      213: 4450966151670135546
+    second: Reuniclus_190
+  - first:
+      213: -3976059502513866589
+    second: Reuniclus_191
+  - first:
+      213: -2204300227849039060
+    second: Reuniclus_192
+  - first:
+      213: -3820939965811588331
+    second: Reuniclus_193
+  - first:
+      213: -8557287433454438001
+    second: Reuniclus_194
+  - first:
+      213: 148278417716718246
+    second: Reuniclus_195
+  - first:
+      213: 5741471280987272756
+    second: Reuniclus_196
+  - first:
+      213: -5814497927361842322
+    second: Reuniclus_197
+  - first:
+      213: -5724180756269945518
+    second: Reuniclus_198
+  - first:
+      213: 2394763784083811680
+    second: Reuniclus_199
+  - first:
+      213: -2403112111218552145
+    second: Reuniclus_200
+  - first:
+      213: 6389672278077973042
+    second: Reuniclus_201
+  - first:
+      213: -6733988283910554539
+    second: Reuniclus_202
+  - first:
+      213: -6414067708580912972
+    second: Reuniclus_203
+  - first:
+      213: -2267931216457973474
+    second: Reuniclus_204
+  - first:
+      213: -5670087667300871804
+    second: Reuniclus_205
+  - first:
+      213: -307969966911624425
+    second: Reuniclus_206
+  - first:
+      213: 1209469384016233568
+    second: Reuniclus_207
+  - first:
+      213: 7105571188920167741
+    second: Reuniclus_208
+  - first:
+      213: -2606340272325870998
+    second: Reuniclus_209
+  - first:
+      213: -788762811849064346
+    second: Reuniclus_210
+  - first:
+      213: 5028331792520941607
+    second: Reuniclus_211
+  - first:
+      213: -2398198257121414942
+    second: Reuniclus_212
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Reuniclus_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 965
+        width: 6
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959f62edca6c4b0f0800000000000000
+      internalID: -1102037563035158183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 969
+        width: 88
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1416e4ba7e07c0ad0800000000000000
+      internalID: -2734686733406936767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_2
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 969
+        width: 90
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ccd6453ed37fe50800000000000000
+      internalID: 6843006205396110438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_3
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 970
+        width: 93
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d3dba742e6e6e20800000000000000
+      internalID: 3345732676139957637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_4
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 971
+        width: 93
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f9b3c4eb73b3150800000000000000
+      internalID: 5853333431160381184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_5
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 971
+        width: 94
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208aa71a803852390800000000000000
+      internalID: -7843719102903703550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_6
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 972
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60d3f1fe07bc3930800000000000000
+      internalID: 4124372633581244527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_7
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 898
+        width: 92
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0260bdcba948800800000000000000
+      internalID: 613785585148371195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_8
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 898
+        width: 87
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713cdd89a18453aa0800000000000000
+      internalID: -6181955634425117929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_9
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 897
+        width: 88
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e089784d26b39a0800000000000000
+      internalID: -6252294992726323649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_10
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 897
+        width: 88
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc27ea80dff14550800000000000000
+      internalID: 6143472637858753787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_11
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 896
+        width: 89
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbab0d46df3b901a0800000000000000
+      internalID: -6842740257913259331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_12
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 895
+        width: 88
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5d50efba78b08a0800000000000000
+      internalID: -6337822877822888523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_13
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 821
+        width: 88
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2979915fcc21c740800000000000000
+      internalID: 5170463116136905007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_14
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 811
+        width: 6
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb2c84a3496d6380800000000000000
+      internalID: -8976402743035155462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_15
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 811
+        width: 6
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f210a087b6af9030800000000000000
+      internalID: 3503702342184735473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_16
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 820
+        width: 89
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305fd7530786b8620800000000000000
+      internalID: 2777428426347115779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_17
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 820
+        width: 91
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c4712d1ac461490800000000000000
+      internalID: -7775943448710394792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_18
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 819
+        width: 91
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad379e482dd40c370800000000000000
+      internalID: 8340752076458521562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_19
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 819
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7f2948865a24bc0800000000000000
+      internalID: -3800293267227871284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_20
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 818
+        width: 94
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fad8ac41b1d59420800000000000000
+      internalID: 2636243716320844533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_21
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 744
+        width: 95
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd8b059b866263b0800000000000000
+      internalID: -5520737443515757115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_22
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 745
+        width: 93
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c79bf20b6cc9f30800000000000000
+      internalID: 4583756980773551137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_23
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 745
+        width: 90
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1f526bd79c69140800000000000000
+      internalID: 4726186400735949309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_24
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 745
+        width: 92
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b4bc7198ae02da0800000000000000
+      internalID: -5971515231362659549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_25
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 746
+        width: 96
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00582fb48f8fcb7d0800000000000000
+      internalID: -2901170314623679232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_26
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 746
+        width: 93
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d479441fbe155ba80800000000000000
+      internalID: -8451759051883899059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_27
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 673
+        width: 90
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1955960d0e4095f60800000000000000
+      internalID: 8023449574752998801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_28
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 672
+        width: 85
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c81308ddf04f6c0800000000000000
+      internalID: -4110643115869500356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_29
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 672
+        width: 92
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ac54ea87fcf1990800000000000000
+      internalID: -7412978344401712584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_30
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 671
+        width: 93
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6194afdef6218c0800000000000000
+      internalID: -4030035648646146358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_31
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 671
+        width: 95
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed90f029bc8f96b0800000000000000
+      internalID: -5287352710760194584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_32
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 671
+        width: 96
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fa1ff867cec5530800000000000000
+      internalID: 3845208175832838046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_33
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 596
+        width: 95
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f36e52412485ce90800000000000000
+      internalID: -7006048366922669072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_34
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 596
+        width: 94
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f80c04913e42850800000000000000
+      internalID: 6351451072099290994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_35
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 597
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2086c7a97f65535c0800000000000000
+      internalID: -4236384253023328254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_36
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 597
+        width: 91
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94742e1513b4c7860800000000000000
+      internalID: 7528975352255891273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_37
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 598
+        width: 91
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a75434d519751e50800000000000000
+      internalID: 6779457948737623971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_38
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 598
+        width: 89
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc8b9709d17f44c0800000000000000
+      internalID: -4301093942166057797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_39
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 525
+        width: 88
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9984332b6ff6cd0800000000000000
+      internalID: -2562558417725515308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_40
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 520
+        width: 6
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4bd98578bb692240800000000000000
+      internalID: 4767460120538504014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_41
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 525
+        width: 88
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a3ed0889f08a7d0800000000000000
+      internalID: -2907056411796162040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_42
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 575
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3790133944bb5ca40800000000000000
+      internalID: 5387918432420301171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_43
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 575
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4fc272ade82e4d0800000000000000
+      internalID: -3106763725320948529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_44
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 575
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d967cb32e7159b380800000000000000
+      internalID: -8955036781842237795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_45
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 575
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0cc9c58f1647d5f0800000000000000
+      internalID: -732039313221891061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_46
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 575
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930bde454c1a77b30800000000000000
+      internalID: 4285071435076841529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_47
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 575
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d55cb14cdb630030800000000000000
+      internalID: 3459727532490511827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_48
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 575
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e302fa78e9034de60800000000000000
+      internalID: 7986061496674099262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_49
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 575
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30b4e6747b7aa530800000000000000
+      internalID: 3867038970192113726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_50
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 575
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d04bac9db1f53f0800000000000000
+      internalID: -909977977482900107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_51
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 575
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db6d437c1c3f9ca0800000000000000
+      internalID: -6008017284997747754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_52
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 575
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95790cd12cce5b90800000000000000
+      internalID: -7251133904222325348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_53
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 575
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeeaae825b86bab70800000000000000
+      internalID: 8911331414967496426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_54
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 573
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d17a2faceacc4ce0800000000000000
+      internalID: -1419536664628661805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_55
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 575
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c87db8f74ea22d00800000000000000
+      internalID: 946510495840303300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_56
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 575
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c7dfca41ae548c0800000000000000
+      internalID: -4015546118208390099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_57
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 575
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c7e906e9bbb7790800000000000000
+      internalID: -7531219662946796532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_58
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 575
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281a14a058fea3bd0800000000000000
+      internalID: -2649542076072353406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_59
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 520
+        width: 6
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11935e9613ac9d9f0800000000000000
+      internalID: -443100774740444911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_60
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 571
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b36a9ed31a790b0800000000000000
+      internalID: -5721927514265863389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_61
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 571
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1bfd4d2477b5b00800000000000000
+      internalID: 818378886220853747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_62
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 569
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f4fc8c10834bca0800000000000000
+      internalID: -6002110823062876260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_63
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 571
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0940f09fc51aa3540800000000000000
+      internalID: 4988476957953819792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_64
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 571
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35b1e128a43a9df0800000000000000
+      internalID: -172767738972752580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_65
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 571
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ef4c3e13b90b9c0800000000000000
+      internalID: -3913457437607920026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_66
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 571
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e39c3bd2dd5a9ac0800000000000000
+      internalID: -3847659771431971872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_67
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 558
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8de86bcf17fa010800000000000000
+      internalID: 1202304955739723942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_68
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 559
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6572a444d62d5eb50800000000000000
+      internalID: 6621930193857161046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_69
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 557
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6814fd88c7f4c8f0800000000000000
+      internalID: -521019216121030546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_70
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 559
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9447fd5c0900d05f0800000000000000
+      internalID: -788973737924922295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_71
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 559
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd07af13f766b160800000000000000
+      internalID: 7040929361346104823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_72
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 559
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3695602d3c898f560800000000000000
+      internalID: 7347790758864640355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_73
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 559
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126d3d04916bca970800000000000000
+      internalID: 8767582794161575457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_74
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 559
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816832c38a0743e50800000000000000
+      internalID: 6788174406219957784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_75
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 559
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e36f14cd62109810800000000000000
+      internalID: 1769934916207731688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_76
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 559
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c83dfb33197bd980800000000000000
+      internalID: -8513077547096000316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_77
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 559
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bcf9b434edfadd60800000000000000
+      internalID: 7915918451636042928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_78
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 559
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b5b772edb029c70800000000000000
+      internalID: 8976250056075860824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_79
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 559
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ef4e7bb63d0eea0800000000000000
+      internalID: -5845439856726704599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_80
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 559
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e6822f6473f6490800000000000000
+      internalID: -7750915655831359890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_81
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 549
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488b21fcb3f122790800000000000000
+      internalID: -7556442883036628860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_82
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 555
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb8e672ae5d80900800000000000000
+      internalID: 651005347815656371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_83
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 555
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebd4379c4864da70800000000000000
+      internalID: 8850813845853494251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_84
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 555
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cedd1b001416dd10800000000000000
+      internalID: 2149927931254529728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_85
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 555
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc9cec6ff7b18600800000000000000
+      internalID: 468858143895231681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_86
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 555
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860e8296e60b46670800000000000000
+      internalID: 8531137582403739752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_87
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 555
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70042b15898c87e10800000000000000
+      internalID: 2195725374874337287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_88
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 555
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9e2fb5d90e354f0800000000000000
+      internalID: -841081738931017301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_89
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 555
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988a5acf9863e36a0800000000000000
+      internalID: -6467672048580319095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_90
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 555
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1bcf1e5e3320b30800000000000000
+      internalID: 4252018060623131076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_91
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 538
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6cc049d09467ea10800000000000000
+      internalID: 1938628737889258602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_92
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 538
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d86baa0abbf3aa0800000000000000
+      internalID: -6179013864995779214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_93
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 538
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fee494250a326d0800000000000000
+      internalID: -3016391050130428124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_94
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 538
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c146e507a4c76b60800000000000000
+      internalID: 7739370706297045442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_95
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 538
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dcbdbf6d4f771cf0800000000000000
+      internalID: -281616481123451694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_96
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 538
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af87b03a73adef2e0800000000000000
+      internalID: -2089993244559836934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_97
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 538
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527187a5e0034d660800000000000000
+      internalID: 7409600125136803621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_98
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 538
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c8e1bfc5c0d8cf0800000000000000
+      internalID: -248528810945901490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_99
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 538
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f374423095f60920800000000000000
+      internalID: 2956320205082751988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_100
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 538
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033400eefd19c2610800000000000000
+      internalID: 1597812358766412592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_101
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 538
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0491d70c7ba3c6c80800000000000000
+      internalID: -8328217050032039616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_102
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 538
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45863d615f81a7bb0800000000000000
+      internalID: -4937606600529319852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_103
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 538
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0704c7452c70bc50800000000000000
+      internalID: 6678974746950108940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_104
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 538
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d93370c55d805170800000000000000
+      internalID: 8165181523863222743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_105
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 538
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ccbcf27c0ae2e20800000000000000
+      internalID: 3327773952034196519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_106
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 536
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c24a51c1f0ef6e0800000000000000
+      internalID: -1801986187605038008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_107
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 530
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e2b579e2f1d3b20800000000000000
+      internalID: 3115680802178543255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_108
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 522
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0aecccabf401960800000000000000
+      internalID: 7570638637328408768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_109
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 522
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2f56864197d7b10800000000000000
+      internalID: 1980872539670704895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_110
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 522
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae3305727aef2b10800000000000000
+      internalID: 1959042140239773347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_111
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 520
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8cf8661fddc5f1f0800000000000000
+      internalID: -1011676183237428081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_112
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 522
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b038ebe07ff63ac0800000000000000
+      internalID: -3875629568846450507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_113
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 522
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f740f37361f7d20800000000000000
+      internalID: 3278363480285282100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_114
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 522
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5576e478bb6d1430800000000000000
+      internalID: 3755276104276276571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_115
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 522
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac4d48cd8589b260800000000000000
+      internalID: 7113863930405801125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_116
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 520
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654d6371b2ebedd00800000000000000
+      internalID: 999445259605169238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_117
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 522
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6254a84e4d425f0800000000000000
+      internalID: -782266357218203999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_118
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 520
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a2a21def0a82bf0800000000000000
+      internalID: -348851954829874561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_119
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 522
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49d72c46ce0a3bd0800000000000000
+      internalID: -2649789185910122163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_120
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 522
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb36f725b3c6e3d40800000000000000
+      internalID: 5566005191519462335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_121
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 522
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5264c951cbd7eb440800000000000000
+      internalID: 4953534886924011045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_122
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 522
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d8aea3034426090800000000000000
+      internalID: -8042791010592715483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_123
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 522
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4087da39621fa10800000000000000
+      internalID: 1941375330085766383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_124
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 522
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd4527282723e800800000000000000
+      internalID: 640398625425673685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_125
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 522
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82b97f6c9a7adcc0800000000000000
+      internalID: -3685498532745596275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_126
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 522
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1523365727f8efb00800000000000000
+      internalID: 864285900260192849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_127
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 522
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fa2e99259824e30800000000000000
+      internalID: 4486299166676528990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_128
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 522
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90779d4783ee67500800000000000000
+      internalID: 393763943687485193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_129
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 522
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8118cb6d25e5c44a0800000000000000
+      internalID: -6607802843376353000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 445
+        width: 750
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e9b5c4ab4122720800000000000000
+      internalID: 2819839107064897050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_131
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 449
+        width: 84
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da159b8a6ab38ef0800000000000000
+      internalID: -107036999355655472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_132
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 449
+        width: 86
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff45884782762c30800000000000000
+      internalID: 4334277616753528821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_133
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 450
+        width: 89
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653aa69b62def0de0800000000000000
+      internalID: -1364611411494657194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_134
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 451
+        width: 89
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b39f616d30c05650800000000000000
+      internalID: 6219682455258895289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_135
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 451
+        width: 90
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5afd57f4785e29f50800000000000000
+      internalID: 6886819149519380389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_136
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 452
+        width: 89
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5572a1c2949bba30800000000000000
+      internalID: 4232139632879498588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_137
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 379
+        width: 88
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e76583f70a2ad570800000000000000
+      internalID: 8492146260999235554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_138
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 378
+        width: 84
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e55356caa95e500800000000000000
+      internalID: 424915805079428718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_139
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 377
+        width: 84
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c70b837a83ede0c0800000000000000
+      internalID: -4544726265163479101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_140
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 377
+        width: 84
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923ce954a304c7350800000000000000
+      internalID: 6015753821280453417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_141
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 376
+        width: 85
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da726f2cab164ab0800000000000000
+      internalID: -5024297907941901610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_142
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 375
+        width: 84
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7557c437b8bb1d20800000000000000
+      internalID: 3250394653081949564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_143
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 301
+        width: 84
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3b908a322d3b010800000000000000
+      internalID: 1203536576022950871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_144
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 291
+        width: 6
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de82de64c6556680800000000000000
+      internalID: -8762502098306560298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_145
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 291
+        width: 6
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b64bf97b764b88a0800000000000000
+      internalID: -6301865757433444682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_146
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 300
+        width: 85
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a386ca438f664d0800000000000000
+      internalID: -3141550784929842659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_147
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 300
+        width: 87
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c3d11a97fc23fa0800000000000000
+      internalID: -5822363246935589852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_148
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 299
+        width: 87
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0191da78b133080800000000000000
+      internalID: -9208986543503896381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_149
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 299
+        width: 89
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f6775f8a465e550800000000000000
+      internalID: 6189463939726143306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_150
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 298
+        width: 90
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832b6507d96bb4370800000000000000
+      internalID: 8307934724925862456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_151
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 91
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763fbed5e5adc4470800000000000000
+      internalID: 8380313105467175783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_152
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 224
+        width: 88
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f45abb61e1355cd0800000000000000
+      internalID: -2570093168100223759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_153
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 225
+        width: 86
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2acc54dce1a0f5c90800000000000000
+      internalID: -7179008153596080990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_154
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 225
+        width: 88
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5617a94833abc4170800000000000000
+      internalID: 8164104954946679141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_155
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 225
+        width: 92
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04270075dd864a260800000000000000
+      internalID: 7107921411754193472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_156
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 225
+        width: 89
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8fcf5fd246a5f00800000000000000
+      internalID: 1106306807036180704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_157
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 152
+        width: 87
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a81b0711bd949dd0800000000000000
+      internalID: -2480184110852925271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_158
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 151
+        width: 82
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e1c9eaaa3e8a010800000000000000
+      internalID: 1200459622907649571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_159
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 151
+        width: 88
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf102ef009ea53cc0800000000000000
+      internalID: -3731884782441594373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_160
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 151
+        width: 91
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0083e52a5deb8d10800000000000000
+      internalID: 2129056220301197327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_161
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 151
+        width: 92
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624cb74a84f5e9a30800000000000000
+      internalID: 4223918266121962534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_162
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 150
+        width: 93
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558cb81c60bb9bd60800000000000000
+      internalID: 7906556258516977749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_163
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 76
+        width: 91
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1844683207e215c0800000000000000
+      internalID: -4246077501934909411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_164
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 76
+        width: 90
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99031a408b7e21fc0800000000000000
+      internalID: -3525500780740005735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_165
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 77
+        width: 89
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a6c61b018cb2970800000000000000
+      internalID: 8731292276609542777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_166
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 77
+        width: 87
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970075797ecd2a460800000000000000
+      internalID: 7251601237254537337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_167
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 78
+        width: 87
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e6bd28305316ec0800000000000000
+      internalID: -3575518339958870477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_168
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 78
+        width: 85
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5894d9e8afe748920800000000000000
+      internalID: 2991655667080448389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_169
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 5
+        width: 84
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5399ac9d73add780800000000000000
+      internalID: -8656583148841626789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_170
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 3
+        width: 6
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418ac104d96f93ce0800000000000000
+      internalID: -1424836651840133100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_171
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 4
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca74e02b2433d720800000000000000
+      internalID: 2869694747405220544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_172
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 48
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7628057ae205aba0800000000000000
+      internalID: -6078448916057545089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_173
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 46
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e774608ddecc97d0800000000000000
+      internalID: -2910223808451020824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_174
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 46
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b368e5ac4f6da70800000000000000
+      internalID: 8851531267649714989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_175
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 48
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934e2a8aa32f00a90800000000000000
+      internalID: -7349608258117376967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_176
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d08a2167f0aa0590800000000000000
+      internalID: -7707170827943640877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_177
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 48
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8495d2039b2f4e0800000000000000
+      internalID: -1949292072127608645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_178
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 46
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72214c7d53f1c2360800000000000000
+      internalID: 7146121024843813415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_179
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 48
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b197566ccbe62e0800000000000000
+      internalID: -2130558013407683710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_180
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 48
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e13ecef14a66f380800000000000000
+      internalID: -8937839578789826078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_181
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 48
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf47bf50fc9d48a0800000000000000
+      internalID: -6319222145919004748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_182
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 48
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149ca9cf395f6e970800000000000000
+      internalID: 8783978139179731265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_183
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 48
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751c8fd9a82e4b450800000000000000
+      internalID: 6103752479977554263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_184
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 29
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a5eb692850875d0800000000000000
+      internalID: -3064693487992677864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_185
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 29
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34819ec255175f500800000000000000
+      internalID: 429373950123382851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_186
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 29
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7027976b5abb3ab30800000000000000
+      internalID: 4297484789846995463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_187
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 29
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b617bbb18abed55e0800000000000000
+      internalID: -1919118758937661077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_188
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 29
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9af7017c0de9020800000000000000
+      internalID: 2350545608927848931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_189
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 29
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184d7dfebd0af3460800000000000000
+      internalID: 7223669193807746177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_190
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 29
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afaf599f12205cd30800000000000000
+      internalID: 4450966151670135546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_191
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 29
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a838d2d2f232d8c0800000000000000
+      internalID: -3976059502513866589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_192
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 29
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23deb42f90c861e0800000000000000
+      internalID: -2204300227849039060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_193
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 29
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51305b5685b49fac0800000000000000
+      internalID: -3820939965811588331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_194
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 29
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89b800fa686e3980800000000000000
+      internalID: -8557287433454438001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_195
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 29
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aaacdf6f6ace0200800000000000000
+      internalID: 148278417716718246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_196
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 29
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4367a5fd5bdcdaf40800000000000000
+      internalID: 5741471280987272756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_197
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 27
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e633a5c01f0ce4fa0800000000000000
+      internalID: -5814497927361842322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_198
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 10
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d27602eef9f80b0800000000000000
+      internalID: -5724180756269945518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_199
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 10
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d294f39f8eb3120800000000000000
+      internalID: 2394763784083811680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_200
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 10
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2116f544e66aed0800000000000000
+      internalID: -2403112111218552145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_201
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 10
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232affd351daca850800000000000000
+      internalID: 6389672278077973042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_202
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 10
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c7edf75511c82a0800000000000000
+      internalID: -6733988283910554539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_203
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 10
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b02bb8f667acf6a0800000000000000
+      internalID: -6414067708580912972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_204
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 10
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11c00c1390b680e0800000000000000
+      internalID: -2267931216457973474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_205
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 10
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4815539de4dcf41b0800000000000000
+      internalID: -5670087667300871804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_206
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 10
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b6eb062fed9bbf0800000000000000
+      internalID: -307969966911624425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_207
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 10
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0648ff82ff5e8c010800000000000000
+      internalID: 1209469384016233568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_208
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 8
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d26d1795f0c9260800000000000000
+      internalID: 7105571188920167741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_209
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 10
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ab830d45b64dbd0800000000000000
+      internalID: -2606340272325870998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_210
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 10
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660c2b3d660cd05f0800000000000000
+      internalID: -788762811849064346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_211
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 10
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7209302cf1938c540800000000000000
+      internalID: 5028331792520941607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reuniclus_212
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 10
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0315f2463e7bed0800000000000000
+      internalID: -2398198257121414942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

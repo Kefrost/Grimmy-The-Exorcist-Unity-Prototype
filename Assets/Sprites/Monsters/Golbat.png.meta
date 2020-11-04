@@ -1,0 +1,2192 @@
+fileFormatVersion: 2
+guid: 78e53debf39b8944083b252b23fa052d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1477150934746490062
+    second: Golbat_0
+  - first:
+      213: 7495006089430565765
+    second: Golbat_1
+  - first:
+      213: 7775601918046745515
+    second: Golbat_2
+  - first:
+      213: -993267145733693244
+    second: Golbat_3
+  - first:
+      213: 1322013142929221996
+    second: Golbat_4
+  - first:
+      213: 7039845792589004730
+    second: Golbat_5
+  - first:
+      213: -8050294988841530160
+    second: Golbat_6
+  - first:
+      213: -6491144421127459042
+    second: Golbat_7
+  - first:
+      213: -3118744020225021571
+    second: Golbat_8
+  - first:
+      213: 4067155836412513804
+    second: Golbat_9
+  - first:
+      213: -7725240836142547479
+    second: Golbat_10
+  - first:
+      213: -2726865744097876024
+    second: Golbat_11
+  - first:
+      213: -8109279063005046260
+    second: Golbat_12
+  - first:
+      213: -131394905543300972
+    second: Golbat_13
+  - first:
+      213: -1353431359012760361
+    second: Golbat_14
+  - first:
+      213: -3353705653358883395
+    second: Golbat_15
+  - first:
+      213: -6617160672698459861
+    second: Golbat_16
+  - first:
+      213: 6304233600388708763
+    second: Golbat_17
+  - first:
+      213: 7178342047512404027
+    second: Golbat_18
+  - first:
+      213: 5451996235770482530
+    second: Golbat_19
+  - first:
+      213: 26721869554852826
+    second: Golbat_20
+  - first:
+      213: 548216198837458178
+    second: Golbat_21
+  - first:
+      213: 9222945030415234162
+    second: Golbat_22
+  - first:
+      213: 3746316751546909491
+    second: Golbat_23
+  - first:
+      213: -4924904408768423626
+    second: Golbat_24
+  - first:
+      213: 1156058597938719423
+    second: Golbat_25
+  - first:
+      213: -4911194420372718027
+    second: Golbat_26
+  - first:
+      213: 3841810497908992537
+    second: Golbat_27
+  - first:
+      213: 9120817289796641283
+    second: Golbat_28
+  - first:
+      213: -3963909800387530840
+    second: Golbat_29
+  - first:
+      213: 656404517845269186
+    second: Golbat_30
+  - first:
+      213: 4246145541051702621
+    second: Golbat_31
+  - first:
+      213: 3854380451215085331
+    second: Golbat_32
+  - first:
+      213: -9116570982657814453
+    second: Golbat_33
+  - first:
+      213: 9217515205081981771
+    second: Golbat_34
+  - first:
+      213: -2414937118615722221
+    second: Golbat_35
+  - first:
+      213: -4334070759030654046
+    second: Golbat_36
+  - first:
+      213: 3876144467114687706
+    second: Golbat_37
+  - first:
+      213: -7466238325196225486
+    second: Golbat_38
+  - first:
+      213: 1391549701101015859
+    second: Golbat_39
+  - first:
+      213: -4100541982765441988
+    second: Golbat_40
+  - first:
+      213: 3184705494333328232
+    second: Golbat_41
+  - first:
+      213: 545265686949702873
+    second: Golbat_42
+  - first:
+      213: -3825517133418395986
+    second: Golbat_43
+  - first:
+      213: -3986482645866356339
+    second: Golbat_44
+  - first:
+      213: -6117488294396645740
+    second: Golbat_45
+  - first:
+      213: 8778668543522323899
+    second: Golbat_46
+  - first:
+      213: -7311337250345128769
+    second: Golbat_47
+  - first:
+      213: 1845762323176894604
+    second: Golbat_48
+  - first:
+      213: 5482253528677625101
+    second: Golbat_49
+  - first:
+      213: 7431858523361424367
+    second: Golbat_50
+  - first:
+      213: 9143805981007427652
+    second: Golbat_51
+  - first:
+      213: 2601483822829515906
+    second: Golbat_52
+  - first:
+      213: 1458155104029054436
+    second: Golbat_53
+  - first:
+      213: 5782741313388613059
+    second: Golbat_54
+  - first:
+      213: -1343147296800759661
+    second: Golbat_55
+  - first:
+      213: -2593704928764848234
+    second: Golbat_56
+  - first:
+      213: -2496288760616673240
+    second: Golbat_57
+  - first:
+      213: -6537107643691708652
+    second: Golbat_58
+  - first:
+      213: -5994233829997353805
+    second: Golbat_59
+  - first:
+      213: 2452129913342130746
+    second: Golbat_60
+  - first:
+      213: 2053045425843257750
+    second: Golbat_61
+  - first:
+      213: -5529889450343501596
+    second: Golbat_62
+  - first:
+      213: 9113929359767933584
+    second: Golbat_63
+  - first:
+      213: -1957030054774746671
+    second: Golbat_64
+  - first:
+      213: 6651752129735905910
+    second: Golbat_65
+  - first:
+      213: 7014623064438529090
+    second: Golbat_66
+  - first:
+      213: 4977236095752359651
+    second: Golbat_67
+  - first:
+      213: 5948214044610546999
+    second: Golbat_68
+  - first:
+      213: -4385939081747969205
+    second: Golbat_69
+  - first:
+      213: -6790039096809335582
+    second: Golbat_70
+  - first:
+      213: -9007396004828235385
+    second: Golbat_71
+  - first:
+      213: -7164744907398976163
+    second: Golbat_72
+  - first:
+      213: -3855747531432161681
+    second: Golbat_73
+  - first:
+      213: -1232249113567666057
+    second: Golbat_74
+  - first:
+      213: -7047425430608702771
+    second: Golbat_75
+  - first:
+      213: 2858125051922994981
+    second: Golbat_76
+  - first:
+      213: 2978759177842922112
+    second: Golbat_77
+  - first:
+      213: -145448274562455401
+    second: Golbat_78
+  - first:
+      213: -4238328316485753799
+    second: Golbat_79
+  - first:
+      213: -8304093057829520519
+    second: Golbat_80
+  - first:
+      213: 1980674971118125509
+    second: Golbat_81
+  - first:
+      213: -6679210313820994580
+    second: Golbat_82
+  - first:
+      213: 6370888990063817254
+    second: Golbat_83
+  - first:
+      213: -3010959947888898645
+    second: Golbat_84
+  - first:
+      213: 3868657440229804003
+    second: Golbat_85
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Golbat_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 644
+        width: 80
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec46339e2f4ef7410800000000000000
+      internalID: 1477150934746490062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_1
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 645
+        width: 80
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58306edf35c930860800000000000000
+      internalID: 7495006089430565765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_2
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 646
+        width: 92
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3b5006fbc78eb60800000000000000
+      internalID: 7775601918046745515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_3
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 648
+        width: 93
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c02a732bc43732f0800000000000000
+      internalID: -993267145733693244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_4
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 632
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69a1bcf2fbb85210800000000000000
+      internalID: 1322013142929221996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_5
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 635
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abfbbcc137e82b160800000000000000
+      internalID: 7039845792589004730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_6
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 652
+        width: 109
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc4ef42c5b974090800000000000000
+      internalID: -8050294988841530160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_7
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 537
+        width: 108
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f60f06a82dae5a0800000000000000
+      internalID: -6491144421127459042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_8
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 537
+        width: 80
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d792d1166def7b4d0800000000000000
+      internalID: -3118744020225021571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_9
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 535
+        width: 80
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e468b3fa0717830800000000000000
+      internalID: 4067155836412513804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_10
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 532
+        width: 93
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edb16db36e6ac490800000000000000
+      internalID: -7725240836142547479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_11
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 530
+        width: 93
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c76dd4ad0a382ad0800000000000000
+      internalID: -2726865744097876024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_12
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 515
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a521138ad067f80800000000000000
+      internalID: -8109279063005046260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_13
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 513
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498abc197013d2ef0800000000000000
+      internalID: -131394905543300972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_14
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 409
+        width: 109
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d49b2a8955a73de0800000000000000
+      internalID: -1353431359012760361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_15
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 408
+        width: 108
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd035a1a7e3571d0800000000000000
+      internalID: -3353705653358883395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_16
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 408
+        width: 80
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b299f1a6d6f1b24a0800000000000000
+      internalID: -6617160672698459861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_17
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 357
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99304cee032d7750800000000000000
+      internalID: 6304233600388708763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 357
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b302a3a4f089e9360800000000000000
+      internalID: 7178342047512404027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_19
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 357
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26fcdd5c0b169ab40800000000000000
+      internalID: 5451996235770482530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_20
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 357
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad32d86166fee5000800000000000000
+      internalID: 26721869554852826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_21
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 357
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20552df6ab7ab9700800000000000000
+      internalID: 548216198837458178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_22
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 357
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274bad0d3ab7eff70800000000000000
+      internalID: 9222945030415234162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_23
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 357
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3338c089c379df330800000000000000
+      internalID: 3746316751546909491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_24
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 357
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6395a92988937abb0800000000000000
+      internalID: -4924904408768423626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_25
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 357
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba6ca57b252b0010800000000000000
+      internalID: 1156058597938719423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_26
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 357
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ebdcef1bee7dbb0800000000000000
+      internalID: -4911194420372718027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_27
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 357
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a6b360b4ad05530800000000000000
+      internalID: 3841810497908992537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_28
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 357
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302e19b3007a39e70800000000000000
+      internalID: 9120817289796641283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_29
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 357
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af263ac90d5df8c0800000000000000
+      internalID: -3963909800387530840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_30
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 357
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2caf0236e640c1900800000000000000
+      internalID: 656404517845269186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_31
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 357
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ddefe5fd65dea30800000000000000
+      internalID: 4246145541051702621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_32
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 357
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f82e759928d7530800000000000000
+      internalID: 3854380451215085331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_33
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 357
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b401c013efe6b7180800000000000000
+      internalID: -9116570982657814453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_34
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 357
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b436ca61e313bef70800000000000000
+      internalID: 9217515205081981771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_35
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 357
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317210a4c7b6c7ed0800000000000000
+      internalID: -2414937118615722221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_36
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 357
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abf1988b994ad3c0800000000000000
+      internalID: -4334070759030654046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_37
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 357
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc777c2bd4dac530800000000000000
+      internalID: 3876144467114687706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_38
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 357
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23485421dc7926890800000000000000
+      internalID: -7466238325196225486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_39
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 357
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3335d659417cf4310800000000000000
+      internalID: 1391549701101015859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_40
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 357
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c90b2dac2f717c0800000000000000
+      internalID: -4100541982765441988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_41
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 357
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b09f716c8523c20800000000000000
+      internalID: 3184705494333328232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_42
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 357
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dca8dad04c219700800000000000000
+      internalID: 545265686949702873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_43
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 357
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea60d648f6809eac0800000000000000
+      internalID: -3825517133418395986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_44
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 357
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8160e5a72b2da8c0800000000000000
+      internalID: -3986482645866356339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_45
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 357
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ea0eedec05a1ba0800000000000000
+      internalID: -6117488294396645740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_46
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 357
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd3b89678814d970800000000000000
+      internalID: 8778668543522323899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_47
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 357
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbce8180289e88a90800000000000000
+      internalID: -7311337250345128769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_48
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 357
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8032ccbd077d9910800000000000000
+      internalID: 1845762323176894604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_49
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 357
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d2671c980e41c40800000000000000
+      internalID: 5482253528677625101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_50
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 245
+        width: 80
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3bae983f3432760800000000000000
+      internalID: 7431858523361424367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_51
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 246
+        width: 80
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4483a01081355ee70800000000000000
+      internalID: 9143805981007427652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_52
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 246
+        width: 86
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284bdace0c35a1420800000000000000
+      internalID: 2601483822829515906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_53
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 248
+        width: 86
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5131b67586c3410800000000000000
+      internalID: 1458155104029054436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_54
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 229
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd0184169c604050800000000000000
+      internalID: 5782741313388613059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_55
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 231
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3902a2d56ae2c5de0800000000000000
+      internalID: -1343147296800759661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_56
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 249
+        width: 94
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6979accfb1f410cd0800000000000000
+      internalID: -2593704928764848234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_57
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 252
+        width: 94
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820a4ae19966b5dd0800000000000000
+      internalID: -2496288760616673240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_58
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 217
+        width: 80
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41fc34fab378745a0800000000000000
+      internalID: -6537107643691708652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_59
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 218
+        width: 80
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4e066271430dca0800000000000000
+      internalID: -5994233829997353805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_60
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 136
+        width: 80
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3afddb0a27b70220800000000000000
+      internalID: 2452129913342130746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_61
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 135
+        width: 80
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691c023ffe1ed7c10800000000000000
+      internalID: 2053045425843257750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_62
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 133
+        width: 86
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e07811f7d2e143b0800000000000000
+      internalID: -5529889450343501596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_63
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 131
+        width: 86
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09298fc077e2b7e70800000000000000
+      internalID: 9113929359767933584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_64
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 113
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d15362b88b37d4e0800000000000000
+      internalID: -1957030054774746671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_65
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 111
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6725bdac155cf4c50800000000000000
+      internalID: 6651752129735905910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_66
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 128
+        width: 94
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cde151382f85160800000000000000
+      internalID: 7014623064438529090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_67
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 127
+        width: 94
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee429acbd1b21540800000000000000
+      internalID: 4977236095752359651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_68
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 73
+        width: 76
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d4009982d4c8250800000000000000
+      internalID: 5948214044610546999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_69
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 98
+        width: 120
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4bc8e194a30223c0800000000000000
+      internalID: -4385939081747969205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_70
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 9
+        width: 80
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e45aa7aa6fe4c1a0800000000000000
+      internalID: -6790039096809335582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_71
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 61
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789b0fc8e0d4ff280800000000000000
+      internalID: -9007396004828235385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_72
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 61
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5de1389776b19c90800000000000000
+      internalID: -7164744907398976163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_73
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 61
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e856d7c02ad7ac0800000000000000
+      internalID: -3855747531432161681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_74
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 61
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770620fb5fb26eee0800000000000000
+      internalID: -1232249113567666057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_75
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 61
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc29383e8e3823e90800000000000000
+      internalID: -7047425430608702771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_76
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 38
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527d38b77991aa720800000000000000
+      internalID: 2858125051922994981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_77
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 38
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08213caa0bda65920800000000000000
+      internalID: 2978759177842922112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_78
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 38
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798e28d90934bfdf0800000000000000
+      internalID: -145448274562455401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_79
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 38
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934236e0ade6e25c0800000000000000
+      internalID: -4238328316485753799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_80
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 38
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97bb8426c5fe1cc80800000000000000
+      internalID: -8304093057829520519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_81
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 38
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1c0056465cc7b10800000000000000
+      internalID: 1980674971118125509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_82
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 38
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce303988b9dae43a0800000000000000
+      internalID: -6679210313820994580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_83
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 38
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622733438c1f96850800000000000000
+      internalID: 6370888990063817254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_84
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 38
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad472151ebe636d0800000000000000
+      internalID: -3010959947888898645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat_85
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 38
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7c192e17b30b530800000000000000
+      internalID: 3868657440229804003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fd73012ff2053040a6fe22559110819, type: 3}
+  m_Name: Onixpected ghost
+  m_EditorClassIdentifier: 
+  monsterName: Onixpected ghost
+  description: "Onix is composed of a giant chain of gray boulders that become smaller
+    towards the tail. Its length makes it the tallest Rock-type Pok\xE9mon. It has
+    black eyes and a rounded snout. On top of its head is a rocky spine. As it grows
+    older, it becomes more rounded and smoother, eventually becoming similar to black
+    diamonds. Inside its brain is a magnet that serves as an internal compass, guiding
+    Onix wherever they need to go and prevents them from getting lost while digging."
+  frontSprite: {fileID: 2907767381326525768, guid: 549fa816e3bb00747aff6630c629d0f8,
+    type: 3}
+  backSprite: {fileID: -682988974576019383, guid: 549fa816e3bb00747aff6630c629d0f8,
+    type: 3}
+  firstType: 13
+  secondType: 9
+  maxHp: 35
+  attack: 45
+  defense: 160
+  spAttack: 30
+  spDefense: 45
+  speed: 70
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: b9282cb7c23be3742b5049432ad89d5b, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 6334d094a2f684a42b38dfdbadba6e71, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: ff85b7bbc3774f342b31cc0dce83c48b, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 5ed2db9022a03344896578f537f2ad56, type: 2}
+    level: 8
+  - moveBase: {fileID: 11400000, guid: f584b62cc984f1a449acb9586f41786f, type: 2}
+    level: 12
+  - moveBase: {fileID: 11400000, guid: 10e8315371a612642b296ed12bd6dc69, type: 2}
+    level: 20
+  - moveBase: {fileID: 11400000, guid: 33c3dc2749cdc9f40a90701132472ce2, type: 2}
+    level: 24
+  - moveBase: {fileID: 11400000, guid: 2569abc0d481bde4daccd949f9ce4347, type: 2}
+    level: 36
+  - moveBase: {fileID: 11400000, guid: 9e32cbc2aafe2d74c9a2d34b31fed69e, type: 2}
+    level: 48
+  - moveBase: {fileID: 11400000, guid: 1fb81f7fe15637349b22061eceef099f, type: 2}
+    level: 52

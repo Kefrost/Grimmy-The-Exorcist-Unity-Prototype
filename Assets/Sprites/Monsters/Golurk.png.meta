@@ -1,0 +1,5072 @@
+fileFormatVersion: 2
+guid: 21525a67f7b2b584e98e22e8bd859602
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3283522331110061130
+    second: Golurk_0
+  - first:
+      213: 1520808424115666836
+    second: Golurk_1
+  - first:
+      213: 7189312175064342189
+    second: Golurk_2
+  - first:
+      213: -7338312169280321260
+    second: Golurk_3
+  - first:
+      213: -260659840382560656
+    second: Golurk_4
+  - first:
+      213: 3777046874970411249
+    second: Golurk_5
+  - first:
+      213: -5251507394731165290
+    second: Golurk_6
+  - first:
+      213: -6386075850434656063
+    second: Golurk_7
+  - first:
+      213: -1423112061914848287
+    second: Golurk_8
+  - first:
+      213: 7922991160276378587
+    second: Golurk_9
+  - first:
+      213: 5162142474115124995
+    second: Golurk_10
+  - first:
+      213: -75495515798194994
+    second: Golurk_11
+  - first:
+      213: 4308493633500083924
+    second: Golurk_12
+  - first:
+      213: 6670278814169009063
+    second: Golurk_13
+  - first:
+      213: 7564363687997571110
+    second: Golurk_14
+  - first:
+      213: -2004116211878939594
+    second: Golurk_15
+  - first:
+      213: -590476805605717839
+    second: Golurk_16
+  - first:
+      213: 4455551746794326948
+    second: Golurk_17
+  - first:
+      213: 6099995490337794726
+    second: Golurk_18
+  - first:
+      213: 331565724944489757
+    second: Golurk_19
+  - first:
+      213: 1608521165039789036
+    second: Golurk_20
+  - first:
+      213: 1422126382991758816
+    second: Golurk_21
+  - first:
+      213: -8468500615503389510
+    second: Golurk_22
+  - first:
+      213: 304455892131928895
+    second: Golurk_23
+  - first:
+      213: -4250075847221724376
+    second: Golurk_24
+  - first:
+      213: 3989508286705251298
+    second: Golurk_25
+  - first:
+      213: -7623245510269070551
+    second: Golurk_26
+  - first:
+      213: -4400148535835180279
+    second: Golurk_27
+  - first:
+      213: -5099444824825713920
+    second: Golurk_28
+  - first:
+      213: 4184799018627298488
+    second: Golurk_29
+  - first:
+      213: 7557777762585806952
+    second: Golurk_30
+  - first:
+      213: 9193576709466913466
+    second: Golurk_31
+  - first:
+      213: -6228973763111263665
+    second: Golurk_32
+  - first:
+      213: -1135676007112460187
+    second: Golurk_33
+  - first:
+      213: 7569338532556750355
+    second: Golurk_34
+  - first:
+      213: -8628394756859101695
+    second: Golurk_35
+  - first:
+      213: -8580894522650135752
+    second: Golurk_36
+  - first:
+      213: 3009266707260521744
+    second: Golurk_37
+  - first:
+      213: -1189532248618191937
+    second: Golurk_38
+  - first:
+      213: -6891671459588231737
+    second: Golurk_39
+  - first:
+      213: -4334462902015701034
+    second: Golurk_40
+  - first:
+      213: 6278073525233677611
+    second: Golurk_41
+  - first:
+      213: 8900177092717633302
+    second: Golurk_42
+  - first:
+      213: 3215942561784069540
+    second: Golurk_43
+  - first:
+      213: 7960610789730168426
+    second: Golurk_44
+  - first:
+      213: 1493513640588000816
+    second: Golurk_45
+  - first:
+      213: 8080983435182566534
+    second: Golurk_46
+  - first:
+      213: 2982091709612099671
+    second: Golurk_47
+  - first:
+      213: 2186447409504903427
+    second: Golurk_48
+  - first:
+      213: 3110901174411454995
+    second: Golurk_49
+  - first:
+      213: -2521050785618872863
+    second: Golurk_50
+  - first:
+      213: 8050338882613084881
+    second: Golurk_51
+  - first:
+      213: 4507054356463282931
+    second: Golurk_52
+  - first:
+      213: 4137621340327679965
+    second: Golurk_53
+  - first:
+      213: -4886431860340440928
+    second: Golurk_54
+  - first:
+      213: -9012767859887814683
+    second: Golurk_55
+  - first:
+      213: 6195407149888245964
+    second: Golurk_56
+  - first:
+      213: -4572334060455020024
+    second: Golurk_57
+  - first:
+      213: -7661519629872556102
+    second: Golurk_58
+  - first:
+      213: 9191173878492468045
+    second: Golurk_59
+  - first:
+      213: 8113241304344096330
+    second: Golurk_60
+  - first:
+      213: -8495016252453397253
+    second: Golurk_61
+  - first:
+      213: 699157854130484719
+    second: Golurk_62
+  - first:
+      213: -2996351555868342210
+    second: Golurk_63
+  - first:
+      213: -3664794405785497918
+    second: Golurk_64
+  - first:
+      213: 9006429075274556217
+    second: Golurk_65
+  - first:
+      213: 2366527929262769890
+    second: Golurk_66
+  - first:
+      213: -1357327260122511116
+    second: Golurk_67
+  - first:
+      213: 9055111556131594082
+    second: Golurk_68
+  - first:
+      213: -5762722387958235055
+    second: Golurk_69
+  - first:
+      213: -233204861156444470
+    second: Golurk_70
+  - first:
+      213: -5653969572056302914
+    second: Golurk_71
+  - first:
+      213: -4063806278203769775
+    second: Golurk_72
+  - first:
+      213: 7787028917211053975
+    second: Golurk_73
+  - first:
+      213: 8843017873969939514
+    second: Golurk_74
+  - first:
+      213: -8021634997877779154
+    second: Golurk_75
+  - first:
+      213: 8812787597671912693
+    second: Golurk_76
+  - first:
+      213: 5589675676802903851
+    second: Golurk_77
+  - first:
+      213: -2117923684943152160
+    second: Golurk_78
+  - first:
+      213: -8828972528320961347
+    second: Golurk_79
+  - first:
+      213: 8544902305776440884
+    second: Golurk_80
+  - first:
+      213: -3129213871607151242
+    second: Golurk_81
+  - first:
+      213: 1469574085860656212
+    second: Golurk_82
+  - first:
+      213: -5323480383940314788
+    second: Golurk_83
+  - first:
+      213: -379762032909878170
+    second: Golurk_84
+  - first:
+      213: -1951021452130932189
+    second: Golurk_85
+  - first:
+      213: -7685953074641734788
+    second: Golurk_86
+  - first:
+      213: 5081714029000910867
+    second: Golurk_87
+  - first:
+      213: 649719216476229091
+    second: Golurk_88
+  - first:
+      213: -5531893528526355124
+    second: Golurk_89
+  - first:
+      213: 6553461907859648523
+    second: Golurk_90
+  - first:
+      213: -4204915871117218794
+    second: Golurk_91
+  - first:
+      213: 2332358676617884802
+    second: Golurk_92
+  - first:
+      213: 4191503608549382781
+    second: Golurk_93
+  - first:
+      213: -2492085683117265767
+    second: Golurk_94
+  - first:
+      213: -8274925634249961743
+    second: Golurk_95
+  - first:
+      213: -2510980241043151202
+    second: Golurk_96
+  - first:
+      213: 380541521840000532
+    second: Golurk_97
+  - first:
+      213: 8351563960346665214
+    second: Golurk_98
+  - first:
+      213: -3348086508263479984
+    second: Golurk_99
+  - first:
+      213: 8073723941994086607
+    second: Golurk_100
+  - first:
+      213: -4906503791837609944
+    second: Golurk_101
+  - first:
+      213: -9197604619329153636
+    second: Golurk_102
+  - first:
+      213: 3959001730706033542
+    second: Golurk_103
+  - first:
+      213: -560705546575450937
+    second: Golurk_104
+  - first:
+      213: -1040596515754446094
+    second: Golurk_105
+  - first:
+      213: -1331285292698567792
+    second: Golurk_106
+  - first:
+      213: 5542856053816208227
+    second: Golurk_107
+  - first:
+      213: 4994646657374149238
+    second: Golurk_108
+  - first:
+      213: -8772064002458817940
+    second: Golurk_109
+  - first:
+      213: 5562599981977539696
+    second: Golurk_110
+  - first:
+      213: 1366746079116886114
+    second: Golurk_111
+  - first:
+      213: 2618221055134389063
+    second: Golurk_112
+  - first:
+      213: 1540136420000981522
+    second: Golurk_113
+  - first:
+      213: 4322277085471046426
+    second: Golurk_114
+  - first:
+      213: -7795969464477248400
+    second: Golurk_115
+  - first:
+      213: -5958843650334265355
+    second: Golurk_116
+  - first:
+      213: 7777625120746455025
+    second: Golurk_117
+  - first:
+      213: -305456737262424815
+    second: Golurk_118
+  - first:
+      213: -575769279541200412
+    second: Golurk_119
+  - first:
+      213: 2911615325245810410
+    second: Golurk_120
+  - first:
+      213: -7864012633379540162
+    second: Golurk_121
+  - first:
+      213: -2244909332315534773
+    second: Golurk_122
+  - first:
+      213: -6802526707445559729
+    second: Golurk_123
+  - first:
+      213: 3287907585759378693
+    second: Golurk_124
+  - first:
+      213: -8998799158900606962
+    second: Golurk_125
+  - first:
+      213: 9216935272755892800
+    second: Golurk_126
+  - first:
+      213: 6117758439090172725
+    second: Golurk_127
+  - first:
+      213: 5393168825582044400
+    second: Golurk_128
+  - first:
+      213: 7203921407081936548
+    second: Golurk_129
+  - first:
+      213: 3118278089372651940
+    second: Golurk_130
+  - first:
+      213: -7879756551237248077
+    second: Golurk_131
+  - first:
+      213: -390596889237878959
+    second: Golurk_132
+  - first:
+      213: 731478567101109668
+    second: Golurk_133
+  - first:
+      213: -8639911508321457003
+    second: Golurk_134
+  - first:
+      213: -8329994687745551083
+    second: Golurk_135
+  - first:
+      213: 7207291493103019469
+    second: Golurk_136
+  - first:
+      213: 3580947966780249298
+    second: Golurk_137
+  - first:
+      213: 7044078343118946040
+    second: Golurk_138
+  - first:
+      213: 4537692146573634705
+    second: Golurk_139
+  - first:
+      213: 9100240854925914671
+    second: Golurk_140
+  - first:
+      213: 7306617279295326889
+    second: Golurk_141
+  - first:
+      213: 714559051292441577
+    second: Golurk_142
+  - first:
+      213: 2218013974617313401
+    second: Golurk_143
+  - first:
+      213: -1022997623925802093
+    second: Golurk_144
+  - first:
+      213: -6566802691492781012
+    second: Golurk_145
+  - first:
+      213: -6939671588068017013
+    second: Golurk_146
+  - first:
+      213: 7672550394809848079
+    second: Golurk_147
+  - first:
+      213: -1751319100657806794
+    second: Golurk_148
+  - first:
+      213: 5964795622248873154
+    second: Golurk_149
+  - first:
+      213: -6139786404318592914
+    second: Golurk_150
+  - first:
+      213: -6091195039216147605
+    second: Golurk_151
+  - first:
+      213: -3221660553798263178
+    second: Golurk_152
+  - first:
+      213: -1310483474829292014
+    second: Golurk_153
+  - first:
+      213: -364875546343077705
+    second: Golurk_154
+  - first:
+      213: -6894779046889872121
+    second: Golurk_155
+  - first:
+      213: -3332931316068167259
+    second: Golurk_156
+  - first:
+      213: -6950977129999695933
+    second: Golurk_157
+  - first:
+      213: -8854400053880932296
+    second: Golurk_158
+  - first:
+      213: -1497082438585357930
+    second: Golurk_159
+  - first:
+      213: -3475136079270459234
+    second: Golurk_160
+  - first:
+      213: -6626767001005807434
+    second: Golurk_161
+  - first:
+      213: -5557484720403240247
+    second: Golurk_162
+  - first:
+      213: -8071382550157672353
+    second: Golurk_163
+  - first:
+      213: -3537764550838628404
+    second: Golurk_164
+  - first:
+      213: 2130664158571035701
+    second: Golurk_165
+  - first:
+      213: 5385397921219038660
+    second: Golurk_166
+  - first:
+      213: -3775340474850880310
+    second: Golurk_167
+  - first:
+      213: 8103431659719641408
+    second: Golurk_168
+  - first:
+      213: -8625130677420996452
+    second: Golurk_169
+  - first:
+      213: -3879995750173049004
+    second: Golurk_170
+  - first:
+      213: -983576519931771500
+    second: Golurk_171
+  - first:
+      213: -2999969421000899946
+    second: Golurk_172
+  - first:
+      213: -2681599231189867451
+    second: Golurk_173
+  - first:
+      213: -845134956212819081
+    second: Golurk_174
+  - first:
+      213: 2478013975271720974
+    second: Golurk_175
+  - first:
+      213: -1503312808336664021
+    second: Golurk_176
+  - first:
+      213: 27224478133218719
+    second: Golurk_177
+  - first:
+      213: -761731801865940572
+    second: Golurk_178
+  - first:
+      213: -5079461781447231956
+    second: Golurk_179
+  - first:
+      213: 8952974252819202433
+    second: Golurk_180
+  - first:
+      213: 7119151531779732432
+    second: Golurk_181
+  - first:
+      213: 4872799061029557514
+    second: Golurk_182
+  - first:
+      213: -5941738541631529078
+    second: Golurk_183
+  - first:
+      213: -481561020284737728
+    second: Golurk_184
+  - first:
+      213: 4350919614385285996
+    second: Golurk_185
+  - first:
+      213: 2034893620088496136
+    second: Golurk_186
+  - first:
+      213: 4101605950507781259
+    second: Golurk_187
+  - first:
+      213: -6716754540926487538
+    second: Golurk_188
+  - first:
+      213: 6837824480586866672
+    second: Golurk_189
+  - first:
+      213: -8273406658343517087
+    second: Golurk_190
+  - first:
+      213: -3010502687857392079
+    second: Golurk_191
+  - first:
+      213: 2397181322130743114
+    second: Golurk_192
+  - first:
+      213: 7839049710332707236
+    second: Golurk_193
+  - first:
+      213: -7644530725965078707
+    second: Golurk_194
+  - first:
+      213: -384626543789319656
+    second: Golurk_195
+  - first:
+      213: -664392951927281081
+    second: Golurk_196
+  - first:
+      213: -2955511747670188924
+    second: Golurk_197
+  - first:
+      213: -2804818669794908616
+    second: Golurk_198
+  - first:
+      213: -3846739679259938454
+    second: Golurk_199
+  - first:
+      213: 7437298283475476532
+    second: Golurk_200
+  - first:
+      213: -6687591426121942302
+    second: Golurk_201
+  - first:
+      213: 6694273493623111101
+    second: Golurk_202
+  - first:
+      213: 982658952605337073
+    second: Golurk_203
+  - first:
+      213: -1656246141918120863
+    second: Golurk_204
+  - first:
+      213: 5168888088610147181
+    second: Golurk_205
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Golurk_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 946
+        width: 6
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44b0edc92a619d20800000000000000
+      internalID: 3283522331110061130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 949
+        width: 77
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ff5d2443ffa1510800000000000000
+      internalID: 1520808424115666836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 949
+        width: 77
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daed916255195c360800000000000000
+      internalID: 7189312175064342189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_3
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 949
+        width: 77
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419ce1b46f3192a90800000000000000
+      internalID: -7338312169280321260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_4
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 949
+        width: 77
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07699c69143f16cf0800000000000000
+      internalID: -260659840382560656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_5
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 949
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f05c920f14ca6430800000000000000
+      internalID: 3777046874970411249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_6
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 949
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69936b129d5ee17b0800000000000000
+      internalID: -5251507394731165290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_7
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 949
+        width: 79
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8442259d91067a0800000000000000
+      internalID: -6386075850434656063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_8
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 949
+        width: 79
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3edf1ae17104ce0800000000000000
+      internalID: -1423112061914848287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_9
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 845
+        width: 81
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd365d28b7e14fd60800000000000000
+      internalID: 7922991160276378587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_10
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 845
+        width: 79
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f8691ea3d93a740800000000000000
+      internalID: 5162142474115124995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_11
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 845
+        width: 79
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4b6b67a39c3fef0800000000000000
+      internalID: -75495515798194994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_12
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 845
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6fdcdd128dacb30800000000000000
+      internalID: 4308493633500083924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_13
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 845
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab8b57ad37919c50800000000000000
+      internalID: 6670278814169009063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_14
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 845
+        width: 77
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62085fe42b40af860800000000000000
+      internalID: 7564363687997571110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_15
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 845
+        width: 77
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634ba5e6ce2ff24e0800000000000000
+      internalID: -2004116211878939594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_16
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 845
+        width: 77
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b883c949743ec7f0800000000000000
+      internalID: -590476805605717839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_17
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 741
+        width: 77
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab0c0a05bc45dd30800000000000000
+      internalID: 4455551746794326948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_18
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 735
+        width: 6
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aaa11d449987a450800000000000000
+      internalID: 6099995490337794726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_19
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 735
+        width: 6
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1dd2072545f99400800000000000000
+      internalID: 331565724944489757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_20
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 741
+        width: 77
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3e4ef2a7d925610800000000000000
+      internalID: 1608521165039789036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_21
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 741
+        width: 77
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e55feb19686cb310800000000000000
+      internalID: 1422126382991758816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_22
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 741
+        width: 77
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc5eb8ee87d97a80800000000000000
+      internalID: -8468500615503389510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_23
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 741
+        width: 78
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b5c445505a93400800000000000000
+      internalID: 304455892131928895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_24
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 741
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82bb1e9e882b405c0800000000000000
+      internalID: -4250075847221724376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_25
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 741
+        width: 81
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e33b8146a49d5730800000000000000
+      internalID: 3989508286705251298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_26
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 741
+        width: 83
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92312dc199ac43690800000000000000
+      internalID: -7623245510269070551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_27
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 637
+        width: 83
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903c69a38388fe2c0800000000000000
+      internalID: -4400148535835180279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 637
+        width: 83
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b2f8823f12b39b0800000000000000
+      internalID: -5099444824825713920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_29
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 637
+        width: 83
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4fea11984631a30800000000000000
+      internalID: 4184799018627298488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_30
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 637
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868064e05de92e860800000000000000
+      internalID: 7557777762585806952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_31
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 637
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba741fbe45269f70800000000000000
+      internalID: 9193576709466913466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_32
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 637
+        width: 78
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42668e6d5d3e89a0800000000000000
+      internalID: -6228973763111263665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_33
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 637
+        width: 77
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568b02840b44d30f0800000000000000
+      internalID: -1135676007112460187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_34
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 637
+        width: 77
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31eb8b19a41bb0960800000000000000
+      internalID: 7569338532556750355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 520
+        width: 904
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ef19f0fa8c14880800000000000000
+      internalID: -8628394756859101695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_36
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 533
+        width: 77
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833f75a25e98ae880800000000000000
+      internalID: -8580894522650135752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_37
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 528
+        width: 6
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d3ca0602013c920800000000000000
+      internalID: 3009266707260521744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_38
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 533
+        width: 77
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3bd38e8beed7fe0800000000000000
+      internalID: -1189532248618191937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_39
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 602
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cdab86325ddb50a0800000000000000
+      internalID: -6891671459588231737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_40
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 602
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dfce31a4f4e8d3c0800000000000000
+      internalID: -4334462902015701034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_41
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 602
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b257659cb92302750800000000000000
+      internalID: 6278073525233677611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_42
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 602
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fd08129e7c38b70800000000000000
+      internalID: 8900177092717633302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_43
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 602
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4adf23d98b251ac20800000000000000
+      internalID: 3215942561784069540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_44
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 602
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e220d0655c97e60800000000000000
+      internalID: 7960610789730168426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_45
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 602
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03eb27e3eb60ab410800000000000000
+      internalID: 1493513640588000816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_46
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 602
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c6fd19e9b652070800000000000000
+      internalID: 8080983435182566534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_47
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 602
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758011f2c94826920800000000000000
+      internalID: 2982091709612099671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_48
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 602
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301ec9ba552d75e10800000000000000
+      internalID: 2186447409504903427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_49
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 602
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ae328c2242c2b20800000000000000
+      internalID: 3110901174411454995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_50
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 602
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5b776eaad630dd0800000000000000
+      internalID: -2521050785618872863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_51
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 602
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d20babaf8c88bf60800000000000000
+      internalID: 8050338882613084881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_52
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 602
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3faee5cce064c8e30800000000000000
+      internalID: 4507054356463282931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_53
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 600
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd79e4ddfa8cb6930800000000000000
+      internalID: 4137621340327679965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_54
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 602
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0c149cc18ef2cb0800000000000000
+      internalID: -4886431860340440928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_55
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 602
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7445412673ce280800000000000000
+      internalID: -9012767859887814683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_56
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 602
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc011086af18af550800000000000000
+      internalID: 6195407149888245964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_57
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 602
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ab824b56ecb80c0800000000000000
+      internalID: -4572334060455020024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_58
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 584
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab793c53d70dca590800000000000000
+      internalID: -7661519629872556102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_59
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 586
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43946012fb9d8f70800000000000000
+      internalID: 9191173878492468045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_60
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 584
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ee4720bf5089070800000000000000
+      internalID: 8113241304344096330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_61
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 586
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc58571ab3ab1a80800000000000000
+      internalID: -8495016252453397253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_62
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 586
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe53f513d58e3b900800000000000000
+      internalID: 699157854130484719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_63
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 586
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e384742a222da66d0800000000000000
+      internalID: -2996351555868342210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_64
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 586
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce0154a7e8042dc0800000000000000
+      internalID: -3664794405785497918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_65
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 586
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9336d7e96834dfc70800000000000000
+      internalID: 9006429075274556217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_66
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 586
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e68fbefc9897d020800000000000000
+      internalID: 2366527929262769890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_67
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 586
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f881706c0ec92de0800000000000000
+      internalID: -1357327260122511116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_68
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 586
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f12c8fbf73aad70800000000000000
+      internalID: 9055111556131594082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_69
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 586
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1500f863582b600b0800000000000000
+      internalID: -5762722387958235055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_70
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 586
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac630e21a6d73ccf0800000000000000
+      internalID: -233204861156444470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_71
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 586
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba77b651a01981b0800000000000000
+      internalID: -5653969572056302914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_72
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 591
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c79af88b57a97c0800000000000000
+      internalID: -4063806278203769775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_73
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 591
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f3f02fa85111c60800000000000000
+      internalID: 7787028917211053975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_74
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 589
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34886077e5b8ba70800000000000000
+      internalID: 8843017873969939514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_75
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 591
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2557a9487d6da090800000000000000
+      internalID: -8021634997877779154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_76
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 591
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4d330c0af4d4a70800000000000000
+      internalID: 8812787597671912693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_77
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 591
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f6a75a964829d40800000000000000
+      internalID: 5589675676802903851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_78
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 591
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebb39931af9b92e0800000000000000
+      internalID: -2117923684943152160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_79
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 591
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db42fbd6340397580800000000000000
+      internalID: -8828972528320961347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_80
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 591
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4369830df57959670800000000000000
+      internalID: 8544902305776440884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_81
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 591
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67581a4209cc294d0800000000000000
+      internalID: -3129213871607151242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_82
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 591
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45408de48d9f46410800000000000000
+      internalID: 1469574085860656212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_83
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 570
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c593a7abbc23f16b0800000000000000
+      internalID: -5323480383940314788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_84
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 575
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66cf9317170dabaf0800000000000000
+      internalID: -379762032909878170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_85
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 575
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32aa19483549ce4e0800000000000000
+      internalID: -1951021452130932189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_86
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 575
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7378a98662065590800000000000000
+      internalID: -7685953074641734788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_87
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 575
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318e7bc3cffd58640800000000000000
+      internalID: 5081714029000910867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_88
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 575
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed8fcd5f24440900800000000000000
+      internalID: 649719216476229091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_89
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 555
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4587e02524ca33b0800000000000000
+      internalID: -5531893528526355124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_90
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 555
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00370b22e292fa50800000000000000
+      internalID: 6553461907859648523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_91
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 555
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ce7a73b4325a5c0800000000000000
+      internalID: -4204915871117218794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_92
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 555
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284fb98ebd33e5020800000000000000
+      internalID: 2332358676617884802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_93
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 555
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a9a5e03563b2a30800000000000000
+      internalID: 4191503608549382781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_94
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 555
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c65fb56455a6dd0800000000000000
+      internalID: -2492085683117265767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_95
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 555
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fec1c36afe892d80800000000000000
+      internalID: -8274925634249961743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_96
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 555
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96299646c4372dd0800000000000000
+      internalID: -2510980241043151202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_97
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 555
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e4f877f74f74500800000000000000
+      internalID: 380541521840000532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_98
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 555
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0ea676c27b6e370800000000000000
+      internalID: 8351563960346665214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_99
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 555
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0556da54f053981d0800000000000000
+      internalID: -3348086508263479984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_100
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 555
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0cf191621ab0070800000000000000
+      internalID: 8073723941994086607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_101
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 555
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820896e0cc898ebb0800000000000000
+      internalID: -4906503791837609944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_102
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 555
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95d468645b8b5080800000000000000
+      internalID: -9197604619329153636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_103
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 555
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68bc3ef291331f630800000000000000
+      internalID: 3959001730706033542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_104
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 553
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc67c0b649f738f0800000000000000
+      internalID: -560705546575450937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_105
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 555
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f272f37bfe0f81f0800000000000000
+      internalID: -1040596515754446094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_106
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 555
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bfff96413568de0800000000000000
+      internalID: -1331285292698567792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_107
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 555
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ba6d0b63e2cec40800000000000000
+      internalID: 5542856053816208227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_108
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 555
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ad06f0cac805540800000000000000
+      internalID: 4994646657374149238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_109
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 552
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a6372244e534680800000000000000
+      internalID: -8772064002458817940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_110
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 535
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0749d513633523d40800000000000000
+      internalID: 5562599981977539696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_111
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 535
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2608bef4158a7f210800000000000000
+      internalID: 1366746079116886114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_112
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 535
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743dbbe7d2ac55420800000000000000
+      internalID: 2618221055134389063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_113
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 533
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212eccbf9e9af5510800000000000000
+      internalID: 1540136420000981522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_114
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 537
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bff4cdb10dbfb30800000000000000
+      internalID: 4322277085471046426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_115
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 539
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0749a0ea3172fc390800000000000000
+      internalID: -7795969464477248400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_116
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 537
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ffebb5754fed4da0800000000000000
+      internalID: -5958843650334265355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_117
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 539
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff3f36f6dcafeb60800000000000000
+      internalID: 7777625120746455025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_118
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 539
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d293147bcc2cbf0800000000000000
+      internalID: -305456737262424815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_119
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 539
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e93d5c04e47208f0800000000000000
+      internalID: -575769279541200412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_120
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 539
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae62cdf36b2286820800000000000000
+      internalID: 2911615325245810410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_121
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 539
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e337a3edc2a6dd290800000000000000
+      internalID: -7864012633379540162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_122
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 539
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a8f563bda78d0e0800000000000000
+      internalID: -2244909332315534773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_123
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 539
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e899b30029891a0800000000000000
+      internalID: -6802526707445559729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_124
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 539
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50dff77778ef0ad20800000000000000
+      internalID: 3287907585759378693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_125
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 539
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0835a8b7d7dd1380800000000000000
+      internalID: -8998799158900606962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_126
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 539
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04212621cc129ef70800000000000000
+      internalID: 9216935272755892800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_127
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 539
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5333e9713e4a6e450800000000000000
+      internalID: 6117758439090172725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_128
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 424
+        width: 6
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4478ef87268da40800000000000000
+      internalID: 5393168825582044400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_129
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 428
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a673fa0a5879f360800000000000000
+      internalID: 7203921407081936548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_130
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 428
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1d0f3a669564b20800000000000000
+      internalID: 3118278089372651940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_131
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 428
+        width: 71
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb52f65a2b75a290800000000000000
+      internalID: -7879756551237248077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_132
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 428
+        width: 71
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1578a9ed232549af0800000000000000
+      internalID: -390596889237878959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_133
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 428
+        width: 70
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a59fd891ebb62a00800000000000000
+      internalID: 731478567101109668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_134
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 428
+        width: 70
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ca0b7624ed81880800000000000000
+      internalID: -8639911508321457003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_135
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 428
+        width: 71
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515190837f9e56c80800000000000000
+      internalID: -8329994687745551083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_136
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 428
+        width: 71
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5a9175d61750460800000000000000
+      internalID: 7207291493103019469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_137
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 324
+        width: 73
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4181ff33512b130800000000000000
+      internalID: 3580947966780249298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_138
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 324
+        width: 71
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe70a39ee791c160800000000000000
+      internalID: 7044078343118946040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_139
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 324
+        width: 71
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ce99037fe19fe30800000000000000
+      internalID: 4537692146573634705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_140
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 324
+        width: 70
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f223b58a7dc8a4e70800000000000000
+      internalID: 9100240854925914671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_141
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 324
+        width: 70
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa012214b1566560800000000000000
+      internalID: 7306617279295326889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_142
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 324
+        width: 71
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb7357dbaf9ae900800000000000000
+      internalID: 714559051292441577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_143
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 324
+        width: 71
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970dae755f7f7ce10800000000000000
+      internalID: 2218013974617313401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_144
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 324
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b75d3c4159dc1f0800000000000000
+      internalID: -1022997623925802093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_145
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 220
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c246e779eb70ed4a0800000000000000
+      internalID: -6566802691492781012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_146
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 215
+        width: 6
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8cb557657551bf90800000000000000
+      internalID: -6939671588068017013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_147
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 215
+        width: 6
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f019ce3eeef5a7a60800000000000000
+      internalID: 7672550394809848079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_148
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 220
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6325fec8e8012b7e0800000000000000
+      internalID: -1751319100657806794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_149
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 220
+        width: 69
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ccf2fdf30637c250800000000000000
+      internalID: 5964795622248873154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_150
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 220
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6041d59bc81bcaa0800000000000000
+      internalID: -6139786404318592914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_151
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 220
+        width: 73
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6366e5626ab77ba0800000000000000
+      internalID: -6091195039216147605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_152
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 220
+        width: 73
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e57ff9bcc5a43d0800000000000000
+      internalID: -3221660553798263178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_153
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 220
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ec7ce093a30dde0800000000000000
+      internalID: -1310483474829292014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_154
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 220
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b88ef0bf93bfeaf0800000000000000
+      internalID: -364875546343077705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_155
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 116
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705a259acf2d050a0800000000000000
+      internalID: -6894779046889872121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_156
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 116
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a15bfc60ac0fb1d0800000000000000
+      internalID: -3332931316068167259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_157
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 116
+        width: 75
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cff08cc02b298f90800000000000000
+      internalID: -6950977129999695933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_158
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 116
+        width: 75
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8383a39401ade1580800000000000000
+      internalID: -8854400053880932296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_159
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 116
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699e4a8347b493be0800000000000000
+      internalID: -1497082438585357930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_160
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 116
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98c0f0e526d5cfc0800000000000000
+      internalID: -3475136079270459234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_161
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 116
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8a4cfc58ef804a0800000000000000
+      internalID: -6626767001005807434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_162
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 116
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca24b37719dfd2b0800000000000000
+      internalID: -5557484720403240247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_163
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 109
+        width: 6
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50c09ba550bcff80800000000000000
+      internalID: -8071382550157672353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_164
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 16
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf4b4882e557eec0800000000000000
+      internalID: -3537764550838628404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_165
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 57
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c784373c3a19d10800000000000000
+      internalID: 2130664158571035701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_166
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 55
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd436450e6ccba40800000000000000
+      internalID: 5385397921219038660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_167
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 55
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4db5a37db4b9bc0800000000000000
+      internalID: -3775340474850880310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_168
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 57
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0494e33292c257070800000000000000
+      internalID: 8103431659719641408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_169
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 57
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c984ff6c8516d4880800000000000000
+      internalID: -8625130677420996452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_170
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 57
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ff8ec1c6c772ac0800000000000000
+      internalID: -3879995750173049004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_171
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 55
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4954d08cd52a952f0800000000000000
+      internalID: -983576519931771500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_172
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 57
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6920534c4b7fd56d0800000000000000
+      internalID: -2999969421000899946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_173
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 57
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544a7faf4bb09cad0800000000000000
+      internalID: -2681599231189867451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_174
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 57
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b6bab2c3a7544f0800000000000000
+      internalID: -845134956212819081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_175
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 57
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e084688d49ca36220800000000000000
+      internalID: 2478013975271720974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_176
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 57
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a5cc837f8232be0800000000000000
+      internalID: -1503312808336664021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_177
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 38
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d6354c488b06000800000000000000
+      internalID: 27224478133218719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_178
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 38
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a199a746f8cd65f0800000000000000
+      internalID: -761731801865940572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_179
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 38
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c263aa20c602289b0800000000000000
+      internalID: -5079461781447231956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_180
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 38
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181c186e5aa5f3c70800000000000000
+      internalID: 8952974252819202433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_181
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 38
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3b8e9699e4cc260800000000000000
+      internalID: 7119151531779732432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_182
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 38
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a051686cde8af9340800000000000000
+      internalID: 4872799061029557514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_183
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 38
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f1ecde644ba8da0800000000000000
+      internalID: -5941738541631529078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_184
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 38
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047e040bdc62159f0800000000000000
+      internalID: -481561020284737728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_185
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 38
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6be6bd4652916c30800000000000000
+      internalID: 4350919614385285996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_186
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 38
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800651557f46d3c10800000000000000
+      internalID: 2034893620088496136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_187
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 38
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c05a871e4dbe830800000000000000
+      internalID: 4101605950507781259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_188
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 38
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04b598f45b49c2a0800000000000000
+      internalID: -6716754540926487538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_189
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 38
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff99d10325d4ee50800000000000000
+      internalID: 6837824480586866672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_190
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 36
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16445178a74fe2d80800000000000000
+      internalID: -8273406658343517087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_191
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 19
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136c6e671cb8836d0800000000000000
+      internalID: -3010502687857392079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_192
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 19
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4fddcf26bf744120800000000000000
+      internalID: 2397181322130743114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_193
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 19
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a18201bd26e9cc60800000000000000
+      internalID: 7839049710332707236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_194
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 19
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4fda44aecb29e590800000000000000
+      internalID: -7644530725965078707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_195
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 19
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a504e323889aaf0800000000000000
+      internalID: -384626543789319656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_196
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 19
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ae91d512a97c6f0800000000000000
+      internalID: -664392951927281081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_197
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 19
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48cdf9679b9ebf6d0800000000000000
+      internalID: -2955511747670188924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_198
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 19
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836ad77c7484319d0800000000000000
+      internalID: -2804818669794908616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_199
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 19
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61bf4284a2ad9ac0800000000000000
+      internalID: -3846739679259938454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_200
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 19
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430ad236267963760800000000000000
+      internalID: 7437298283475476532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_201
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 17
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eabd03c707e033a0800000000000000
+      internalID: -6687591426121942302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_202
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 19
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdf7b05646d6ec50800000000000000
+      internalID: 6694273493623111101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_203
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 19
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5066d6c1b13ad00800000000000000
+      internalID: 982658952605337073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_204
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 19
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164fb5ab8e4d309e0800000000000000
+      internalID: -1656246141918120863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golurk_205
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 19
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b0b55a4549bb740800000000000000
+      internalID: 5168888088610147181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

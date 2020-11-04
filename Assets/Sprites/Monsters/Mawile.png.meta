@@ -1,0 +1,7568 @@
+fileFormatVersion: 2
+guid: 6155f136d72c0b842be3998fddddf74b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4417838004219909995
+    second: Mawile_0
+  - first:
+      213: -3114098277968875466
+    second: Mawile_1
+  - first:
+      213: 8754803044839585772
+    second: Mawile_2
+  - first:
+      213: -2244228797097541872
+    second: Mawile_3
+  - first:
+      213: 1579707317472486137
+    second: Mawile_4
+  - first:
+      213: 4388727349601374295
+    second: Mawile_5
+  - first:
+      213: 2641802353551447271
+    second: Mawile_6
+  - first:
+      213: -8718476369201911578
+    second: Mawile_7
+  - first:
+      213: 8143884768451386057
+    second: Mawile_8
+  - first:
+      213: -6673889649100234397
+    second: Mawile_9
+  - first:
+      213: -6817587229726834063
+    second: Mawile_10
+  - first:
+      213: 2937171496286841555
+    second: Mawile_11
+  - first:
+      213: 2867875050228219195
+    second: Mawile_12
+  - first:
+      213: 5795198922014797195
+    second: Mawile_13
+  - first:
+      213: -2425762635969440328
+    second: Mawile_14
+  - first:
+      213: 3097032857753250831
+    second: Mawile_15
+  - first:
+      213: 798686552587044402
+    second: Mawile_16
+  - first:
+      213: 20967672918298802
+    second: Mawile_17
+  - first:
+      213: -7756678634966983841
+    second: Mawile_18
+  - first:
+      213: 7003057963832374063
+    second: Mawile_19
+  - first:
+      213: 2124157417391136704
+    second: Mawile_20
+  - first:
+      213: 214872687071820559
+    second: Mawile_21
+  - first:
+      213: -8431555726303183260
+    second: Mawile_22
+  - first:
+      213: 2263036085457163122
+    second: Mawile_23
+  - first:
+      213: 8154519313739939011
+    second: Mawile_24
+  - first:
+      213: 2002739731390827485
+    second: Mawile_25
+  - first:
+      213: -4642026871546951370
+    second: Mawile_26
+  - first:
+      213: 3988674161366790054
+    second: Mawile_27
+  - first:
+      213: -4007867663079702777
+    second: Mawile_28
+  - first:
+      213: 8626371278165498989
+    second: Mawile_29
+  - first:
+      213: -5973431320904021327
+    second: Mawile_30
+  - first:
+      213: -3086880326552281447
+    second: Mawile_31
+  - first:
+      213: -8772291522710406825
+    second: Mawile_32
+  - first:
+      213: 311872020554270950
+    second: Mawile_33
+  - first:
+      213: -4889387693931466261
+    second: Mawile_34
+  - first:
+      213: -4923544732219043177
+    second: Mawile_35
+  - first:
+      213: 3490971101068378659
+    second: Mawile_36
+  - first:
+      213: -1688179950241850705
+    second: Mawile_37
+  - first:
+      213: 8919768312591728753
+    second: Mawile_38
+  - first:
+      213: -3088579046350978364
+    second: Mawile_39
+  - first:
+      213: 4794101900755228461
+    second: Mawile_40
+  - first:
+      213: 6180486748990183479
+    second: Mawile_41
+  - first:
+      213: 903594223047864681
+    second: Mawile_42
+  - first:
+      213: -8879018420728847377
+    second: Mawile_43
+  - first:
+      213: 2055333784104008263
+    second: Mawile_44
+  - first:
+      213: -6135962779380682011
+    second: Mawile_45
+  - first:
+      213: -2884838617105424006
+    second: Mawile_46
+  - first:
+      213: 1180925150432726644
+    second: Mawile_47
+  - first:
+      213: 8012457130784781502
+    second: Mawile_48
+  - first:
+      213: 1487401531982243940
+    second: Mawile_49
+  - first:
+      213: 3785507853543649831
+    second: Mawile_50
+  - first:
+      213: -1818564307044586207
+    second: Mawile_51
+  - first:
+      213: -7913676714636571721
+    second: Mawile_52
+  - first:
+      213: -1251850653701862885
+    second: Mawile_53
+  - first:
+      213: 4392480365356368605
+    second: Mawile_54
+  - first:
+      213: 3505347868156879618
+    second: Mawile_55
+  - first:
+      213: 8380490654097606098
+    second: Mawile_56
+  - first:
+      213: 8248001009362893127
+    second: Mawile_57
+  - first:
+      213: -6825312232183334063
+    second: Mawile_58
+  - first:
+      213: -8130460364755793281
+    second: Mawile_59
+  - first:
+      213: 6266346503916901876
+    second: Mawile_60
+  - first:
+      213: -5708552771075014143
+    second: Mawile_61
+  - first:
+      213: -818442300366449699
+    second: Mawile_62
+  - first:
+      213: 6735402026243780111
+    second: Mawile_63
+  - first:
+      213: -1283690125957759021
+    second: Mawile_64
+  - first:
+      213: -4450702657215726102
+    second: Mawile_65
+  - first:
+      213: -6907248066075590309
+    second: Mawile_66
+  - first:
+      213: -1865845326506123931
+    second: Mawile_67
+  - first:
+      213: -3011873921725223050
+    second: Mawile_68
+  - first:
+      213: 8693514940577299781
+    second: Mawile_69
+  - first:
+      213: 9131729869070408043
+    second: Mawile_70
+  - first:
+      213: -5343492067274250497
+    second: Mawile_71
+  - first:
+      213: -5378691504066359823
+    second: Mawile_72
+  - first:
+      213: 7190714927470455129
+    second: Mawile_73
+  - first:
+      213: -3574310848717602991
+    second: Mawile_74
+  - first:
+      213: 5424031643188104012
+    second: Mawile_75
+  - first:
+      213: 2101683693296152576
+    second: Mawile_76
+  - first:
+      213: 8816245016216771002
+    second: Mawile_77
+  - first:
+      213: 143889337187885089
+    second: Mawile_78
+  - first:
+      213: -2373424016915334422
+    second: Mawile_79
+  - first:
+      213: -2577289539456383504
+    second: Mawile_80
+  - first:
+      213: 6758844264723610147
+    second: Mawile_81
+  - first:
+      213: 5029638801353565508
+    second: Mawile_82
+  - first:
+      213: 3166518089364143211
+    second: Mawile_83
+  - first:
+      213: 4225554697358938345
+    second: Mawile_84
+  - first:
+      213: 2150846606543977504
+    second: Mawile_85
+  - first:
+      213: -7534563198619421098
+    second: Mawile_86
+  - first:
+      213: 1109398813238699843
+    second: Mawile_87
+  - first:
+      213: 4935277823047556110
+    second: Mawile_88
+  - first:
+      213: 1197964794349190637
+    second: Mawile_89
+  - first:
+      213: 5603200522133211233
+    second: Mawile_90
+  - first:
+      213: 4236280723655824988
+    second: Mawile_91
+  - first:
+      213: -1424145745198625688
+    second: Mawile_92
+  - first:
+      213: 130659242757019712
+    second: Mawile_93
+  - first:
+      213: 8872847170668454592
+    second: Mawile_94
+  - first:
+      213: 2207792419458979105
+    second: Mawile_95
+  - first:
+      213: 8061599598161079424
+    second: Mawile_96
+  - first:
+      213: -3645703876921340981
+    second: Mawile_97
+  - first:
+      213: 3221242123254968796
+    second: Mawile_98
+  - first:
+      213: 4743220750605745170
+    second: Mawile_99
+  - first:
+      213: -8940713374365670630
+    second: Mawile_100
+  - first:
+      213: 8006737990748567968
+    second: Mawile_101
+  - first:
+      213: -1923014663548559585
+    second: Mawile_102
+  - first:
+      213: 5184016655470458758
+    second: Mawile_103
+  - first:
+      213: -3977574441220301527
+    second: Mawile_104
+  - first:
+      213: 474081970719473440
+    second: Mawile_105
+  - first:
+      213: 1021293929075421114
+    second: Mawile_106
+  - first:
+      213: -6652981101720488544
+    second: Mawile_107
+  - first:
+      213: -1448756052185128459
+    second: Mawile_108
+  - first:
+      213: 4104273128117897651
+    second: Mawile_109
+  - first:
+      213: -2101529831030434275
+    second: Mawile_110
+  - first:
+      213: -4128732047411012598
+    second: Mawile_111
+  - first:
+      213: 8544229249962406284
+    second: Mawile_112
+  - first:
+      213: -7745270884761757185
+    second: Mawile_113
+  - first:
+      213: -5974357090393181956
+    second: Mawile_114
+  - first:
+      213: -3687168124679874801
+    second: Mawile_115
+  - first:
+      213: 4383428738330612531
+    second: Mawile_116
+  - first:
+      213: 2460476429097799792
+    second: Mawile_117
+  - first:
+      213: -3688013010252794203
+    second: Mawile_118
+  - first:
+      213: -4264468790961970034
+    second: Mawile_119
+  - first:
+      213: 8358799706344076078
+    second: Mawile_120
+  - first:
+      213: 4976513647000522678
+    second: Mawile_121
+  - first:
+      213: -4300227375063727579
+    second: Mawile_122
+  - first:
+      213: 6912464006777548001
+    second: Mawile_123
+  - first:
+      213: -5502718664014550873
+    second: Mawile_124
+  - first:
+      213: -3971467139865239050
+    second: Mawile_125
+  - first:
+      213: -6643381605337590160
+    second: Mawile_126
+  - first:
+      213: 4477557054597857428
+    second: Mawile_127
+  - first:
+      213: 3728824923203089825
+    second: Mawile_128
+  - first:
+      213: 1350992917633274515
+    second: Mawile_129
+  - first:
+      213: 470235665704852025
+    second: Mawile_130
+  - first:
+      213: -8629667593537863518
+    second: Mawile_131
+  - first:
+      213: -4485218881907824864
+    second: Mawile_132
+  - first:
+      213: -1127953061588620376
+    second: Mawile_133
+  - first:
+      213: -3383153787018790404
+    second: Mawile_134
+  - first:
+      213: 994370783731775998
+    second: Mawile_135
+  - first:
+      213: -8815624884592784752
+    second: Mawile_136
+  - first:
+      213: 3739195629076733113
+    second: Mawile_137
+  - first:
+      213: -4213772089068569922
+    second: Mawile_138
+  - first:
+      213: -1518406590342982332
+    second: Mawile_139
+  - first:
+      213: 2189360070993749016
+    second: Mawile_140
+  - first:
+      213: -720740358293295745
+    second: Mawile_141
+  - first:
+      213: 4325125897016727118
+    second: Mawile_142
+  - first:
+      213: 2999963578551458360
+    second: Mawile_143
+  - first:
+      213: -4999339673395037189
+    second: Mawile_144
+  - first:
+      213: 6762065830288042341
+    second: Mawile_145
+  - first:
+      213: 731396980801407924
+    second: Mawile_146
+  - first:
+      213: 8167155951341460443
+    second: Mawile_147
+  - first:
+      213: 2318910032695904455
+    second: Mawile_148
+  - first:
+      213: -1445819754234208624
+    second: Mawile_149
+  - first:
+      213: 1662895383380306680
+    second: Mawile_150
+  - first:
+      213: 8099947053918039394
+    second: Mawile_151
+  - first:
+      213: 3857980121154451854
+    second: Mawile_152
+  - first:
+      213: 5753561143183970543
+    second: Mawile_153
+  - first:
+      213: -6721384968980555463
+    second: Mawile_154
+  - first:
+      213: 197985117693354985
+    second: Mawile_155
+  - first:
+      213: -9053393915138710178
+    second: Mawile_156
+  - first:
+      213: 4122429249544044564
+    second: Mawile_157
+  - first:
+      213: 4180801128485853915
+    second: Mawile_158
+  - first:
+      213: -9095382466152485659
+    second: Mawile_159
+  - first:
+      213: 2918340955206045846
+    second: Mawile_160
+  - first:
+      213: -7034733929430644766
+    second: Mawile_161
+  - first:
+      213: -1626633015518506354
+    second: Mawile_162
+  - first:
+      213: -1913025631992524412
+    second: Mawile_163
+  - first:
+      213: -5732197062367358326
+    second: Mawile_164
+  - first:
+      213: 808220931156789571
+    second: Mawile_165
+  - first:
+      213: -5860111815361960459
+    second: Mawile_166
+  - first:
+      213: -621484839473936856
+    second: Mawile_167
+  - first:
+      213: -635011099582054480
+    second: Mawile_168
+  - first:
+      213: 1043018957726974735
+    second: Mawile_169
+  - first:
+      213: 8455527827933898366
+    second: Mawile_170
+  - first:
+      213: 6489395546895616821
+    second: Mawile_171
+  - first:
+      213: 2371458980409241861
+    second: Mawile_172
+  - first:
+      213: 8935104331193741676
+    second: Mawile_173
+  - first:
+      213: -3411605106060316465
+    second: Mawile_174
+  - first:
+      213: 3249835179369922775
+    second: Mawile_175
+  - first:
+      213: 3625206078504963138
+    second: Mawile_176
+  - first:
+      213: -6733856453162368804
+    second: Mawile_177
+  - first:
+      213: 1162507562775770221
+    second: Mawile_178
+  - first:
+      213: 7668562371858950927
+    second: Mawile_179
+  - first:
+      213: 1953671790251131661
+    second: Mawile_180
+  - first:
+      213: -6386032529302021333
+    second: Mawile_181
+  - first:
+      213: 7158538302504202734
+    second: Mawile_182
+  - first:
+      213: 5511152091771458980
+    second: Mawile_183
+  - first:
+      213: -2283920478965422855
+    second: Mawile_184
+  - first:
+      213: -3274817878613755168
+    second: Mawile_185
+  - first:
+      213: 5582736016397218083
+    second: Mawile_186
+  - first:
+      213: 6368395639492592915
+    second: Mawile_187
+  - first:
+      213: 7537507035709415485
+    second: Mawile_188
+  - first:
+      213: 3217276423313090948
+    second: Mawile_189
+  - first:
+      213: 6135766128301924552
+    second: Mawile_190
+  - first:
+      213: -4946478663971198756
+    second: Mawile_191
+  - first:
+      213: 4208421902396778549
+    second: Mawile_192
+  - first:
+      213: -8393107946169219569
+    second: Mawile_193
+  - first:
+      213: 6582259636826582216
+    second: Mawile_194
+  - first:
+      213: 3178620310698588219
+    second: Mawile_195
+  - first:
+      213: 2001104887329557452
+    second: Mawile_196
+  - first:
+      213: -902210095224552917
+    second: Mawile_197
+  - first:
+      213: 1778083373805404188
+    second: Mawile_198
+  - first:
+      213: -4315787656408357488
+    second: Mawile_199
+  - first:
+      213: -309432835129150366
+    second: Mawile_200
+  - first:
+      213: -250559100043237392
+    second: Mawile_201
+  - first:
+      213: -1359549478516815863
+    second: Mawile_202
+  - first:
+      213: -8962921339594875987
+    second: Mawile_203
+  - first:
+      213: 2698970088558189068
+    second: Mawile_204
+  - first:
+      213: 1411439554319914797
+    second: Mawile_205
+  - first:
+      213: -8195938345108878665
+    second: Mawile_206
+  - first:
+      213: -3600354681912814448
+    second: Mawile_207
+  - first:
+      213: 6906275237262927366
+    second: Mawile_208
+  - first:
+      213: 1565142636870636276
+    second: Mawile_209
+  - first:
+      213: 1228329911379290333
+    second: Mawile_210
+  - first:
+      213: -3703115304991558802
+    second: Mawile_211
+  - first:
+      213: -746073800441420716
+    second: Mawile_212
+  - first:
+      213: 8543828336273880409
+    second: Mawile_213
+  - first:
+      213: 5070348775567540099
+    second: Mawile_214
+  - first:
+      213: -463187326515535795
+    second: Mawile_215
+  - first:
+      213: 3692828115802815713
+    second: Mawile_216
+  - first:
+      213: -545495617600246725
+    second: Mawile_217
+  - first:
+      213: -248541208149490335
+    second: Mawile_218
+  - first:
+      213: -6770661523614535015
+    second: Mawile_219
+  - first:
+      213: 868192343488521429
+    second: Mawile_220
+  - first:
+      213: -3854857056656140679
+    second: Mawile_221
+  - first:
+      213: 5023225552960920395
+    second: Mawile_222
+  - first:
+      213: 231274724977245064
+    second: Mawile_223
+  - first:
+      213: -8796893302822912018
+    second: Mawile_224
+  - first:
+      213: 2060786792431121995
+    second: Mawile_225
+  - first:
+      213: 4542927160466432953
+    second: Mawile_226
+  - first:
+      213: 2854746121548360479
+    second: Mawile_227
+  - first:
+      213: -5487612455977021004
+    second: Mawile_228
+  - first:
+      213: -6749020745189583412
+    second: Mawile_229
+  - first:
+      213: -3342847390906585969
+    second: Mawile_230
+  - first:
+      213: 6477043942809183453
+    second: Mawile_231
+  - first:
+      213: -5125963287751031136
+    second: Mawile_232
+  - first:
+      213: 8850505020179719513
+    second: Mawile_233
+  - first:
+      213: -616884799089202196
+    second: Mawile_234
+  - first:
+      213: 9004365329360496522
+    second: Mawile_235
+  - first:
+      213: -144875697030543657
+    second: Mawile_236
+  - first:
+      213: -2223941488807706753
+    second: Mawile_237
+  - first:
+      213: 8389426206722977748
+    second: Mawile_238
+  - first:
+      213: -3412448415911698600
+    second: Mawile_239
+  - first:
+      213: 5158204460139426497
+    second: Mawile_240
+  - first:
+      213: -5396867839545261873
+    second: Mawile_241
+  - first:
+      213: -1568756527678000334
+    second: Mawile_242
+  - first:
+      213: -693215734244137217
+    second: Mawile_243
+  - first:
+      213: 7243511911072638550
+    second: Mawile_244
+  - first:
+      213: -4777593471018052240
+    second: Mawile_245
+  - first:
+      213: -7515030793139182403
+    second: Mawile_246
+  - first:
+      213: -2099242082496926431
+    second: Mawile_247
+  - first:
+      213: 3989967782851431399
+    second: Mawile_248
+  - first:
+      213: -788690664896746287
+    second: Mawile_249
+  - first:
+      213: -7206194915775433837
+    second: Mawile_250
+  - first:
+      213: -534013125953621550
+    second: Mawile_251
+  - first:
+      213: 8383589648074361492
+    second: Mawile_252
+  - first:
+      213: 1676963720342204830
+    second: Mawile_253
+  - first:
+      213: 1877406528907801282
+    second: Mawile_254
+  - first:
+      213: 1310365498540572288
+    second: Mawile_255
+  - first:
+      213: -8299244605766526979
+    second: Mawile_256
+  - first:
+      213: -2643183447698474120
+    second: Mawile_257
+  - first:
+      213: 2782754166937180456
+    second: Mawile_258
+  - first:
+      213: 3321362662928630664
+    second: Mawile_259
+  - first:
+      213: 6777743772644492025
+    second: Mawile_260
+  - first:
+      213: -730508736856250373
+    second: Mawile_261
+  - first:
+      213: -500005230465279699
+    second: Mawile_262
+  - first:
+      213: -1822720183448831952
+    second: Mawile_263
+  - first:
+      213: -7678341678582591867
+    second: Mawile_264
+  - first:
+      213: -5267115533020236794
+    second: Mawile_265
+  - first:
+      213: -3523323370194211334
+    second: Mawile_266
+  - first:
+      213: 4631391159156019032
+    second: Mawile_267
+  - first:
+      213: -1995067680457521454
+    second: Mawile_268
+  - first:
+      213: -5126737964468618014
+    second: Mawile_269
+  - first:
+      213: -2657754186535681474
+    second: Mawile_270
+  - first:
+      213: -6263999669349895715
+    second: Mawile_271
+  - first:
+      213: -5010266972111101004
+    second: Mawile_272
+  - first:
+      213: -7600184282235084340
+    second: Mawile_273
+  - first:
+      213: -1179432799260313114
+    second: Mawile_274
+  - first:
+      213: -6209054278807034691
+    second: Mawile_275
+  - first:
+      213: 541015120098443101
+    second: Mawile_276
+  - first:
+      213: 2919974732220983551
+    second: Mawile_277
+  - first:
+      213: 2319447706662534531
+    second: Mawile_278
+  - first:
+      213: 3659896174768420851
+    second: Mawile_279
+  - first:
+      213: 2918141410920785983
+    second: Mawile_280
+  - first:
+      213: -8015793927408654776
+    second: Mawile_281
+  - first:
+      213: 163681908042076908
+    second: Mawile_282
+  - first:
+      213: 6613422880916231374
+    second: Mawile_283
+  - first:
+      213: -8843840840766835549
+    second: Mawile_284
+  - first:
+      213: 7588714127631361445
+    second: Mawile_285
+  - first:
+      213: 3542619791831468232
+    second: Mawile_286
+  - first:
+      213: -6491132032374796290
+    second: Mawile_287
+  - first:
+      213: -8794314774394696051
+    second: Mawile_288
+  - first:
+      213: 6149606470077179361
+    second: Mawile_289
+  - first:
+      213: -190674484817589179
+    second: Mawile_290
+  - first:
+      213: 5219089753954863326
+    second: Mawile_291
+  - first:
+      213: -8020932370965211279
+    second: Mawile_292
+  - first:
+      213: 8582984349437603039
+    second: Mawile_293
+  - first:
+      213: -1132833311793651657
+    second: Mawile_294
+  - first:
+      213: -6218074540658232647
+    second: Mawile_295
+  - first:
+      213: -9147279035354356537
+    second: Mawile_296
+  - first:
+      213: 8589141962180239253
+    second: Mawile_297
+  - first:
+      213: -3093363942943618850
+    second: Mawile_298
+  - first:
+      213: 6989728149074487081
+    second: Mawile_299
+  - first:
+      213: 5230705738821981857
+    second: Mawile_300
+  - first:
+      213: -4050854602043049703
+    second: Mawile_301
+  - first:
+      213: -4430133840307314714
+    second: Mawile_302
+  - first:
+      213: -8830515519309299598
+    second: Mawile_303
+  - first:
+      213: 2407880620936821854
+    second: Mawile_304
+  - first:
+      213: -3083696070673148205
+    second: Mawile_305
+  - first:
+      213: 4626753434832858124
+    second: Mawile_306
+  - first:
+      213: -4793476395960900922
+    second: Mawile_307
+  - first:
+      213: 8880989601140557291
+    second: Mawile_308
+  - first:
+      213: 4637494643018598943
+    second: Mawile_309
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mawile_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 931
+        width: 4
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598604bedbfa0b2c0800000000000000
+      internalID: -4417838004219909995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 930
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630720a8d1088c4d0800000000000000
+      internalID: -3114098277968875466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 930
+        width: 58
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7fb2efbfe4f7970800000000000000
+      internalID: 8754803044839585772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 930
+        width: 60
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f7c4aacc5ead0e0800000000000000
+      internalID: -2244228797097541872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_4
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 931
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f268038f6f3ce510800000000000000
+      internalID: 1579707317472486137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_5
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 931
+        width: 63
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7501801a544e7ec30800000000000000
+      internalID: 4388727349601374295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_6
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 935
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e499326e3199a420800000000000000
+      internalID: 2641802353551447271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_7
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 935
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e825174fefb10780800000000000000
+      internalID: -8718476369201911578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_8
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 935
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca524b7c04e40170800000000000000
+      internalID: 8143884768451386057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_9
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 935
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361693359b49163a0800000000000000
+      internalID: -6673889649100234397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_10
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 935
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17284e229801361a0800000000000000
+      internalID: -6817587229726834063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_11
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 935
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da64900aede2c820800000000000000
+      internalID: 2937171496286841555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_12
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 935
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3dfe0dd92dbcc720800000000000000
+      internalID: 2867875050228219195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_13
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 935
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d2b6d17beac6050800000000000000
+      internalID: 5795198922014797195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_14
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 935
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b550ad1cb5f55ed0800000000000000
+      internalID: -2425762635969440328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_15
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 935
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c6810b9fedafa20800000000000000
+      internalID: 3097032857753250831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_16
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 935
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23605dd1031851b00800000000000000
+      internalID: 798686552587044402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_17
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 935
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0df08ccfd7a4000800000000000000
+      internalID: 20967672918298802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_18
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 935
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b5eedc0edba5490800000000000000
+      internalID: -7756678634966983841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_19
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 935
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23f2b34d1cdf2160800000000000000
+      internalID: 7003057963832374063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_20
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 935
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf1c96bae58a7d10800000000000000
+      internalID: 2124157417391136704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_21
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 935
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b79d802916bf200800000000000000
+      internalID: 214872687071820559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_22
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 935
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46eb9cd3db81dfa80800000000000000
+      internalID: -8431555726303183260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_23
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 912
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2739093645be76f10800000000000000
+      internalID: 2263036085457163122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_24
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 912
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ccf7818c1caa2170800000000000000
+      internalID: 8154519313739939011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_25
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 912
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb8c1bbc292bcb10800000000000000
+      internalID: 2002739731390827485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_26
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 912
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63940a3a725349fb0800000000000000
+      internalID: -4642026871546951370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_27
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 912
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afeb01540e9a5730800000000000000
+      internalID: 3988674161366790054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_28
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 912
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ffb5358913168c0800000000000000
+      internalID: -4007867663079702777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_29
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 912
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6cdfa719f607b770800000000000000
+      internalID: 8626371278165498989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_30
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 912
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bac25bbcdb1a1da0800000000000000
+      internalID: -5973431320904021327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_31
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 912
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e95bfa2b23925d0800000000000000
+      internalID: -3086880326552281447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_32
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 912
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759fca2765f824680800000000000000
+      internalID: -8772291522710406825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_33
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 912
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8458843fdf35400800000000000000
+      internalID: 311872020554270950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_34
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 912
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be17c062cc7652cb0800000000000000
+      internalID: -4889387693931466261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_35
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 912
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7929650f62e0cabb0800000000000000
+      internalID: -4923544732219043177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_36
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 912
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322c55078bb627030800000000000000
+      internalID: 3490971101068378659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_37
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 912
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faad5e497416298e0800000000000000
+      internalID: -1688179950241850705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_38
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 912
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170c0d6750269cb70800000000000000
+      internalID: 8919768312591728753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_39
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 912
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c20989a8b92325d0800000000000000
+      internalID: -3088579046350978364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_40
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 912
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d275a8b4742188240800000000000000
+      internalID: 4794101900755228461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_41
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 912
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738919cd3ff75c550800000000000000
+      internalID: 6180486748990183479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_42
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 912
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961fcdd88263a8c00800000000000000
+      internalID: 903594223047864681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_43
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 912
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3ae461ac367c480800000000000000
+      internalID: -8879018420728847377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_44
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 850
+        width: 64
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74af060ef23068c10800000000000000
+      internalID: 2055333784104008263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_45
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 851
+        width: 65
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2fef3ac5ea8daa0800000000000000
+      internalID: -6135962779380682011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_46
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 851
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a712a11ff8ef6f7d0800000000000000
+      internalID: -2884838617105424006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_47
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 851
+        width: 68
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e0ed1ea2d736010800000000000000
+      internalID: 1180925150432726644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_48
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 851
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4f8720f47f13f60800000000000000
+      internalID: 8012457130784781502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_49
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 889
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4686c2010df44a410800000000000000
+      internalID: 1487401531982243940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_50
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 889
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722bbe81653d88430800000000000000
+      internalID: 3785507853543649831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_51
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 889
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d276dd56923c6e0800000000000000
+      internalID: -1818564307044586207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_52
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 889
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb8eccd4f8fc2290800000000000000
+      internalID: -7913676714636571721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_53
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 889
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a824a867880aee0800000000000000
+      internalID: -1251850653701862885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_54
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 889
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2c1f3be9935fc30800000000000000
+      internalID: 4392480365356368605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_55
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 889
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203e9af505f75a030800000000000000
+      internalID: 3505347868156879618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_56
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 849
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d508f029db7d4470800000000000000
+      internalID: 8380490654097606098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_57
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 849
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749732ed739c67270800000000000000
+      internalID: 8248001009362893127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_58
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 849
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b7597dfae9741a0800000000000000
+      internalID: -6825312232183334063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_59
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 849
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a8652106dca2f80800000000000000
+      internalID: -8130460364755793281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_60
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 849
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f55a7dd1f886f650800000000000000
+      internalID: 6266346503916901876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_61
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 849
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102808aff7527c0b0800000000000000
+      internalID: -5708552771075014143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_62
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 849
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd31189601f44a4f0800000000000000
+      internalID: -818442300366449699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_63
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 849
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ee4b90574f87d50800000000000000
+      internalID: 6735402026243780111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_64
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 849
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df7c98b1aa6f2ee0800000000000000
+      internalID: -1283690125957759021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_65
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 849
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aedf4cb938deb32c0800000000000000
+      internalID: -4450702657215726102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_66
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 849
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b518f06ea768420a0800000000000000
+      internalID: -6907248066075590309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_67
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 849
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d97cbaf8f2b16e0800000000000000
+      internalID: -1865845326506123931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_68
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 849
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f2e4330aca336d0800000000000000
+      internalID: -3011873921725223050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_69
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 850
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d39aa37c195a870800000000000000
+      internalID: 8693514940577299781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_70
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 850
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6914c61feb6abe70800000000000000
+      internalID: 9131729869070408043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_71
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 850
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6200e964a18d5b0800000000000000
+      internalID: -5343492067274250497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_72
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 849
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd86b7139c0b55b0800000000000000
+      internalID: -5378691504066359823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_73
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 849
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959a9f4e02d8ac360800000000000000
+      internalID: 7190714927470455129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_74
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 849
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15fbc59783f756ec0800000000000000
+      internalID: -3574310848717602991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_75
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 849
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b84beaa08064b40800000000000000
+      internalID: 5424031643188104012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_76
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 849
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000f5211f2eaa2d10800000000000000
+      internalID: 2101683693296152576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_77
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 849
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9986cb128995a70800000000000000
+      internalID: 8816245016216771002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_78
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 849
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120ec0ef6923ff100800000000000000
+      internalID: 143889337187885089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_79
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 781
+        width: 65
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea716a7e67ef0fd0800000000000000
+      internalID: -2373424016915334422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_80
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 780
+        width: 64
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f54f55a1d0ab3cd0800000000000000
+      internalID: -2577289539456383504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_81
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 780
+        width: 63
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a79038c0d3ccd50800000000000000
+      internalID: 6758844264723610147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_82
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 826
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445633777dddcc540800000000000000
+      internalID: 5029638801353565508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_83
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 826
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6cf563ec6bb1fb20800000000000000
+      internalID: 3166518089364143211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_84
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 826
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0101bfb9f24aa30800000000000000
+      internalID: 4225554697358938345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_85
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 826
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c786dc79759dd10800000000000000
+      internalID: 2150846606543977504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_86
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 826
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656fe80d0badf6790800000000000000
+      internalID: -7534563198619421098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_87
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 826
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3472551c750656f00800000000000000
+      internalID: 1109398813238699843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_88
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 826
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0cdc962801ad7440800000000000000
+      internalID: 4935277823047556110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_89
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 826
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded7b9422a600a010800000000000000
+      internalID: 1197964794349190637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_90
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 826
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1688807103192cd40800000000000000
+      internalID: 5603200522133211233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_91
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 826
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5617569fda4aca30800000000000000
+      internalID: 4236280723655824988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_92
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 826
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c4d0d7dfa6c3ce0800000000000000
+      internalID: -1424145745198625688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_93
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 826
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048572793e130d100800000000000000
+      internalID: 130659242757019712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_94
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 826
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2e50acd7fa22b70800000000000000
+      internalID: 8872847170668454592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_95
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 826
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12517a31287a3ae10800000000000000
+      internalID: 2207792419458979105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_96
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 826
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ca2d15f1e80ef60800000000000000
+      internalID: 8061599598161079424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_97
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 826
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbc6d3c3abd76dc0800000000000000
+      internalID: -3645703876921340981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_98
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 826
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1332ce4a624bc20800000000000000
+      internalID: 3221242123254968796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_99
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 780
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21cfd1b542e43d140800000000000000
+      internalID: 4743220750605745170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_100
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 779
+        width: 60
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13a9525e843ce380800000000000000
+      internalID: -8940713374365670630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_101
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 787
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a97134f7c5ad1f60800000000000000
+      internalID: 8006737990748567968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_102
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 787
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f12512a541055e0800000000000000
+      internalID: -1923014663548559585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_103
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 785
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687760b9ea351f740800000000000000
+      internalID: 5184016655470458758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_104
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 785
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d146bae11dcc8c0800000000000000
+      internalID: -3977574441220301527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_105
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 785
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fb6236a07449600800000000000000
+      internalID: 474081970719473440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_106
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 785
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abfadcdda6d5c2e00800000000000000
+      internalID: 1021293929075421114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_107
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 785
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5309edfecdba3a0800000000000000
+      internalID: -6652981101720488544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_108
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 785
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1ee4fdb0cf4ebe0800000000000000
+      internalID: -1448756052185128459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_109
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 785
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b906a62aae45f830800000000000000
+      internalID: 4104273128117897651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_110
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 785
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d165b88c0cdd5d2e0800000000000000
+      internalID: -2101529831030434275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_111
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 785
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c9b4de31cc3b6c0800000000000000
+      internalID: -4128732047411012598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_112
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 785
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81f28bcb33339670800000000000000
+      internalID: 8544229249962406284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_113
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 785
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff99990aa25438490800000000000000
+      internalID: -7745270884761757185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_114
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 785
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf037c931e1d61da0800000000000000
+      internalID: -5974357090393181956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_115
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 785
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f071055402c84dcc0800000000000000
+      internalID: -3687168124679874801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_116
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 785
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3335f6e863115dc30800000000000000
+      internalID: 4383428738330612531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_117
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 785
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070989ea64e552220800000000000000
+      internalID: 2460476429097799792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_118
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 785
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6fcd405bb81dcc0800000000000000
+      internalID: -3688013010252794203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_119
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 785
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84e8fe8a3091d4c0800000000000000
+      internalID: -4264468790961970034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_120
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 785
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23374dcb0c600470800000000000000
+      internalID: 8358799706344076078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_121
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 785
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf89559bc0201540800000000000000
+      internalID: 4976513647000522678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_122
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 785
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5228ae76cf58254c0800000000000000
+      internalID: -4300227375063727579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_123
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 785
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec26aee3610eef50800000000000000
+      internalID: 6912464006777548001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_124
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 785
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8208c978a62a3b0800000000000000
+      internalID: -5502718664014550873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_125
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 762
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f122339da382e8c0800000000000000
+      internalID: -3971467139865239050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_126
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 762
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0761d7ac0a7fdc3a0800000000000000
+      internalID: -6643381605337590160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_127
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 762
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49089d40b6a732e30800000000000000
+      internalID: 4477557054597857428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_128
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 762
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5b421f2827fb330800000000000000
+      internalID: 3728824923203089825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_129
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 762
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392999596e0bfb210800000000000000
+      internalID: 1350992917633274515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_130
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 762
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a9e07b8dc968600800000000000000
+      internalID: 470235665704852025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_131
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 762
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0c97dab034d3880800000000000000
+      internalID: -8629667593537863518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_132
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 762
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027620cc03d41c1c0800000000000000
+      internalID: -4485218881907824864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_133
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 762
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab22b8aaa4b850f0800000000000000
+      internalID: -1127953061588620376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_134
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 762
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf93a303e8f9c01d0800000000000000
+      internalID: -3383153787018790404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_135
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 762
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9fb5b95f6bccd00800000000000000
+      internalID: 994370783731775998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_136
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 762
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ac0c8efdb98a580800000000000000
+      internalID: -8815624884592784752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_137
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 762
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcdfc01d9a44e330800000000000000
+      internalID: 3739195629076733113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_138
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 762
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebabc9a4c9ca585c0800000000000000
+      internalID: -4213772089068569922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_139
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 762
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4459efd30498deae0800000000000000
+      internalID: -1518406590342982332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_140
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 762
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814a105826b226e10800000000000000
+      internalID: 2189360070993749016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_141
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 762
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7de3a8767a6ff5f0800000000000000
+      internalID: -720740358293295745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_142
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 762
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46568c761fe50c30800000000000000
+      internalID: 4325125897016727118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_143
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 762
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a5baeeaf202a920800000000000000
+      internalID: 2999963578551458360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_144
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 762
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb75cffd07ce9ab0800000000000000
+      internalID: -4999339673395037189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_145
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 704
+        width: 58
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5692022bb0fa7dd50800000000000000
+      internalID: 6762065830288042341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_146
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 704
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb067ecda1762a00800000000000000
+      internalID: 731396980801407924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_147
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 706
+        width: 4
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbdce8f011975170800000000000000
+      internalID: 8167155951341460443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_148
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 739
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8cdec736c6e2020800000000000000
+      internalID: 2318910032695904455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_149
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 739
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e90a3089a6febe0800000000000000
+      internalID: -1445819754234208624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_150
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 739
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa25017a8ac31710800000000000000
+      internalID: 1662895383380306680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_151
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 739
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26da1402eeac86070800000000000000
+      internalID: 8099947053918039394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_152
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 739
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89fdefca7c4a8530800000000000000
+      internalID: 3857980121154451854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_153
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 739
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe098f44061c8df40800000000000000
+      internalID: 5753561143183970543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_154
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 739
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939934d6bf7d8b2a0800000000000000
+      internalID: -6721384968980555463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_155
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 739
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e32de26a626fb200800000000000000
+      internalID: 197985117693354985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_156
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 739
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55697c7332eb5280800000000000000
+      internalID: -9053393915138710178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_157
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 739
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410c0c69f8fc53930800000000000000
+      internalID: 4122429249544044564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_158
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 739
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda93fbb970350a30800000000000000
+      internalID: 4180801128485853915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_159
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 739
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec2aa026d5b6c180800000000000000
+      internalID: -9095382466152485659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_160
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 739
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690d78003a7008820800000000000000
+      internalID: 2918340955206045846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_161
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 739
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e706e643ca9f5e90800000000000000
+      internalID: -7034733929430644766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_162
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 739
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82d81204e90d69e0800000000000000
+      internalID: -1626633015518506354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_163
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 739
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4815ed6c2519375e0800000000000000
+      internalID: -1913025631992524412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_164
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 739
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a825e0b64252370b0800000000000000
+      internalID: -5732197062367358326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_165
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 739
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349c2ad97a0673b00800000000000000
+      internalID: 808220931156789571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_166
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 707
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5e7452a53bcaea0800000000000000
+      internalID: -5860111815361960459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_167
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 707
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8268dddc4da0067f0800000000000000
+      internalID: -621484839473936856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_168
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 707
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf3bf4f4ccff27f0800000000000000
+      internalID: -635011099582054480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_169
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 707
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f038055473c897e00800000000000000
+      internalID: 1043018957726974735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_170
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 707
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e762e6c92c1185570800000000000000
+      internalID: 8455527827933898366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_171
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 707
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b07bb1ed6fe0a50800000000000000
+      internalID: 6489395546895616821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_172
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 707
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501f3bec06d19e020800000000000000
+      internalID: 2371458980409241861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_173
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 707
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c617bdb8c0edffb70800000000000000
+      internalID: 8935104331193741676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_174
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 707
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0bd534b3b87a0d0800000000000000
+      internalID: -3411605106060316465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_175
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 707
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d089e490ebb91d20800000000000000
+      internalID: 3249835179369922775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_176
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 707
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c00e2a8b15f4230800000000000000
+      internalID: 3625206078504963138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_177
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 707
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd009ccbb398c82a0800000000000000
+      internalID: -6733856453162368804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_178
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 707
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6474f7187e022010800000000000000
+      internalID: 1162507562775770221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_179
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 707
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b6490f8d43c6a60800000000000000
+      internalID: 7668562371858950927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_180
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 707
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03ce996426dc1b10800000000000000
+      internalID: 1953671790251131661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_181
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 707
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b1ddecf314067a0800000000000000
+      internalID: -6386032529302021333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_182
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 707
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee17ac798ac385360800000000000000
+      internalID: 7158538302504202734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_183
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 707
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5503dc0ab8b7c40800000000000000
+      internalID: 5511152091771458980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_184
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 707
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4a604dc62ed40e0800000000000000
+      internalID: -2283920478965422855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_185
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 707
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eaf0297d728d82d0800000000000000
+      internalID: -3274817878613755168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_186
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 707
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321b22c04dcd97d40800000000000000
+      internalID: 5582736016397218083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_187
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 707
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3154a19c716116850800000000000000
+      internalID: 6368395639492592915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_188
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 707
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30a77ba6ba9a9860800000000000000
+      internalID: 7537507035709415485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_189
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 707
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489e0d37cdf06ac20800000000000000
+      internalID: 3217276423313090948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_190
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 685
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c06f46f8ce962550800000000000000
+      internalID: 6135766128301924552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_191
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 685
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8a2f8dcd39a5bb0800000000000000
+      internalID: -4946478663971198756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_192
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 685
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538655d4c61576a30800000000000000
+      internalID: 4208421902396778549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_193
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 685
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f064313aac0b58b80800000000000000
+      internalID: -8393107946169219569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_194
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 685
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cca070f342e85b50800000000000000
+      internalID: 6582259636826582216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_195
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 685
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38f70fd45abc1c20800000000000000
+      internalID: 3178620310698588219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_196
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 685
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb839fea4a55cb10800000000000000
+      internalID: 2001104887329557452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_197
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 685
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b228e51d2b4ba73f0800000000000000
+      internalID: -902210095224552917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_198
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 685
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1003b468650da810800000000000000
+      internalID: 1778083373805404188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_199
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 685
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095a3c51efd3b14c0800000000000000
+      internalID: -4315787656408357488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_200
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 685
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264f844d97ca4bbf0800000000000000
+      internalID: -309432835129150366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_201
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 685
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f76ea673d5d58cf0800000000000000
+      internalID: -250559100043237392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_202
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 685
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9080076d3f8e12de0800000000000000
+      internalID: -1359549478516815863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_203
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 634
+        width: 4
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabddab778e4d9380800000000000000
+      internalID: -8962921339594875987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_204
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 635
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a5aebeefaa47520800000000000000
+      internalID: 2698970088558189068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_205
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 635
+        width: 58
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d279c29ebc0769310800000000000000
+      internalID: 1411439554319914797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_206
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 635
+        width: 60
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba48c2cf7d224e80800000000000000
+      internalID: -8195938345108878665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_207
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 636
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0941c270e78f80ec0800000000000000
+      internalID: -3600354681912814448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_208
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 636
+        width: 62
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606222ebcb408df50800000000000000
+      internalID: 6906275237262927366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_209
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 651
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f21e7d8fe088b510800000000000000
+      internalID: 1565142636870636276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_210
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 651
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8efb2eb87eb0110800000000000000
+      internalID: 1228329911379290333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_211
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 651
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e637aa30044eb9cc0800000000000000
+      internalID: -3703115304991558802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_212
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 651
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454a674d4d965a5f0800000000000000
+      internalID: -746073800441420716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_213
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 651
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955758dca96c19670800000000000000
+      internalID: 8543828336273880409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_214
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 651
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f3a07f85f7d5640800000000000000
+      internalID: 5070348775567540099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_215
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 651
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d402492a49d6299f0800000000000000
+      internalID: -463187326515535795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_216
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 651
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec700b1b9f8f3330800000000000000
+      internalID: 3692828115802815713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_217
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 651
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ca76e30a20e68f0800000000000000
+      internalID: -545495617600246725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_218
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 651
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165043886110d8cf0800000000000000
+      internalID: -248541208149490335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_219
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 651
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992fc8e7737c902a0800000000000000
+      internalID: -6770661523614535015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_220
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 651
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4e85626507c0c00800000000000000
+      internalID: 868192343488521429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_221
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 651
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9765a1e4eebc08ac0800000000000000
+      internalID: -3854857056656140679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_222
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 651
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b96e6b60516b540800000000000000
+      internalID: 5023225552960920395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_223
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 651
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b7bc31327a53300800000000000000
+      internalID: 231274724977245064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_224
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 651
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef3a3626282be580800000000000000
+      internalID: -8796893302822912018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_225
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 651
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b467ca05ba2699c10800000000000000
+      internalID: 2060786792431121995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_226
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 651
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b36318de28bb0f30800000000000000
+      internalID: 4542927160466432953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_227
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 651
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b60d2f8781e9720800000000000000
+      internalID: 2854746121548360479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_228
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 651
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b11b70cb8518d3b0800000000000000
+      internalID: -5487612455977021004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_229
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 651
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc59b3dd369a652a0800000000000000
+      internalID: -6749020745189583412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_230
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 626
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ceba65202db91d0800000000000000
+      internalID: -3342847390906585969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_231
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 626
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4acbd262513e950800000000000000
+      internalID: 6477043942809183453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_232
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 626
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a608ed5c8becd8b0800000000000000
+      internalID: -5125963287751031136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_233
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 626
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955af928c6f43da70800000000000000
+      internalID: 8850505020179719513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_234
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 626
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb23fa2b826077f0800000000000000
+      internalID: -616884799089202196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_235
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 626
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8720645f8ee5fc70800000000000000
+      internalID: 9004365329360496522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_236
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 626
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d648e5325c4dfdf0800000000000000
+      internalID: -144875697030543657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_237
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 626
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ffc56bff8f221e0800000000000000
+      internalID: -2223941488807706753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_238
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 626
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df63199faa3d6470800000000000000
+      internalID: 8389426206722977748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_239
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 626
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f1d33ee3c84a0d0800000000000000
+      internalID: -3412448415911698600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_240
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 626
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2327d80af959740800000000000000
+      internalID: 5158204460139426497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_241
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 562
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0cc243b497a15b0800000000000000
+      internalID: -5396867839545261873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_242
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 563
+        width: 71
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2337dacef38aa3ae0800000000000000
+      internalID: -1568756527678000334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_243
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 563
+        width: 75
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6aaa766f33166f0800000000000000
+      internalID: -693215734244137217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_244
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 563
+        width: 77
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656abc194bf168460800000000000000
+      internalID: 7243511911072638550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_245
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 563
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0755eb60d0492bdb0800000000000000
+      internalID: -4777593471018052240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_246
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 565
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db421da5f4f35b790800000000000000
+      internalID: -7515030793139182403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_247
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 565
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d283fb27efdd2e0800000000000000
+      internalID: -2099242082496926431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_248
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 487
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebcc1a0f863f5730800000000000000
+      internalID: 3989967782851431399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_249
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 486
+        width: 68
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dca929d4020e05f0800000000000000
+      internalID: -788690664896746287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_250
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 486
+        width: 62
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393baf677e37efb90800000000000000
+      internalID: -7206194915775433837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_251
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 486
+        width: 62
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1732a24edc698f0800000000000000
+      internalID: -534013125953621550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_252
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 485
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a4d14ed5e785470800000000000000
+      internalID: 8383589648074361492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_253
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 422
+        width: 76
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91f6346e95c54710800000000000000
+      internalID: 1676963720342204830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_254
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 447
+        width: 120
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c27c868a43ed0a10800000000000000
+      internalID: 1877406528907801282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_255
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 414
+        width: 60
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e30727a7a5f2210800000000000000
+      internalID: 1310365498540572288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_256
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 414
+        width: 58
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df79539900923dc80800000000000000
+      internalID: -8299244605766526979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_257
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 414
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b7db398a6815bd0800000000000000
+      internalID: -2643183447698474120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_258
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 413
+        width: 4
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8295781db245e9620800000000000000
+      internalID: 2782754166937180456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_259
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 410
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8834b1e9eb9d71e20800000000000000
+      internalID: 3321362662928630664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_260
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 410
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2471b1d026f0e50800000000000000
+      internalID: 6777743772644492025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_261
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 410
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf72d5a9c26bcd5f0800000000000000
+      internalID: -730508736856250373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_262
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 410
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29974c54ef9f09f0800000000000000
+      internalID: -500005230465279699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_263
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 410
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038f89c76a564b6e0800000000000000
+      internalID: -1822720183448831952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_264
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 387
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e0208ccec017590800000000000000
+      internalID: -7678341678582591867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_265
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 387
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604f26f345277e6b0800000000000000
+      internalID: -5267115533020236794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_266
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 387
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdedbaef04aa1fc0800000000000000
+      internalID: -3523323370194211334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_267
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 387
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f016998b1064040800000000000000
+      internalID: 4631391159156019032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_268
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 387
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d68773d3881054e0800000000000000
+      internalID: -1995067680457521454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_269
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 387
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ecb653ebfa2ad8b0800000000000000
+      internalID: -5126737964468618014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_270
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 387
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32cb3316a2cd1bd0800000000000000
+      internalID: -2657754186535681474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_271
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 387
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd13c332d7dc119a0800000000000000
+      internalID: -6263999669349895715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_272
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 387
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b322710cb4f77ab0800000000000000
+      internalID: -5010266972111101004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_273
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 387
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1eedda9a8b68690800000000000000
+      internalID: -7600184282235084340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_274
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 330
+        width: 73
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9f4a33e10d1afe0800000000000000
+      internalID: -1179432799260313114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_275
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 330
+        width: 67
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db46698c70205d9a0800000000000000
+      internalID: -6209054278807034691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_276
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 330
+        width: 68
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f3593a262128700800000000000000
+      internalID: 541015120098443101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_277
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 330
+        width: 69
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8e52b5c85d58820800000000000000
+      internalID: 2919974732220983551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_278
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 330
+        width: 71
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38df6b67665503020800000000000000
+      internalID: 2319447706662534531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_279
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 329
+        width: 73
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7f1e31e209ac230800000000000000
+      internalID: 3659896174768420851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_280
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 329
+        width: 74
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f386a4af6225f7820800000000000000
+      internalID: 2918141410920785983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_281
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 329
+        width: 75
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846e21c74ed22c090800000000000000
+      internalID: -8015793927408654776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_282
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 268
+        width: 76
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2910104d3854200800000000000000
+      internalID: 163681908042076908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_283
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 268
+        width: 75
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4d37e121997cb50800000000000000
+      internalID: 6613422880916231374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_284
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 270
+        width: 74
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4300cac9d544580800000000000000
+      internalID: -8843840840766835549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_285
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 270
+        width: 73
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5a477da47805960800000000000000
+      internalID: 7588714127631361445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_286
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 270
+        width: 71
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8026a5ee9e92130800000000000000
+      internalID: 3542619791831468232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_287
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 270
+        width: 69
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff042cdecddae5a0800000000000000
+      internalID: -6491132032374796290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_288
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 270
+        width: 68
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e0c359e4154f580800000000000000
+      internalID: -8794314774394696051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_289
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 209
+        width: 67
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5e465a08ac75550800000000000000
+      internalID: 6149606470077179361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_290
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 209
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c87b8f0969a5df0800000000000000
+      internalID: -190674484817589179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_291
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 137
+        width: 69
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed84c53ba7eed6840800000000000000
+      internalID: 5219089753954863326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_292
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 137
+        width: 67
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177df2d518cefa090800000000000000
+      internalID: -8020932370965211279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_293
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 137
+        width: 68
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc27fc8ac2ec1770800000000000000
+      internalID: 8582984349437603039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_294
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 137
+        width: 69
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7306fccda1e5740f0800000000000000
+      internalID: -1132833311793651657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_295
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 137
+        width: 70
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b27a296626f4b9a0800000000000000
+      internalID: -6218074540658232647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_296
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 136
+        width: 74
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c463548e265e0180800000000000000
+      internalID: -9147279035354356537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_297
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 136
+        width: 73
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f972d7b13c23770800000000000000
+      internalID: 8589141962180239253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_298
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 136
+        width: 77
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed808db12e92215d0800000000000000
+      internalID: -3093363942943618850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_299
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 79
+        width: 81
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927222ae7b0800160800000000000000
+      internalID: 6989728149074487081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_300
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 79
+        width: 75
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6d41fe723379840800000000000000
+      internalID: 5230705738821981857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_301
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 78
+        width: 71
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919b778a33978c7c0800000000000000
+      internalID: -4050854602043049703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_302
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 78
+        width: 69
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef9b0d7eb00582c0800000000000000
+      internalID: -4430133840307314714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_303
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 78
+        width: 70
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270cef7dbe4b37580800000000000000
+      internalID: -8830515519309299598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_304
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 78
+        width: 70
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c7c70daa28a6120800000000000000
+      internalID: 2407880620936821854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_305
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 78
+        width: 69
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6524803c28435d0800000000000000
+      internalID: -3083696070673148205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_306
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 20
+        width: 68
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ce7824cb7853040800000000000000
+      internalID: 4626753434832858124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_307
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 20
+        width: 67
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2e7836d962a7db0800000000000000
+      internalID: -4793476395960900922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_308
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 20
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5cbed1dfc9f3b70800000000000000
+      internalID: 8880989601140557291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawile_309
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 20
+        width: 4
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a86ecaec0bb5040800000000000000
+      internalID: 4637494643018598943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

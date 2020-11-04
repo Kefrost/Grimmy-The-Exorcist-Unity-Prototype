@@ -1,0 +1,2408 @@
+fileFormatVersion: 2
+guid: 5ea46547c50900949be381738b15ba1e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -659035388865750451
+    second: Dusclops_Ready_0
+  - first:
+      213: 5143049384018448914
+    second: Dusclops_Ready_1
+  - first:
+      213: -5086996109748495630
+    second: Dusclops_Ready_2
+  - first:
+      213: -360459402270870133
+    second: Dusclops_Ready_3
+  - first:
+      213: 2458727706813032312
+    second: Dusclops_Ready_4
+  - first:
+      213: 3178279432133079307
+    second: Dusclops_Ready_5
+  - first:
+      213: 5562882450599156339
+    second: Dusclops_Ready_6
+  - first:
+      213: -7053301621702980044
+    second: Dusclops_Ready_7
+  - first:
+      213: -8988598363869439629
+    second: Dusclops_Ready_8
+  - first:
+      213: -3970821335082852568
+    second: Dusclops_Ready_9
+  - first:
+      213: -929255844319759760
+    second: Dusclops_Ready_10
+  - first:
+      213: 8983400245278568602
+    second: Dusclops_Ready_11
+  - first:
+      213: -5532414477296273809
+    second: Dusclops_Ready_12
+  - first:
+      213: -4520135962906272245
+    second: Dusclops_Ready_13
+  - first:
+      213: 7753517340334264089
+    second: Dusclops_Ready_14
+  - first:
+      213: 8830723776612418220
+    second: Dusclops_Ready_15
+  - first:
+      213: 1277535624124068752
+    second: Dusclops_Ready_16
+  - first:
+      213: -4199041941648571275
+    second: Dusclops_Ready_17
+  - first:
+      213: -6415076896283718309
+    second: Dusclops_Ready_18
+  - first:
+      213: 7411690199205004537
+    second: Dusclops_Ready_19
+  - first:
+      213: 6473781705625615996
+    second: Dusclops_Ready_20
+  - first:
+      213: 3803196611199730171
+    second: Dusclops_Ready_21
+  - first:
+      213: -5952216435844073497
+    second: Dusclops_Ready_22
+  - first:
+      213: -161555220722009269
+    second: Dusclops_Ready_23
+  - first:
+      213: 3710129202680552016
+    second: Dusclops_Ready_24
+  - first:
+      213: -2501114139888250397
+    second: Dusclops_Ready_25
+  - first:
+      213: 7354585604050467373
+    second: Dusclops_Ready_26
+  - first:
+      213: -8173251338001904429
+    second: Dusclops_Ready_27
+  - first:
+      213: 8894146607698210322
+    second: Dusclops_Ready_28
+  - first:
+      213: 8982900902029829086
+    second: Dusclops_Ready_29
+  - first:
+      213: -6259473297620778103
+    second: Dusclops_Ready_30
+  - first:
+      213: 2658399621647784563
+    second: Dusclops_Ready_31
+  - first:
+      213: -2177816553117825969
+    second: Dusclops_Ready_32
+  - first:
+      213: -3740457067260622510
+    second: Dusclops_Ready_33
+  - first:
+      213: -9210289849469227882
+    second: Dusclops_Ready_34
+  - first:
+      213: 3902979200254506968
+    second: Dusclops_Ready_35
+  - first:
+      213: 1779588831121261852
+    second: Dusclops_Ready_36
+  - first:
+      213: 8332874217018214286
+    second: Dusclops_Ready_37
+  - first:
+      213: 6189549995467997420
+    second: Dusclops_Ready_38
+  - first:
+      213: 4270589153002005590
+    second: Dusclops_Ready_39
+  - first:
+      213: -4459153192417943172
+    second: Dusclops_Ready_40
+  - first:
+      213: 1204293623338494394
+    second: Dusclops_Ready_41
+  - first:
+      213: -7119184944477172836
+    second: Dusclops_Ready_42
+  - first:
+      213: 3219646269569107298
+    second: Dusclops_Ready_43
+  - first:
+      213: -436023628413812429
+    second: Dusclops_Ready_44
+  - first:
+      213: 1591108403174270093
+    second: Dusclops_Ready_45
+  - first:
+      213: 2546572301701122147
+    second: Dusclops_Ready_46
+  - first:
+      213: 810545060030658846
+    second: Dusclops_Ready_47
+  - first:
+      213: 8229573988545927022
+    second: Dusclops_Ready_48
+  - first:
+      213: 6240402974596329949
+    second: Dusclops_Ready_49
+  - first:
+      213: -4485971996879894796
+    second: Dusclops_Ready_50
+  - first:
+      213: -5090559237976847009
+    second: Dusclops_Ready_51
+  - first:
+      213: 8341155306730840256
+    second: Dusclops_Ready_52
+  - first:
+      213: 4565995564360571330
+    second: Dusclops_Ready_53
+  - first:
+      213: 6914993306359482438
+    second: Dusclops_Ready_54
+  - first:
+      213: -4819829836617043765
+    second: Dusclops_Ready_55
+  - first:
+      213: 8876744515440260572
+    second: Dusclops_Ready_56
+  - first:
+      213: 4102069039836761439
+    second: Dusclops_Ready_57
+  - first:
+      213: 1737185305451045413
+    second: Dusclops_Ready_58
+  - first:
+      213: 3596777610110959846
+    second: Dusclops_Ready_59
+  - first:
+      213: 8479621065315393664
+    second: Dusclops_Ready_60
+  - first:
+      213: -6231841067632007645
+    second: Dusclops_Ready_61
+  - first:
+      213: 4151400706617551022
+    second: Dusclops_Ready_62
+  - first:
+      213: 1023290864743351927
+    second: Dusclops_Ready_63
+  - first:
+      213: 7365613156517329476
+    second: Dusclops_Ready_64
+  - first:
+      213: -6796155108789935835
+    second: Dusclops_Ready_65
+  - first:
+      213: 3937022484080802100
+    second: Dusclops_Ready_66
+  - first:
+      213: 6449246448124825896
+    second: Dusclops_Ready_67
+  - first:
+      213: -8170710253381623757
+    second: Dusclops_Ready_68
+  - first:
+      213: 7364004299502608252
+    second: Dusclops_Ready_69
+  - first:
+      213: -1838338988093720042
+    second: Dusclops_Ready_70
+  - first:
+      213: -5738780545544376220
+    second: Dusclops_Ready_71
+  - first:
+      213: 7562091787049523125
+    second: Dusclops_Ready_72
+  - first:
+      213: 264140270522524552
+    second: Dusclops_Ready_73
+  - first:
+      213: -8050082089101061043
+    second: Dusclops_Ready_74
+  - first:
+      213: -7356201931131394348
+    second: Dusclops_Ready_75
+  - first:
+      213: 7448219135991717060
+    second: Dusclops_Ready_76
+  - first:
+      213: -4707366801079271459
+    second: Dusclops_Ready_77
+  - first:
+      213: -3287062934296275343
+    second: Dusclops_Ready_78
+  - first:
+      213: -45002777488385321
+    second: Dusclops_Ready_79
+  - first:
+      213: 5860256774291362074
+    second: Dusclops_Ready_80
+  - first:
+      213: 8407853904684504300
+    second: Dusclops_Ready_81
+  - first:
+      213: -1178407232902715149
+    second: Dusclops_Ready_82
+  - first:
+      213: -8660097864843637852
+    second: Dusclops_Ready_83
+  - first:
+      213: -7993410748826833223
+    second: Dusclops_Ready_84
+  - first:
+      213: -6226886842828594276
+    second: Dusclops_Ready_85
+  - first:
+      213: -7628356954147114370
+    second: Dusclops_Ready_86
+  - first:
+      213: -4917732166732985975
+    second: Dusclops_Ready_87
+  - first:
+      213: -9037475948948780005
+    second: Dusclops_Ready_88
+  - first:
+      213: 7240870292128730311
+    second: Dusclops_Ready_89
+  - first:
+      213: 1630016220402675313
+    second: Dusclops_Ready_90
+  - first:
+      213: 3248444451280873573
+    second: Dusclops_Ready_91
+  - first:
+      213: 5982633257007409930
+    second: Dusclops_Ready_92
+  - first:
+      213: 3116525241379054814
+    second: Dusclops_Ready_93
+  - first:
+      213: -3154997008200694754
+    second: Dusclops_Ready_94
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dusclops_Ready_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 796
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ade383ec2aad6f0800000000000000
+      internalID: -659035388865750451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 796
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21216bc6a28cf5740800000000000000
+      internalID: 5143049384018448914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 796
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa95a08dfb5769b0800000000000000
+      internalID: -5086996109748495630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_3
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 796
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85f1bb55146ffaf0800000000000000
+      internalID: -360459402270870133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_4
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 796
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877600c82d72f1220800000000000000
+      internalID: 2458727706813032312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_5
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 796
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01f835ed448b1c20800000000000000
+      internalID: 3178279432133079307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_6
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 796
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a973b8d14533d40800000000000000
+      internalID: 5562882450599156339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_7
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 796
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e05b88b83ad1e90800000000000000
+      internalID: -7053301621702980044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_8
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 796
+        width: 4
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37997e46965124380800000000000000
+      internalID: -8988598363869439629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_9
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 796
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f18d7b80fc4e8c0800000000000000
+      internalID: -3970821335082852568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_10
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 790
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0727dd5abbe9a13f0800000000000000
+      internalID: -929255844319759760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_11
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 796
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a907cfe4de27bac70800000000000000
+      internalID: 8983400245278568602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 718
+        width: 4
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66f68a485ae833b0800000000000000
+      internalID: -5532414477296273809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 709
+        width: 74
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ed08a5a404541c0800000000000000
+      internalID: -4520135962906272245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_14
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 709
+        width: 74
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f847ee0f60a9b60800000000000000
+      internalID: 7753517340334264089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_15
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 709
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca24496dc780d8a70800000000000000
+      internalID: 8830723776612418220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_16
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 709
+        width: 72
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09372d7a1e7bab110800000000000000
+      internalID: 1277535624124068752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_17
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 709
+        width: 71
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574021ff9910ab5c0800000000000000
+      internalID: -4199041941648571275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_18
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 709
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d81362d8119f6a0800000000000000
+      internalID: -6415076896283718309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_19
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 709
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4cbd4a7fc9bd660800000000000000
+      internalID: 7411690199205004537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_20
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 709
+        width: 75
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ebc35692e77d950800000000000000
+      internalID: 6473781705625615996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_21
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 709
+        width: 76
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1878dea2ba7c430800000000000000
+      internalID: 3803196611199730171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_22
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 623
+        width: 77
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7b54310ba756da0800000000000000
+      internalID: -5952216435844073497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_23
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 623
+        width: 78
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b3149f16a02cdf0800000000000000
+      internalID: -161555220722009269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_24
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 623
+        width: 79
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ad39c4ad60d7330800000000000000
+      internalID: 3710129202680552016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_25
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 623
+        width: 79
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e11145f0f14a4dd0800000000000000
+      internalID: -2501114139888250397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_26
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 623
+        width: 79
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a31aff3acb01660800000000000000
+      internalID: 7354585604050467373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_27
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 623
+        width: 78
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc096a3637c29e80800000000000000
+      internalID: -8173251338001904429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_28
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 623
+        width: 77
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ee81c673b5e6b70800000000000000
+      internalID: 8894146607698210322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_29
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 623
+        width: 76
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed32606e6cca9ac70800000000000000
+      internalID: 8982900902029829086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_30
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 623
+        width: 74
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983454e2332e129a0800000000000000
+      internalID: -6259473297620778103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_31
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 633
+        width: 4
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a595ffe5884e420800000000000000
+      internalID: 2658399621647784563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_32
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 541
+        width: 4
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44427d2267d6c1e0800000000000000
+      internalID: -2177816553117825969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 537
+        width: 74
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259c4587d1a371cc0800000000000000
+      internalID: -3740457067260622510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_34
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 537
+        width: 76
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c200c1e2a7e2080800000000000000
+      internalID: -9210289849469227882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_35
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 537
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d778ec57ea2a2630800000000000000
+      internalID: 3902979200254506968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_36
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 537
+        width: 78
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c154c3dfc9e52b810800000000000000
+      internalID: 1779588831121261852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_37
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 537
+        width: 79
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87c16f63f054a370800000000000000
+      internalID: 8332874217018214286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_38
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 537
+        width: 78
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0046f5de2b5e550800000000000000
+      internalID: 6189549995467997420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_39
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 537
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6542256453e244b30800000000000000
+      internalID: 4270589153002005590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_40
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 537
+        width: 76
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7121ee0cc7ed12c0800000000000000
+      internalID: -4459153192417943172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_41
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 537
+        width: 74
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9eb587ba286b010800000000000000
+      internalID: 1204293623338494394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_42
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 451
+        width: 77
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b01261303933d90800000000000000
+      internalID: -7119184944477172836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_43
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 451
+        width: 76
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2650418493b7eac20800000000000000
+      internalID: 3219646269569107298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_44
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 451
+        width: 77
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331c7b2f1dee2f9f0800000000000000
+      internalID: -436023628413812429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_45
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 451
+        width: 78
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d846752a9a0c41610800000000000000
+      internalID: 1591108403174270093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_46
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 451
+        width: 77
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3688ebd140e375320800000000000000
+      internalID: 2546572301701122147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_47
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 451
+        width: 76
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1933990072af3b00800000000000000
+      internalID: 810545060030658846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_48
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 451
+        width: 77
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e671310c0f1553270800000000000000
+      internalID: 8229573988545927022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_49
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 451
+        width: 74
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1fa1c317d5a9650800000000000000
+      internalID: 6240402974596329949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_50
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 460
+        width: 4
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6cf9d8c30aeb1c0800000000000000
+      internalID: -4485971996879894796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 361
+        width: 906
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d8e401853ba59b0800000000000000
+      internalID: -5090559237976847009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_52
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 369
+        width: 74
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c06e02ee8cb1c370800000000000000
+      internalID: 8341155306730840256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_53
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 369
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c998bb26ccad5f30800000000000000
+      internalID: 4565995564360571330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_54
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 379
+        width: 4
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648c2c166cdf6ff50800000000000000
+      internalID: 6914993306359482438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_55
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 379
+        width: 4
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0bc96dc468c1db0800000000000000
+      internalID: -4819829836617043765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_56
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 285
+        width: 4
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5b6b41b18803b70800000000000000
+      internalID: 8876744515440260572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_57
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 276
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d099bde0a7de830800000000000000
+      internalID: 4102069039836761439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_58
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 276
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5222070d4d8bb1810800000000000000
+      internalID: 1737185305451045413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_59
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 276
+        width: 65
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e00eba0e225ae130800000000000000
+      internalID: 3596777610110959846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_60
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 276
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0802b049e6aada570800000000000000
+      internalID: 8479621065315393664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_61
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 276
+        width: 62
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3266a13119d0489a0800000000000000
+      internalID: -6231841067632007645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_62
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 276
+        width: 64
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8ae3692fcbc9930800000000000000
+      internalID: 4151400706617551022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_63
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 276
+        width: 65
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7760eeeae95733e00800000000000000
+      internalID: 1023290864743351927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_64
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 276
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ab823242ae73660800000000000000
+      internalID: 7365613156517329476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_65
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 276
+        width: 68
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521ae16afe43fa1a0800000000000000
+      internalID: -6796155108789935835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_66
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 187
+        width: 69
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439bc5c071d13a630800000000000000
+      internalID: 3937022484080802100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_67
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 187
+        width: 69
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8211e699973508950800000000000000
+      internalID: 6449246448124825896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_68
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 187
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330eb88905ecb9e80800000000000000
+      internalID: -8170710253381623757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_69
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 187
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f5d4ce4e2323660800000000000000
+      internalID: 7364004299502608252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_70
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 187
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a3ce52e68ec76e0800000000000000
+      internalID: -1838338988093720042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_71
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 187
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460b7eacf71cb50b0800000000000000
+      internalID: -5738780545544376220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_72
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 187
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b75cf52a62f1f860800000000000000
+      internalID: 7562091787049523125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_73
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 187
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883ee533d2a6aa300800000000000000
+      internalID: 264140270522524552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_74
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 187
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44956abdfc584090800000000000000
+      internalID: -8050082089101061043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_75
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 195
+        width: 4
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6eed6815589e990800000000000000
+      internalID: -7356201931131394348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_76
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 105
+        width: 4
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc9d0287d36d5760800000000000000
+      internalID: 7448219135991717060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_77
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 98
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddff33ac5d21caeb0800000000000000
+      internalID: -4707366801079271459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_78
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 98
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176dae64da10262d0800000000000000
+      internalID: -3287062934296275343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_79
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 98
+        width: 69
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da16e9563e106ff0800000000000000
+      internalID: -45002777488385321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_80
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 98
+        width: 70
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11963cbc70d35150800000000000000
+      internalID: 5860256774291362074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_81
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 98
+        width: 71
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4d9106492bea470800000000000000
+      internalID: 8407853904684504300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_82
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 98
+        width: 70
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8251a7dd475afe0800000000000000
+      internalID: -1178407232902715149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_83
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 98
+        width: 69
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab40e500e621d780800000000000000
+      internalID: -8660097864843637852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_84
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 98
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be236c5643b11190800000000000000
+      internalID: -7993410748826833223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_85
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 98
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93e5ac6867a599a0800000000000000
+      internalID: -6226886842828594276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_86
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 9
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e723e2854c1a22690800000000000000
+      internalID: -7628356954147114370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_87
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 9
+        width: 65
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9894e5d46a4b0cbb0800000000000000
+      internalID: -4917732166732985975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_88
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 9
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c85ccc18f649280800000000000000
+      internalID: -9037475948948780005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_89
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 8
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc030bba2dbc7460800000000000000
+      internalID: 7240870292128730311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_90
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 9
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ee933cd1bfe9610800000000000000
+      internalID: 1630016220402675313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_91
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 9
+        width: 65
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5686f27740bc41d20800000000000000
+      internalID: 3248444451280873573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_92
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 9
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b6d59ff35960350800000000000000
+      internalID: 5982633257007409930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_93
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 9
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4efe9e13f104b20800000000000000
+      internalID: 3116525241379054814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dusclops_Ready_94
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 18
+        width: 4
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1407cadfe23734d0800000000000000
+      internalID: -3154997008200694754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

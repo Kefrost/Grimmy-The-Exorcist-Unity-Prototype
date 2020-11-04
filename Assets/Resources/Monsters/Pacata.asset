@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fd73012ff2053040a6fe22559110819, type: 3}
+  m_Name: Pacata
+  m_EditorClassIdentifier: 
+  monsterName: Pacata
+  description: 
+  frontSprite: {fileID: -6489855607303823267, guid: 12f1fbcc1171e85449ae2d6b69b6eb31,
+    type: 3}
+  backSprite: {fileID: -1394954398369603963, guid: 12f1fbcc1171e85449ae2d6b69b6eb31,
+    type: 3}
+  firstType: 1
+  secondType: 0
+  maxHp: 160
+  attack: 110
+  defense: 65
+  spAttack: 65
+  spDefense: 110
+  speed: 30
+  learnableMoves: []

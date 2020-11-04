@@ -1,0 +1,5456 @@
+fileFormatVersion: 2
+guid: f5802b0e920b1d4458c0d6f14749b4ec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3915408461627878377
+    second: Tyranitar_0
+  - first:
+      213: -5535270515495830314
+    second: Tyranitar_1
+  - first:
+      213: 1919359245926690830
+    second: Tyranitar_2
+  - first:
+      213: 7805218636456843364
+    second: Tyranitar_3
+  - first:
+      213: -544435529550317448
+    second: Tyranitar_4
+  - first:
+      213: 4120483730380631012
+    second: Tyranitar_5
+  - first:
+      213: -815774664099232582
+    second: Tyranitar_6
+  - first:
+      213: -4356580545510040434
+    second: Tyranitar_7
+  - first:
+      213: 1043932305479941662
+    second: Tyranitar_8
+  - first:
+      213: -2515520608434704534
+    second: Tyranitar_9
+  - first:
+      213: 9205992748293910352
+    second: Tyranitar_10
+  - first:
+      213: 1149942082296241600
+    second: Tyranitar_11
+  - first:
+      213: -8322871613375301798
+    second: Tyranitar_12
+  - first:
+      213: -1082418725412318976
+    second: Tyranitar_13
+  - first:
+      213: 3118869675241768488
+    second: Tyranitar_14
+  - first:
+      213: -5409054640989740606
+    second: Tyranitar_15
+  - first:
+      213: 6943189684012944610
+    second: Tyranitar_16
+  - first:
+      213: -2595193530355880880
+    second: Tyranitar_17
+  - first:
+      213: -2618070470316996012
+    second: Tyranitar_18
+  - first:
+      213: 1693556298480446827
+    second: Tyranitar_19
+  - first:
+      213: -2038356206446392324
+    second: Tyranitar_20
+  - first:
+      213: -1763741992488961655
+    second: Tyranitar_21
+  - first:
+      213: 4160405469796540492
+    second: Tyranitar_22
+  - first:
+      213: 4532689264962508479
+    second: Tyranitar_23
+  - first:
+      213: 7242359487406116074
+    second: Tyranitar_24
+  - first:
+      213: -4111262380010390623
+    second: Tyranitar_25
+  - first:
+      213: -9056465983115088142
+    second: Tyranitar_26
+  - first:
+      213: -1807602103970731288
+    second: Tyranitar_27
+  - first:
+      213: -4687100923427297332
+    second: Tyranitar_28
+  - first:
+      213: -1086949246764171769
+    second: Tyranitar_29
+  - first:
+      213: 3390446718830125779
+    second: Tyranitar_30
+  - first:
+      213: 6034512978869442569
+    second: Tyranitar_31
+  - first:
+      213: -481576699699645001
+    second: Tyranitar_32
+  - first:
+      213: 3849846701142401689
+    second: Tyranitar_33
+  - first:
+      213: -8222035864466661385
+    second: Tyranitar_34
+  - first:
+      213: 4029600266701743523
+    second: Tyranitar_35
+  - first:
+      213: -8239012612505911500
+    second: Tyranitar_36
+  - first:
+      213: 7795616844127724896
+    second: Tyranitar_37
+  - first:
+      213: -8252470261769763642
+    second: Tyranitar_38
+  - first:
+      213: 6213328601909244754
+    second: Tyranitar_39
+  - first:
+      213: 371079091611521442
+    second: Tyranitar_40
+  - first:
+      213: -2370180541308563273
+    second: Tyranitar_41
+  - first:
+      213: 8615659184898669605
+    second: Tyranitar_42
+  - first:
+      213: -589958322337393760
+    second: Tyranitar_43
+  - first:
+      213: 5509854125853942708
+    second: Tyranitar_44
+  - first:
+      213: -9188956252980553894
+    second: Tyranitar_45
+  - first:
+      213: -2948656982667837455
+    second: Tyranitar_46
+  - first:
+      213: -5151756436684119531
+    second: Tyranitar_47
+  - first:
+      213: -1122608196133187301
+    second: Tyranitar_48
+  - first:
+      213: -8200017558726880385
+    second: Tyranitar_49
+  - first:
+      213: -7825320251357290167
+    second: Tyranitar_50
+  - first:
+      213: 2942348861911386485
+    second: Tyranitar_51
+  - first:
+      213: 7258427922730315507
+    second: Tyranitar_52
+  - first:
+      213: -6759721345348949944
+    second: Tyranitar_53
+  - first:
+      213: 7446031862304896555
+    second: Tyranitar_54
+  - first:
+      213: -4060916555359526102
+    second: Tyranitar_55
+  - first:
+      213: -1580188056556924229
+    second: Tyranitar_56
+  - first:
+      213: 3742030160218762289
+    second: Tyranitar_57
+  - first:
+      213: -2300822530087648217
+    second: Tyranitar_58
+  - first:
+      213: -7051218024110605695
+    second: Tyranitar_59
+  - first:
+      213: 963423084492713716
+    second: Tyranitar_60
+  - first:
+      213: 6236688848440491345
+    second: Tyranitar_61
+  - first:
+      213: 1614818579981155670
+    second: Tyranitar_62
+  - first:
+      213: 222972001337325451
+    second: Tyranitar_63
+  - first:
+      213: -5002674334702805463
+    second: Tyranitar_64
+  - first:
+      213: -8305555766388794709
+    second: Tyranitar_65
+  - first:
+      213: 2483021732391868481
+    second: Tyranitar_66
+  - first:
+      213: -3956997015062824705
+    second: Tyranitar_67
+  - first:
+      213: 6358097506879314659
+    second: Tyranitar_68
+  - first:
+      213: -2764991676910396246
+    second: Tyranitar_69
+  - first:
+      213: 2429415630230223954
+    second: Tyranitar_70
+  - first:
+      213: -1603095417004412230
+    second: Tyranitar_71
+  - first:
+      213: -4658649508018608665
+    second: Tyranitar_72
+  - first:
+      213: -4133871075609291553
+    second: Tyranitar_73
+  - first:
+      213: -5457532846698250
+    second: Tyranitar_74
+  - first:
+      213: -180859439734878281
+    second: Tyranitar_75
+  - first:
+      213: 4039848715522764806
+    second: Tyranitar_76
+  - first:
+      213: 4975244088444432500
+    second: Tyranitar_77
+  - first:
+      213: -1591266936354020337
+    second: Tyranitar_78
+  - first:
+      213: 2708237224232705269
+    second: Tyranitar_79
+  - first:
+      213: 4469785127975738351
+    second: Tyranitar_80
+  - first:
+      213: -2041496295199841750
+    second: Tyranitar_81
+  - first:
+      213: 3941421192552811335
+    second: Tyranitar_82
+  - first:
+      213: 4556910640942604083
+    second: Tyranitar_83
+  - first:
+      213: -5155090231847688525
+    second: Tyranitar_84
+  - first:
+      213: 5415864415707426478
+    second: Tyranitar_85
+  - first:
+      213: -1409733946761292244
+    second: Tyranitar_86
+  - first:
+      213: -5007269110030965992
+    second: Tyranitar_87
+  - first:
+      213: 4390408948518670311
+    second: Tyranitar_88
+  - first:
+      213: -1727854347952880321
+    second: Tyranitar_89
+  - first:
+      213: -2081362890921271162
+    second: Tyranitar_90
+  - first:
+      213: 6602005209239619949
+    second: Tyranitar_91
+  - first:
+      213: 7285926467386031754
+    second: Tyranitar_92
+  - first:
+      213: -5804445682261374741
+    second: Tyranitar_93
+  - first:
+      213: 7836865691224340039
+    second: Tyranitar_94
+  - first:
+      213: 6003640113336109408
+    second: Tyranitar_95
+  - first:
+      213: 2363681350595720579
+    second: Tyranitar_96
+  - first:
+      213: -8196286274450528063
+    second: Tyranitar_97
+  - first:
+      213: 2893188170515457294
+    second: Tyranitar_98
+  - first:
+      213: 8474458774263352230
+    second: Tyranitar_99
+  - first:
+      213: 2797261274824670503
+    second: Tyranitar_100
+  - first:
+      213: 5794760855873852670
+    second: Tyranitar_101
+  - first:
+      213: -5284157957374804368
+    second: Tyranitar_102
+  - first:
+      213: 1507584431075107234
+    second: Tyranitar_103
+  - first:
+      213: -1540987876420695398
+    second: Tyranitar_104
+  - first:
+      213: -661260495172620442
+    second: Tyranitar_105
+  - first:
+      213: -5228540368393862751
+    second: Tyranitar_106
+  - first:
+      213: 8976618024091170800
+    second: Tyranitar_107
+  - first:
+      213: 4073595631925374229
+    second: Tyranitar_108
+  - first:
+      213: 6837715404814340135
+    second: Tyranitar_109
+  - first:
+      213: 1606638762834424923
+    second: Tyranitar_110
+  - first:
+      213: -4231277105195134665
+    second: Tyranitar_111
+  - first:
+      213: -3794330138174294136
+    second: Tyranitar_112
+  - first:
+      213: -1497997625302750977
+    second: Tyranitar_113
+  - first:
+      213: 3687168981316104931
+    second: Tyranitar_114
+  - first:
+      213: 9091565569758391407
+    second: Tyranitar_115
+  - first:
+      213: 9047555384350120952
+    second: Tyranitar_116
+  - first:
+      213: -120843507702713080
+    second: Tyranitar_117
+  - first:
+      213: -7384157197745151975
+    second: Tyranitar_118
+  - first:
+      213: -380189404962907363
+    second: Tyranitar_119
+  - first:
+      213: 4287929348029761644
+    second: Tyranitar_120
+  - first:
+      213: 4946812536761896195
+    second: Tyranitar_121
+  - first:
+      213: -6737331485610542312
+    second: Tyranitar_122
+  - first:
+      213: 5475910709611276894
+    second: Tyranitar_123
+  - first:
+      213: 7229479002185681429
+    second: Tyranitar_124
+  - first:
+      213: -4101655692223123526
+    second: Tyranitar_125
+  - first:
+      213: -7197836339038395469
+    second: Tyranitar_126
+  - first:
+      213: -5189107639321852411
+    second: Tyranitar_127
+  - first:
+      213: 6218407605810644716
+    second: Tyranitar_128
+  - first:
+      213: -2943408954934323289
+    second: Tyranitar_129
+  - first:
+      213: -1668823566358732996
+    second: Tyranitar_130
+  - first:
+      213: 6476010671531425212
+    second: Tyranitar_131
+  - first:
+      213: 4839851913968217798
+    second: Tyranitar_132
+  - first:
+      213: -37768341699918655
+    second: Tyranitar_133
+  - first:
+      213: 3838370892693025193
+    second: Tyranitar_134
+  - first:
+      213: 4268592705288147124
+    second: Tyranitar_135
+  - first:
+      213: 5083790604782279615
+    second: Tyranitar_136
+  - first:
+      213: -3595131179882786936
+    second: Tyranitar_137
+  - first:
+      213: 8434393771389281677
+    second: Tyranitar_138
+  - first:
+      213: -1371239677119490861
+    second: Tyranitar_139
+  - first:
+      213: -7592310884954489752
+    second: Tyranitar_140
+  - first:
+      213: -4076573636307129488
+    second: Tyranitar_141
+  - first:
+      213: 2863321677353113781
+    second: Tyranitar_142
+  - first:
+      213: 4926368126259284883
+    second: Tyranitar_143
+  - first:
+      213: -5165295651788892559
+    second: Tyranitar_144
+  - first:
+      213: 1167728164625831345
+    second: Tyranitar_145
+  - first:
+      213: -2774130566447795937
+    second: Tyranitar_146
+  - first:
+      213: -1463948757671166070
+    second: Tyranitar_147
+  - first:
+      213: 6287992006442091888
+    second: Tyranitar_148
+  - first:
+      213: 1783957890639316504
+    second: Tyranitar_149
+  - first:
+      213: -2762396080697807089
+    second: Tyranitar_150
+  - first:
+      213: 1161281172431247764
+    second: Tyranitar_151
+  - first:
+      213: 4285501268437947276
+    second: Tyranitar_152
+  - first:
+      213: 660959094643196281
+    second: Tyranitar_153
+  - first:
+      213: 2896865230378246344
+    second: Tyranitar_154
+  - first:
+      213: 105945844935913017
+    second: Tyranitar_155
+  - first:
+      213: -2495540595218885067
+    second: Tyranitar_156
+  - first:
+      213: 2549400989959163002
+    second: Tyranitar_157
+  - first:
+      213: 3733621771040199337
+    second: Tyranitar_158
+  - first:
+      213: 4334905072425401420
+    second: Tyranitar_159
+  - first:
+      213: -7693251397145825301
+    second: Tyranitar_160
+  - first:
+      213: 7857066044648441687
+    second: Tyranitar_161
+  - first:
+      213: -508959142247924285
+    second: Tyranitar_162
+  - first:
+      213: -7681925583360054570
+    second: Tyranitar_163
+  - first:
+      213: 5405949490233573333
+    second: Tyranitar_164
+  - first:
+      213: 2974000714822209017
+    second: Tyranitar_165
+  - first:
+      213: 8639832362352812097
+    second: Tyranitar_166
+  - first:
+      213: -7482894671198682336
+    second: Tyranitar_167
+  - first:
+      213: -1809875406185068951
+    second: Tyranitar_168
+  - first:
+      213: -167034517851963120
+    second: Tyranitar_169
+  - first:
+      213: -3897902301561498148
+    second: Tyranitar_170
+  - first:
+      213: 2468411125991562121
+    second: Tyranitar_171
+  - first:
+      213: 1051809956031590372
+    second: Tyranitar_172
+  - first:
+      213: -5832899989559303079
+    second: Tyranitar_173
+  - first:
+      213: -6159093991065931725
+    second: Tyranitar_174
+  - first:
+      213: -6966182913658443972
+    second: Tyranitar_175
+  - first:
+      213: -4087057888205850039
+    second: Tyranitar_176
+  - first:
+      213: -5681624234283941204
+    second: Tyranitar_177
+  - first:
+      213: 4636503725552127155
+    second: Tyranitar_178
+  - first:
+      213: -698258316687518646
+    second: Tyranitar_179
+  - first:
+      213: -5898869789949343551
+    second: Tyranitar_180
+  - first:
+      213: 5059671895342452666
+    second: Tyranitar_181
+  - first:
+      213: -5451050582647789247
+    second: Tyranitar_182
+  - first:
+      213: 2465985928059064854
+    second: Tyranitar_183
+  - first:
+      213: 569499734141333054
+    second: Tyranitar_184
+  - first:
+      213: 6090266509649583128
+    second: Tyranitar_185
+  - first:
+      213: 6093752239420959446
+    second: Tyranitar_186
+  - first:
+      213: 6137790738590006038
+    second: Tyranitar_187
+  - first:
+      213: 5315846287898839188
+    second: Tyranitar_188
+  - first:
+      213: -3668804234643196823
+    second: Tyranitar_189
+  - first:
+      213: 3598809615771203278
+    second: Tyranitar_190
+  - first:
+      213: -8627867922678981638
+    second: Tyranitar_191
+  - first:
+      213: 5624329260150603286
+    second: Tyranitar_192
+  - first:
+      213: 7703941243010978927
+    second: Tyranitar_193
+  - first:
+      213: -7660967626426237854
+    second: Tyranitar_194
+  - first:
+      213: -7025615584367660560
+    second: Tyranitar_195
+  - first:
+      213: -1386212149751347593
+    second: Tyranitar_196
+  - first:
+      213: -1845864580411635312
+    second: Tyranitar_197
+  - first:
+      213: 5695022947585945578
+    second: Tyranitar_198
+  - first:
+      213: 5650961820028899740
+    second: Tyranitar_199
+  - first:
+      213: -5094559573742057552
+    second: Tyranitar_200
+  - first:
+      213: 2269699043182322653
+    second: Tyranitar_201
+  - first:
+      213: -408515043049273807
+    second: Tyranitar_202
+  - first:
+      213: -4945663374727045380
+    second: Tyranitar_203
+  - first:
+      213: -2831897773462425993
+    second: Tyranitar_204
+  - first:
+      213: 4658295423705108358
+    second: Tyranitar_205
+  - first:
+      213: -9181467190665270937
+    second: Tyranitar_206
+  - first:
+      213: -6168876043092372934
+    second: Tyranitar_207
+  - first:
+      213: -5183095969857744367
+    second: Tyranitar_208
+  - first:
+      213: -2270629866981186947
+    second: Tyranitar_209
+  - first:
+      213: 3773778308259798122
+    second: Tyranitar_210
+  - first:
+      213: -5800413618829587917
+    second: Tyranitar_211
+  - first:
+      213: 903206789583007224
+    second: Tyranitar_212
+  - first:
+      213: 4388887380940665759
+    second: Tyranitar_213
+  - first:
+      213: 7311278193843904348
+    second: Tyranitar_214
+  - first:
+      213: 3674821300540005224
+    second: Tyranitar_215
+  - first:
+      213: 3219197821907895484
+    second: Tyranitar_216
+  - first:
+      213: -2218430495178990317
+    second: Tyranitar_217
+  - first:
+      213: -3186636934143099154
+    second: Tyranitar_218
+  - first:
+      213: 3553768336444595821
+    second: Tyranitar_219
+  - first:
+      213: 348578726901076594
+    second: Tyranitar_220
+  - first:
+      213: 4789459864355038217
+    second: Tyranitar_221
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tyranitar_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 895
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7149c16bfbca9a9c0800000000000000
+      internalID: -3915408461627878377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 895
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc7d241bc4ce23b0800000000000000
+      internalID: -5535270515495830314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_2
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 895
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0072d1a01fe2aa10800000000000000
+      internalID: 1919359245926690830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_3
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 895
+        width: 72
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468d44cfef4b15c60800000000000000
+      internalID: 7805218636456843364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_4
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 969
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8783d0a35c6c178f0800000000000000
+      internalID: -544435529550317448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_5
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 969
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb2d1c1f16ee2930800000000000000
+      internalID: 4120483730380631012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_6
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 969
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab40a91e349cda4f0800000000000000
+      internalID: -815774664099232582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_7
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 969
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c1f7573115a83c0800000000000000
+      internalID: -4356580545510040434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_8
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 969
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ebfad96eacc7e00800000000000000
+      internalID: 1043932305479941662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_9
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 969
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f231d9553171dd0800000000000000
+      internalID: -2515520608434704534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_10
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 969
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f61ee01a142cf70800000000000000
+      internalID: 9205992748293910352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_11
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 969
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd5a8f2b3a65ff00800000000000000
+      internalID: 1149942082296241600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_12
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 969
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5735953d583f7c80800000000000000
+      internalID: -8322871613375301798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_13
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 969
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001519577e97af0f0800000000000000
+      internalID: -1082418725412318976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_14
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 969
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8260685f173784b20800000000000000
+      internalID: 3118869675241768488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_15
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 969
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1e021667d2fe4b0800000000000000
+      internalID: -5409054640989740606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_16
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 969
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec8fb32b3a2b5060800000000000000
+      internalID: 6943189684012944610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_17
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 969
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ceebbeb350cfbd0800000000000000
+      internalID: -2595193530355880880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_18
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 969
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ac0d347cebaabd0800000000000000
+      internalID: -2618070470316996012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_19
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 969
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d6d0a0b78b08710800000000000000
+      internalID: 1693556298480446827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_20
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 969
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfbcc0574dd46b3e0800000000000000
+      internalID: -2038356206446392324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_21
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 969
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9897146a00ee587e0800000000000000
+      internalID: -1763741992488961655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_22
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 969
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40a0d46bbabcb930800000000000000
+      internalID: 4160405469796540492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_23
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 895
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6115b0fd857ee30800000000000000
+      internalID: 4532689264962508479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_24
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 895
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec85860597028460800000000000000
+      internalID: 7242359487406116074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_25
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 895
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abbd05d5acd1f6c0800000000000000
+      internalID: -4111262380010390623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_26
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 895
+        width: 68
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe240ceb28f05280800000000000000
+      internalID: -9056465983115088142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_27
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 895
+        width: 70
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea6399a67b1ae6e0800000000000000
+      internalID: -1807602103970731288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_28
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 946
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7e5b02b8214feb0800000000000000
+      internalID: -4687100923427297332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_29
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 946
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e3eb14b616ae0f0800000000000000
+      internalID: -1086949246764171769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_30
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 946
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d222c1d3594d0f20800000000000000
+      internalID: 3390446718830125779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_31
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 946
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9085ff10595eeb350800000000000000
+      internalID: 6034512978869442569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_32
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 946
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b53c4a0b881159f0800000000000000
+      internalID: -481576699699645001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_33
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 946
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9926d456d276d6530800000000000000
+      internalID: 3849846701142401689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_34
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 946
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff51f781f575ed80800000000000000
+      internalID: -8222035864466661385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_35
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 946
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5a393c7140ce730800000000000000
+      internalID: 4029600266701743523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_36
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 946
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f3f9b5ea529ad80800000000000000
+      internalID: -8239012612505911500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_37
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 946
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065e84f77389f2c60800000000000000
+      internalID: 7795616844127724896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_38
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 946
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c40db73506597d80800000000000000
+      internalID: -8252470261769763642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_39
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 946
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253339d917d2a3650800000000000000
+      internalID: 6213328601909244754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_40
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 946
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1541fb776562500800000000000000
+      internalID: 371079091611521442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_41
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 946
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b092cdfa5d6b1fd0800000000000000
+      internalID: -2370180541308563273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_42
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 946
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c77b58168f09770800000000000000
+      internalID: 8615659184898669605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_43
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 946
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a35bc4180c00d7f0800000000000000
+      internalID: -589958322337393760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_44
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 946
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3aebf822fe67c40800000000000000
+      internalID: 5509854125853942708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_45
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 920
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a575d7c19f44a7080800000000000000
+      internalID: -9188956252980553894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_46
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 909
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffbb9fc8144417d0800000000000000
+      internalID: -2948656982667837455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_47
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 909
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5126c16e0d84188b0800000000000000
+      internalID: -5151756436684119531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_48
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 909
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b111a8f1bc1bb60f0800000000000000
+      internalID: -1122608196133187301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_49
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 909
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f735e14d97fa33e80800000000000000
+      internalID: -8200017558726880385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_50
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 909
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941ad2411b0e66390800000000000000
+      internalID: -7825320251357290167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_51
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 909
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579c08f53b255d820800000000000000
+      internalID: 2942348861911386485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_52
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 909
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3feed1a2dbd1bb460800000000000000
+      internalID: 7258427922730315507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_53
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 909
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848a9dd3045a032a0800000000000000
+      internalID: -6759721345348949944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_54
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 909
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b267cea278e955760800000000000000
+      internalID: 7446031862304896555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_55
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 909
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23ea4798e9b4a7c0800000000000000
+      internalID: -4060916555359526102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_56
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 909
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb21c92b55b021ae0800000000000000
+      internalID: -1580188056556924229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_57
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 909
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c23a6ca9c5ee330800000000000000
+      internalID: 3742030160218762289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_58
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 909
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72409e26916d110e0800000000000000
+      internalID: -2300822530087648217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_59
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 909
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a3e07e09a052e90800000000000000
+      internalID: -7051218024110605695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_60
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 909
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe699fd034ce5d00800000000000000
+      internalID: 963423084492713716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_61
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 909
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d7fe9d67b2d8650800000000000000
+      internalID: 6236688848440491345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_62
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 909
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d3a7c51fcf86610800000000000000
+      internalID: 1614818579981155670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_63
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 909
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87b1969ad7281300800000000000000
+      internalID: 222972001337325451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_64
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 909
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e5319a23ee29ab0800000000000000
+      internalID: -5002674334702805463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_65
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 886
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baad232090dbcbc80800000000000000
+      internalID: -8305555766388794709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_66
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 886
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148dac82c17757220800000000000000
+      internalID: 2483021732391868481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_67
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 886
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff836eb0e2ce519c0800000000000000
+      internalID: -3956997015062824705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_68
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 886
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea96d0feff7c3850800000000000000
+      internalID: 6358097506879314659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_69
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 886
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac18da28b6c0a9d0800000000000000
+      internalID: -2764991676910396246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_70
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 886
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c77a3e4a407b120800000000000000
+      internalID: 2429415630230223954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_71
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 886
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab235683639a0c9e0800000000000000
+      internalID: -1603095417004412230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_72
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 886
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5a08d74f6295fb0800000000000000
+      internalID: -4658649508018608665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_73
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 886
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4db0fa82a81a6c0800000000000000
+      internalID: -4133871075609291553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_74
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 886
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0925d176c9ceff0800000000000000
+      internalID: -5457532846698250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_75
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 886
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf835c3c457d7df0800000000000000
+      internalID: -180859439734878281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_76
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 886
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6007d03b00d601830800000000000000
+      internalID: 4039848715522764806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_77
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 886
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470b792732e9b0540800000000000000
+      internalID: 4975244088444432500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_78
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 886
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f046bcbf62faae9e0800000000000000
+      internalID: -1591266936354020337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_79
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 886
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc51e51867959520800000000000000
+      internalID: 2708237224232705269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_80
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 886
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb515754edd70e30800000000000000
+      internalID: 4469785127975738351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_81
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 886
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2266529fe52ba3e0800000000000000
+      internalID: -2041496295199841750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_82
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 789
+        width: 73
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b8e4c21bdb2b630800000000000000
+      internalID: 3941421192552811335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_83
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 789
+        width: 75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33fd49a95166d3f30800000000000000
+      internalID: 4556910640942604083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_84
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 789
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6e1a93fb07578b0800000000000000
+      internalID: -5155090231847688525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_85
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 863
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae6be9ddf3092b40800000000000000
+      internalID: 5415864415707426478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_86
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 863
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26db7bc17e9f6ce0800000000000000
+      internalID: -1409733946761292244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_87
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 863
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81361d9264b928ab0800000000000000
+      internalID: -5007269110030965992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_88
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 863
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7efc6236dadddec30800000000000000
+      internalID: 4390408948518670311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_89
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 863
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3587a600ad6508e0800000000000000
+      internalID: -1727854347952880321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_90
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 863
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68025fd6a738d13e0800000000000000
+      internalID: -2081362890921271162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_91
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 863
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69810642c80f9b50800000000000000
+      internalID: 6602005209239619949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_92
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 829
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e3924058fcc1560800000000000000
+      internalID: 7285926467386031754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_93
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 829
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8c2ceb767727fa0800000000000000
+      internalID: -5804445682261374741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_94
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 829
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7467fdd13d322cc60800000000000000
+      internalID: 7836865691224340039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_95
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 829
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0694faadfd6315350800000000000000
+      internalID: 6003640113336109408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_96
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 829
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38539704aab7dc020800000000000000
+      internalID: 2363681350595720579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_97
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 829
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c867f52f01f04e80800000000000000
+      internalID: -8196286274450528063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_98
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 829
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05afe3ff4ba62820800000000000000
+      internalID: 2893188170515457294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_99
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 829
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abc8a70b535b9570800000000000000
+      internalID: 8474458774263352230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_100
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 829
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d71e51f4ed1d620800000000000000
+      internalID: 2797261274824670503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_101
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 829
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef413b4eb402b6050800000000000000
+      internalID: 5794760855873852670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_102
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 829
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07efe9d9556eaa6b0800000000000000
+      internalID: -5284157957374804368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_103
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 829
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a124237d040ce410800000000000000
+      internalID: 1507584431075107234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_104
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 829
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ac2ced0bf4d9ae0800000000000000
+      internalID: -1540987876420695398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_105
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 829
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66fac39451bb2d6f0800000000000000
+      internalID: -661260495172620442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_106
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 829
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a10818ac3e7077b0800000000000000
+      internalID: -5228540368393862751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_107
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 829
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7b252688a539c70800000000000000
+      internalID: 8976618024091170800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_108
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 829
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51dae77f4a1588830800000000000000
+      internalID: 4073595631925374229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_109
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 829
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720dc23dee174ee50800000000000000
+      internalID: 6837715404814340135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_110
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 803
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b547e15417deb4610800000000000000
+      internalID: 1606638762834424923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_111
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 806
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731d99e14eb7745c0800000000000000
+      internalID: -4231277105195134665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_112
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 806
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887ff81b7d4d75bc0800000000000000
+      internalID: -3794330138174294136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_113
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 806
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff86375b81b063be0800000000000000
+      internalID: -1497997625302750977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_114
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 806
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e27f2e27a47b2330800000000000000
+      internalID: 3687168981316104931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_115
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 806
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cee9d67babb2e70800000000000000
+      internalID: 9091565569758391407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_116
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 806
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb9cd1afaf5f8d70800000000000000
+      internalID: 9047555384350120952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_117
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 806
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805b7f1587da25ef0800000000000000
+      internalID: -120843507702713080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_118
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 806
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910a1cec624368990800000000000000
+      internalID: -7384157197745151975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_119
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 806
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b91d120cb49baf0800000000000000
+      internalID: -380189404962907363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_120
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 806
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68494b0609c18b30800000000000000
+      internalID: 4287929348029761644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_121
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 806
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d4428facb96a440800000000000000
+      internalID: 4946812536761896195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_122
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 806
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81bf022b5b03082a0800000000000000
+      internalID: -6737331485610542312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_123
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 806
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a232c17c75efb40800000000000000
+      internalID: 5475910709611276894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_124
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 806
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a4c6c59d4445460800000000000000
+      internalID: 7229479002185681429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_125
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 806
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abfe41221edf317c0800000000000000
+      internalID: -4101655692223123526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_126
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 806
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3e7344cf52c1c90800000000000000
+      internalID: -7197836339038395469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_127
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 783
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50684f858169cf7b0800000000000000
+      internalID: -5189107639321852411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_128
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 783
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce64eec55c83c4650800000000000000
+      internalID: 6218407605810644716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_129
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 783
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a79f6c7629e627d0800000000000000
+      internalID: -2943408954934323289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_130
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 783
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f1366eec527d8e0800000000000000
+      internalID: -1668823566358732996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_131
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 783
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdf446f4696fd950800000000000000
+      internalID: 6476010671531425212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_132
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 783
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cee1915cab9a2340800000000000000
+      internalID: 4839851913968217798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_133
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 783
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c48831b4e1d97ff0800000000000000
+      internalID: -37768341699918655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_134
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 738
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1ba278df1a44530800000000000000
+      internalID: 3838370892693025193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_135
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 738
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0168113761d3b30800000000000000
+      internalID: 4268592705288147124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_136
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 738
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb1486be904d8640800000000000000
+      internalID: 5083790604782279615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_137
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 738
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fc72e5d378b1ec0800000000000000
+      internalID: -3595131179882786936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_138
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 738
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85ec6f927cfc0570800000000000000
+      internalID: 8434393771389281677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_139
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 738
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d41f5f57c068fce0800000000000000
+      internalID: -1371239677119490861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_140
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 738
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86cb4f5d971b2a690800000000000000
+      internalID: -7592310884954489752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_141
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 738
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07be03b50e91d67c0800000000000000
+      internalID: -4076573636307129488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_142
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 738
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8de4025ef8cb720800000000000000
+      internalID: 2863321677353113781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_143
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 738
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39bcd76b5b9fd5440800000000000000
+      internalID: 4926368126259284883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_144
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 738
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176d04bb8fe2158b0800000000000000
+      internalID: -5165295651788892559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_145
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 738
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5ddbe249a943010800000000000000
+      internalID: 1167728164625831345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_146
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 738
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f117352a2fe4089d0800000000000000
+      internalID: -2774130566447795937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_147
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 738
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8fb2a97c520fabe0800000000000000
+      internalID: -1463948757671166070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_148
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 738
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0750a762a6f634750800000000000000
+      internalID: 6287992006442091888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_149
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 738
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816cfcdef34e1c810800000000000000
+      internalID: 1783957890639316504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_150
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 738
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f6311866ff9a9d0800000000000000
+      internalID: -2762396080697807089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_151
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 738
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4991d17d213bd1010800000000000000
+      internalID: 1161281172431247764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_152
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 738
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83dab5b2b8297b30800000000000000
+      internalID: 4285501268437947276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_153
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 715
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971854f6bc23c2900800000000000000
+      internalID: 660959094643196281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_154
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 715
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c020ea249bb33820800000000000000
+      internalID: 2896865230378246344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_155
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 715
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e65d44f25687100800000000000000
+      internalID: 105945844935913017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_156
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 715
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5365963fc0f0e5dd0800000000000000
+      internalID: -2495540595218885067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_157
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 715
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c8b8c61ba416320800000000000000
+      internalID: 2549400989959163002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_158
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 715
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2148c183d70d330800000000000000
+      internalID: 3733621771040199337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_159
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 715
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c74f0323da82c30800000000000000
+      internalID: 4334905072425401420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_160
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 715
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef68596d941c3590800000000000000
+      internalID: -7693251397145825301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_161
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 715
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757cd0860f7e90d60800000000000000
+      internalID: 7857066044648441687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_162
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 715
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cdff115b50dfe8f0800000000000000
+      internalID: -508959142247924285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_163
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 715
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6daa6dce161546590800000000000000
+      internalID: -7681925583360054570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_164
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 657
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df731f5b6ac50b40800000000000000
+      internalID: 5405949490233573333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_165
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 638
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd4cb8a4e5c54920800000000000000
+      internalID: 2974000714822209017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_166
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 638
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140a6fcf1c9d6e770800000000000000
+      internalID: 8639832362352812097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_167
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 638
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0230a8f41fa672890800000000000000
+      internalID: -7482894671198682336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_168
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 638
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9668f9e38e702e6e0800000000000000
+      internalID: -1809875406185068951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_169
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 638
+        width: 71
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0118432bdf29eadf0800000000000000
+      internalID: -167034517851963120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_170
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 637
+        width: 68
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5df3a328ed7e9c0800000000000000
+      internalID: -3897902301561498148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_171
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 637
+        width: 70
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b595447de814220800000000000000
+      internalID: 2468411125991562121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_172
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 637
+        width: 72
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef6b701597c89e00800000000000000
+      internalID: 1051809956031590372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_173
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 637
+        width: 73
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95420ff0d506d0fa0800000000000000
+      internalID: -5832899989559303079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_174
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 531
+        width: 75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330b54cb5a0868aa0800000000000000
+      internalID: -6159093991065931725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_175
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 531
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c372ef66c85235f90800000000000000
+      internalID: -6966182913658443972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_176
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 546
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a380d318ad747c0800000000000000
+      internalID: -4087057888205850039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_177
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 374
+        width: 67
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca241488cd0d621b0800000000000000
+      internalID: -5681624234283941204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_178
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 373
+        width: 67
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc4f49b29b285040800000000000000
+      internalID: 4636503725552127155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_179
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 372
+        width: 67
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44d060b2c94f46f0800000000000000
+      internalID: -698258316687518646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_180
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 371
+        width: 65
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c849c9fd21032ea0800000000000000
+      internalID: -5898869789949343551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_181
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 370
+        width: 65
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf0ae118c0973640800000000000000
+      internalID: 5059671895342452666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_182
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 369
+        width: 64
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149a790406af954b0800000000000000
+      internalID: -5451050582647789247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_183
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 369
+        width: 62
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612921fd221f83220800000000000000
+      internalID: 2465985928059064854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_184
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 370
+        width: 63
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e6c29adf447e700800000000000000
+      internalID: 569499734141333054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_185
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 371
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c1f177f19f48450800000000000000
+      internalID: 6090266509649583128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_186
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 373
+        width: 67
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da6deb206b519450800000000000000
+      internalID: 6093752239420959446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_187
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 258
+        width: 66
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bf6574820dd2550800000000000000
+      internalID: 6137790738590006038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_188
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 258
+        width: 68
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4980ac6c80ea5c940800000000000000
+      internalID: 5315846287898839188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_189
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 278
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964b4ab9cf9c51dc0800000000000000
+      internalID: -3668804234643196823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_190
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 208
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec67d4a374a81f130800000000000000
+      internalID: 3598809615771203278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_191
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 207
+        width: 67
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb5bb336d7a34880800000000000000
+      internalID: -8627867922678981638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_192
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 121
+        width: 67
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ebc13c9a1ad0e40800000000000000
+      internalID: 5624329260150603286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_193
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 120
+        width: 67
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6496284eb5e9ea60800000000000000
+      internalID: 7703941243010978927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_194
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 119
+        width: 67
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cb8178886cea590800000000000000
+      internalID: -7660967626426237854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_195
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 118
+        width: 65
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1315d69dfff7e90800000000000000
+      internalID: -7025615584367660560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_196
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 117
+        width: 65
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7768dbee46f23cce0800000000000000
+      internalID: -1386212149751347593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_197
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 116
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099c615a1fb2266e0800000000000000
+      internalID: -1845864580411635312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_198
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 116
+        width: 62
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aefee828239c80f40800000000000000
+      internalID: 5695022947585945578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_199
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 117
+        width: 63
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c911e12d5df3c6e40800000000000000
+      internalID: 5650961820028899740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_200
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 69
+        width: 76
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b70a005f0d7c49b0800000000000000
+      internalID: -5094559573742057552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_201
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 94
+        width: 120
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd32def11479f7f10800000000000000
+      internalID: 2269699043182322653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_202
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 11
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13605a59bb9a45af0800000000000000
+      internalID: -408515043049273807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_203
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 13
+        width: 67
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe1cba2d597d5bb0800000000000000
+      internalID: -4945663374727045380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_204
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 13
+        width: 66
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e6d84aaf313b8d0800000000000000
+      internalID: -2831897773462425993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_205
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 13
+        width: 68
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f45c4d10795a040800000000000000
+      internalID: 4658295423705108358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_206
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 57
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7692e7f4c30e49080800000000000000
+      internalID: -9181467190665270937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_207
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 57
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32df044cefb36aa0800000000000000
+      internalID: -6168876043092372934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_208
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 57
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112ded73da1f118b0800000000000000
+      internalID: -5183095969857744367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_209
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 57
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72a1329a2a1d70e0800000000000000
+      internalID: -2270629866981186947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_210
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 57
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c56e480672f5430800000000000000
+      internalID: 3773778308259798122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_211
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 34
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a035bab8ac08fa0800000000000000
+      internalID: -5800413618829587917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_212
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 34
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fde0db2ac5d88c00800000000000000
+      internalID: 903206789583007224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_213
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 34
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93b924d1d578ec30800000000000000
+      internalID: 4388887380940665759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_214
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 34
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f102ec7c0e67560800000000000000
+      internalID: 7311278193843904348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_215
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 34
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86bd9b7b0869ff230800000000000000
+      internalID: 3674821300540005224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_216
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 34
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4088cec53ecac20800000000000000
+      internalID: 3219197821907895484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_217
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 34
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d56f7e73d8631e0800000000000000
+      internalID: -2218430495178990317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_218
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 34
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeeb248879ac6c3d0800000000000000
+      internalID: -3186636934143099154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_219
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 34
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e9fcb2975815130800000000000000
+      internalID: 3553768336444595821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_220
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 34
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2725239518666d400800000000000000
+      internalID: 348578726901076594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyranitar_221
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 34
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9046fd8fe54977240800000000000000
+      internalID: 4789459864355038217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

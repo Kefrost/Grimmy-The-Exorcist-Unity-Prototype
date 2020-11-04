@@ -1,0 +1,4904 @@
+fileFormatVersion: 2
+guid: ae67e96369e40ce42a79eac4745582ef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8625595373293878149
+    second: Zekrom_0
+  - first:
+      213: 3204692185432466735
+    second: Zekrom_1
+  - first:
+      213: 3626894149965648428
+    second: Zekrom_2
+  - first:
+      213: -9138228530178452330
+    second: Zekrom_3
+  - first:
+      213: 2879137223763797954
+    second: Zekrom_4
+  - first:
+      213: 8798400154853243617
+    second: Zekrom_5
+  - first:
+      213: 5357005465998118632
+    second: Zekrom_6
+  - first:
+      213: -8168524144123589152
+    second: Zekrom_7
+  - first:
+      213: -6386445153214996716
+    second: Zekrom_8
+  - first:
+      213: -2118357203279954112
+    second: Zekrom_9
+  - first:
+      213: 1968275598786500316
+    second: Zekrom_10
+  - first:
+      213: -1731578062789795447
+    second: Zekrom_11
+  - first:
+      213: 4635473744875169811
+    second: Zekrom_12
+  - first:
+      213: -3723963390687715360
+    second: Zekrom_13
+  - first:
+      213: -4780218643151751206
+    second: Zekrom_14
+  - first:
+      213: -6145636404806592241
+    second: Zekrom_15
+  - first:
+      213: 207142048596292496
+    second: Zekrom_16
+  - first:
+      213: 5661941159891015804
+    second: Zekrom_17
+  - first:
+      213: -7601884171490763209
+    second: Zekrom_18
+  - first:
+      213: -2677356451442238068
+    second: Zekrom_19
+  - first:
+      213: 6423987511318165380
+    second: Zekrom_20
+  - first:
+      213: 4642390459297790496
+    second: Zekrom_21
+  - first:
+      213: 6696975944113957758
+    second: Zekrom_22
+  - first:
+      213: -6825249570034889634
+    second: Zekrom_23
+  - first:
+      213: 8341851652133961792
+    second: Zekrom_24
+  - first:
+      213: 6959323384945138458
+    second: Zekrom_25
+  - first:
+      213: 6867677361385043913
+    second: Zekrom_26
+  - first:
+      213: 3244719869593413249
+    second: Zekrom_27
+  - first:
+      213: 4177331143420742144
+    second: Zekrom_28
+  - first:
+      213: 3159004696655232295
+    second: Zekrom_29
+  - first:
+      213: -975179162882857157
+    second: Zekrom_30
+  - first:
+      213: -1207265649203724139
+    second: Zekrom_31
+  - first:
+      213: -7034111667571053781
+    second: Zekrom_32
+  - first:
+      213: 1940645224403722904
+    second: Zekrom_33
+  - first:
+      213: 115308815519979633
+    second: Zekrom_34
+  - first:
+      213: -4847591979351377799
+    second: Zekrom_35
+  - first:
+      213: 4799846718970151548
+    second: Zekrom_36
+  - first:
+      213: -6471040352906668948
+    second: Zekrom_37
+  - first:
+      213: 4853360785419370640
+    second: Zekrom_38
+  - first:
+      213: 6606860126109783189
+    second: Zekrom_39
+  - first:
+      213: -4054180963401513601
+    second: Zekrom_40
+  - first:
+      213: -1819765248470550667
+    second: Zekrom_41
+  - first:
+      213: 6121559607547507745
+    second: Zekrom_42
+  - first:
+      213: -1425750205574438839
+    second: Zekrom_43
+  - first:
+      213: -2292372109660015621
+    second: Zekrom_44
+  - first:
+      213: 533495730162053862
+    second: Zekrom_45
+  - first:
+      213: -6938533655731911530
+    second: Zekrom_46
+  - first:
+      213: -8315984800904198525
+    second: Zekrom_47
+  - first:
+      213: 4296996708634330867
+    second: Zekrom_48
+  - first:
+      213: -2392150045927048203
+    second: Zekrom_49
+  - first:
+      213: -763443103572314342
+    second: Zekrom_50
+  - first:
+      213: -1366579232958757292
+    second: Zekrom_51
+  - first:
+      213: -443930001336856628
+    second: Zekrom_52
+  - first:
+      213: 8730222731738089534
+    second: Zekrom_53
+  - first:
+      213: 8081371543839126681
+    second: Zekrom_54
+  - first:
+      213: 1444786867855509964
+    second: Zekrom_55
+  - first:
+      213: -2764123916759559654
+    second: Zekrom_56
+  - first:
+      213: 3304292964456742879
+    second: Zekrom_57
+  - first:
+      213: -7961969806320402647
+    second: Zekrom_58
+  - first:
+      213: 2347884223056420223
+    second: Zekrom_59
+  - first:
+      213: -2550413643846417150
+    second: Zekrom_60
+  - first:
+      213: -136630763801419214
+    second: Zekrom_61
+  - first:
+      213: -8931085766586307896
+    second: Zekrom_62
+  - first:
+      213: 6504062883757494435
+    second: Zekrom_63
+  - first:
+      213: -2717776984627854260
+    second: Zekrom_64
+  - first:
+      213: 6671004228972930130
+    second: Zekrom_65
+  - first:
+      213: 3522448807600493063
+    second: Zekrom_66
+  - first:
+      213: 243106748032196008
+    second: Zekrom_67
+  - first:
+      213: 6306121534202616830
+    second: Zekrom_68
+  - first:
+      213: -421545173688950996
+    second: Zekrom_69
+  - first:
+      213: 2289597220565534245
+    second: Zekrom_70
+  - first:
+      213: -7013618760335228776
+    second: Zekrom_71
+  - first:
+      213: 4688060335061540105
+    second: Zekrom_72
+  - first:
+      213: -7459575444851830193
+    second: Zekrom_73
+  - first:
+      213: -8408122921205492262
+    second: Zekrom_74
+  - first:
+      213: 1406049600798009277
+    second: Zekrom_75
+  - first:
+      213: 8224012812756859900
+    second: Zekrom_76
+  - first:
+      213: -2614438069198184826
+    second: Zekrom_77
+  - first:
+      213: 5922860983856722453
+    second: Zekrom_78
+  - first:
+      213: 5067893566294940653
+    second: Zekrom_79
+  - first:
+      213: 812203439332532532
+    second: Zekrom_80
+  - first:
+      213: 1122806352166489904
+    second: Zekrom_81
+  - first:
+      213: -8153085684352766906
+    second: Zekrom_82
+  - first:
+      213: -5484613619362599816
+    second: Zekrom_83
+  - first:
+      213: 6608507983692936372
+    second: Zekrom_84
+  - first:
+      213: 2149903865303158408
+    second: Zekrom_85
+  - first:
+      213: 8270519833595964400
+    second: Zekrom_86
+  - first:
+      213: -6127922682566966073
+    second: Zekrom_87
+  - first:
+      213: 1031429921480980388
+    second: Zekrom_88
+  - first:
+      213: 1090006744457809981
+    second: Zekrom_89
+  - first:
+      213: -7164526043042905584
+    second: Zekrom_90
+  - first:
+      213: 6216011843894779844
+    second: Zekrom_91
+  - first:
+      213: -3187097341239244145
+    second: Zekrom_92
+  - first:
+      213: -429927024496532652
+    second: Zekrom_93
+  - first:
+      213: -1086229967447778950
+    second: Zekrom_94
+  - first:
+      213: -3904604957352150202
+    second: Zekrom_95
+  - first:
+      213: -2452391652865278951
+    second: Zekrom_96
+  - first:
+      213: -3841517803216108665
+    second: Zekrom_97
+  - first:
+      213: -3471549717718706183
+    second: Zekrom_98
+  - first:
+      213: 7306017534865449708
+    second: Zekrom_99
+  - first:
+      213: 1035107836954122430
+    second: Zekrom_100
+  - first:
+      213: 7370124704714370658
+    second: Zekrom_101
+  - first:
+      213: 2279822087549477800
+    second: Zekrom_102
+  - first:
+      213: -8455899415415242989
+    second: Zekrom_103
+  - first:
+      213: 6010953925618162427
+    second: Zekrom_104
+  - first:
+      213: 2360181535564958621
+    second: Zekrom_105
+  - first:
+      213: -7323365204086288156
+    second: Zekrom_106
+  - first:
+      213: 7908876067953434287
+    second: Zekrom_107
+  - first:
+      213: -1690316370901973333
+    second: Zekrom_108
+  - first:
+      213: -864661812395099963
+    second: Zekrom_109
+  - first:
+      213: 1631058761774911612
+    second: Zekrom_110
+  - first:
+      213: -6548620189456758087
+    second: Zekrom_111
+  - first:
+      213: 5040908787347547144
+    second: Zekrom_112
+  - first:
+      213: -1064188749015217224
+    second: Zekrom_113
+  - first:
+      213: 7056095935572408970
+    second: Zekrom_114
+  - first:
+      213: -5204449305981693303
+    second: Zekrom_115
+  - first:
+      213: -1099757466422495620
+    second: Zekrom_116
+  - first:
+      213: -4753452129028273160
+    second: Zekrom_117
+  - first:
+      213: -8499725053141982557
+    second: Zekrom_118
+  - first:
+      213: 7776558864135306966
+    second: Zekrom_119
+  - first:
+      213: -8580386568351084481
+    second: Zekrom_120
+  - first:
+      213: -7223660698567793379
+    second: Zekrom_121
+  - first:
+      213: -4433610415550871483
+    second: Zekrom_122
+  - first:
+      213: -5082279355182477519
+    second: Zekrom_123
+  - first:
+      213: 7991911474582930343
+    second: Zekrom_124
+  - first:
+      213: -1873607609370379132
+    second: Zekrom_125
+  - first:
+      213: -6206132588447710660
+    second: Zekrom_126
+  - first:
+      213: -7712176860062513145
+    second: Zekrom_127
+  - first:
+      213: 6829823638227408277
+    second: Zekrom_128
+  - first:
+      213: 7651297171849175514
+    second: Zekrom_129
+  - first:
+      213: 2746861467362154777
+    second: Zekrom_130
+  - first:
+      213: -5618544542297571988
+    second: Zekrom_131
+  - first:
+      213: 55522538745566206
+    second: Zekrom_132
+  - first:
+      213: -5014737385901234131
+    second: Zekrom_133
+  - first:
+      213: 7695526662475634029
+    second: Zekrom_134
+  - first:
+      213: 8359740866229984513
+    second: Zekrom_135
+  - first:
+      213: 2965280146044970177
+    second: Zekrom_136
+  - first:
+      213: -7150874254055101218
+    second: Zekrom_137
+  - first:
+      213: 7085828359805946638
+    second: Zekrom_138
+  - first:
+      213: -1016855254982793407
+    second: Zekrom_139
+  - first:
+      213: 8320725274478770589
+    second: Zekrom_140
+  - first:
+      213: -2979291723626407130
+    second: Zekrom_141
+  - first:
+      213: 1464378321059046210
+    second: Zekrom_142
+  - first:
+      213: 5561631033232528488
+    second: Zekrom_143
+  - first:
+      213: 2850956736321683982
+    second: Zekrom_144
+  - first:
+      213: -9176042127662608827
+    second: Zekrom_145
+  - first:
+      213: 7729559069677489423
+    second: Zekrom_146
+  - first:
+      213: 8148261509732485539
+    second: Zekrom_147
+  - first:
+      213: -1937123282215046303
+    second: Zekrom_148
+  - first:
+      213: 1284867547840570210
+    second: Zekrom_149
+  - first:
+      213: 3888659912505903076
+    second: Zekrom_150
+  - first:
+      213: -7002945481440200104
+    second: Zekrom_151
+  - first:
+      213: 4177853229324623283
+    second: Zekrom_152
+  - first:
+      213: -3660747647185554151
+    second: Zekrom_153
+  - first:
+      213: 5787165780500624602
+    second: Zekrom_154
+  - first:
+      213: -147220120740201372
+    second: Zekrom_155
+  - first:
+      213: -7462698652518343708
+    second: Zekrom_156
+  - first:
+      213: -1105861502389692216
+    second: Zekrom_157
+  - first:
+      213: 1023936990432806386
+    second: Zekrom_158
+  - first:
+      213: -569234162305467744
+    second: Zekrom_159
+  - first:
+      213: 2556465948024992896
+    second: Zekrom_160
+  - first:
+      213: -996086077374096869
+    second: Zekrom_161
+  - first:
+      213: 5509895803449958143
+    second: Zekrom_162
+  - first:
+      213: -1408495057810381147
+    second: Zekrom_163
+  - first:
+      213: 6434759740677248776
+    second: Zekrom_164
+  - first:
+      213: -8588960376453859144
+    second: Zekrom_165
+  - first:
+      213: -6869130514475856018
+    second: Zekrom_166
+  - first:
+      213: -7639837357075804479
+    second: Zekrom_167
+  - first:
+      213: 1856386118126490746
+    second: Zekrom_168
+  - first:
+      213: -6730970053102544142
+    second: Zekrom_169
+  - first:
+      213: -6921884958750864634
+    second: Zekrom_170
+  - first:
+      213: -2549706992958671696
+    second: Zekrom_171
+  - first:
+      213: -6035968925970106313
+    second: Zekrom_172
+  - first:
+      213: -529819535549118653
+    second: Zekrom_173
+  - first:
+      213: 2735415024110055909
+    second: Zekrom_174
+  - first:
+      213: -8720351507591293332
+    second: Zekrom_175
+  - first:
+      213: 5745537107061212018
+    second: Zekrom_176
+  - first:
+      213: -8647957096754583814
+    second: Zekrom_177
+  - first:
+      213: 8482890393250037229
+    second: Zekrom_178
+  - first:
+      213: -1338443377979313082
+    second: Zekrom_179
+  - first:
+      213: -884980544251860614
+    second: Zekrom_180
+  - first:
+      213: 4606714367765560612
+    second: Zekrom_181
+  - first:
+      213: 6473086632064102865
+    second: Zekrom_182
+  - first:
+      213: 8832581336106742340
+    second: Zekrom_183
+  - first:
+      213: -8787179719798799737
+    second: Zekrom_184
+  - first:
+      213: 8455360935414072213
+    second: Zekrom_185
+  - first:
+      213: 7689847468466939447
+    second: Zekrom_186
+  - first:
+      213: -2604385025249932008
+    second: Zekrom_187
+  - first:
+      213: 1916218302927339249
+    second: Zekrom_188
+  - first:
+      213: 4725189995416328851
+    second: Zekrom_189
+  - first:
+      213: -4675738025749680830
+    second: Zekrom_190
+  - first:
+      213: -6068722961058823010
+    second: Zekrom_191
+  - first:
+      213: -8622868615953508442
+    second: Zekrom_192
+  - first:
+      213: -5765673758145978601
+    second: Zekrom_193
+  - first:
+      213: -5662515476301013359
+    second: Zekrom_194
+  - first:
+      213: -2643140133216828724
+    second: Zekrom_195
+  - first:
+      213: -4631625034462006428
+    second: Zekrom_196
+  - first:
+      213: -8072320231411585448
+    second: Zekrom_197
+  - first:
+      213: -4327373929137057963
+    second: Zekrom_198
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zekrom_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1185
+        width: 112
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74c09655babb4880800000000000000
+      internalID: -8625595373293878149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_1
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1185
+        width: 96
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f252c2f309a597c20800000000000000
+      internalID: 3204692185432466735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1185
+        width: 98
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2215a66301555230800000000000000
+      internalID: 3626894149965648428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_3
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1185
+        width: 100
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6949f56719d7e2180800000000000000
+      internalID: -9138228530178452330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_4
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1185
+        width: 99
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7ab0afc00c4f720800000000000000
+      internalID: 2879137223763797954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_5
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1185
+        width: 99
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eaf4cd23523a1a70800000000000000
+      internalID: 8798400154853243617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_6
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1185
+        width: 100
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eec4a4b618e75a40800000000000000
+      internalID: 5357005465998118632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_7
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1185
+        width: 98
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0edcf42d19293ae80800000000000000
+      internalID: -8168524144123589152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_8
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 1185
+        width: 97
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41fda1158f9ce57a0800000000000000
+      internalID: -6386445153214996716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_9
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1078
+        width: 96
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fbb1fd8551a92e0800000000000000
+      internalID: -2118357203279954112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_10
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1078
+        width: 96
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd61dbd8a38b05b10800000000000000
+      internalID: 1968275598786500316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_11
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1078
+        width: 96
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9812e8a1de238f7e0800000000000000
+      internalID: -1731578062789795447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_12
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1078
+        width: 96
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3182fe8afc2845040800000000000000
+      internalID: 4635473744875169811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_13
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1078
+        width: 96
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efdf7dc603d15cc0800000000000000
+      internalID: -3723963390687715360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_14
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1078
+        width: 96
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad77d32887049adb0800000000000000
+      internalID: -4780218643151751206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_15
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1078
+        width: 95
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f095bc4304056baa0800000000000000
+      internalID: -6145636404806592241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_16
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1078
+        width: 95
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093f0a0889aefd200800000000000000
+      internalID: 207142048596292496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_17
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 1078
+        width: 123
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7897769c71439e40800000000000000
+      internalID: 5661941159891015804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_18
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 971
+        width: 98
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ed0ae5f9ea08690800000000000000
+      internalID: -7601884171490763209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_19
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 971
+        width: 100
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d5fae1e7e18dad0800000000000000
+      internalID: -2677356451442238068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_20
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 971
+        width: 99
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4873aa51b96962950800000000000000
+      internalID: 6423987511318165380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_21
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 971
+        width: 99
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a7b1bb6851d6040800000000000000
+      internalID: 4642390459297790496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_22
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 971
+        width: 100
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7baf3a932070fc50800000000000000
+      internalID: 6696975944113957758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_23
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 971
+        width: 98
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ccea28da7d741a0800000000000000
+      internalID: -6825249570034889634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_24
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 971
+        width: 97
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040437e61e534c370800000000000000
+      internalID: 8341851652133961792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_25
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 971
+        width: 96
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b59bc1fbb749060800000000000000
+      internalID: 6959323384945138458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_26
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 971
+        width: 96
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7f8557c24ee4f50800000000000000
+      internalID: 6867677361385043913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_27
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 864
+        width: 96
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18664c6b78f870d20800000000000000
+      internalID: 3244719869593413249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_28
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 864
+        width: 96
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a05c0ea8cd8f930800000000000000
+      internalID: 4177331143420742144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_29
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 864
+        width: 96
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72dfce3d80a07db20800000000000000
+      internalID: 3159004696655232295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_30
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 864
+        width: 96
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b372104d7b77772f0800000000000000
+      internalID: -975179162882857157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_31
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 864
+        width: 95
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5904ea5d94eee3fe0800000000000000
+      internalID: -1207265649203724139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_32
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 864
+        width: 95
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b2ff7e4b0d16e90800000000000000
+      internalID: -7034111667571053781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_33
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 864
+        width: 123
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89264a3bc8e8eea10800000000000000
+      internalID: 1940645224403722904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_34
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 864
+        width: 97
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1781a8cb1c8a99100800000000000000
+      internalID: 115308815519979633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_35
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 864
+        width: 98
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9787ab647c4e9bcb0800000000000000
+      internalID: -4847591979351377799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_36
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 757
+        width: 97
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c724a84092b7c9240800000000000000
+      internalID: 4799846718970151548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_37
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 757
+        width: 96
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6497c5851f3236a0800000000000000
+      internalID: -6471040352906668948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_38
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 757
+        width: 94
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0908bbd8be99a5340800000000000000
+      internalID: 4853360785419370640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_39
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 757
+        width: 93
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5945771b74840bb50800000000000000
+      internalID: 6606860126109783189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_40
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 757
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f754d4dc4e7acb7c0800000000000000
+      internalID: -4054180963401513601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_41
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 757
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577ff46e525eeb6e0800000000000000
+      internalID: -1819765248470550667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_42
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 757
+        width: 93
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124bf37970624f450800000000000000
+      internalID: 6121559607547507745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_43
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 757
+        width: 94
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940ab42fdb7b63ce0800000000000000
+      internalID: -1425750205574438839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_44
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 757
+        width: 94
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3b3b636bbdf20e0800000000000000
+      internalID: -2292372109660015621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 643
+        width: 1206
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e23f7d3a8b576700800000000000000
+      internalID: 533495730162053862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_46
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 650
+        width: 96
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694c10ce66065bf90800000000000000
+      internalID: -6938533655731911530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_47
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 650
+        width: 110
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386ce8032efa79c80800000000000000
+      internalID: -8315984800904198525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_48
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 650
+        width: 95
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f60c237dbff1ab30800000000000000
+      internalID: 4296996708634330867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_49
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 718
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb751715306dced0800000000000000
+      internalID: -2392150045927048203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_50
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 718
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17b95dca84b765f0800000000000000
+      internalID: -763443103572314342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_51
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 718
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45641169d6fe80de0800000000000000
+      internalID: -1366579232958757292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_52
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 718
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf8d2d0408d6d9f0800000000000000
+      internalID: -443930001336856628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_53
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 716
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e380a4fd15bf72970800000000000000
+      internalID: 8730222731738089534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_54
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 718
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9943b782a9cc62070800000000000000
+      internalID: 8081371543839126681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_55
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 718
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc94da2600aec0410800000000000000
+      internalID: 1444786867855509964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_56
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 718
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12926251fbd3a9d0800000000000000
+      internalID: -2764123916759559654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_57
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 718
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf344cb1f43bdd20800000000000000
+      internalID: 3304292964456742879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_58
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 654
+        width: 37
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ff2ed35a6618190800000000000000
+      internalID: -7961969806320402647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_59
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 718
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d9501e24c559020800000000000000
+      internalID: 2347884223056420223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_60
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 718
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2058938bd4c1b9cd0800000000000000
+      internalID: -2550413643846417150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_61
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 718
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232e9325b079a1ef0800000000000000
+      internalID: -136630763801419214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_62
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 718
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca631070d86e0480800000000000000
+      internalID: -8931085766586307896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_63
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 718
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a01b279bb2134a50800000000000000
+      internalID: 6504062883757494435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_64
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 718
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44468c5b34884ad0800000000000000
+      internalID: -2717776984627854260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_65
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 718
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2546f03700b249c50800000000000000
+      internalID: 6671004228972930130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_66
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 716
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702968c178042e030800000000000000
+      internalID: 3522448807600493063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_67
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 718
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad95fe9c40bf5300800000000000000
+      internalID: 243106748032196008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_68
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 718
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb9694cf18d38750800000000000000
+      internalID: 6306121534202616830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_69
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 718
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f5d71e5ee562af0800000000000000
+      internalID: -421545173688950996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_70
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 718
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526c7829a8846cf10800000000000000
+      internalID: 2289597220565534245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_71
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 702
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8900430b5ee9aae90800000000000000
+      internalID: -7013618760335228776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_72
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 702
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d11fc49065f0140800000000000000
+      internalID: 4688060335061540105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_73
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 702
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42516ac7a34a7890800000000000000
+      internalID: -7459575444851830193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_74
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 702
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad51ab550c8505b80800000000000000
+      internalID: -8408122921205492262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_75
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 701
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7252099aa438310800000000000000
+      internalID: 1406049600798009277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_76
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 702
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb32ac9410912270800000000000000
+      internalID: 8224012812756859900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_77
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 701
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e1f2e8d66a7bbd0800000000000000
+      internalID: -2614438069198184826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_78
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 698
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512fcc42faa323250800000000000000
+      internalID: 5922860983856722453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_79
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 702
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb5f720956c45640800000000000000
+      internalID: 5067893566294940653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_80
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 702
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43124ce89b6854b00800000000000000
+      internalID: 812203439332532532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_81
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 702
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f8f6cad62059f00800000000000000
+      internalID: 1122806352166489904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_82
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 702
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ca4d854cb6ade80800000000000000
+      internalID: -8153085684352766906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_83
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 701
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c6f9fc8fcb2e3b0800000000000000
+      internalID: -5484613619362599816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_84
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 702
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4b95f6ff226bb50800000000000000
+      internalID: 6608507983692936372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_85
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 701
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e42a0cc2ef5dd10800000000000000
+      internalID: 2149903865303158408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_86
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 683
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb6f4538f9c6c270800000000000000
+      internalID: 8270519833595964400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_87
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 674
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4898e89ce35faa0800000000000000
+      internalID: -6127922682566966073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_88
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 674
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a735908c00605e00800000000000000
+      internalID: 1031429921480980388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_89
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 674
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d301036eb5b702f00800000000000000
+      internalID: 1090006744457809981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_90
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 674
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012846ce58d729c90800000000000000
+      internalID: -7164526043042905584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_91
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 672
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf18f296d5b34650800000000000000
+      internalID: 6216011843894779844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_92
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 674
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ac7d6aad725c3d0800000000000000
+      internalID: -3187097341239244145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_93
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 674
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4532b8926a7980af0800000000000000
+      internalID: -429927024496532652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_94
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 674
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7914e5899fece0f0800000000000000
+      internalID: -1086229967447778950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_95
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 674
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64bbbc09a7e00d9c0800000000000000
+      internalID: -3904604957352150202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_96
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 652
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91cf4d8f8ca57fdd0800000000000000
+      internalID: -2452391652865278951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_97
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 652
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78307f449ef20bac0800000000000000
+      internalID: -3841517803216108665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_98
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 658
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7d44fbce392dfc0800000000000000
+      internalID: -3471549717718706183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_99
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 658
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce22e603d30346560800000000000000
+      internalID: 7306017534865449708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_100
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 658
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb89fdde7117d5e00800000000000000
+      internalID: 1035107836954122430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_101
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 658
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ea4dece51f74660800000000000000
+      internalID: 7370124704714370658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_102
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 657
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3e97f0c1e83af10800000000000000
+      internalID: 2279822087549477800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_103
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 658
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31fbdbf684c96aa80800000000000000
+      internalID: -8455899415415242989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_104
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 657
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfad5b97fb23b6350800000000000000
+      internalID: 6010953925618162427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_105
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 652
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b09c01a9c01c020800000000000000
+      internalID: 2360181535564958621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_106
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 650
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e01bf1d52e2e5a90800000000000000
+      internalID: -7323365204086288156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_107
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 544
+        width: 106
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faed3fa71e8f1cd60800000000000000
+      internalID: 7908876067953434287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_108
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 544
+        width: 97
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba64c52673aca88e0800000000000000
+      internalID: -1690316370901973333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_109
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 544
+        width: 98
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8385da9aa1004f0800000000000000
+      internalID: -864661812395099963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_110
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 544
+        width: 98
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70d1675d4fa2a610800000000000000
+      internalID: 1631058761774911612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_111
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 544
+        width: 99
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba8a7e32a0ae15a0800000000000000
+      internalID: -6548620189456758087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_112
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 544
+        width: 99
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804eefe85d7e4f540800000000000000
+      internalID: 5040908787347547144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_113
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 544
+        width: 100
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb0bf898fd3b31f0800000000000000
+      internalID: -1064188749015217224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_114
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 544
+        width: 99
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8afedc5ed94ce160800000000000000
+      internalID: 7056095935572408970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_115
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 544
+        width: 99
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982de693ee416c7b0800000000000000
+      internalID: -5204449305981693303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_116
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 437
+        width: 98
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76bdca3960ecb0f0800000000000000
+      internalID: -1099757466422495620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_117
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 437
+        width: 98
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb02783978580eb0800000000000000
+      internalID: -4753452129028273160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_118
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 437
+        width: 97
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2ebfef819ea0a80800000000000000
+      internalID: -8499725053141982557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_119
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 437
+        width: 98
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de33bfb513ebeb60800000000000000
+      internalID: 7776558864135306966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_120
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 437
+        width: 97
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3096ed70e75ce880800000000000000
+      internalID: -8580386568351084481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_121
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 437
+        width: 97
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15aae30ed660cb90800000000000000
+      internalID: -7223660698567793379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_122
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 437
+        width: 96
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5484e9c31d6a872c0800000000000000
+      internalID: -4433610415550871483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_123
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 437
+        width: 96
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f0c018add1879b0800000000000000
+      internalID: -5082279355182477519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_124
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 437
+        width: 117
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a342e6a429f8ee60800000000000000
+      internalID: 7991911474582930343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_125
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 330
+        width: 98
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c720b5ecb9ff5e0800000000000000
+      internalID: -1873607609370379132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_126
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 330
+        width: 98
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c324994da436fd9a0800000000000000
+      internalID: -6206132588447710660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_127
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 330
+        width: 99
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7088cf2b108d8f490800000000000000
+      internalID: -7712176860062513145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_128
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 330
+        width: 99
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5955c1bb96868ce50800000000000000
+      internalID: 6829823638227408277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_129
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 330
+        width: 100
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1650f4d3ede2a60800000000000000
+      internalID: 7651297171849175514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_130
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 330
+        width: 99
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919545973ffce1620800000000000000
+      internalID: 2746861467362154777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_131
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 330
+        width: 99
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6db4a1d18be602b0800000000000000
+      internalID: -5618544542297571988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_132
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 330
+        width: 98
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef315fe647145c000800000000000000
+      internalID: 55522538745566206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_133
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 330
+        width: 98
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d286c7faae2186ab0800000000000000
+      internalID: -5014737385901234131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_134
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 223
+        width: 97
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6558641ab00cca60800000000000000
+      internalID: 7695526662475634029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_135
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 223
+        width: 98
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d54f9a604c30470800000000000000
+      internalID: 8359740866229984513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_136
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 223
+        width: 97
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c46784059ac62920800000000000000
+      internalID: 2965280146044970177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_137
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 223
+        width: 97
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc2f8db0cdf2cc90800000000000000
+      internalID: -7150874254055101218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_138
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 223
+        width: 96
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b4f95d95be55260800000000000000
+      internalID: 7085828359805946638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_139
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 223
+        width: 96
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147e2ca788763e1f0800000000000000
+      internalID: -1016855254982793407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_140
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 223
+        width: 123
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99fbe25d87297370800000000000000
+      internalID: 8320725274478770589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_141
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 223
+        width: 101
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b9cfa56fd67a6d0800000000000000
+      internalID: -2979291723626407130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_142
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 223
+        width: 104
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243e18b0354825410800000000000000
+      internalID: 1464378321059046210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_143
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 116
+        width: 107
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8641d9b35f1ee2d40800000000000000
+      internalID: 5561631033232528488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_144
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 116
+        width: 107
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e020672fb02a09720800000000000000
+      internalID: 2850956736321683982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_145
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 116
+        width: 107
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e86a83d4628a080800000000000000
+      internalID: -9176042127662608827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_146
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 116
+        width: 106
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d868a5509e44b60800000000000000
+      internalID: 7729559069677489423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_147
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 116
+        width: 106
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9c798fba0741170800000000000000
+      internalID: 8148261509732485539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_148
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 116
+        width: 105
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163fe6d53a4fd15e0800000000000000
+      internalID: -1937123282215046303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_149
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 116
+        width: 105
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263e67c2a34c4d110800000000000000
+      internalID: 1284867547840570210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_150
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 116
+        width: 105
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e74731669b47f530800000000000000
+      internalID: 3888659912505903076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_151
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 116
+        width: 105
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a7455103a80de90800000000000000
+      internalID: -7002945481440200104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_152
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 9
+        width: 106
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bddc997067baf930800000000000000
+      internalID: 4177853229324623283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_153
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 9
+        width: 103
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915782d0969623dc0800000000000000
+      internalID: -3660747647185554151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_154
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 9
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4390b9d94205050800000000000000
+      internalID: 5787165780500624602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_155
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 9
+        width: 98
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c7d778418f4fdf0800000000000000
+      internalID: -147220120740201372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_156
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 9
+        width: 96
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb9bd65d1b2f6890800000000000000
+      internalID: -7462698652518343708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_157
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 8
+        width: 89
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8584b92d037a0f0800000000000000
+      internalID: -1105861502389692216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_158
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 49
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5412b8441c53e00800000000000000
+      internalID: 1023936990432806386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_159
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 47
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aaf3c99b8ca918f0800000000000000
+      internalID: -569234162305467744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_160
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 47
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08479682c346a7320800000000000000
+      internalID: 2556465948024992896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_161
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 49
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a97687df03d22f0800000000000000
+      internalID: -996086077374096869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_162
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 49
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffedc026a05177c40800000000000000
+      internalID: 5509895803449958143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_163
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 49
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6a15b1535047ce0800000000000000
+      internalID: -1408495057810381147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_164
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 47
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8075d0e24ebdc4950800000000000000
+      internalID: 6434759740677248776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_165
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 49
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8ff8b3b02edc880800000000000000
+      internalID: -8588960376453859144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_166
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 49
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fced8f032fba0a0800000000000000
+      internalID: -6869130514475856018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_167
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 49
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ceccbdb668d9f590800000000000000
+      internalID: -7639837357075804479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_168
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 49
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7455e0c65533c910800000000000000
+      internalID: 1856386118126490746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_169
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 49
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fad70f166ac692a0800000000000000
+      internalID: -6730970053102544142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_170
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 30
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b0981cd4680ff90800000000000000
+      internalID: -6921884958750864634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_171
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 30
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b47e53bffe9d9cd0800000000000000
+      internalID: -2549706992958671696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_172
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 30
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7387144ed3eeb3ca0800000000000000
+      internalID: -6035968925970106313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_173
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 30
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347488480f3b5a8f0800000000000000
+      internalID: -529819535549118653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_174
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 30
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1b859b87526f520800000000000000
+      internalID: 2735415024110055909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_175
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 30
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c669a7991861bf680800000000000000
+      internalID: -8720351507591293332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_176
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 30
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2738536ce8f3cbf40800000000000000
+      internalID: 5745537107061212018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_177
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 30
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6ef1fd6d84cf780800000000000000
+      internalID: -8647957096754583814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_178
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 30
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedfd3e4ed749b570800000000000000
+      internalID: 8482890393250037229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_179
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 30
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644b19fc6d4ec6de0800000000000000
+      internalID: -1338443377979313082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_180
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 30
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a796cb242eae7b3f0800000000000000
+      internalID: -884980544251860614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_181
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 30
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42dba506f465eef30800000000000000
+      internalID: 4606714367765560612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_182
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 30
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1b288fef505d950800000000000000
+      internalID: 6473086632064102865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_183
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 28
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442336c9de1a39a70800000000000000
+      internalID: 8832581336106742340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_184
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 11
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78240efe99aad0680800000000000000
+      internalID: -8787179719798799737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_185
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 11
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593021be8f9775570800000000000000
+      internalID: 8455360935414072213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_186
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 11
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736a8eea783d7ba60800000000000000
+      internalID: 7689847468466939447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_187
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 11
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d81af3e9d5bdbd0800000000000000
+      internalID: -2604385025249932008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_188
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 11
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fef51ad466c79a10800000000000000
+      internalID: 1916218302927339249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_189
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 11
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a1505044f339140800000000000000
+      internalID: 4725189995416328851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_190
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 11
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d6768e9017c1fb0800000000000000
+      internalID: -4675738025749680830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_191
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 11
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9405d1de9097cba0800000000000000
+      internalID: -6068722961058823010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_192
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 11
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a71a310eaa655880800000000000000
+      internalID: -8622868615953508442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_193
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 11
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71fdaeac3463cffa0800000000000000
+      internalID: -5765673758145978601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_194
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 9
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e1de3fc24ba61b0800000000000000
+      internalID: -5662515476301013359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_195
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 11
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc248048d0ea15bd0800000000000000
+      internalID: -2643140133216828724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_196
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 11
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463f510129929bfb0800000000000000
+      internalID: -4631625034462006428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_197
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 11
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e638db48b59ff80800000000000000
+      internalID: -8072320231411585448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zekrom_198
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 11
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55fcf7fb65412f3c0800000000000000
+      internalID: -4327373929137057963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

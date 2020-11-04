@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fd73012ff2053040a6fe22559110819, type: 3}
+  m_Name: Noodles
+  m_EditorClassIdentifier: 
+  monsterName: Noodles
+  description: 
+  frontSprite: {fileID: 7344684868397416222, guid: e44a079af572da248a92ff10c051d451,
+    type: 3}
+  backSprite: {fileID: 7664325989728120886, guid: e44a079af572da248a92ff10c051d451,
+    type: 3}
+  firstType: 5
+  secondType: 0
+  maxHp: 100
+  attack: 100
+  defense: 125
+  spAttack: 110
+  spDefense: 50
+  speed: 50
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: eda37ef57ef3c8d47a6ea1f39ba610c2, type: 2}
+    level: 24
+  - moveBase: {fileID: 11400000, guid: b1fd44a2622d7e3469394893c27b9734, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 31b643a478f167444b54e1d557ac4693, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 4ab5f066d5e2f98459c24eda1a6d9de3, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 78d7459089894184ba4a8bbb7941511e, type: 2}
+    level: 16
+  - moveBase: {fileID: 11400000, guid: 82e84540f79927d40a7f6f77176fb4d9, type: 2}
+    level: 20
+  - moveBase: {fileID: 11400000, guid: 1c3ee6a2d7fa86147b270daf244fe6ab, type: 2}
+    level: 36
+  - moveBase: {fileID: 11400000, guid: 2569abc0d481bde4daccd949f9ce4347, type: 2}
+    level: 40
+  - moveBase: {fileID: 11400000, guid: 6e599413b8159ad459e8c08a02700bc2, type: 2}
+    level: 44
+  - moveBase: {fileID: 11400000, guid: 198ae7d6c7d93684ba1bbc9172881b83, type: 2}
+    level: 48

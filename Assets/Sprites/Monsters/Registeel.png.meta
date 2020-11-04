@@ -1,0 +1,2912 @@
+fileFormatVersion: 2
+guid: b7f2928246a9fb04ca4144fb83542dfb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3039949590234392552
+    second: Registeel_0
+  - first:
+      213: 7326443726477649825
+    second: Registeel_1
+  - first:
+      213: 4452501870330319202
+    second: Registeel_2
+  - first:
+      213: 2153773626295885704
+    second: Registeel_3
+  - first:
+      213: -5678869464570479758
+    second: Registeel_4
+  - first:
+      213: -5150171176808375707
+    second: Registeel_5
+  - first:
+      213: 8622493306461510236
+    second: Registeel_6
+  - first:
+      213: -5117986361012652035
+    second: Registeel_7
+  - first:
+      213: -4208045299138147705
+    second: Registeel_8
+  - first:
+      213: 1538191252860041142
+    second: Registeel_9
+  - first:
+      213: 4792769308722940989
+    second: Registeel_10
+  - first:
+      213: -4285336663039193398
+    second: Registeel_11
+  - first:
+      213: -5335754106189455576
+    second: Registeel_12
+  - first:
+      213: 1531790205141588183
+    second: Registeel_13
+  - first:
+      213: 2528057017716882086
+    second: Registeel_14
+  - first:
+      213: -6661257720390935327
+    second: Registeel_15
+  - first:
+      213: 8568179685467310421
+    second: Registeel_16
+  - first:
+      213: -3099034059994760238
+    second: Registeel_17
+  - first:
+      213: -943114685954530863
+    second: Registeel_18
+  - first:
+      213: -3973959760703395008
+    second: Registeel_19
+  - first:
+      213: 8446454898932117742
+    second: Registeel_20
+  - first:
+      213: -4346147951511559825
+    second: Registeel_21
+  - first:
+      213: 8795065550246662041
+    second: Registeel_22
+  - first:
+      213: 4327846588453978640
+    second: Registeel_23
+  - first:
+      213: 2527988860119267021
+    second: Registeel_24
+  - first:
+      213: -5123804977672277175
+    second: Registeel_25
+  - first:
+      213: 913072881515143955
+    second: Registeel_26
+  - first:
+      213: -4637606991309559922
+    second: Registeel_27
+  - first:
+      213: 7166424960712252852
+    second: Registeel_28
+  - first:
+      213: -475185237780927506
+    second: Registeel_29
+  - first:
+      213: -7460232336307756155
+    second: Registeel_30
+  - first:
+      213: -8817386400774859396
+    second: Registeel_31
+  - first:
+      213: 3573628980587789502
+    second: Registeel_32
+  - first:
+      213: -7963940704714143596
+    second: Registeel_33
+  - first:
+      213: 6936035337783062151
+    second: Registeel_34
+  - first:
+      213: 2882173454546662373
+    second: Registeel_35
+  - first:
+      213: 385442020777948846
+    second: Registeel_36
+  - first:
+      213: 4040993002099344810
+    second: Registeel_37
+  - first:
+      213: -6436229088563207656
+    second: Registeel_38
+  - first:
+      213: -2964942325457975377
+    second: Registeel_39
+  - first:
+      213: -8880890652003922167
+    second: Registeel_40
+  - first:
+      213: -2157898015395668652
+    second: Registeel_41
+  - first:
+      213: -906997551074499314
+    second: Registeel_42
+  - first:
+      213: 7526645878663229962
+    second: Registeel_43
+  - first:
+      213: -7475383763262051067
+    second: Registeel_44
+  - first:
+      213: 6571663682864848772
+    second: Registeel_45
+  - first:
+      213: 5810957945852910798
+    second: Registeel_46
+  - first:
+      213: -4081639919087057319
+    second: Registeel_47
+  - first:
+      213: 2688862375825892235
+    second: Registeel_48
+  - first:
+      213: 4615768044331177647
+    second: Registeel_49
+  - first:
+      213: -5900280261732171756
+    second: Registeel_50
+  - first:
+      213: -1098346272963851400
+    second: Registeel_51
+  - first:
+      213: 1265766114267910238
+    second: Registeel_52
+  - first:
+      213: -8209938355674258708
+    second: Registeel_53
+  - first:
+      213: -7373056489988947255
+    second: Registeel_54
+  - first:
+      213: -1714009641596886244
+    second: Registeel_55
+  - first:
+      213: -277279177240546468
+    second: Registeel_56
+  - first:
+      213: 7624597807725904162
+    second: Registeel_57
+  - first:
+      213: -3611241775027880836
+    second: Registeel_58
+  - first:
+      213: -4504007290705591984
+    second: Registeel_59
+  - first:
+      213: 4130494531694104425
+    second: Registeel_60
+  - first:
+      213: -6293372727193865401
+    second: Registeel_61
+  - first:
+      213: 5530299821892606529
+    second: Registeel_62
+  - first:
+      213: -7913209125878139260
+    second: Registeel_63
+  - first:
+      213: -7533077752372142485
+    second: Registeel_64
+  - first:
+      213: -7662422609834798892
+    second: Registeel_65
+  - first:
+      213: -1965594231015280885
+    second: Registeel_66
+  - first:
+      213: -900326955044171151
+    second: Registeel_67
+  - first:
+      213: 6566355883485780831
+    second: Registeel_68
+  - first:
+      213: -200539189685856410
+    second: Registeel_69
+  - first:
+      213: 7575500902210582494
+    second: Registeel_70
+  - first:
+      213: -1845804941848823209
+    second: Registeel_71
+  - first:
+      213: 2803531095378117783
+    second: Registeel_72
+  - first:
+      213: 596484981736056918
+    second: Registeel_73
+  - first:
+      213: 1167183371019986296
+    second: Registeel_74
+  - first:
+      213: -8218054848901444378
+    second: Registeel_75
+  - first:
+      213: -1108338393473252790
+    second: Registeel_76
+  - first:
+      213: -7741319638437302458
+    second: Registeel_77
+  - first:
+      213: -3210432872573937781
+    second: Registeel_78
+  - first:
+      213: -3175687370773228121
+    second: Registeel_79
+  - first:
+      213: 7633681787149799135
+    second: Registeel_80
+  - first:
+      213: 4487561039869360431
+    second: Registeel_81
+  - first:
+      213: 8352192530291459815
+    second: Registeel_82
+  - first:
+      213: -6321648851813125331
+    second: Registeel_83
+  - first:
+      213: -4169712319768194850
+    second: Registeel_84
+  - first:
+      213: -2634104601134326981
+    second: Registeel_85
+  - first:
+      213: -2060377200250642079
+    second: Registeel_86
+  - first:
+      213: -881099119490282143
+    second: Registeel_87
+  - first:
+      213: 9032659278578911138
+    second: Registeel_88
+  - first:
+      213: -1651592889254335551
+    second: Registeel_89
+  - first:
+      213: 289856237197124381
+    second: Registeel_90
+  - first:
+      213: 2769105114876739920
+    second: Registeel_91
+  - first:
+      213: -1996539475496004964
+    second: Registeel_92
+  - first:
+      213: 234088595347883928
+    second: Registeel_93
+  - first:
+      213: -5084236244510635149
+    second: Registeel_94
+  - first:
+      213: -4764978670717069104
+    second: Registeel_95
+  - first:
+      213: -2299222074970319811
+    second: Registeel_96
+  - first:
+      213: -1556193177634449081
+    second: Registeel_97
+  - first:
+      213: 5411096889316727994
+    second: Registeel_98
+  - first:
+      213: -3622329854833053151
+    second: Registeel_99
+  - first:
+      213: 6461487167406196507
+    second: Registeel_100
+  - first:
+      213: 5644815372880823198
+    second: Registeel_101
+  - first:
+      213: -2298191626128557600
+    second: Registeel_102
+  - first:
+      213: 6447985045495134980
+    second: Registeel_103
+  - first:
+      213: 5670090730089062254
+    second: Registeel_104
+  - first:
+      213: 807148947194017995
+    second: Registeel_105
+  - first:
+      213: 7795313776973012812
+    second: Registeel_106
+  - first:
+      213: -6314218353098335271
+    second: Registeel_107
+  - first:
+      213: 7685479396493680044
+    second: Registeel_108
+  - first:
+      213: -352771343030214794
+    second: Registeel_109
+  - first:
+      213: -51794969255870326
+    second: Registeel_110
+  - first:
+      213: -2961853238433487352
+    second: Registeel_111
+  - first:
+      213: -4172453691802435826
+    second: Registeel_112
+  - first:
+      213: -8510910940766044341
+    second: Registeel_113
+  - first:
+      213: -5572955968999076769
+    second: Registeel_114
+  - first:
+      213: -7566722892055009289
+    second: Registeel_115
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Registeel_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 542
+        width: 67
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7e305cb02103a20800000000000000
+      internalID: 3039949590234392552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 542
+        width: 68
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7e69780c1cca560800000000000000
+      internalID: 7326443726477649825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 542
+        width: 68
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2611dc65cd67acd30800000000000000
+      internalID: 4452501870330319202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_3
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 542
+        width: 68
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f98f1b3bdb3ed10800000000000000
+      internalID: 2153773626295885704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_4
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 542
+        width: 68
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27bb6765f4a9031b0800000000000000
+      internalID: -5678869464570479758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_5
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 542
+        width: 68
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a91e9f99ae688b0800000000000000
+      internalID: -5150171176808375707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_6
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 579
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a52d17aff39a770800000000000000
+      internalID: 8622493306461510236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_7
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 578
+        width: 40
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7fb8a558249f8b0800000000000000
+      internalID: -5117986361012652035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_8
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 576
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a4e1a78150a95c0800000000000000
+      internalID: -4208045299138147705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_9
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 579
+        width: 49
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7f5577bc0c85510800000000000000
+      internalID: 1538191252860041142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_10
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 578
+        width: 39
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c43d80b46538240800000000000000
+      internalID: 4792769308722940989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_11
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 576
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace4798720d6784c0800000000000000
+      internalID: -4285336663039193398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_12
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 579
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82fdeb319e793f5b0800000000000000
+      internalID: -5335754106189455576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_13
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 579
+        width: 39
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d813e76313024510800000000000000
+      internalID: 1531790205141588183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_14
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 578
+        width: 85
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aab2f0a676751320800000000000000
+      internalID: 2528057017716882086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_15
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 561
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec15ca65657e83a0800000000000000
+      internalID: -6661257720390935327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_16
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 561
+        width: 40
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5594ffb170a48e670800000000000000
+      internalID: 8568179685467310421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_17
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 559
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dbfc2b11f40ef4d0800000000000000
+      internalID: -3099034059994760238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_18
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 562
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1e931a03269e2f0800000000000000
+      internalID: -943114685954530863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_19
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 561
+        width: 49
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04be39f07a8a9d8c0800000000000000
+      internalID: -3973959760703395008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_20
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 561
+        width: 39
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0f436baf5d73570800000000000000
+      internalID: 8446454898932117742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_21
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 559
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61acd807716fa3c0800000000000000
+      internalID: -4346147951511559825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_22
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 562
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f4aba05895e0a70800000000000000
+      internalID: 8795065550246662041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_23
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 562
+        width: 39
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0128f23da899f0c30800000000000000
+      internalID: 4327846588453978640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_24
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 561
+        width: 85
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6bd837978351320800000000000000
+      internalID: 2527988860119267021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_25
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 472
+        width: 67
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9433777158694e8b0800000000000000
+      internalID: -5123804977672277175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_26
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 472
+        width: 67
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313a0c4b2f2ebac00800000000000000
+      internalID: 913072881515143955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_27
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 472
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8720233309e3afb0800000000000000
+      internalID: -4637606991309559922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_28
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 472
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd1fbc4881447360800000000000000
+      internalID: 7166424960712252852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_29
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 472
+        width: 69
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebee8b3b8dc769f0800000000000000
+      internalID: -475185237780927506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_30
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 472
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5836e74573ee77890800000000000000
+      internalID: -7460232336307756155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_31
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 472
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c755476f8c952a580800000000000000
+      internalID: -8817386400774859396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_32
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 472
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcf9fabf94189130800000000000000
+      internalID: 3573628980587789502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_33
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 472
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4984d33bf166a7190800000000000000
+      internalID: -7963940704714143596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_34
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 472
+        width: 69
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ead1a146fb14060800000000000000
+      internalID: 6936035337783062151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_35
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 472
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3705b8c798ff720800000000000000
+      internalID: 2882173454546662373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_36
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 404
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea67af9c97d595500800000000000000
+      internalID: 385442020777948846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_37
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 404
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa588fda9bd741830800000000000000
+      internalID: 4040993002099344810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_38
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 404
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812672b9ebbeda6a0800000000000000
+      internalID: -6436229088563207656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_39
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 404
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa78e87f9a86ad6d0800000000000000
+      internalID: -2964942325457975377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_40
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 404
+        width: 69
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f0836410db0c480800000000000000
+      internalID: -8880890652003922167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_41
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 404
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d12d2203b9d02e0800000000000000
+      internalID: -2157898015395668652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_42
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 403
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e052e046882b963f0800000000000000
+      internalID: -906997551074499314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_43
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 403
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0231eb7c84047860800000000000000
+      internalID: 7526645878663229962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_44
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 403
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50dea07d21a124890800000000000000
+      internalID: -7475383763262051067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_45
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 403
+        width: 69
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f9e782d4d333b50800000000000000
+      internalID: 6571663682864848772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_46
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 403
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eccdb47c67ba4a050800000000000000
+      internalID: 5810957945852910798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_47
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 336
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95603c97e1a1b57c0800000000000000
+      internalID: -4081639919087057319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_48
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 359
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83e309a512c05520800000000000000
+      internalID: 2688862375825892235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_49
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 361
+        width: 37
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa695f7b4908e0040800000000000000
+      internalID: 4615768044331177647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_50
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 361
+        width: 39
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410843cec5efd1ea0800000000000000
+      internalID: -5900280261732171756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_51
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 359
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b8d9f42e3e1c0f0800000000000000
+      internalID: -1098346272963851400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_52
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 362
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e505aa91397e09110800000000000000
+      internalID: 1265766114267910238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_53
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 359
+        width: 64
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce26e2a4090701e80800000000000000
+      internalID: -8209938355674258708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_54
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 361
+        width: 85
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2025dbf24ada990800000000000000
+      internalID: -7373056489988947255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_55
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 314
+        width: 67
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13e50bef4d9638e0800000000000000
+      internalID: -1714009641596886244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_56
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 361
+        width: 61
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53f6f0be08e62cf0800000000000000
+      internalID: -277279177240546468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_57
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 361
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22189bc2f4300d960800000000000000
+      internalID: 7624597807725904162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_58
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 315
+        width: 70
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c79612dba42edc0800000000000000
+      internalID: -3611241775027880836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_59
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 344
+        width: 118
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05149bb7b3d8e71c0800000000000000
+      internalID: -4504007290705591984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_60
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 327
+        width: 62
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f025c64e6725930800000000000000
+      internalID: 4130494531694104425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_61
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 327
+        width: 39
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7437a7c29d279a8a0800000000000000
+      internalID: -6293372727193865401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_62
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 327
+        width: 61
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a905123629fbc40800000000000000
+      internalID: 5530299821892606529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_63
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 247
+        width: 70
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48677aad932ae2290800000000000000
+      internalID: -7913209125878139260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_64
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 247
+        width: 70
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ed57832b1257790800000000000000
+      internalID: -7533077752372142485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_65
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 247
+        width: 71
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d010edcb3b99a590800000000000000
+      internalID: -7662422609834798892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_66
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 247
+        width: 71
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0fe6c7067ec8b4e0800000000000000
+      internalID: -1965594231015280885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_67
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 247
+        width: 71
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17212ee87656183f0800000000000000
+      internalID: -900326955044171151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_68
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 247
+        width: 70
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b57ffc2e1602b50800000000000000
+      internalID: 6566355883485780831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_69
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 278
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667da336baa873df0800000000000000
+      internalID: -200539189685856410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_70
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 277
+        width: 40
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7b9ef0fe5912960800000000000000
+      internalID: 7575500902210582494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_71
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 275
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ab0745f226266e0800000000000000
+      internalID: -1845804941848823209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_72
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 278
+        width: 49
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79446c07da428e620800000000000000
+      internalID: 2803531095378117783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_73
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 277
+        width: 39
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658ab3a3ee3274800800000000000000
+      internalID: 596484981736056918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_74
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 275
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875a369871ba23010800000000000000
+      internalID: 1167183371019986296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_75
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 278
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec8d82f7aa93fd80800000000000000
+      internalID: -8218054848901444378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_76
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 278
+        width: 39
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4289167a146e90f0800000000000000
+      internalID: -1108338393473252790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_77
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 277
+        width: 85
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f603addce419490800000000000000
+      internalID: -7741319638437302458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_78
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 260
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b875efedf404273d0800000000000000
+      internalID: -3210432872573937781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_79
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 260
+        width: 40
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a51e5b6921bde3d0800000000000000
+      internalID: -3175687370773228121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_80
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 258
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdece63f32940f960800000000000000
+      internalID: 7633681787149799135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_81
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 261
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29bb495df4074e30800000000000000
+      internalID: 4487561039869360431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_82
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 260
+        width: 49
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e681bfbad2f8e370800000000000000
+      internalID: 8352192530291459815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_83
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 260
+        width: 39
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d233ce0ecddf448a0800000000000000
+      internalID: -6321648851813125331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_84
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 258
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed095acbcb43226c0800000000000000
+      internalID: -4169712319768194850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_85
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 261
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b9a2442d7c17bd0800000000000000
+      internalID: -2634104601134326981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_86
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 261
+        width: 39
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1612fbb4ad11863e0800000000000000
+      internalID: -2060377200250642079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_87
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 260
+        width: 85
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d4fd2e405b5c3f0800000000000000
+      internalID: -881099119490282143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_88
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 157
+        width: 70
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a705dcb1c37a5d70800000000000000
+      internalID: 9032659278578911138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_89
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 157
+        width: 70
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb2f6a840d5419e0800000000000000
+      internalID: -1651592889254335551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_90
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 157
+        width: 70
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13e01646b6c50400800000000000000
+      internalID: 289856237197124381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_91
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 157
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05102fd3e66dd6620800000000000000
+      internalID: 2769105114876739920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_92
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 157
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c921407dcedda44e0800000000000000
+      internalID: -1996539475496004964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_93
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 157
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8974ea35656af3300800000000000000
+      internalID: 234088595347883928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_94
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 157
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b07c3b21a2179b0800000000000000
+      internalID: -5084236244510635149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_95
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 157
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8989915256fddb0800000000000000
+      internalID: -4764978670717069104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_96
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 157
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3458a164b58710e0800000000000000
+      internalID: -2299222074970319811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_97
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 157
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749563dcc8a476ae0800000000000000
+      internalID: -1556193177634449081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_98
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 81
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcd1fc93f3181b40800000000000000
+      internalID: 5411096889316727994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_99
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 81
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122326f5036eabdc0800000000000000
+      internalID: -3622329854833053151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_100
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 81
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17cdf52850dba950800000000000000
+      internalID: 6461487167406196507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_101
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 81
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93c9339ca9665e40800000000000000
+      internalID: 5644815372880823198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_102
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 81
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e974d274ee2b10e0800000000000000
+      internalID: -2298191626128557600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_103
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 81
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40bb4c96c38db7950800000000000000
+      internalID: 6447985045495134980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_104
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 81
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f91334a7530be40800000000000000
+      internalID: 5670090730089062254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_105
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 81
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc87456e0b1933b00800000000000000
+      internalID: 807148947194017995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_106
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 81
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f5f2d24948e2c60800000000000000
+      internalID: 7795313776973012812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_107
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 82
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db525dacd36f58a0800000000000000
+      internalID: -6314218353098335271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_108
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 9
+        width: 70
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cadd69caace48aa60800000000000000
+      internalID: 7685479396493680044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_109
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 39
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f1fb32554ba1bf0800000000000000
+      internalID: -352771343030214794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_110
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 41
+        width: 37
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a800a58ffbcf74ff0800000000000000
+      internalID: -51794969255870326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_111
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 41
+        width: 39
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806e4561c2265e6d0800000000000000
+      internalID: -2961853238433487352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_112
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 39
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f395259777816c0800000000000000
+      internalID: -4172453691802435826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_113
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 42
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f77a4979b23e980800000000000000
+      internalID: -8510910940766044341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_114
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 39
+        width: 64
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ccaeea212e8a2b0800000000000000
+      internalID: -5572955968999076769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Registeel_115
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 41
+        width: 85
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7ae31be999df690800000000000000
+      internalID: -7566722892055009289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

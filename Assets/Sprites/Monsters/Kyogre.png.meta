@@ -1,0 +1,5144 @@
+fileFormatVersion: 2
+guid: b2b452a2a6fa408489754b3b264fd7b5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8460905479509270740
+    second: Kyogre_0
+  - first:
+      213: -2630130928795695195
+    second: Kyogre_1
+  - first:
+      213: -2181963528506775212
+    second: Kyogre_2
+  - first:
+      213: -34410542748421274
+    second: Kyogre_3
+  - first:
+      213: 7241364914637800305
+    second: Kyogre_4
+  - first:
+      213: -7705573320100704435
+    second: Kyogre_5
+  - first:
+      213: -7457885671022436672
+    second: Kyogre_6
+  - first:
+      213: -4800476613929867294
+    second: Kyogre_7
+  - first:
+      213: -9092203398066393002
+    second: Kyogre_8
+  - first:
+      213: -941680822453353669
+    second: Kyogre_9
+  - first:
+      213: -7418988581957207615
+    second: Kyogre_10
+  - first:
+      213: 2329685506608567707
+    second: Kyogre_11
+  - first:
+      213: -1924712680527090688
+    second: Kyogre_12
+  - first:
+      213: 6373707871799396165
+    second: Kyogre_13
+  - first:
+      213: -3245109838076146875
+    second: Kyogre_14
+  - first:
+      213: -6964182829614873220
+    second: Kyogre_15
+  - first:
+      213: 5223034416450114440
+    second: Kyogre_16
+  - first:
+      213: 3651116955346875149
+    second: Kyogre_17
+  - first:
+      213: -2613601265815817246
+    second: Kyogre_18
+  - first:
+      213: -4467106640934136218
+    second: Kyogre_19
+  - first:
+      213: -3993019835406420661
+    second: Kyogre_20
+  - first:
+      213: -5899070924320120704
+    second: Kyogre_21
+  - first:
+      213: -8053716432272774403
+    second: Kyogre_22
+  - first:
+      213: -2802837943684733756
+    second: Kyogre_23
+  - first:
+      213: 124595895331724767
+    second: Kyogre_24
+  - first:
+      213: 4208350159679001988
+    second: Kyogre_25
+  - first:
+      213: -3650364296024819939
+    second: Kyogre_26
+  - first:
+      213: -3266936852930452433
+    second: Kyogre_27
+  - first:
+      213: 8584195806311512911
+    second: Kyogre_28
+  - first:
+      213: 6973470539309248073
+    second: Kyogre_29
+  - first:
+      213: -540771098668348455
+    second: Kyogre_30
+  - first:
+      213: -8975044536762346502
+    second: Kyogre_31
+  - first:
+      213: -7501729961783604463
+    second: Kyogre_32
+  - first:
+      213: 8344787918025895946
+    second: Kyogre_33
+  - first:
+      213: 1841603658055542483
+    second: Kyogre_34
+  - first:
+      213: 8929550994992033511
+    second: Kyogre_35
+  - first:
+      213: 8186054332975790921
+    second: Kyogre_36
+  - first:
+      213: 2280686233962228013
+    second: Kyogre_37
+  - first:
+      213: -6308233178704357975
+    second: Kyogre_38
+  - first:
+      213: 5870390820152993452
+    second: Kyogre_39
+  - first:
+      213: -5166058048776110029
+    second: Kyogre_40
+  - first:
+      213: 983403501949738713
+    second: Kyogre_41
+  - first:
+      213: -7631894911545740577
+    second: Kyogre_42
+  - first:
+      213: -1540527101892879232
+    second: Kyogre_43
+  - first:
+      213: -4327275539413857352
+    second: Kyogre_44
+  - first:
+      213: 1577271384828855820
+    second: Kyogre_45
+  - first:
+      213: 8721348295136802273
+    second: Kyogre_46
+  - first:
+      213: -6205912356547380035
+    second: Kyogre_47
+  - first:
+      213: 6315099714448886414
+    second: Kyogre_48
+  - first:
+      213: -5407782860477919972
+    second: Kyogre_49
+  - first:
+      213: 4531913004296958065
+    second: Kyogre_50
+  - first:
+      213: -6249443905123197532
+    second: Kyogre_51
+  - first:
+      213: 3245510212543712598
+    second: Kyogre_52
+  - first:
+      213: 3670925846288083374
+    second: Kyogre_53
+  - first:
+      213: -1835930157360483356
+    second: Kyogre_54
+  - first:
+      213: 893697077880967758
+    second: Kyogre_55
+  - first:
+      213: 6225032440791124982
+    second: Kyogre_56
+  - first:
+      213: 6815113161695991849
+    second: Kyogre_57
+  - first:
+      213: 2575364023772819642
+    second: Kyogre_58
+  - first:
+      213: 4535573846452835058
+    second: Kyogre_59
+  - first:
+      213: 5177205052846698270
+    second: Kyogre_60
+  - first:
+      213: 1226103241102224918
+    second: Kyogre_61
+  - first:
+      213: -2419897499519117265
+    second: Kyogre_62
+  - first:
+      213: 5374635739690817689
+    second: Kyogre_63
+  - first:
+      213: -9213819562849583177
+    second: Kyogre_64
+  - first:
+      213: 3843290407674836737
+    second: Kyogre_65
+  - first:
+      213: 63564039551921954
+    second: Kyogre_66
+  - first:
+      213: 1681833041677786510
+    second: Kyogre_67
+  - first:
+      213: -8577666788401657338
+    second: Kyogre_68
+  - first:
+      213: 1484005427441822952
+    second: Kyogre_69
+  - first:
+      213: 6649999732534915562
+    second: Kyogre_70
+  - first:
+      213: 8053220341045734059
+    second: Kyogre_71
+  - first:
+      213: 3733083355959375656
+    second: Kyogre_72
+  - first:
+      213: -7348622542209037669
+    second: Kyogre_73
+  - first:
+      213: -7234853891762878231
+    second: Kyogre_74
+  - first:
+      213: 4145506564138177969
+    second: Kyogre_75
+  - first:
+      213: 8728354936716154824
+    second: Kyogre_76
+  - first:
+      213: 6930452344845773541
+    second: Kyogre_77
+  - first:
+      213: 899771454706509792
+    second: Kyogre_78
+  - first:
+      213: 5577749191986526607
+    second: Kyogre_79
+  - first:
+      213: -734334210400799033
+    second: Kyogre_80
+  - first:
+      213: -6113666576334197489
+    second: Kyogre_81
+  - first:
+      213: -3930644226494689336
+    second: Kyogre_82
+  - first:
+      213: 5053638394802067214
+    second: Kyogre_83
+  - first:
+      213: 7546246677165733614
+    second: Kyogre_84
+  - first:
+      213: -2887322487133882589
+    second: Kyogre_85
+  - first:
+      213: -8311474577245596830
+    second: Kyogre_86
+  - first:
+      213: -5341954618426113302
+    second: Kyogre_87
+  - first:
+      213: -2389692027069335856
+    second: Kyogre_88
+  - first:
+      213: 6782294900098019014
+    second: Kyogre_89
+  - first:
+      213: -3982797724497057701
+    second: Kyogre_90
+  - first:
+      213: -3583918068490123520
+    second: Kyogre_91
+  - first:
+      213: -4346057741371881991
+    second: Kyogre_92
+  - first:
+      213: 3594862567125192262
+    second: Kyogre_93
+  - first:
+      213: 4741873143383964913
+    second: Kyogre_94
+  - first:
+      213: 8600760067587718258
+    second: Kyogre_95
+  - first:
+      213: -1022608413790508965
+    second: Kyogre_96
+  - first:
+      213: 8851755470289235766
+    second: Kyogre_97
+  - first:
+      213: 6722213007967589058
+    second: Kyogre_98
+  - first:
+      213: -1735864523680811029
+    second: Kyogre_99
+  - first:
+      213: -2614414294791946778
+    second: Kyogre_100
+  - first:
+      213: 5298234341031613502
+    second: Kyogre_101
+  - first:
+      213: -6213015465455776044
+    second: Kyogre_102
+  - first:
+      213: 2791905936119427567
+    second: Kyogre_103
+  - first:
+      213: 2954366533844310970
+    second: Kyogre_104
+  - first:
+      213: -434749978783899523
+    second: Kyogre_105
+  - first:
+      213: -3267877246712061840
+    second: Kyogre_106
+  - first:
+      213: 3906979200385564600
+    second: Kyogre_107
+  - first:
+      213: -7423286492642553516
+    second: Kyogre_108
+  - first:
+      213: 8525301902194121339
+    second: Kyogre_109
+  - first:
+      213: -8433890915430877604
+    second: Kyogre_110
+  - first:
+      213: 4793702232827100585
+    second: Kyogre_111
+  - first:
+      213: 2741520272006590783
+    second: Kyogre_112
+  - first:
+      213: 6750168831228160670
+    second: Kyogre_113
+  - first:
+      213: 999767832735290149
+    second: Kyogre_114
+  - first:
+      213: 5187049855456726510
+    second: Kyogre_115
+  - first:
+      213: -5979408348490955816
+    second: Kyogre_116
+  - first:
+      213: 7823339697559428273
+    second: Kyogre_117
+  - first:
+      213: -2308997671826817226
+    second: Kyogre_118
+  - first:
+      213: 259712723059835111
+    second: Kyogre_119
+  - first:
+      213: 3048402290768850368
+    second: Kyogre_120
+  - first:
+      213: 8630741766140554493
+    second: Kyogre_121
+  - first:
+      213: 7023537276023751172
+    second: Kyogre_122
+  - first:
+      213: 6403348979964700345
+    second: Kyogre_123
+  - first:
+      213: -436129778171684130
+    second: Kyogre_124
+  - first:
+      213: 3652698848880189939
+    second: Kyogre_125
+  - first:
+      213: -8661666980844637674
+    second: Kyogre_126
+  - first:
+      213: 5388714900733118374
+    second: Kyogre_127
+  - first:
+      213: -2017423511541897991
+    second: Kyogre_128
+  - first:
+      213: -5834257727481837229
+    second: Kyogre_129
+  - first:
+      213: -6345026044620644392
+    second: Kyogre_130
+  - first:
+      213: -6057658125257891120
+    second: Kyogre_131
+  - first:
+      213: 2080632995848680903
+    second: Kyogre_132
+  - first:
+      213: 8560883011724541555
+    second: Kyogre_133
+  - first:
+      213: 4391683794705256245
+    second: Kyogre_134
+  - first:
+      213: 5460962761934707906
+    second: Kyogre_135
+  - first:
+      213: 9047180799853496727
+    second: Kyogre_136
+  - first:
+      213: -8420979133020652869
+    second: Kyogre_137
+  - first:
+      213: 736457203054022349
+    second: Kyogre_138
+  - first:
+      213: -3865864214500595316
+    second: Kyogre_139
+  - first:
+      213: 3882046646447543516
+    second: Kyogre_140
+  - first:
+      213: -879513493727416116
+    second: Kyogre_141
+  - first:
+      213: -1811732732629070390
+    second: Kyogre_142
+  - first:
+      213: -9592957657445984
+    second: Kyogre_143
+  - first:
+      213: -3278917276383612322
+    second: Kyogre_144
+  - first:
+      213: -3648467761493560424
+    second: Kyogre_145
+  - first:
+      213: 6624109201191310018
+    second: Kyogre_146
+  - first:
+      213: -1472974779259490387
+    second: Kyogre_147
+  - first:
+      213: -5893157514311450496
+    second: Kyogre_148
+  - first:
+      213: -7519955040639068982
+    second: Kyogre_149
+  - first:
+      213: 6788429719757694900
+    second: Kyogre_150
+  - first:
+      213: -4901132102788713573
+    second: Kyogre_151
+  - first:
+      213: 6944369009547440922
+    second: Kyogre_152
+  - first:
+      213: 6796402870405732997
+    second: Kyogre_153
+  - first:
+      213: -7356643868588799970
+    second: Kyogre_154
+  - first:
+      213: 6945712164457877656
+    second: Kyogre_155
+  - first:
+      213: 5561797161695409278
+    second: Kyogre_156
+  - first:
+      213: 602011107992405106
+    second: Kyogre_157
+  - first:
+      213: 7123318894064419265
+    second: Kyogre_158
+  - first:
+      213: -4882167915585620663
+    second: Kyogre_159
+  - first:
+      213: -464439689645057521
+    second: Kyogre_160
+  - first:
+      213: 4026544018889096410
+    second: Kyogre_161
+  - first:
+      213: 8838847884403310864
+    second: Kyogre_162
+  - first:
+      213: -6193758259798705382
+    second: Kyogre_163
+  - first:
+      213: 4367532853282667420
+    second: Kyogre_164
+  - first:
+      213: -830327159818099115
+    second: Kyogre_165
+  - first:
+      213: 5908766072415238721
+    second: Kyogre_166
+  - first:
+      213: 3011253507702572688
+    second: Kyogre_167
+  - first:
+      213: 2074847723702595537
+    second: Kyogre_168
+  - first:
+      213: 3027476241445738977
+    second: Kyogre_169
+  - first:
+      213: -1655305617288763949
+    second: Kyogre_170
+  - first:
+      213: 2204878242408875860
+    second: Kyogre_171
+  - first:
+      213: -5747065255743824101
+    second: Kyogre_172
+  - first:
+      213: 7819060501596008975
+    second: Kyogre_173
+  - first:
+      213: -7179942218674031842
+    second: Kyogre_174
+  - first:
+      213: -5498579730378540134
+    second: Kyogre_175
+  - first:
+      213: 8240379584463552836
+    second: Kyogre_176
+  - first:
+      213: 2327574563960953298
+    second: Kyogre_177
+  - first:
+      213: -7442146146649850359
+    second: Kyogre_178
+  - first:
+      213: 2147179037737217049
+    second: Kyogre_179
+  - first:
+      213: -8474990821118625113
+    second: Kyogre_180
+  - first:
+      213: 6846636845099903681
+    second: Kyogre_181
+  - first:
+      213: 2075673044628934962
+    second: Kyogre_182
+  - first:
+      213: -1975977582505471440
+    second: Kyogre_183
+  - first:
+      213: -8841225486321552948
+    second: Kyogre_184
+  - first:
+      213: -8428542737698569495
+    second: Kyogre_185
+  - first:
+      213: -1936847260631240712
+    second: Kyogre_186
+  - first:
+      213: 853707209756390844
+    second: Kyogre_187
+  - first:
+      213: -4280336546956740001
+    second: Kyogre_188
+  - first:
+      213: 1522507260571301267
+    second: Kyogre_189
+  - first:
+      213: -674450602278842021
+    second: Kyogre_190
+  - first:
+      213: -1090326189070504279
+    second: Kyogre_191
+  - first:
+      213: 6391024908190176273
+    second: Kyogre_192
+  - first:
+      213: -4641782408922906938
+    second: Kyogre_193
+  - first:
+      213: 1467114380274116965
+    second: Kyogre_194
+  - first:
+      213: -2860932201508575952
+    second: Kyogre_195
+  - first:
+      213: 7333543937357812120
+    second: Kyogre_196
+  - first:
+      213: -188232785746750855
+    second: Kyogre_197
+  - first:
+      213: 3006076900837556455
+    second: Kyogre_198
+  - first:
+      213: 5228418197667408223
+    second: Kyogre_199
+  - first:
+      213: 2045384656174963673
+    second: Kyogre_200
+  - first:
+      213: 6192480073196843305
+    second: Kyogre_201
+  - first:
+      213: 9008958405838210597
+    second: Kyogre_202
+  - first:
+      213: 5657299318662248381
+    second: Kyogre_203
+  - first:
+      213: 508837626642769087
+    second: Kyogre_204
+  - first:
+      213: 3091689953259401936
+    second: Kyogre_205
+  - first:
+      213: -6480224652535377862
+    second: Kyogre_206
+  - first:
+      213: -2100333345390879184
+    second: Kyogre_207
+  - first:
+      213: -3458668487716724323
+    second: Kyogre_208
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kyogre_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1819
+        width: 6
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d06e40b4bc2b6570800000000000000
+      internalID: 8460905479509270740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1827
+        width: 94
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a74d54fad5ef7bd0800000000000000
+      internalID: -2630130928795695195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1826
+        width: 95
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459ee7a3bbb18b1e0800000000000000
+      internalID: -2181963528506775212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_3
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1822
+        width: 96
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663b3fe2bcfb58ff0800000000000000
+      internalID: -34410542748421274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_4
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1818
+        width: 96
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17386f1060f7e7460800000000000000
+      internalID: 7241364914637800305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1814
+        width: 95
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f8ba824ed401590800000000000000
+      internalID: -7705573320100704435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_6
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1807
+        width: 94
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce5b3bee74408890800000000000000
+      internalID: -7457885671022436672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_7
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1700
+        width: 93
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7e32224f7416db0800000000000000
+      internalID: -4800476613929867294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_8
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1701
+        width: 93
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65037a89e2102d180800000000000000
+      internalID: -9092203398066393002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_9
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1707
+        width: 95
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33ceddf74a7ee2f0800000000000000
+      internalID: -941680822453353669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_10
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1711
+        width: 94
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9f2c331357a0990800000000000000
+      internalID: -7418988581957207615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_11
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1715
+        width: 95
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9597c300a4b45020800000000000000
+      internalID: 2329685506608567707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_12
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1720
+        width: 95
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c2e7eb30c0a45e0800000000000000
+      internalID: -1924712680527090688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_13
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1615
+        width: 94
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547c6b04a85f37850800000000000000
+      internalID: 6373707871799396165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_14
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1616
+        width: 94
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b885cabcd07f2d0800000000000000
+      internalID: -3245109838076146875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_15
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1617
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c754ee14d904a5f90800000000000000
+      internalID: -6964182829614873220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_16
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1618
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88316220122fb7840800000000000000
+      internalID: 5223034416450114440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_17
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1618
+        width: 91
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d033bd4c68f5ba230800000000000000
+      internalID: 3651116955346875149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_18
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1619
+        width: 90
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e379860f7f9abbd0800000000000000
+      internalID: -2613601265815817246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1513
+        width: 90
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66615558d26a102c0800000000000000
+      internalID: -4467106640934136218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_20
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1513
+        width: 90
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45f2899d91f598c0800000000000000
+      internalID: -3993019835406420661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_21
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1512
+        width: 91
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080601bbf3a422ea0800000000000000
+      internalID: -5899070924320120704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_22
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1512
+        width: 93
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfaa7a443937b3090800000000000000
+      internalID: -8053716432272774403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_23
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1511
+        width: 93
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c46fa38db15a19d0800000000000000
+      internalID: -2802837943684733756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_24
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 1510
+        width: 94
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd18b18e47aab100800000000000000
+      internalID: 124595895331724767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_25
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1403
+        width: 94
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48510266c20176a30800000000000000
+      internalID: 4208350159679001988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_26
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1403
+        width: 94
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17fba2630d475dc0800000000000000
+      internalID: -3650364296024819939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_27
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1391
+        width: 6
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24a271cd3289a2d0800000000000000
+      internalID: -3266936852930452433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_28
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1391
+        width: 6
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b7895da90312770800000000000000
+      internalID: 8584195806311512911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_29
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1401
+        width: 96
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94eed2b228eb6c060800000000000000
+      internalID: 6973470539309248073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_30
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1399
+        width: 98
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db43170d8bce78f0800000000000000
+      internalID: -540771098668348455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_31
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1396
+        width: 97
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af358feab8c327380800000000000000
+      internalID: -8975044536762346502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_32
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1391
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bcbfa785084e790800000000000000
+      internalID: -7501729961783604463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_33
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1277
+        width: 94
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00b7eb1664aec370800000000000000
+      internalID: 8344787918025895946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_34
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1275
+        width: 93
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6e57f05c0be8910800000000000000
+      internalID: 1841603658055542483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_35
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1276
+        width: 93
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee6c34b1532ceb70800000000000000
+      internalID: 8929550994992033511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_36
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1281
+        width: 94
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94bb1155b05ba9170800000000000000
+      internalID: 8186054332975790921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_37
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1283
+        width: 91
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d292173db00a6af10800000000000000
+      internalID: 2280686233962228013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_38
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1286
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a55efea857a478a0800000000000000
+      internalID: -6308233178704357975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_39
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1184
+        width: 91
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6eee72951d77150800000000000000
+      internalID: 5870390820152993452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_40
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1188
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33007a953997e48b0800000000000000
+      internalID: -5166058048776110029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_41
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1191
+        width: 89
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ded6945640c5ad00800000000000000
+      internalID: 983403501949738713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_42
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1193
+        width: 87
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd274327300161690800000000000000
+      internalID: -7631894911545740577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_43
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1195
+        width: 87
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c10dc43c2fe9ae0800000000000000
+      internalID: -1540527101892879232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_44
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 1196
+        width: 85
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb0004e2dd62f3c0800000000000000
+      internalID: -4327275539413857352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_45
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1091
+        width: 85
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06cc1fb7f793e510800000000000000
+      internalID: 1577271384828855820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_46
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1091
+        width: 84
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e576161114780970800000000000000
+      internalID: 8721348295136802273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_47
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1091
+        width: 85
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc39c0979b20e9a0800000000000000
+      internalID: -6205912356547380035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_48
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1090
+        width: 87
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a85e04bbdb3a750800000000000000
+      internalID: 6315099714448886414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_49
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1089
+        width: 88
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d84cad322b3f4b0800000000000000
+      internalID: -5407782860477919972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_50
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1088
+        width: 90
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170f716cdd694ee30800000000000000
+      internalID: 4531913004296958065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_51
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 981
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4add66711e38549a0800000000000000
+      internalID: -6249443905123197532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_52
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 980
+        width: 94
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d0295c75e5a0d20800000000000000
+      internalID: 3245510212543712598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_53
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 979
+        width: 94
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea92dc89b9fb1f230800000000000000
+      internalID: 3670925846288083374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_54
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 969
+        width: 6
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3f912cf377586e0800000000000000
+      internalID: -1835930157360483356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_55
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 979
+        width: 94
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4256efd1cc076c00800000000000000
+      internalID: 893697077880967758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_56
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 969
+        width: 6
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb43a4f502c36650800000000000000
+      internalID: 6225032440791124982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_57
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1029
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9289af20055249e50800000000000000
+      internalID: 6815113161695991849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_58
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 1029
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0bc4c4fe78db320800000000000000
+      internalID: 2575364023772819642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_59
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1027
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f29f52026891fe30800000000000000
+      internalID: 4535573846452835058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_60
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1029
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fe848c09029d740800000000000000
+      internalID: 5177205052846698270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_61
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1029
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e6adfc66ef30110800000000000000
+      internalID: 1226103241102224918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_62
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1029
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f289e4c9b0cca6ed0800000000000000
+      internalID: -2419897499519117265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_63
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1029
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998d36daaba869a40800000000000000
+      internalID: 5374635739690817689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_64
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 1029
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf3ecbacefe12080800000000000000
+      internalID: -9213819562849583177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_65
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1029
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107ff1e534c165530800000000000000
+      internalID: 3843290407674836737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_66
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1029
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f2bfd3823d1e000800000000000000
+      internalID: 63564039551921954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_67
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1008
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d18bc9d32175710800000000000000
+      internalID: 1681833041677786510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_68
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1013
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a47ab908106f880800000000000000
+      internalID: -8577666788401657338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_69
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1013
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eceb6bd21f389410800000000000000
+      internalID: 1484005427441822952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_70
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1013
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1bf26068b894c50800000000000000
+      internalID: 6649999732534915562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_71
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 1013
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa2bfd7b39c2cf60800000000000000
+      internalID: 8053220341045734059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_72
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1013
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827b1e498839ec330800000000000000
+      internalID: 3733083355959375656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_73
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1013
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ac3378bb2740a90800000000000000
+      internalID: -7348622542209037669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_74
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1013
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e80f93a7b2a89b90800000000000000
+      internalID: -7234853891762878231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_75
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1013
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b59189914cc78930800000000000000
+      internalID: 4145506564138177969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_76
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 1013
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c75e74f198512970800000000000000
+      internalID: 8728354936716154824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_77
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 990
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea2e4340b9ed2060800000000000000
+      internalID: 6930452344845773541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_78
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 990
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e761d0fe51ac7c00800000000000000
+      internalID: 899771454706509792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_79
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 990
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8934928655286d40800000000000000
+      internalID: 5577749191986526607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_80
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 988
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6b4a22dee1fc5f0800000000000000
+      internalID: -734334210400799033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_81
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 990
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0deb62f3a4e72ba0800000000000000
+      internalID: -6113666576334197489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_82
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 990
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf0855c6eb8379c0800000000000000
+      internalID: -3930644226494689336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_83
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 990
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07d3714851222640800000000000000
+      internalID: 5053638394802067214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_84
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 990
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee67fe30f57a9b860800000000000000
+      internalID: 7546246677165733614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_85
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 990
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3273362ee7b2ee7d0800000000000000
+      internalID: -2887322487133882589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_86
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 990
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263169778e5b7ac80800000000000000
+      internalID: -8311474577245596830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_87
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 990
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae24472d3909dd5b0800000000000000
+      internalID: -5341954618426113302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_88
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 990
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6f2f333cb16ded0800000000000000
+      internalID: -2389692027069335856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_89
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 990
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce294a074d8f1e50800000000000000
+      internalID: 6782294900098019014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_90
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 990
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b586e1342924ab8c0800000000000000
+      internalID: -3982797724497057701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_91
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 990
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007ca8f418d534ec0800000000000000
+      internalID: -3583918068490123520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_92
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 990
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f54138b283bfa3c0800000000000000
+      internalID: -4346057741371881991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_93
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 990
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e88d9557483e130800000000000000
+      internalID: 3594862567125192262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_94
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 988
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fcbd5910848ec140800000000000000
+      internalID: 4741873143383964913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_95
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 972
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c3ee276b90c5770800000000000000
+      internalID: 8600760067587718258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_96
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 974
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58e0bfc017fec1f0800000000000000
+      internalID: -1022608413790508965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_97
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 972
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fe53d93b0c7da70800000000000000
+      internalID: 8851755470289235766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_98
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 974
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c21b6c6d191a4d50800000000000000
+      internalID: 6722213007967589058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_99
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 974
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be77dc7a968f8e7e0800000000000000
+      internalID: -1735864523680811029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_100
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 974
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6edf837fc0cb7bbd0800000000000000
+      internalID: -2614414294791946778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_101
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 974
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3417f9df0c178940800000000000000
+      internalID: 5298234341031613502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_102
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 974
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de00852a5fe6c9a0800000000000000
+      internalID: -6213015465455776044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_103
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 974
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1f3b028a7deb620800000000000000
+      internalID: 2791905936119427567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_104
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 974
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb971aa5b4000920800000000000000
+      internalID: 2954366533844310970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_105
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 974
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d702a7c923577f9f0800000000000000
+      internalID: -434749978783899523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_106
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 974
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070652445fa26a2d0800000000000000
+      internalID: -3267877246712061840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_107
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 974
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf32d7f1e0683630800000000000000
+      internalID: 3906979200385564600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_108
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 974
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451d514e3403bf890800000000000000
+      internalID: -7423286492642553516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_109
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 953
+        width: 924
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a1e3b39e4ff4670800000000000000
+      internalID: 8525301902194121339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_110
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 963
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c563957a5ecc4fa80800000000000000
+      internalID: -8433890915430877604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_111
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 963
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9adf7aa58c6a68240800000000000000
+      internalID: 4793702232827100585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_112
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 963
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f313c758926db0620800000000000000
+      internalID: 2741520272006590783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_113
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 864
+        width: 6
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9aa44fb9ca6dad50800000000000000
+      internalID: 6750168831228160670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_114
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 873
+        width: 96
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5239c000c83efdd00800000000000000
+      internalID: 999767832735290149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_115
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 873
+        width: 97
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed4db28c5a1cf740800000000000000
+      internalID: 5187049855456726510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_116
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 872
+        width: 97
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3013d89cfd40da0800000000000000
+      internalID: -5979408348490955816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_117
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 872
+        width: 97
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bcdd3e4106129c60800000000000000
+      internalID: 7823339697559428273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_118
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 873
+        width: 96
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ffe8fd9dac4ffd0800000000000000
+      internalID: -2308997671826817226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_119
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 872
+        width: 96
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e081a9785faa9300800000000000000
+      internalID: 259712723059835111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_120
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 764
+        width: 95
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cda3c97bb91e4a20800000000000000
+      internalID: 3048402290768850368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_121
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 766
+        width: 95
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc6fee98ed86c770800000000000000
+      internalID: 8630741766140554493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_122
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 769
+        width: 96
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4024c14b0fd987160800000000000000
+      internalID: 7023537276023751172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_123
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 769
+        width: 97
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6e7ab88f34dd850800000000000000
+      internalID: 6403348979964700345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_124
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 770
+        width: 96
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda5b18074e82f9f0800000000000000
+      internalID: -436129778171684130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_125
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 769
+        width: 97
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f16bfe004ef0b230800000000000000
+      internalID: 3652698848880189939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_126
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 663
+        width: 97
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612760cb5c39bc780800000000000000
+      internalID: -8661666980844637674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_127
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 663
+        width: 97
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a74d0ec6af88ca40800000000000000
+      internalID: 5388714900733118374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_128
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 663
+        width: 97
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f42609410ca004e0800000000000000
+      internalID: -2017423511541897991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_129
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 664
+        width: 97
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3590e51128d880fa0800000000000000
+      internalID: -5834257727481837229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_130
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 664
+        width: 96
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfd8c70e60f1f7a0800000000000000
+      internalID: -6345026044620644392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_131
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 665
+        width: 96
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2ae39a700eeeba0800000000000000
+      internalID: -6057658125257891120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_132
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 558
+        width: 97
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c57481afa4efdc10800000000000000
+      internalID: 2080632995848680903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_133
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 558
+        width: 96
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e748dddbd5ec670800000000000000
+      internalID: 8560883011724541555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_134
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 557
+        width: 96
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f0f35a42562fc30800000000000000
+      internalID: 4391683794705256245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_135
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 557
+        width: 96
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc11c4d2bc39cb40800000000000000
+      internalID: 5460962761934707906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_136
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 557
+        width: 96
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7998002e00b0e8d70800000000000000
+      internalID: 9047180799853496727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_137
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 556
+        width: 96
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbab353481ca22b80800000000000000
+      internalID: -8420979133020652869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_138
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 449
+        width: 96
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce005c9ceb683a00800000000000000
+      internalID: 736457203054022349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_139
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 441
+        width: 6
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c892cc8aaf0b95ac0800000000000000
+      internalID: -3865864214500595316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_140
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 441
+        width: 6
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd490036bdccfd530800000000000000
+      internalID: 3882046646447543516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_141
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 449
+        width: 97
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0f63723275bc3f0800000000000000
+      internalID: -879513493727416116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_142
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 448
+        width: 96
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd42bbbdae6bd6e0800000000000000
+      internalID: -1811732732629070390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_143
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 447
+        width: 97
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a98b7e714beddff0800000000000000
+      internalID: -9592957657445984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_144
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 448
+        width: 96
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52734d0c12fe72d0800000000000000
+      internalID: -3278917276383612322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_145
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 448
+        width: 96
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89336bdb6e90e5dc0800000000000000
+      internalID: -3648467761493560424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_146
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 339
+        width: 95
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c29762f8309deb50800000000000000
+      internalID: 6624109201191310018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_147
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 340
+        width: 95
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dafe02f0e31fe8be0800000000000000
+      internalID: -1472974779259490387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_148
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 343
+        width: 94
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080ca0ac67c473ea0800000000000000
+      internalID: -5893157514311450496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_149
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 344
+        width: 95
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4dcc3abb0c3a790800000000000000
+      internalID: -7519955040639068982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_150
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 346
+        width: 95
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7acdc0dd8553e50800000000000000
+      internalID: 6788429719757694900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_151
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 347
+        width: 97
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93f300e15eabfbb0800000000000000
+      internalID: -4901132102788713573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_152
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 241
+        width: 97
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a137e4342da5f5060800000000000000
+      internalID: 6944369009547440922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_153
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 241
+        width: 98
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a9af8d66ca15e50800000000000000
+      internalID: 6796402870405732997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_154
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 241
+        width: 98
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1885b1f063f7e990800000000000000
+      internalID: -7356643868588799970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_155
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 242
+        width: 99
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8901f92e960246060800000000000000
+      internalID: 6945712164457877656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_156
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 241
+        width: 99
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7471a70d097f2d40800000000000000
+      internalID: 5561797161695409278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_157
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 242
+        width: 99
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2740ab2c9e5ca5800800000000000000
+      internalID: 602011107992405106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_158
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 136
+        width: 99
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1c98e0bcc1bd260800000000000000
+      internalID: 7123318894064419265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_159
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 135
+        width: 99
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945b5b9c52e0f3cb0800000000000000
+      internalID: -4882167915585620663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_160
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 134
+        width: 99
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a1d1f109afd89f0800000000000000
+      internalID: -464439689645057521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_161
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 134
+        width: 99
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adcbb5e937821e730800000000000000
+      internalID: 4026544018889096410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_162
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 133
+        width: 98
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01182951255e9aa70800000000000000
+      internalID: 8838847884403310864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_163
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 132
+        width: 97
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b7e0cbda95b0aa0800000000000000
+      internalID: -6193758259798705382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_164
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 25
+        width: 96
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bf2c86df79c9c30800000000000000
+      internalID: 4367532853282667420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_165
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 25
+        width: 96
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556eeafe8d51a74f0800000000000000
+      internalID: -830327159818099115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_166
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 12
+        width: 6
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ab037df67200250800000000000000
+      internalID: 5908766072415238721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_167
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 10
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096c2476c1f1ac920800000000000000
+      internalID: 3011253507702572688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_168
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 51
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df225ef2075bcc10800000000000000
+      internalID: 2074847723702595537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_169
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 49
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9de41f991c30a20800000000000000
+      internalID: 3027476241445738977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_170
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 49
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d56bceaf4c2709e0800000000000000
+      internalID: -1655305617288763949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_171
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 51
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457c4cb541d499e10800000000000000
+      internalID: 2204878242408875860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_172
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 51
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f566269925e30b0800000000000000
+      internalID: -5747065255743824101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_173
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 51
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02faea5912e28c60800000000000000
+      internalID: 7819060501596008975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_174
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 49
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13ba14d798bb5c90800000000000000
+      internalID: -7179942218674031842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_175
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 51
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bbf913ede11b3b0800000000000000
+      internalID: -5498579730378540134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_176
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 51
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441c45a9295bb5270800000000000000
+      internalID: 8240379584463552836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_177
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 51
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d99021ebb43d4020800000000000000
+      internalID: 2327574563960953298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_178
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 51
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90eb462828f28b890800000000000000
+      internalID: -7442146146649850359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_179
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 51
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ced7565ff4ccd10800000000000000
+      internalID: 2147179037737217049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_180
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 32
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa378820c8c26a80800000000000000
+      internalID: -8474990821118625113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_181
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cae7428fe3240f50800000000000000
+      internalID: 6846636845099903681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_182
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23116fef2a54ecc10800000000000000
+      internalID: 2075673044628934962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_183
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 32
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03250ae9bdae394e0800000000000000
+      internalID: -1975977582505471440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_184
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc17ca45348ad4580800000000000000
+      internalID: -8841225486321552948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_185
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e24741590dc70b80800000000000000
+      internalID: -8428542737698569495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_186
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 32
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffe2e5adafee15e0800000000000000
+      internalID: -1936847260631240712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_187
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 32
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb538b32f2af8db00800000000000000
+      internalID: 853707209756390844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_188
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 32
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a7587b6903994c0800000000000000
+      internalID: -4280336546956740001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_189
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3953e427948012510800000000000000
+      internalID: 1522507260571301267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_190
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b511f9820ced3a6f0800000000000000
+      internalID: -674450602278842021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_191
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aea52b9b126ed0f0800000000000000
+      internalID: -1090326189070504279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_192
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 32
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114595bfa4b71b850800000000000000
+      internalID: 6391024908190176273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_193
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 30
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce3e770e73159fb0800000000000000
+      internalID: -4641782408922906938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_194
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 13
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5692b1971cc3c5410800000000000000
+      internalID: 1467114380274116965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_195
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 13
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035ea92125deb48d0800000000000000
+      internalID: -2860932201508575952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_196
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 13
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8919ee23b5bf5c560800000000000000
+      internalID: 7333543937357812120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_197
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 13
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9729b765743436df0800000000000000
+      internalID: -188232785746750855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_198
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 13
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e00ee1b30bb7b920800000000000000
+      internalID: 3006076900837556455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_199
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 13
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59672146a21f8840800000000000000
+      internalID: 5228418197667408223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_200
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 13
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dbd754028aa26c10800000000000000
+      internalID: 2045384656174963673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_201
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 13
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921359141db10f550800000000000000
+      internalID: 6192480073196843305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_202
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 13
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526814840ff360d70800000000000000
+      internalID: 9008958405838210597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_203
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 13
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db73ce4b1c3c28e40800000000000000
+      internalID: 5657299318662248381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_204
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 11
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb425602021cf0700800000000000000
+      internalID: 508837626642769087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_205
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 13
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2bbabc1a3e7ea20800000000000000
+      internalID: 3091689953259401936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_206
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 13
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3056e0230e9116a0800000000000000
+      internalID: -6480224652535377862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_207
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 13
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e911e43fd1ad2e0800000000000000
+      internalID: -2100333345390879184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyogre_208
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 13
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91aec1d5575000d0800000000000000
+      internalID: -3458668487716724323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,3632 @@
+fileFormatVersion: 2
+guid: 1b8f1dcbcd387894e80cc6fcb47ed667
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5831593825031865922
+    second: Marowak_0
+  - first:
+      213: -309129079561099137
+    second: Marowak_1
+  - first:
+      213: 1542045907577567482
+    second: Marowak_2
+  - first:
+      213: 901812758008034779
+    second: Marowak_3
+  - first:
+      213: 7851948597943309957
+    second: Marowak_4
+  - first:
+      213: -7687021589244077980
+    second: Marowak_5
+  - first:
+      213: -3118253281665137026
+    second: Marowak_6
+  - first:
+      213: -4274198866111578077
+    second: Marowak_7
+  - first:
+      213: -3876701173664217180
+    second: Marowak_8
+  - first:
+      213: 7608994120661958404
+    second: Marowak_9
+  - first:
+      213: 5197575664424436137
+    second: Marowak_10
+  - first:
+      213: -49880594973124829
+    second: Marowak_11
+  - first:
+      213: 3884908444220434817
+    second: Marowak_12
+  - first:
+      213: 5537822852838943981
+    second: Marowak_13
+  - first:
+      213: 6951454298706643235
+    second: Marowak_14
+  - first:
+      213: 3171751486953435057
+    second: Marowak_15
+  - first:
+      213: 9103338996688033684
+    second: Marowak_16
+  - first:
+      213: 6759232266755441569
+    second: Marowak_17
+  - first:
+      213: -6269553093550588954
+    second: Marowak_18
+  - first:
+      213: 2063459772713399616
+    second: Marowak_19
+  - first:
+      213: 8855503984846502446
+    second: Marowak_20
+  - first:
+      213: -2750555477671461281
+    second: Marowak_21
+  - first:
+      213: 7739031259610272486
+    second: Marowak_22
+  - first:
+      213: 5822615289053992406
+    second: Marowak_23
+  - first:
+      213: 8587327467981682808
+    second: Marowak_24
+  - first:
+      213: 493260736695095101
+    second: Marowak_25
+  - first:
+      213: 3002813233599882570
+    second: Marowak_26
+  - first:
+      213: 3761704760253524993
+    second: Marowak_27
+  - first:
+      213: -6562877974313920376
+    second: Marowak_28
+  - first:
+      213: 6858123537855987511
+    second: Marowak_29
+  - first:
+      213: -8863684153056948301
+    second: Marowak_30
+  - first:
+      213: -785369376153147828
+    second: Marowak_31
+  - first:
+      213: -6584889247662746293
+    second: Marowak_32
+  - first:
+      213: 1505897073934027359
+    second: Marowak_33
+  - first:
+      213: -7474784975580676639
+    second: Marowak_34
+  - first:
+      213: -7612410838249714541
+    second: Marowak_35
+  - first:
+      213: -6249617258554612982
+    second: Marowak_36
+  - first:
+      213: 289216112751064410
+    second: Marowak_37
+  - first:
+      213: 2300993376441183003
+    second: Marowak_38
+  - first:
+      213: 1238457415292699446
+    second: Marowak_39
+  - first:
+      213: 2004438756872913332
+    second: Marowak_40
+  - first:
+      213: 7322377550724005508
+    second: Marowak_41
+  - first:
+      213: -1394525914829279150
+    second: Marowak_42
+  - first:
+      213: -2785802728414854633
+    second: Marowak_43
+  - first:
+      213: -7496034873196118884
+    second: Marowak_44
+  - first:
+      213: -136700290842193413
+    second: Marowak_45
+  - first:
+      213: 933946589612348846
+    second: Marowak_46
+  - first:
+      213: -6860323791913747808
+    second: Marowak_47
+  - first:
+      213: 2712640237409916146
+    second: Marowak_48
+  - first:
+      213: 8803623029183421767
+    second: Marowak_49
+  - first:
+      213: -5146353857185163615
+    second: Marowak_50
+  - first:
+      213: 660200034632002429
+    second: Marowak_51
+  - first:
+      213: 8861597722370856619
+    second: Marowak_52
+  - first:
+      213: 6555694285170015906
+    second: Marowak_53
+  - first:
+      213: 3663376980534722468
+    second: Marowak_54
+  - first:
+      213: -3742541093786378891
+    second: Marowak_55
+  - first:
+      213: -985283728915573336
+    second: Marowak_56
+  - first:
+      213: 6888080775867761351
+    second: Marowak_57
+  - first:
+      213: 4945151138575340449
+    second: Marowak_58
+  - first:
+      213: 6698590036222154728
+    second: Marowak_59
+  - first:
+      213: -7386879272598603865
+    second: Marowak_60
+  - first:
+      213: 7424708689429556918
+    second: Marowak_61
+  - first:
+      213: 3522057441785378828
+    second: Marowak_62
+  - first:
+      213: -4153973055520003715
+    second: Marowak_63
+  - first:
+      213: -154331877615276200
+    second: Marowak_64
+  - first:
+      213: 9092063216181798908
+    second: Marowak_65
+  - first:
+      213: 8027223440365103847
+    second: Marowak_66
+  - first:
+      213: 2887198445304790605
+    second: Marowak_67
+  - first:
+      213: 5238867550433976889
+    second: Marowak_68
+  - first:
+      213: 6807156897150462978
+    second: Marowak_69
+  - first:
+      213: 2805266336267154209
+    second: Marowak_70
+  - first:
+      213: -1601981178746067414
+    second: Marowak_71
+  - first:
+      213: 6067262706389742133
+    second: Marowak_72
+  - first:
+      213: 3715568751288236925
+    second: Marowak_73
+  - first:
+      213: 236259458078569317
+    second: Marowak_74
+  - first:
+      213: -605119552078950865
+    second: Marowak_75
+  - first:
+      213: -4513781030753313476
+    second: Marowak_76
+  - first:
+      213: 8650088494495135559
+    second: Marowak_77
+  - first:
+      213: 1861845913506956120
+    second: Marowak_78
+  - first:
+      213: 1436319205357358589
+    second: Marowak_79
+  - first:
+      213: -4256189684671880952
+    second: Marowak_80
+  - first:
+      213: -4377909071134087885
+    second: Marowak_81
+  - first:
+      213: 9201189914460653394
+    second: Marowak_82
+  - first:
+      213: -8270170940602203519
+    second: Marowak_83
+  - first:
+      213: 9055912277089838979
+    second: Marowak_84
+  - first:
+      213: -2225775201667686521
+    second: Marowak_85
+  - first:
+      213: 757952746902367151
+    second: Marowak_86
+  - first:
+      213: 2696478022853615570
+    second: Marowak_87
+  - first:
+      213: -1768831149315289122
+    second: Marowak_88
+  - first:
+      213: 3849527471124856287
+    second: Marowak_89
+  - first:
+      213: 2818822408183063256
+    second: Marowak_90
+  - first:
+      213: -6762732477023288045
+    second: Marowak_91
+  - first:
+      213: -9209470072684284556
+    second: Marowak_92
+  - first:
+      213: -8491753697006467849
+    second: Marowak_93
+  - first:
+      213: 985135340657270795
+    second: Marowak_94
+  - first:
+      213: 5314552801274196034
+    second: Marowak_95
+  - first:
+      213: 2064106108361096170
+    second: Marowak_96
+  - first:
+      213: 3002698476251549293
+    second: Marowak_97
+  - first:
+      213: -2921381191791047639
+    second: Marowak_98
+  - first:
+      213: -8861372994487394146
+    second: Marowak_99
+  - first:
+      213: 1446814391867386506
+    second: Marowak_100
+  - first:
+      213: 2880824863725176326
+    second: Marowak_101
+  - first:
+      213: 2164003216055490764
+    second: Marowak_102
+  - first:
+      213: 4363755374602316112
+    second: Marowak_103
+  - first:
+      213: 5762273563391375384
+    second: Marowak_104
+  - first:
+      213: 783410232573823484
+    second: Marowak_105
+  - first:
+      213: 8877733326648558551
+    second: Marowak_106
+  - first:
+      213: 3279275806026031027
+    second: Marowak_107
+  - first:
+      213: 7140724642363150368
+    second: Marowak_108
+  - first:
+      213: -1510000705081356184
+    second: Marowak_109
+  - first:
+      213: 6276462602014428703
+    second: Marowak_110
+  - first:
+      213: -9197542467714303684
+    second: Marowak_111
+  - first:
+      213: 6081460964331287077
+    second: Marowak_112
+  - first:
+      213: -151873303828297524
+    second: Marowak_113
+  - first:
+      213: -1559431978605669977
+    second: Marowak_114
+  - first:
+      213: -5703472327307271676
+    second: Marowak_115
+  - first:
+      213: -2447183269178996939
+    second: Marowak_116
+  - first:
+      213: -8862549461080281804
+    second: Marowak_117
+  - first:
+      213: -1885344309868872066
+    second: Marowak_118
+  - first:
+      213: 7606636433264568769
+    second: Marowak_119
+  - first:
+      213: -269095713720626301
+    second: Marowak_120
+  - first:
+      213: -4637520080468460689
+    second: Marowak_121
+  - first:
+      213: 1430529016087031452
+    second: Marowak_122
+  - first:
+      213: -7969646035946822944
+    second: Marowak_123
+  - first:
+      213: -7872533491520808512
+    second: Marowak_124
+  - first:
+      213: 7774419385333144439
+    second: Marowak_125
+  - first:
+      213: -7357223943601995116
+    second: Marowak_126
+  - first:
+      213: 5521840046430993395
+    second: Marowak_127
+  - first:
+      213: -2503168819620082158
+    second: Marowak_128
+  - first:
+      213: 209117285763635161
+    second: Marowak_129
+  - first:
+      213: 7184990712284026550
+    second: Marowak_130
+  - first:
+      213: 4628013888901064039
+    second: Marowak_131
+  - first:
+      213: -1284705035940888893
+    second: Marowak_132
+  - first:
+      213: -4568037154042155822
+    second: Marowak_133
+  - first:
+      213: 3642295602038982400
+    second: Marowak_134
+  - first:
+      213: 5562562382218339021
+    second: Marowak_135
+  - first:
+      213: -5299113192424438223
+    second: Marowak_136
+  - first:
+      213: 4501409096884208207
+    second: Marowak_137
+  - first:
+      213: 1737482597306305112
+    second: Marowak_138
+  - first:
+      213: -3847261682758416761
+    second: Marowak_139
+  - first:
+      213: 4429580545880011722
+    second: Marowak_140
+  - first:
+      213: -4592741776842806349
+    second: Marowak_141
+  - first:
+      213: 1608622998975993724
+    second: Marowak_142
+  - first:
+      213: 2258704650896064236
+    second: Marowak_143
+  - first:
+      213: -1315759248062646565
+    second: Marowak_144
+  - first:
+      213: 497247072673659769
+    second: Marowak_145
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Marowak_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 573
+        width: 64
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb93d903054021fa0800000000000000
+      internalID: -5831593825031865922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 573
+        width: 64
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78640f6db0c5bbf0800000000000000
+      internalID: -309129079561099137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_2
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 573
+        width: 64
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af871843592766510800000000000000
+      internalID: 1542045907577567482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 573
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5fbf6ece1e38c00800000000000000
+      internalID: 901812758008034779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_4
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 573
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586990ff5a9b7fc60800000000000000
+      internalID: 7851948597943309957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_5
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 573
+        width: 64
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46819589796325590800000000000000
+      internalID: -7687021589244077980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_6
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 612
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7647aa592db9b4d0800000000000000
+      internalID: -3118253281665137026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_7
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 612
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320ca06e6cefea4c0800000000000000
+      internalID: -4274198866111578077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_8
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 612
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7876b72d0333ac0800000000000000
+      internalID: -3876701173664217180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_9
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 612
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f771ca6d3989960800000000000000
+      internalID: 7608994120661958404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_10
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 612
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1cb33678f712840800000000000000
+      internalID: 5197575664424436137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_11
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 612
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3271177fcd9ce4ff0800000000000000
+      internalID: -49880594973124829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_12
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 612
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189acaa95a7f9e530800000000000000
+      internalID: 3884908444220434817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_13
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 612
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec61844b8c4adc40800000000000000
+      internalID: 5537822852838943981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_14
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 612
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32985c2bad6887060800000000000000
+      internalID: 6951454298706643235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_15
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 612
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf2da73c23540c20800000000000000
+      internalID: 3171751486953435057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_16
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 612
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4971d8ff59e855e70800000000000000
+      internalID: 9103338996688033684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_17
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 612
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a301564fed9dcd50800000000000000
+      internalID: 6759232266755441569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_18
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 612
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb377ecda21ef8a0800000000000000
+      internalID: -6269553093550588954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_19
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 612
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045f3e80bb1e2ac10800000000000000
+      internalID: 2063459772713399616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_20
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 612
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2af4dba4f115ea70800000000000000
+      internalID: 8855503984846502446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_21
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 589
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e336abd5014d9d0800000000000000
+      internalID: -2750555477671461281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_22
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 589
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2d6be6def866b60800000000000000
+      internalID: 7739031259610272486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_23
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 589
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d552df71c51ec050800000000000000
+      internalID: 5822615289053992406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_24
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 589
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878b003a5d05c2770800000000000000
+      internalID: 8587327467981682808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_25
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 589
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fcb50d60a68d600800000000000000
+      internalID: 493260736695095101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_26
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 589
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a452093f9b22ca920800000000000000
+      internalID: 3002813233599882570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_27
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 589
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10caec09c82443430800000000000000
+      internalID: 3761704760253524993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_28
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 589
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88898c40149fbe4a0800000000000000
+      internalID: -6562877974313920376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_29
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 589
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73fb6a39503fc2f50800000000000000
+      internalID: 6858123537855987511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_30
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 589
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf08cf793eddf480800000000000000
+      internalID: -8863684153056948301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_31
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 589
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46ebe4a6bec915f0800000000000000
+      internalID: -785369376153147828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_32
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 589
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45d5c31e16cd94a0800000000000000
+      internalID: -6584889247662746293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_33
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 589
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a4320096506e410800000000000000
+      internalID: 1505897073934027359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_34
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 589
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed3616faaa344890800000000000000
+      internalID: -7474784975580676639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_35
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 589
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ccac5cca84b5690800000000000000
+      internalID: -7612410838249714541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_36
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 589
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03a3b91736e449a0800000000000000
+      internalID: -6249617258554612982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_37
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 581
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55b8dfa580830400800000000000000
+      internalID: 289216112751064410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_38
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 566
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1bad41e845ceef10800000000000000
+      internalID: 2300993376441183003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_39
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 566
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63348f32572ef2110800000000000000
+      internalID: 1238457415292699446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_40
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 566
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b18f6ded6231db10800000000000000
+      internalID: 2004438756872913332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_41
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 566
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ef236369f4e9560800000000000000
+      internalID: 7322377550724005508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_42
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 566
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2503688a116a5ace0800000000000000
+      internalID: -1394525914829279150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_43
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 566
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712c486ad27d659d0800000000000000
+      internalID: -2785802728414854633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_44
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 566
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c743f9ffbb8f790800000000000000
+      internalID: -7496034873196118884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_45
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 534
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf198ab4fc75a1ef0800000000000000
+      internalID: -136700290842193413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_46
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 534
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea51809997b06fc00800000000000000
+      internalID: 933946589612348846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_47
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 534
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aaf1dadbdb3bc0a0800000000000000
+      internalID: -6860323791913747808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_48
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 534
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4df3a7ceb35a520800000000000000
+      internalID: 2712640237409916146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_49
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 534
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d1dee5080cc2a70800000000000000
+      internalID: 8803623029183421767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_50
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 534
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a65406fe6a7498b0800000000000000
+      internalID: -5146353857185163615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_51
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 534
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7be0f00f60892900800000000000000
+      internalID: 660200034632002429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_52
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 534
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba653508d28bafa70800000000000000
+      internalID: 8861597722370856619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_53
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 534
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aefd9308318afa50800000000000000
+      internalID: 6555694285170015906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_54
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 534
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af7d1354fde6d230800000000000000
+      internalID: 3663376980534722468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_55
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 534
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d9f8b34b2df0cc0800000000000000
+      internalID: -3742541093786378891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_56
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 534
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5d3073ba19352f0800000000000000
+      internalID: -985283728915573336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_57
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 467
+        width: 64
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c28bc598f0679f50800000000000000
+      internalID: 6888080775867761351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_58
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 466
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3d66f82c4b0a440800000000000000
+      internalID: 4945151138575340449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_59
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 511
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e71ef4b52c26fc50800000000000000
+      internalID: 6698590036222154728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_60
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 511
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7701e50788c7990800000000000000
+      internalID: -7386879272598603865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_61
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 511
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be643a173dd90760800000000000000
+      internalID: 7424708689429556918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_62
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 511
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c087328259cd0e030800000000000000
+      internalID: 3522057441785378828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_63
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 511
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79af23c38f1a56c0800000000000000
+      internalID: -4153973055520003715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_64
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 511
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85fe83999f3bbddf0800000000000000
+      internalID: -154331877615276200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_65
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 511
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf769e3c25f7d2e70800000000000000
+      internalID: 9092063216181798908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_66
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 511
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eaa6af503d666f60800000000000000
+      internalID: 8027223440365103847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_67
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 511
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4eb37060b3611820800000000000000
+      internalID: 2887198445304790605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_68
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 511
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93220f8c74234b840800000000000000
+      internalID: 5238867550433976889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_69
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 511
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ce001d121e77e50800000000000000
+      internalID: 6807156897150462978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_70
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 511
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123b091bede4ee620800000000000000
+      internalID: 2805266336267154209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_71
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 511
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26aaf70b9e94c9e0800000000000000
+      internalID: -1601981178746067414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_72
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 511
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532f555294f333450800000000000000
+      internalID: 6067262706389742133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_73
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 511
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7bb317e71a509330800000000000000
+      internalID: 3715568751288236925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_74
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 511
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5637991b9bc574300800000000000000
+      internalID: 236259458078569317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_75
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 511
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ec0b339fe2a97f0800000000000000
+      internalID: -605119552078950865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_76
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 482
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d5d0c4114db51c0800000000000000
+      internalID: -4513781030753313476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_77
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 465
+        width: 59
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7477316d7a94b0870800000000000000
+      internalID: 8650088494495135559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_78
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 465
+        width: 66
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853481d6efa96d910800000000000000
+      internalID: 1861845913506956120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_79
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 464
+        width: 62
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd856315b4dee310800000000000000
+      internalID: 1436319205357358589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_80
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 461
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8016374380afee4c0800000000000000
+      internalID: -4256189684671880952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_81
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 461
+        width: 61
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335a71c15ea8e33c0800000000000000
+      internalID: -4377909071134087885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_82
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 464
+        width: 62
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257855a2a7131bf70800000000000000
+      internalID: 9201189914460653394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_83
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 467
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182c5a5c8537a3d80800000000000000
+      internalID: -8270170940602203519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_84
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 467
+        width: 63
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387e9095c301dad70800000000000000
+      internalID: 9055912277089838979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_85
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 467
+        width: 64
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f59ba2f357c11e0800000000000000
+      internalID: -2225775201667686521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_86
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 488
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faba5abe10ac48a00800000000000000
+      internalID: 757952746902367151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_87
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 488
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df56d8a970db6520800000000000000
+      internalID: 2696478022853615570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_88
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 488
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf8a6df079d377e0800000000000000
+      internalID: -1768831149315289122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_89
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 488
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd318dd6d44c6530800000000000000
+      internalID: 3849527471124856287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_90
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 488
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2a9a4ab087e1720800000000000000
+      internalID: 2818822408183063256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_91
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 488
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315870484a2f522a0800000000000000
+      internalID: -6762732477023288045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_92
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 488
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475ff0443c3613080800000000000000
+      internalID: -9209470072684284556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_93
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 488
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4c1d9f00b372a80800000000000000
+      internalID: -8491753697006467849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_94
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 488
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b006f837f57ebad00800000000000000
+      internalID: 985135340657270795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_95
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 488
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24071047d9511c940800000000000000
+      internalID: 5314552801274196034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_96
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 412
+        width: 63
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebb397c19d25ac10800000000000000
+      internalID: 2064106108361096170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_97
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 412
+        width: 63
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e849cea5abba920800000000000000
+      internalID: 3002698476251549293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_98
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 411
+        width: 63
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c89c1c84b2577d0800000000000000
+      internalID: -2921381191791047639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_99
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 409
+        width: 63
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90e6590634160580800000000000000
+      internalID: -8861372994487394146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_100
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 411
+        width: 63
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8aad2b160e141410800000000000000
+      internalID: 1446814391867386506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_101
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 412
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606c37643febaf720800000000000000
+      internalID: 2880824863725176326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_102
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 412
+        width: 63
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc85ac9a575180e10800000000000000
+      internalID: 2164003216055490764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_103
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 412
+        width: 63
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0596fdd946c2f8c30800000000000000
+      internalID: 4363755374602316112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_104
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 411
+        width: 63
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818319ca645b7ff40800000000000000
+      internalID: 5762273563391375384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_105
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 410
+        width: 64
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf908f1b47b3fda00800000000000000
+      internalID: 783410232573823484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_106
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 410
+        width: 62
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3c881ac6b043b70800000000000000
+      internalID: 8877733326648558551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_107
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 353
+        width: 63
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bfd6b2a8f3528d20800000000000000
+      internalID: 3279275806026031027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_108
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 353
+        width: 64
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0201fe2aa33f81360800000000000000
+      internalID: 7140724642363150368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_109
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 352
+        width: 64
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860590beb566b0be0800000000000000
+      internalID: -1510000705081356184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_110
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 358
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e081f7b797a1750800000000000000
+      internalID: 6276462602014428703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_111
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 247
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39b1553bd3cb5080800000000000000
+      internalID: -9197542467714303684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_112
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 227
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522fe5ea680b56450800000000000000
+      internalID: 6081460964331287077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_113
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 227
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8037ae80074edf0800000000000000
+      internalID: -151873303828297524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_114
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 227
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a113dfa0e8cb5ae0800000000000000
+      internalID: -1559431978605669977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_115
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 227
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4026498f22239d0b0800000000000000
+      internalID: -5703472327307271676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_116
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 227
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5378e4c48cbd90ed0800000000000000
+      internalID: -2447183269178996939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_117
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 227
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43deaff8836e10580800000000000000
+      internalID: -8862549461080281804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_118
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 236
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e36f2d659e5d5e0800000000000000
+      internalID: -1885344309868872066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_119
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 150
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9674cc883309960800000000000000
+      internalID: 7606636433264568769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_120
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 137
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3831a15cfdaf34cf0800000000000000
+      internalID: -269095713720626301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_121
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 133
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bbfe4be0834afb0800000000000000
+      internalID: -4637520080468460689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_122
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 133
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ea1c49f824ad310800000000000000
+      internalID: 1430529016087031452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_123
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 132
+        width: 57
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e22ac1c721266190800000000000000
+      internalID: -7969646035946822944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_124
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 133
+        width: 61
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9598bff742fb290800000000000000
+      internalID: -7872533491520808512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_125
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 134
+        width: 60
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b51b58d3944eb60800000000000000
+      internalID: 7774419385333144439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_126
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 135
+        width: 60
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492ca94bdc3e5e990800000000000000
+      internalID: -7357223943601995116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_127
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 134
+        width: 61
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbbb0a244481ac40800000000000000
+      internalID: 5521840046430993395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_128
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 133
+        width: 62
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e06bd8835f24dd0800000000000000
+      internalID: -2503168819620082158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_129
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 133
+        width: 60
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7d55e301fe6e200800000000000000
+      internalID: 209117285763635161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_130
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 132
+        width: 61
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b69b203cf636b360800000000000000
+      internalID: 7184990712284026550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_131
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 75
+        width: 62
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765a5879c120a3040800000000000000
+      internalID: 4628013888901064039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_132
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 73
+        width: 60
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce7693939fcb2ee0800000000000000
+      internalID: -1284705035940888893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_133
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 74
+        width: 61
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dce78039621b90c0800000000000000
+      internalID: -4568037154042155822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_134
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 74
+        width: 61
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00740866d880c8230800000000000000
+      internalID: 3642295602038982400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_135
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 74
+        width: 61
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc22311d301323d40800000000000000
+      internalID: 5562562382218339021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_136
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 73
+        width: 60
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13684fc90a4c576b0800000000000000
+      internalID: -5299113192424438223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_137
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 73
+        width: 61
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42ce7069b7387e30800000000000000
+      internalID: 4501409096884208207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_138
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 72
+        width: 62
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a8dd77737cc1810800000000000000
+      internalID: 1737482597306305112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_139
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 72
+        width: 61
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786863912e7cb9ac0800000000000000
+      internalID: -3847261682758416761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_140
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 72
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3b82d9908097d30800000000000000
+      internalID: 4429580545880011722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_141
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 73
+        width: 61
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb2036ffad4340c0800000000000000
+      internalID: -4592741776842806349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_142
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 12
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77dc7f381af25610800000000000000
+      internalID: 1608622998975993724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_143
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 10
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceebe21b9e7885f10800000000000000
+      internalID: 2258704650896064236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_144
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 10
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd67a416feb7dbde0800000000000000
+      internalID: -1315759248062646565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marowak_145
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 20
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97bf05cf39396e600800000000000000
+      internalID: 497247072673659769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

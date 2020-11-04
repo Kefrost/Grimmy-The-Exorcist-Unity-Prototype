@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fd73012ff2053040a6fe22559110819, type: 3}
+  m_Name: Raykhooye
+  m_EditorClassIdentifier: 
+  monsterName: Raykhooye
+  description: 
+  frontSprite: {fileID: -9043492314395683985, guid: 46c1ca34a6813414f80116b9356c9ae7,
+    type: 3}
+  backSprite: {fileID: 1141743990981533158, guid: 46c1ca34a6813414f80116b9356c9ae7,
+    type: 3}
+  firstType: 15
+  secondType: 10
+  maxHp: 105
+  attack: 150
+  defense: 90
+  spAttack: 150
+  spDefense: 90
+  speed: 95
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: eda37ef57ef3c8d47a6ea1f39ba610c2, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 6d07e363982a3a54b84bfa4aa55b9dea, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 8348591baf7100e4b908fb79f9ee2c32, type: 2}
+    level: 9
+  - moveBase: {fileID: 11400000, guid: fea0a7f9c1771ec49a46a93e9f43959f, type: 2}
+    level: 72
+  - moveBase: {fileID: 11400000, guid: 95d869cdfe7c7e34cad1d72fb23cfd3f, type: 2}
+    level: 90
+  - moveBase: {fileID: 11400000, guid: 2f60b961f3b7c0e43b82ac03b4ff5cf1, type: 2}
+    level: 27
+  - moveBase: {fileID: 11400000, guid: 63b3309e21e7e384fb0a1a4e2c583a83, type: 2}
+    level: 36

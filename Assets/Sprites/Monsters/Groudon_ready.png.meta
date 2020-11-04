@@ -1,0 +1,3056 @@
+fileFormatVersion: 2
+guid: 55f891584313bb84fa9315fc9692ac01
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2504379705060290115
+    second: Groudon_ready_0
+  - first:
+      213: -919073374968440875
+    second: Groudon_ready_1
+  - first:
+      213: 668583277278340137
+    second: Groudon_ready_2
+  - first:
+      213: 1540915833577511388
+    second: Groudon_ready_3
+  - first:
+      213: 7477740908776816873
+    second: Groudon_ready_4
+  - first:
+      213: -1286614445416765534
+    second: Groudon_ready_5
+  - first:
+      213: 8747730072349358395
+    second: Groudon_ready_6
+  - first:
+      213: -7831344426722930491
+    second: Groudon_ready_7
+  - first:
+      213: 7751178530363852267
+    second: Groudon_ready_8
+  - first:
+      213: 742236449759093851
+    second: Groudon_ready_9
+  - first:
+      213: -6163198924598823380
+    second: Groudon_ready_10
+  - first:
+      213: 6879859507363076363
+    second: Groudon_ready_11
+  - first:
+      213: 4375545673546610751
+    second: Groudon_ready_12
+  - first:
+      213: 8273175748015218352
+    second: Groudon_ready_13
+  - first:
+      213: 7391322990921531832
+    second: Groudon_ready_14
+  - first:
+      213: -3615859545450160594
+    second: Groudon_ready_15
+  - first:
+      213: -6389065826452015445
+    second: Groudon_ready_16
+  - first:
+      213: 4001711844199563331
+    second: Groudon_ready_17
+  - first:
+      213: -5464114419358529995
+    second: Groudon_ready_18
+  - first:
+      213: -8118232980566044078
+    second: Groudon_ready_19
+  - first:
+      213: 5393952478197326193
+    second: Groudon_ready_20
+  - first:
+      213: 7188233914058837986
+    second: Groudon_ready_21
+  - first:
+      213: -4440243276348976070
+    second: Groudon_ready_22
+  - first:
+      213: -6575385705558450748
+    second: Groudon_ready_23
+  - first:
+      213: -5593350473195270492
+    second: Groudon_ready_24
+  - first:
+      213: -4088070122387013761
+    second: Groudon_ready_25
+  - first:
+      213: 9156330159945245721
+    second: Groudon_ready_26
+  - first:
+      213: 3645068590369933997
+    second: Groudon_ready_27
+  - first:
+      213: -2137864530133255887
+    second: Groudon_ready_28
+  - first:
+      213: 4814475975227777164
+    second: Groudon_ready_29
+  - first:
+      213: 4808197649191676337
+    second: Groudon_ready_30
+  - first:
+      213: 4667751959622377976
+    second: Groudon_ready_31
+  - first:
+      213: 8199072190574286650
+    second: Groudon_ready_32
+  - first:
+      213: 334659371073639327
+    second: Groudon_ready_33
+  - first:
+      213: 6137165007391423536
+    second: Groudon_ready_34
+  - first:
+      213: -2671170286780786420
+    second: Groudon_ready_35
+  - first:
+      213: -8815994499069424053
+    second: Groudon_ready_36
+  - first:
+      213: 4513716760497330226
+    second: Groudon_ready_37
+  - first:
+      213: 5894781447860987742
+    second: Groudon_ready_38
+  - first:
+      213: 6140952591339591100
+    second: Groudon_ready_39
+  - first:
+      213: -6492615303493377829
+    second: Groudon_ready_40
+  - first:
+      213: 6015476767573099321
+    second: Groudon_ready_41
+  - first:
+      213: -7150476303449814271
+    second: Groudon_ready_42
+  - first:
+      213: 3120852392522205016
+    second: Groudon_ready_43
+  - first:
+      213: 1061048903574334507
+    second: Groudon_ready_44
+  - first:
+      213: -3837980764970685415
+    second: Groudon_ready_45
+  - first:
+      213: 2112727147363587872
+    second: Groudon_ready_46
+  - first:
+      213: -5343923577777195582
+    second: Groudon_ready_47
+  - first:
+      213: -3108144595822679482
+    second: Groudon_ready_48
+  - first:
+      213: -2894796227136632212
+    second: Groudon_ready_49
+  - first:
+      213: -6847035092010380186
+    second: Groudon_ready_50
+  - first:
+      213: -3879140534419913179
+    second: Groudon_ready_51
+  - first:
+      213: 9069938475216639445
+    second: Groudon_ready_52
+  - first:
+      213: -8684395833864244401
+    second: Groudon_ready_53
+  - first:
+      213: 7845299314322293189
+    second: Groudon_ready_54
+  - first:
+      213: 1029429498055140411
+    second: Groudon_ready_55
+  - first:
+      213: -4533694862735510467
+    second: Groudon_ready_56
+  - first:
+      213: 2620213383979767754
+    second: Groudon_ready_57
+  - first:
+      213: 3113535092943429399
+    second: Groudon_ready_58
+  - first:
+      213: -9020295889200260299
+    second: Groudon_ready_59
+  - first:
+      213: -4049636763609693144
+    second: Groudon_ready_60
+  - first:
+      213: 7730969830581624207
+    second: Groudon_ready_61
+  - first:
+      213: 824591554818227032
+    second: Groudon_ready_62
+  - first:
+      213: -3822701497072027049
+    second: Groudon_ready_63
+  - first:
+      213: 7271624952670363918
+    second: Groudon_ready_64
+  - first:
+      213: -6955903734618562413
+    second: Groudon_ready_65
+  - first:
+      213: 7908468238134807399
+    second: Groudon_ready_66
+  - first:
+      213: -8459139839135106342
+    second: Groudon_ready_67
+  - first:
+      213: -3615384262473769476
+    second: Groudon_ready_68
+  - first:
+      213: -9041930879655258567
+    second: Groudon_ready_69
+  - first:
+      213: 5077028303758228182
+    second: Groudon_ready_70
+  - first:
+      213: -3805966326426624947
+    second: Groudon_ready_71
+  - first:
+      213: 2572747697027434426
+    second: Groudon_ready_72
+  - first:
+      213: -7329438994827957892
+    second: Groudon_ready_73
+  - first:
+      213: -4186796200296453621
+    second: Groudon_ready_74
+  - first:
+      213: -7456985570914484109
+    second: Groudon_ready_75
+  - first:
+      213: 1898200104782816937
+    second: Groudon_ready_76
+  - first:
+      213: -8241982246446291143
+    second: Groudon_ready_77
+  - first:
+      213: -607726846674753520
+    second: Groudon_ready_78
+  - first:
+      213: -1840088632699716715
+    second: Groudon_ready_79
+  - first:
+      213: 892733279996583828
+    second: Groudon_ready_80
+  - first:
+      213: -3403669808748359998
+    second: Groudon_ready_81
+  - first:
+      213: 5219663221346053940
+    second: Groudon_ready_82
+  - first:
+      213: -1020143600264892969
+    second: Groudon_ready_83
+  - first:
+      213: -5612944819910196961
+    second: Groudon_ready_84
+  - first:
+      213: 5383666494576288662
+    second: Groudon_ready_85
+  - first:
+      213: 3783580378509867967
+    second: Groudon_ready_86
+  - first:
+      213: -3228272351094526153
+    second: Groudon_ready_87
+  - first:
+      213: 7109288426556755500
+    second: Groudon_ready_88
+  - first:
+      213: 6136445178545948441
+    second: Groudon_ready_89
+  - first:
+      213: 2992894006238729132
+    second: Groudon_ready_90
+  - first:
+      213: 2973987472896425971
+    second: Groudon_ready_91
+  - first:
+      213: 699466618723857648
+    second: Groudon_ready_92
+  - first:
+      213: -797417950792833676
+    second: Groudon_ready_93
+  - first:
+      213: 5749223596303478447
+    second: Groudon_ready_94
+  - first:
+      213: -1285216928683282772
+    second: Groudon_ready_95
+  - first:
+      213: -8732825208425248763
+    second: Groudon_ready_96
+  - first:
+      213: -2718087850952893024
+    second: Groudon_ready_97
+  - first:
+      213: 3268668959951101422
+    second: Groudon_ready_98
+  - first:
+      213: -2940961869251492056
+    second: Groudon_ready_99
+  - first:
+      213: 7283459592850572779
+    second: Groudon_ready_100
+  - first:
+      213: 5427879121357762158
+    second: Groudon_ready_101
+  - first:
+      213: -2481440005546037141
+    second: Groudon_ready_102
+  - first:
+      213: -457845159610234752
+    second: Groudon_ready_103
+  - first:
+      213: -4771605930028530087
+    second: Groudon_ready_104
+  - first:
+      213: -2780740372632182697
+    second: Groudon_ready_105
+  - first:
+      213: -1242525244314505553
+    second: Groudon_ready_106
+  - first:
+      213: -8209287633038002193
+    second: Groudon_ready_107
+  - first:
+      213: 6115691355548826615
+    second: Groudon_ready_108
+  - first:
+      213: -4021993203662958759
+    second: Groudon_ready_109
+  - first:
+      213: -3260608639669311619
+    second: Groudon_ready_110
+  - first:
+      213: -1596446213021768342
+    second: Groudon_ready_111
+  - first:
+      213: 1671702681867194457
+    second: Groudon_ready_112
+  - first:
+      213: 7374290363734521882
+    second: Groudon_ready_113
+  - first:
+      213: -1289887758691458900
+    second: Groudon_ready_114
+  - first:
+      213: 7297678330904838949
+    second: Groudon_ready_115
+  - first:
+      213: -8935948104697431096
+    second: Groudon_ready_116
+  - first:
+      213: -8649997507701059341
+    second: Groudon_ready_117
+  - first:
+      213: 3455033558009429730
+    second: Groudon_ready_118
+  - first:
+      213: -4590789948009538475
+    second: Groudon_ready_119
+  - first:
+      213: -4267871540238410797
+    second: Groudon_ready_120
+  - first:
+      213: -1714426991622537403
+    second: Groudon_ready_121
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Groudon_ready_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1116
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db11f215de7ae3dd0800000000000000
+      internalID: -2504379705060290115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1116
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d79c7a82abce33f0800000000000000
+      internalID: -919073374968440875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1116
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92421f8c2f8474900800000000000000
+      internalID: 668583277278340137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_3
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1116
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9992959ce626510800000000000000
+      internalID: 1540915833577511388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_4
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1116
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e08c0edcb546c760800000000000000
+      internalID: 7477740908776816873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_5
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1116
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a72c0a8af6052ee0800000000000000
+      internalID: -1286614445416765534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_6
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1116
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39b261472e266970800000000000000
+      internalID: 8747730072349358395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_7
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1116
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0d1737cb9715390800000000000000
+      internalID: -7831344426722930491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_8
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1116
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5c8fc4ec7b19b60800000000000000
+      internalID: 7751178530363852267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_9
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1116
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54ec375e14fc4a00800000000000000
+      internalID: 742236449759093851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_10
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1116
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26b73b6b3be77aa0800000000000000
+      internalID: -6163198924598823380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_11
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1042
+        width: 4
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0958f855cb2a7f50800000000000000
+      internalID: 6879859507363076363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1025
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f383e328b9f09bc30800000000000000
+      internalID: 4375545673546610751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_13
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1025
+        width: 77
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bed2d8728930d270800000000000000
+      internalID: 8273175748015218352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_14
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1025
+        width: 77
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b14e0e6911439660800000000000000
+      internalID: 7391322990921531832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_15
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1025
+        width: 78
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2edcbba6e2e1ddc0800000000000000
+      internalID: -3615859545450160594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_16
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1025
+        width: 78
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba67db74b7a7557a0800000000000000
+      internalID: -6389065826452015445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_17
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1025
+        width: 79
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3400df668bfe88730800000000000000
+      internalID: 4001711844199563331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_18
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1025
+        width: 80
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5368b0eb2e09b24b0800000000000000
+      internalID: -5464114419358529995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_19
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 1025
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252108dcd1e365f80800000000000000
+      internalID: -8118232980566044078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_20
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1025
+        width: 78
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1712a46533b2bda40800000000000000
+      internalID: 5393952478197326193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_21
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 1025
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef84e1f8acb1c360800000000000000
+      internalID: 7188233914058837986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_22
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 935
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3417ecf3461162c0800000000000000
+      internalID: -4440243276348976070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_23
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 935
+        width: 75
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cdd107e9898fb4a0800000000000000
+      internalID: -6575385705558450748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_24
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 935
+        width: 77
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aecee4216d6062b0800000000000000
+      internalID: -5593350473195270492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_25
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 935
+        width: 78
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ffb3a12e14447c0800000000000000
+      internalID: -4088070122387013761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_26
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 935
+        width: 80
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9146bb5a4c1d11f70800000000000000
+      internalID: 9156330159945245721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_27
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 935
+        width: 83
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa0fee0292e59230800000000000000
+      internalID: 3645068590369933997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_28
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 935
+        width: 84
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139ff776987c452e0800000000000000
+      internalID: -2137864530133255887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_29
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 935
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80aa1b246470d240800000000000000
+      internalID: 4814475975227777164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_30
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 935
+        width: 78
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b920f979462ab240800000000000000
+      internalID: 4808197649191676337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_31
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 935
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1ecec2daf27c040800000000000000
+      internalID: 4667751959622377976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_32
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 845
+        width: 76
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37d6fe77b4f8c170800000000000000
+      internalID: 8199072190574286650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_33
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 845
+        width: 75
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f939995cce2f4a400800000000000000
+      internalID: 334659371073639327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_34
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 845
+        width: 77
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03cf581ee079b2550800000000000000
+      internalID: 6137165007391423536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_35
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 845
+        width: 79
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c095ad1d6c81eead0800000000000000
+      internalID: -2671170286780786420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_36
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 845
+        width: 81
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e4b2556bb47a580800000000000000
+      internalID: -8815994499069424053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_37
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 845
+        width: 84
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2389b2e9a71f3ae30800000000000000
+      internalID: 4513716760497330226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_38
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 845
+        width: 86
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e572154be787ec150800000000000000
+      internalID: 5894781447860987742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_39
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 845
+        width: 89
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb59f4d78db093550800000000000000
+      internalID: 6140952591339591100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_40
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 845
+        width: 87
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd02304e7c895e5a0800000000000000
+      internalID: -6492615303493377829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_41
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 845
+        width: 82
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9334fcdaf344b7350800000000000000
+      internalID: 6015476767573099321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_42
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 755
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b8606dfa764cc90800000000000000
+      internalID: -7150476303449814271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_43
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 755
+        width: 76
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857c6bc47be7f4b20800000000000000
+      internalID: 3120852392522205016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_44
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 755
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2cadda2b5a99be00800000000000000
+      internalID: 1061048903574334507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_45
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 755
+        width: 73
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ce32924d0ccbac0800000000000000
+      internalID: -3837980764970685415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_46
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 755
+        width: 76
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0275ee5952ae15d10800000000000000
+      internalID: 2112727147363587872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_47
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 755
+        width: 78
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c571cfb1d196d5b0800000000000000
+      internalID: -5343923577777195582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_48
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 755
+        width: 78
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a607f25f6add4d0800000000000000
+      internalID: -3108144595822679482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_49
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 755
+        width: 84
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a41603b2e93d7d0800000000000000
+      internalID: -2894796227136632212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_50
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 755
+        width: 82
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66456186cd17af0a0800000000000000
+      internalID: -6847035092010380186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_51
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 755
+        width: 81
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526051c8c368a2ac0800000000000000
+      internalID: -3879140534419913179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_52
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 665
+        width: 80
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d59fe51df4eedd70800000000000000
+      internalID: 9069938475216639445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_53
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 665
+        width: 80
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43b3a14004da7780800000000000000
+      internalID: -8684395833864244401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_54
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 665
+        width: 79
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1cbc2092a10ec60800000000000000
+      internalID: 7845299314322293189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_55
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 665
+        width: 78
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34a2e0aca4494e00800000000000000
+      internalID: 1029429498055140411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_56
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 665
+        width: 77
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34f2aafa841511c0800000000000000
+      internalID: -4533694862735510467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_57
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 665
+        width: 77
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac796d3b03edc5420800000000000000
+      internalID: 2620213383979767754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_58
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 665
+        width: 78
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f1b9abbaf753b20800000000000000
+      internalID: 3113535092943429399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_59
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 665
+        width: 78
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b5d4b2ea871d280800000000000000
+      internalID: -9020295889200260299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_60
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 665
+        width: 78
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8248ea3c1dcccc7c0800000000000000
+      internalID: -4049636763609693144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_61
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 665
+        width: 77
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d5419b91ce94b60800000000000000
+      internalID: 7730969830581624207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 563
+        width: 1057
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b3ab576a9817b00800000000000000
+      internalID: 824591554818227032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_63
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 575
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75afaa0fd3903fac0800000000000000
+      internalID: -3822701497072027049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_64
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 585
+        width: 4
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01a8c32e500ae460800000000000000
+      internalID: 7271624952670363918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_65
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 586
+        width: 4
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3906f36486aa77f90800000000000000
+      internalID: -6955903734618562413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_66
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 574
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b0c7336f580cd60800000000000000
+      internalID: 7908468238134807399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_67
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 576
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada3ffe72291b9a80800000000000000
+      internalID: -8459139839135106342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_68
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 494
+        width: 4
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd96bc1b2393ddc0800000000000000
+      internalID: -3615384262473769476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_69
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 479
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936538a65cb948280800000000000000
+      internalID: -9041930879655258567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_70
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 479
+        width: 82
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dafc10d75a357640800000000000000
+      internalID: 5077028303758228182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_71
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 478
+        width: 82
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c1e3e7acd7e2bc0800000000000000
+      internalID: -3805966326426624947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_72
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 477
+        width: 82
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab74602466c34b320800000000000000
+      internalID: 2572747697027434426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_73
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 475
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c792266311a984a90800000000000000
+      internalID: -7329438994827957892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_74
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 477
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0aef56d90385e5c0800000000000000
+      internalID: -4186796200296453621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_75
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 479
+        width: 82
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370cd6ec127738890800000000000000
+      internalID: -7456985570914484109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_76
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 479
+        width: 83
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6603e20f2c75a10800000000000000
+      internalID: 1898200104782816937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_77
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 479
+        width: 84
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9372e7390d89e9d80800000000000000
+      internalID: -8241982246446291143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_78
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 479
+        width: 84
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018ab7f17abe097f0800000000000000
+      internalID: -607726846674753520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_79
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 385
+        width: 83
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59bf2b44321b676e0800000000000000
+      internalID: -1840088632699716715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_80
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 385
+        width: 81
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f9d513030a36c00800000000000000
+      internalID: 892733279996583828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_81
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 385
+        width: 80
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce05d4a75cb3c0d0800000000000000
+      internalID: -3403669808748359998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_82
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 384
+        width: 80
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fa08b7b08ff6840800000000000000
+      internalID: 5219663221346053940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_83
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 383
+        width: 80
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dda25eecc8b7d1f0800000000000000
+      internalID: -1020143600264892969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_84
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 382
+        width: 80
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f114269cc60da12b0800000000000000
+      internalID: -5612944819910196961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_85
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 383
+        width: 80
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69364662720a6ba40800000000000000
+      internalID: 5383666494576288662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_86
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 385
+        width: 81
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbbf738de4af18430800000000000000
+      internalID: 3783580378509867967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_87
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 385
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73fabca966fd233d0800000000000000
+      internalID: -3228272351094526153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_88
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 385
+        width: 83
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e06b6482449a260800000000000000
+      internalID: 7109288426556755500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_89
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 291
+        width: 84
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917c3eaa068092550800000000000000
+      internalID: 6136445178545948441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_90
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 291
+        width: 84
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3514cdd35e88920800000000000000
+      internalID: 2992894006238729132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_91
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 291
+        width: 84
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fff37889d9b54920800000000000000
+      internalID: 2973987472896425971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_92
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 291
+        width: 84
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4774d0f2105b900800000000000000
+      internalID: 699466618723857648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_93
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 290
+        width: 84
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475297149900fe4f0800000000000000
+      internalID: -797417950792833676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_94
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 289
+        width: 84
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae66ff666859cf40800000000000000
+      internalID: 5749223596303478447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_95
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 287
+        width: 83
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caea382430ef92ee0800000000000000
+      internalID: -1285216928683282772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_96
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 289
+        width: 83
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5088c3ecdb5cec680800000000000000
+      internalID: -8732825208425248763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_97
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 291
+        width: 83
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0add5a72089674ad0800000000000000
+      internalID: -2718087850952893024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_98
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 291
+        width: 83
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed1b36d915ac5d20800000000000000
+      internalID: 3268668959951101422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_99
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 197
+        width: 82
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827cb4503ca9f27d0800000000000000
+      internalID: -2940961869251492056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_100
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 197
+        width: 83
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be505c709eb041560800000000000000
+      internalID: 7283459592850572779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_101
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 197
+        width: 84
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ee9408d43b35b40800000000000000
+      internalID: 5427879121357762158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_102
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 196
+        width: 87
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b603cf15677209dd0800000000000000
+      internalID: -2481440005546037141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_103
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 196
+        width: 88
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088cc4bc04865a9f0800000000000000
+      internalID: -457845159610234752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_104
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 197
+        width: 89
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956808c00b9d7cdb0800000000000000
+      internalID: -4771605930028530087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_105
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 197
+        width: 83
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750eba43d53d869d0800000000000000
+      internalID: -2780740372632182697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_106
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 197
+        width: 83
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faead2c9fd9a1cee0800000000000000
+      internalID: -1242525244314505553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_107
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 197
+        width: 83
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe733c57460c21e80800000000000000
+      internalID: -8209287633038002193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_108
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 197
+        width: 83
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb3a63b2ec4fd450800000000000000
+      internalID: 6115691355548826615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_109
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 103
+        width: 81
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f42ae9d720f28c0800000000000000
+      internalID: -4021993203662958759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_110
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 103
+        width: 81
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77e0f8b7bdffb2d0800000000000000
+      internalID: -3260608639669311619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_111
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 103
+        width: 81
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65e1d9a0a848d9e0800000000000000
+      internalID: -1596446213021768342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_112
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 103
+        width: 81
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95013ca6bb4133710800000000000000
+      internalID: 1671702681867194457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_113
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 102
+        width: 81
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a187bf0e30eb65660800000000000000
+      internalID: 7374290363734521882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_114
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 101
+        width: 81
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca02217eae5691ee0800000000000000
+      internalID: -1289887758691458900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_115
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 99
+        width: 81
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52306a6f6cf864560800000000000000
+      internalID: 7297678330904838949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_116
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 101
+        width: 81
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb3f202b822df380800000000000000
+      internalID: -8935948104697431096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_117
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 103
+        width: 81
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0d67da81905f780800000000000000
+      internalID: -8649997507701059341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_118
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 103
+        width: 81
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eeb43827beb2ff20800000000000000
+      internalID: 3455033558009429730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_119
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 9
+        width: 82
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c15768ddc3a40c0800000000000000
+      internalID: -4590789948009538475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_120
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 9
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db1711427975c4c0800000000000000
+      internalID: -4267871540238410797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groudon_ready_121
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 19
+        width: 4
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f3ffa0cb12538e0800000000000000
+      internalID: -1714426991622537403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

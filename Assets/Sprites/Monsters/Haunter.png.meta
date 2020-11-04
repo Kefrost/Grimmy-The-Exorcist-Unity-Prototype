@@ -1,0 +1,2336 @@
+fileFormatVersion: 2
+guid: d91d0b129ebf9bf4cb5a8f532f84e0ac
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1194013549884237178
+    second: Haunter_0
+  - first:
+      213: 68299505235501689
+    second: Haunter_1
+  - first:
+      213: 7299917226896413870
+    second: Haunter_2
+  - first:
+      213: 4390076939728876048
+    second: Haunter_3
+  - first:
+      213: 3818376952437567524
+    second: Haunter_4
+  - first:
+      213: -3644594515065996147
+    second: Haunter_5
+  - first:
+      213: 1746097584389478891
+    second: Haunter_6
+  - first:
+      213: 3931819894734611545
+    second: Haunter_7
+  - first:
+      213: -8346247236631434591
+    second: Haunter_8
+  - first:
+      213: 3654348302555522254
+    second: Haunter_9
+  - first:
+      213: 1757544440597778424
+    second: Haunter_10
+  - first:
+      213: 3527428445149130303
+    second: Haunter_11
+  - first:
+      213: -2282620871920455449
+    second: Haunter_12
+  - first:
+      213: -8170948103995354613
+    second: Haunter_13
+  - first:
+      213: -6008475291855764069
+    second: Haunter_14
+  - first:
+      213: 7255383254199749550
+    second: Haunter_15
+  - first:
+      213: -2400760876703326367
+    second: Haunter_16
+  - first:
+      213: -3269998622339411926
+    second: Haunter_17
+  - first:
+      213: 836974462131801762
+    second: Haunter_18
+  - first:
+      213: 2696550525346707783
+    second: Haunter_19
+  - first:
+      213: -3095626304502309646
+    second: Haunter_20
+  - first:
+      213: 9163699540946185287
+    second: Haunter_21
+  - first:
+      213: 765645634598092535
+    second: Haunter_22
+  - first:
+      213: 1004571144003128605
+    second: Haunter_23
+  - first:
+      213: 415365747740025745
+    second: Haunter_24
+  - first:
+      213: -6481024768692263764
+    second: Haunter_25
+  - first:
+      213: 2284662690871082703
+    second: Haunter_26
+  - first:
+      213: -833525502217361020
+    second: Haunter_27
+  - first:
+      213: 3804591576043649568
+    second: Haunter_28
+  - first:
+      213: -6370496970694447168
+    second: Haunter_29
+  - first:
+      213: -5483276916081908725
+    second: Haunter_30
+  - first:
+      213: -2167119183585925625
+    second: Haunter_31
+  - first:
+      213: 8003352538752813005
+    second: Haunter_32
+  - first:
+      213: 2598493248298517377
+    second: Haunter_33
+  - first:
+      213: 6356952495029822332
+    second: Haunter_34
+  - first:
+      213: -3938586684690725913
+    second: Haunter_35
+  - first:
+      213: 3415922417870498924
+    second: Haunter_36
+  - first:
+      213: -2863930408112620613
+    second: Haunter_37
+  - first:
+      213: -6490414561690314824
+    second: Haunter_38
+  - first:
+      213: -4148087206068825949
+    second: Haunter_39
+  - first:
+      213: -8101918536851363774
+    second: Haunter_40
+  - first:
+      213: 5182369442906065068
+    second: Haunter_41
+  - first:
+      213: -134788771606924550
+    second: Haunter_42
+  - first:
+      213: -3767144071571447775
+    second: Haunter_43
+  - first:
+      213: -1390469992155774270
+    second: Haunter_44
+  - first:
+      213: -6465256067105788583
+    second: Haunter_45
+  - first:
+      213: 8808797244708609699
+    second: Haunter_46
+  - first:
+      213: -65990796580460592
+    second: Haunter_47
+  - first:
+      213: -5444319458805563702
+    second: Haunter_48
+  - first:
+      213: 4235708749517201852
+    second: Haunter_49
+  - first:
+      213: -7454435986876104376
+    second: Haunter_50
+  - first:
+      213: -5955197000688283148
+    second: Haunter_51
+  - first:
+      213: 6759282082112627331
+    second: Haunter_52
+  - first:
+      213: -6828285287429078645
+    second: Haunter_53
+  - first:
+      213: 3152348210999083939
+    second: Haunter_54
+  - first:
+      213: 1931081309286195345
+    second: Haunter_55
+  - first:
+      213: -8060025512673351061
+    second: Haunter_56
+  - first:
+      213: 7949042509591929008
+    second: Haunter_57
+  - first:
+      213: -3926720083867297210
+    second: Haunter_58
+  - first:
+      213: -594832105592990995
+    second: Haunter_59
+  - first:
+      213: 7184245366628812218
+    second: Haunter_60
+  - first:
+      213: -4733992098027177437
+    second: Haunter_61
+  - first:
+      213: 9090787011608615883
+    second: Haunter_62
+  - first:
+      213: 1744922253552560586
+    second: Haunter_63
+  - first:
+      213: -8919496948068836547
+    second: Haunter_64
+  - first:
+      213: -6208528019264350777
+    second: Haunter_65
+  - first:
+      213: 2503287065595440360
+    second: Haunter_66
+  - first:
+      213: 4671693904337456072
+    second: Haunter_67
+  - first:
+      213: 1555222608601408443
+    second: Haunter_68
+  - first:
+      213: 5237026832073969920
+    second: Haunter_69
+  - first:
+      213: 8553409349361324679
+    second: Haunter_70
+  - first:
+      213: 1042292621892725666
+    second: Haunter_71
+  - first:
+      213: -364165273968053802
+    second: Haunter_72
+  - first:
+      213: 2573462282957063112
+    second: Haunter_73
+  - first:
+      213: 7611837973809852549
+    second: Haunter_74
+  - first:
+      213: -5957299237380271488
+    second: Haunter_75
+  - first:
+      213: -4650871209412019819
+    second: Haunter_76
+  - first:
+      213: -1387423387778587949
+    second: Haunter_77
+  - first:
+      213: -9119868397881015187
+    second: Haunter_78
+  - first:
+      213: 7997237386082985348
+    second: Haunter_79
+  - first:
+      213: -5316240069919911274
+    second: Haunter_80
+  - first:
+      213: -1580361906887608946
+    second: Haunter_81
+  - first:
+      213: -85964021435070651
+    second: Haunter_82
+  - first:
+      213: -4831821029814088553
+    second: Haunter_83
+  - first:
+      213: -4220574537160407064
+    second: Haunter_84
+  - first:
+      213: 1684196794779485109
+    second: Haunter_85
+  - first:
+      213: -8714113793385320112
+    second: Haunter_86
+  - first:
+      213: 415852146129739358
+    second: Haunter_87
+  - first:
+      213: -1092403391821482546
+    second: Haunter_88
+  - first:
+      213: 5580891428422268364
+    second: Haunter_89
+  - first:
+      213: -7730714152396016316
+    second: Haunter_90
+  - first:
+      213: -1797379351122239145
+    second: Haunter_91
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Haunter_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 608
+        width: 61
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a9526a0030e6fe0800000000000000
+      internalID: -1194013549884237178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_1
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 607
+        width: 61
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972a5e3c906a2f000800000000000000
+      internalID: 68299505235501689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_2
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 604
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea45aee8a048e4560800000000000000
+      internalID: 7299917226896413870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_3
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 602
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0127c2197bfacec30800000000000000
+      internalID: 4390076939728876048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_4
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 597
+        width: 70
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420749c8b999df430800000000000000
+      internalID: 3818376952437567524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_5
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 595
+        width: 70
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c7723399ccb6dc0800000000000000
+      internalID: -3644594515065996147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_6
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 596
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9d3b470826b3810800000000000000
+      internalID: 1746097584389478891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_7
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 609
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9546872dc51a09630800000000000000
+      internalID: 3931819894734611545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_8
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 595
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa6ffccb5c2c2c80800000000000000
+      internalID: -8346247236631434591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_9
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 608
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4af5b6b6ad6b230800000000000000
+      internalID: 3654348302555522254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_10
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 594
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff0bca5b5d046810800000000000000
+      internalID: 1757544440597778424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_11
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 608
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ee8b35b71f3f030800000000000000
+      internalID: 3527428445149130303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_12
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 491
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0f94c29608250e0800000000000000
+      internalID: -2282620871920455449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_13
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 505
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02943fadf5fa9e80800000000000000
+      internalID: -8170948103995354613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_14
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 494
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95c93b6e8b9d9ca0800000000000000
+      internalID: -6008475291855764069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_15
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 492
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabc4e701ac40b460800000000000000
+      internalID: 7255383254199749550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_16
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 490
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f5171d3b8ceaed0800000000000000
+      internalID: -2400760876703326367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_17
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 488
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2051730491ae92d0800000000000000
+      internalID: -3269998622339411926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_18
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 485
+        width: 68
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae807db6d78d9b00800000000000000
+      internalID: 836974462131801762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_19
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 487
+        width: 68
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749fe267a621c6520800000000000000
+      internalID: 2696550525346707783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_20
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 491
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fcd8c207402a05d0800000000000000
+      internalID: -3095626304502309646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_21
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 493
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ce18e5e200c2f70800000000000000
+      internalID: 9163699540946185287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_22
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 393
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe3c0ae5ae10aa00800000000000000
+      internalID: 765645634598092535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_23
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 394
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d0aed0224f0fd00800000000000000
+      internalID: 1004571144003128605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_24
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 398
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193a8e562fca3c500800000000000000
+      internalID: 415365747740025745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_25
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 400
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4e6919f46ce06a0800000000000000
+      internalID: -6481024768692263764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_26
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 402
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce75f8dc90c4bf10800000000000000
+      internalID: 2284662690871082703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_27
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 403
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489ea11d8f8be64f0800000000000000
+      internalID: -833525502217361020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_28
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 407
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a768d71ef9cc430800000000000000
+      internalID: 3804591576043649568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_29
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 404
+        width: 61
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf2e0be1c27797a0800000000000000
+      internalID: -6370496970694447168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_30
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 339
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04a6db42bc77e3b0800000000000000
+      internalID: -5483276916081908725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_31
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 339
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7062d6c9598dce1e0800000000000000
+      internalID: -2167119183585925625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_32
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 339
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7059cfabe911f60800000000000000
+      internalID: 8003352538752813005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_33
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 339
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183851887d3bf0420800000000000000
+      internalID: 2598493248298517377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_34
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 339
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7329481d9e683850800000000000000
+      internalID: 6356952495029822332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_35
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 339
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e30ded17445759c0800000000000000
+      internalID: -3938586684690725913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_36
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 339
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ce679375bc76f20800000000000000
+      internalID: 3415922417870498924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_37
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 339
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbbf103b7764148d0800000000000000
+      internalID: -2863930408112620613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_38
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 339
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b71d65085a6de5a0800000000000000
+      internalID: -6490414561690314824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_39
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 339
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0dce0e9a80f66c0800000000000000
+      internalID: -4148087206068825949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_40
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 339
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24862db3404309f80800000000000000
+      internalID: -8101918536851363774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_41
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 339
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8414b0d897be740800000000000000
+      internalID: 5182369442906065068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_42
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 339
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af278ac8352212ef0800000000000000
+      internalID: -134788771606924550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_43
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 339
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120e3441d6a68bbc0800000000000000
+      internalID: -3767144071571447775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_44
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 339
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c207beb8ee04bce0800000000000000
+      internalID: -1390469992155774270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_45
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 339
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d68328cdbc646a0800000000000000
+      internalID: -6465256067105788583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_46
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 339
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aedb4d4c622f3a70800000000000000
+      internalID: 8808797244708609699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_47
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 339
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7606b58bd851ff0800000000000000
+      internalID: -65990796580460592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_48
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 339
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aceb5262c44e174b0800000000000000
+      internalID: -5444319458805563702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_49
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 339
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1acfa7aa248ca30800000000000000
+      internalID: 4235708749517201852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_50
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 339
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8418c5917f58c8890800000000000000
+      internalID: -7454435986876104376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_51
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 339
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1d08e31e3ea5da0800000000000000
+      internalID: -5955197000688283148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_52
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 339
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3826cf0dd3bcdcd50800000000000000
+      internalID: 6759282082112627331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_53
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 339
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8183c975be0d31a0800000000000000
+      internalID: -6828285287429078645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_54
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 339
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a340fcfef36fbb20800000000000000
+      internalID: 3152348210999083939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_55
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 339
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190666038349cca10800000000000000
+      internalID: 1931081309286195345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_56
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 339
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ae4840089052090800000000000000
+      internalID: -8060025512673351061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_57
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 339
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0e4b0fb0ca05e60800000000000000
+      internalID: 7949042509591929008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_58
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 339
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a92bc63ec7189c0800000000000000
+      internalID: -3926720083867297210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_59
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 339
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2d12df95bbeb7f0800000000000000
+      internalID: -594832105592990995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_60
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 339
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab50821e81193b360800000000000000
+      internalID: 7184245366628812218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_61
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 339
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a7593c44b7d4eb0800000000000000
+      internalID: -4733992098027177437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_62
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 339
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb9aab3f96f82e70800000000000000
+      internalID: 9090787011608615883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_63
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 339
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9acab6b85373810800000000000000
+      internalID: 1744922253552560586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_64
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 233
+        width: 65
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b1d2388c4973480800000000000000
+      internalID: -8919496948068836547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_65
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 232
+        width: 65
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c550b129a0e6d9a0800000000000000
+      internalID: -6208528019264350777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_66
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 230
+        width: 69
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec65abb2567db220800000000000000
+      internalID: 2503287065595440360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_67
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 228
+        width: 69
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb4463bad035d040800000000000000
+      internalID: 4671693904337456072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_68
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 225
+        width: 77
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3e75cf8b2459510800000000000000
+      internalID: 1555222608601408443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_69
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 222
+        width: 69
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00155f42828ada840800000000000000
+      internalID: 5237026832073969920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_70
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 220
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782df2f3c70d3b670800000000000000
+      internalID: 8553409349361324679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_71
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 219
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab2de70e97f67e00800000000000000
+      internalID: 1042292621892725666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_72
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 122
+        width: 57
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1f99ddc9932faf0800000000000000
+      internalID: -364165273968053802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_73
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 114
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c38582cf46c6b320800000000000000
+      internalID: 2573462282957063112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_74
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 120
+        width: 57
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580f3c4de4ea2a960800000000000000
+      internalID: 7611837973809852549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_75
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 112
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0825e3f18eb635da0800000000000000
+      internalID: -5957299237380271488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_76
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 110
+        width: 76
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599b7e2c649c47fb0800000000000000
+      internalID: -4650871209412019819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_77
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 108
+        width: 76
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2636a97c1eebce0800000000000000
+      internalID: -1387423387778587949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_78
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 113
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64cdf1e208bf6180800000000000000
+      internalID: -9119868397881015187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_79
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 105
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48523fd0805ebfe60800000000000000
+      internalID: 7997237386082985348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_80
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 115
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692d9b3b2dbe836b0800000000000000
+      internalID: -5316240069919911274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_81
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 107
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85b763083d611ae0800000000000000
+      internalID: -1580361906887608946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_82
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 111
+        width: 76
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54706ee8d289ecef0800000000000000
+      internalID: -85964021435070651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_83
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 113
+        width: 76
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c4bab9f5ce1fcb0800000000000000
+      internalID: -4831821029814088553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_84
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 10
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7ce7ce1d18d65c0800000000000000
+      internalID: -4220574537160407064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_85
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 11
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3cea4cf087f5710800000000000000
+      internalID: 1684196794779485109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_86
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 15
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051bfec9caf311780800000000000000
+      internalID: -8714113793385320112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_87
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 17
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e9529d25765c500800000000000000
+      internalID: 415852146129739358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_88
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 19
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec57c0727e007d0f0800000000000000
+      internalID: -1092403391821482546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_89
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 20
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5b1217f2f437d40800000000000000
+      internalID: 5580891428422268364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_90
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 23
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445b95eff6cf6b490800000000000000
+      internalID: -7730714152396016316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haunter_91
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 25
+        width: 65
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751acb9c00d6e07e0800000000000000
+      internalID: -1797379351122239145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

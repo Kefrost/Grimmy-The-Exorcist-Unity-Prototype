@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fd73012ff2053040a6fe22559110819, type: 3}
+  m_Name: Generic ghost 2.0
+  m_EditorClassIdentifier: 
+  monsterName: Generic ghost 2.0
+  description: "Gengar is a dark purple, bipedal Pok\xE9mon with a roundish body.
+    It has red eyes, a wide mouth that is usually curled into a sinister grin, and
+    pointed ears. On its back are numerous spikes and it has smaller spikes on top
+    of its head similar to tufty fur. Its arms and legs are short with three digits
+    on both its hands and feet. It also has a stubby tail."
+  frontSprite: {fileID: 379090395128419381, guid: 6d67b5158e626e5448a0ceacb57b8034,
+    type: 3}
+  backSprite: {fileID: 6954887395051734029, guid: 6d67b5158e626e5448a0ceacb57b8034,
+    type: 3}
+  firstType: 14
+  secondType: 8
+  maxHp: 60
+  attack: 65
+  defense: 60
+  spAttack: 130
+  spDefense: 75
+  speed: 110
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 053122082475d7842a7c8f276c78d83a, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 4fa86d6f10fdd4548935be4baac3b55b, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: e43519cfa76b87f4b95bed42d26c1c25, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: f80d348e72993ea4bbfd1d87888d4979, type: 2}
+    level: 36
+  - moveBase: {fileID: 11400000, guid: ddec2c4873837fe4eb8e8846ec345cec, type: 2}
+    level: 48
+  - moveBase: {fileID: 11400000, guid: 589ebb5e38ffebb48ac557b16b7ca967, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 21385dc252a5a304c8f0583d8681fb05, type: 2}
+    level: 42

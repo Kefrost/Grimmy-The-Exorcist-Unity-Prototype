@@ -1,0 +1,2852 @@
+fileFormatVersion: 2
+guid: b31c9d3687543c54eba859e86417d681
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1774650323563330436
+    second: Cacturne_0
+  - first:
+      213: -7096633550175631830
+    second: Cacturne_1
+  - first:
+      213: -1790366250640725709
+    second: Cacturne_2
+  - first:
+      213: -2563193589494107491
+    second: Cacturne_3
+  - first:
+      213: 6310023514141451267
+    second: Cacturne_4
+  - first:
+      213: -3575374889808163866
+    second: Cacturne_5
+  - first:
+      213: 934051362367097279
+    second: Cacturne_6
+  - first:
+      213: -7451122515959561184
+    second: Cacturne_7
+  - first:
+      213: -6905500146931806695
+    second: Cacturne_8
+  - first:
+      213: -452850361389182963
+    second: Cacturne_9
+  - first:
+      213: 4544174866091813224
+    second: Cacturne_10
+  - first:
+      213: 5080956737996073905
+    second: Cacturne_11
+  - first:
+      213: -7167949320230487303
+    second: Cacturne_12
+  - first:
+      213: 8014419522013554939
+    second: Cacturne_13
+  - first:
+      213: 7781814718274220657
+    second: Cacturne_14
+  - first:
+      213: 527724388585506072
+    second: Cacturne_15
+  - first:
+      213: -5934226135083802927
+    second: Cacturne_16
+  - first:
+      213: 6942248457164006782
+    second: Cacturne_17
+  - first:
+      213: 4841225797149615727
+    second: Cacturne_18
+  - first:
+      213: -6012438370845662292
+    second: Cacturne_19
+  - first:
+      213: 1664362560962588647
+    second: Cacturne_20
+  - first:
+      213: -5986817556811453842
+    second: Cacturne_21
+  - first:
+      213: 3130513645499746534
+    second: Cacturne_22
+  - first:
+      213: 3416969628414952121
+    second: Cacturne_23
+  - first:
+      213: 8568422945196261429
+    second: Cacturne_24
+  - first:
+      213: 5576243130797681858
+    second: Cacturne_25
+  - first:
+      213: -7277088165188489896
+    second: Cacturne_26
+  - first:
+      213: 2914738514031908694
+    second: Cacturne_27
+  - first:
+      213: -1455477283011882050
+    second: Cacturne_28
+  - first:
+      213: 5918135165876628239
+    second: Cacturne_29
+  - first:
+      213: 8605323385135777091
+    second: Cacturne_30
+  - first:
+      213: 214970160670572249
+    second: Cacturne_31
+  - first:
+      213: -6921126956854344948
+    second: Cacturne_32
+  - first:
+      213: -4910353439586146230
+    second: Cacturne_33
+  - first:
+      213: 5733762033872985233
+    second: Cacturne_34
+  - first:
+      213: 2322273486492370317
+    second: Cacturne_35
+  - first:
+      213: 1682210055842556443
+    second: Cacturne_36
+  - first:
+      213: 6520993369463542900
+    second: Cacturne_37
+  - first:
+      213: -1498777120479225059
+    second: Cacturne_38
+  - first:
+      213: -9008514099992573591
+    second: Cacturne_39
+  - first:
+      213: 7062006943830085992
+    second: Cacturne_40
+  - first:
+      213: -3052841390659983096
+    second: Cacturne_41
+  - first:
+      213: 710290617851373867
+    second: Cacturne_42
+  - first:
+      213: 7215148399256264673
+    second: Cacturne_43
+  - first:
+      213: -2189831375623365170
+    second: Cacturne_44
+  - first:
+      213: -6468906329404148659
+    second: Cacturne_45
+  - first:
+      213: -4893726344037204440
+    second: Cacturne_46
+  - first:
+      213: 8914769278760753092
+    second: Cacturne_47
+  - first:
+      213: -7938883293831959807
+    second: Cacturne_48
+  - first:
+      213: 1088658660927619578
+    second: Cacturne_49
+  - first:
+      213: 4021340950484081296
+    second: Cacturne_50
+  - first:
+      213: 8465408085491290696
+    second: Cacturne_51
+  - first:
+      213: 2181431305772338339
+    second: Cacturne_52
+  - first:
+      213: 4987745575514670579
+    second: Cacturne_53
+  - first:
+      213: 2741768312060731981
+    second: Cacturne_54
+  - first:
+      213: 522221963985340755
+    second: Cacturne_55
+  - first:
+      213: 8677577336585666767
+    second: Cacturne_56
+  - first:
+      213: 7343963352668464249
+    second: Cacturne_57
+  - first:
+      213: 1259870453003839620
+    second: Cacturne_58
+  - first:
+      213: -241098802614717139
+    second: Cacturne_59
+  - first:
+      213: -4854710232283227934
+    second: Cacturne_60
+  - first:
+      213: -6402013589968022587
+    second: Cacturne_61
+  - first:
+      213: 2344396958807654762
+    second: Cacturne_62
+  - first:
+      213: -1782347563117977111
+    second: Cacturne_63
+  - first:
+      213: 8426522782908649182
+    second: Cacturne_64
+  - first:
+      213: -8955310292221105941
+    second: Cacturne_65
+  - first:
+      213: 411500317531438063
+    second: Cacturne_66
+  - first:
+      213: 122700363879691683
+    second: Cacturne_67
+  - first:
+      213: 4400683409721513399
+    second: Cacturne_68
+  - first:
+      213: -1227854102561752679
+    second: Cacturne_69
+  - first:
+      213: 2588718524076421796
+    second: Cacturne_70
+  - first:
+      213: 7330990272020392946
+    second: Cacturne_71
+  - first:
+      213: -6154364087176285501
+    second: Cacturne_72
+  - first:
+      213: -6466357735032959223
+    second: Cacturne_73
+  - first:
+      213: -7282006029752970440
+    second: Cacturne_74
+  - first:
+      213: -4981567663688043301
+    second: Cacturne_75
+  - first:
+      213: -9162082250456630977
+    second: Cacturne_76
+  - first:
+      213: -1389737570089351957
+    second: Cacturne_77
+  - first:
+      213: -533214955860780611
+    second: Cacturne_78
+  - first:
+      213: -5405061594557329478
+    second: Cacturne_79
+  - first:
+      213: -6624925010361775387
+    second: Cacturne_80
+  - first:
+      213: 5007543432516037655
+    second: Cacturne_81
+  - first:
+      213: 4405924657523550252
+    second: Cacturne_82
+  - first:
+      213: -3519271047494918695
+    second: Cacturne_83
+  - first:
+      213: -1805770637069493537
+    second: Cacturne_84
+  - first:
+      213: -1031684893591762018
+    second: Cacturne_85
+  - first:
+      213: 4901273073880344394
+    second: Cacturne_86
+  - first:
+      213: 1108874567064313675
+    second: Cacturne_87
+  - first:
+      213: -543060278068207815
+    second: Cacturne_88
+  - first:
+      213: 3350240825190680350
+    second: Cacturne_89
+  - first:
+      213: 6004807960798173164
+    second: Cacturne_90
+  - first:
+      213: -2284808743349512806
+    second: Cacturne_91
+  - first:
+      213: 7791128190238527013
+    second: Cacturne_92
+  - first:
+      213: 8909207304666817176
+    second: Cacturne_93
+  - first:
+      213: 4059386888235370684
+    second: Cacturne_94
+  - first:
+      213: 4517700706699938874
+    second: Cacturne_95
+  - first:
+      213: 3617866222388862557
+    second: Cacturne_96
+  - first:
+      213: -3124575637828426855
+    second: Cacturne_97
+  - first:
+      213: 5179027153695738763
+    second: Cacturne_98
+  - first:
+      213: -669212926459736445
+    second: Cacturne_99
+  - first:
+      213: 5099711182844592699
+    second: Cacturne_100
+  - first:
+      213: -3831023448522913432
+    second: Cacturne_101
+  - first:
+      213: 7740716561222056974
+    second: Cacturne_102
+  - first:
+      213: -420838167259949172
+    second: Cacturne_103
+  - first:
+      213: -7117057606482848239
+    second: Cacturne_104
+  - first:
+      213: -4306070023256067654
+    second: Cacturne_105
+  - first:
+      213: 8932668630964728663
+    second: Cacturne_106
+  - first:
+      213: -2819405937767328333
+    second: Cacturne_107
+  - first:
+      213: 5868735638999268685
+    second: Cacturne_108
+  - first:
+      213: -5018936668821942735
+    second: Cacturne_109
+  - first:
+      213: -8695370825299466285
+    second: Cacturne_110
+  - first:
+      213: -8671568527185313338
+    second: Cacturne_111
+  - first:
+      213: -718417201629194904
+    second: Cacturne_112
+  - first:
+      213: 623362276610204936
+    second: Cacturne_113
+  - first:
+      213: 3953117987854258490
+    second: Cacturne_114
+  - first:
+      213: 3272175284267984750
+    second: Cacturne_115
+  - first:
+      213: 8165454734721262325
+    second: Cacturne_116
+  - first:
+      213: 1714620671743945199
+    second: Cacturne_117
+  - first:
+      213: -7921256416718847219
+    second: Cacturne_118
+  - first:
+      213: 5372279692030595571
+    second: Cacturne_119
+  - first:
+      213: 5470440450382502159
+    second: Cacturne_120
+  - first:
+      213: -7551878025830365403
+    second: Cacturne_121
+  - first:
+      213: 8351212146572544803
+    second: Cacturne_122
+  - first:
+      213: 2101221058430883082
+    second: Cacturne_123
+  - first:
+      213: -3088715129443235860
+    second: Cacturne_124
+  - first:
+      213: -4063345437529454129
+    second: Cacturne_125
+  - first:
+      213: -5833809614919401243
+    second: Cacturne_126
+  - first:
+      213: 7713282444656808144
+    second: Cacturne_127
+  - first:
+      213: 2908011455269627225
+    second: Cacturne_128
+  - first:
+      213: 4102009650037049597
+    second: Cacturne_129
+  - first:
+      213: 7165830129712681510
+    second: Cacturne_130
+  - first:
+      213: -4184592562505679335
+    second: Cacturne_131
+  - first:
+      213: 5846267208638327765
+    second: Cacturne_132
+  - first:
+      213: -8882551975843547002
+    second: Cacturne_133
+  - first:
+      213: 2899956320568775003
+    second: Cacturne_134
+  - first:
+      213: 1044521188726504029
+    second: Cacturne_135
+  - first:
+      213: 229900926658046345
+    second: Cacturne_136
+  - first:
+      213: 3794873209455569779
+    second: Cacturne_137
+  - first:
+      213: -8751136774618354176
+    second: Cacturne_138
+  - first:
+      213: -4052953688350442578
+    second: Cacturne_139
+  - first:
+      213: 5156295690069854838
+    second: Cacturne_140
+  - first:
+      213: 6613243163954366363
+    second: Cacturne_141
+  - first:
+      213: -8085182584044450876
+    second: Cacturne_142
+  - first:
+      213: -6790538097322633810
+    second: Cacturne_143
+  - first:
+      213: -1745154547383671353
+    second: Cacturne_144
+  - first:
+      213: 4678300290379946243
+    second: Cacturne_145
+  - first:
+      213: -1869714824588173268
+    second: Cacturne_146
+  - first:
+      213: 198670957393355957
+    second: Cacturne_147
+  - first:
+      213: -326608111023597436
+    second: Cacturne_148
+  - first:
+      213: 1453444974145543307
+    second: Cacturne_149
+  - first:
+      213: -3291829295315736121
+    second: Cacturne_150
+  - first:
+      213: -6091775395177754910
+    second: Cacturne_151
+  - first:
+      213: -4241206631585852138
+    second: Cacturne_152
+  - first:
+      213: 2271408261372045028
+    second: Cacturne_153
+  - first:
+      213: 3046175264066818900
+    second: Cacturne_154
+  - first:
+      213: -6441855292466040752
+    second: Cacturne_155
+  - first:
+      213: 256524665267289229
+    second: Cacturne_156
+  - first:
+      213: -680371862657335918
+    second: Cacturne_157
+  - first:
+      213: -8133996785306416367
+    second: Cacturne_158
+  - first:
+      213: -1959258223235430786
+    second: Cacturne_159
+  - first:
+      213: -4772468759722680046
+    second: Cacturne_160
+  - first:
+      213: -3553228819448620287
+    second: Cacturne_161
+  - first:
+      213: 2097883058516826051
+    second: Cacturne_162
+  - first:
+      213: 6554022083401748756
+    second: Cacturne_163
+  - first:
+      213: -4753669777857641607
+    second: Cacturne_0
+  - first:
+      213: -6180688057833303101
+    second: Cacturne_1
+  - first:
+      213: 5757280760830975941
+    second: Cacturne_2
+  - first:
+      213: -8325850595468354454
+    second: Cacturne_3
+  - first:
+      213: -8653601449170630710
+    second: Cacturne_4
+  - first:
+      213: -164712741904782714
+    second: Cacturne_5
+  - first:
+      213: -6988721270062952410
+    second: Cacturne_6
+  - first:
+      213: -5502103266170890907
+    second: Cacturne_7
+  - first:
+      213: -5720449497042813909
+    second: Cacturne_8
+  - first:
+      213: -2782961337930920548
+    second: Cacturne_9
+  - first:
+      213: -3395736030530048175
+    second: Cacturne_10
+  - first:
+      213: 2728593867765768267
+    second: Cacturne_11
+  - first:
+      213: 5861255313277366914
+    second: Cacturne_12
+  - first:
+      213: -3250978099703196286
+    second: Cacturne_13
+  - first:
+      213: -1838775804083718010
+    second: Cacturne_14
+  - first:
+      213: -164392588995619382
+    second: Cacturne_15
+  - first:
+      213: 6510596397288569497
+    second: Cacturne_16
+  - first:
+      213: -2026607277509221545
+    second: Cacturne_17
+  - first:
+      213: 603550310986867138
+    second: Cacturne_18
+  - first:
+      213: 1009917053191483319
+    second: Cacturne_19
+  - first:
+      213: 505966449106904014
+    second: Cacturne_20
+  - first:
+      213: -4192033693267657218
+    second: Cacturne_21
+  - first:
+      213: -3861149300699949930
+    second: Cacturne_22
+  - first:
+      213: -2197451696825751550
+    second: Cacturne_23
+  - first:
+      213: -3586313271753125787
+    second: Cacturne_24
+  - first:
+      213: -7768201492655561198
+    second: Cacturne_25
+  - first:
+      213: -7214138897098197463
+    second: Cacturne_26
+  - first:
+      213: 6977782598778129446
+    second: Cacturne_27
+  - first:
+      213: -7101627449461381299
+    second: Cacturne_28
+  - first:
+      213: 299944877208325322
+    second: Cacturne_29
+  - first:
+      213: -7436481741625915589
+    second: Cacturne_30
+  - first:
+      213: -5886875596407819417
+    second: Cacturne_31
+  - first:
+      213: 5702412548395061174
+    second: Cacturne_32
+  - first:
+      213: -3254623854679345558
+    second: Cacturne_33
+  - first:
+      213: -4518973226941257286
+    second: Cacturne_34
+  - first:
+      213: 7734347398944259654
+    second: Cacturne_35
+  - first:
+      213: -6620736515907770127
+    second: Cacturne_36
+  - first:
+      213: 9011973091717519365
+    second: Cacturne_37
+  - first:
+      213: 2197337555189924232
+    second: Cacturne_38
+  - first:
+      213: -6592659356362670444
+    second: Cacturne_39
+  - first:
+      213: -7582043718938137600
+    second: Cacturne_40
+  - first:
+      213: 6779089760486832981
+    second: Cacturne_41
+  - first:
+      213: -6984573314601024721
+    second: Cacturne_42
+  - first:
+      213: 4639602147209309951
+    second: Cacturne_43
+  - first:
+      213: -7234865173957656380
+    second: Cacturne_44
+  - first:
+      213: 7734041286741786845
+    second: Cacturne_45
+  - first:
+      213: 6587618038243634366
+    second: Cacturne_46
+  - first:
+      213: 7947616628161007923
+    second: Cacturne_47
+  - first:
+      213: 9185278494098308300
+    second: Cacturne_48
+  - first:
+      213: 4289224954945672661
+    second: Cacturne_49
+  - first:
+      213: 658831664848118829
+    second: Cacturne_50
+  - first:
+      213: -5638735140372077481
+    second: Cacturne_51
+  - first:
+      213: -1118957992821991608
+    second: Cacturne_52
+  - first:
+      213: -4899484974810562221
+    second: Cacturne_53
+  - first:
+      213: -2528591519909684411
+    second: Cacturne_54
+  - first:
+      213: 6958477307937937633
+    second: Cacturne_55
+  - first:
+      213: -5357064745430442310
+    second: Cacturne_56
+  - first:
+      213: -2523543504756739477
+    second: Cacturne_57
+  - first:
+      213: 7937302505650040037
+    second: Cacturne_58
+  - first:
+      213: -6174822906055687778
+    second: Cacturne_59
+  - first:
+      213: -2535295006204276876
+    second: Cacturne_60
+  - first:
+      213: 1507710035424793761
+    second: Cacturne_61
+  - first:
+      213: -3601886797042536437
+    second: Cacturne_62
+  - first:
+      213: 1607769264101292965
+    second: Cacturne_63
+  - first:
+      213: 8865032269395090933
+    second: Cacturne_64
+  - first:
+      213: 498013450866821062
+    second: Cacturne_65
+  - first:
+      213: 5295011601741260584
+    second: Cacturne_66
+  - first:
+      213: 7471725469522619185
+    second: Cacturne_67
+  - first:
+      213: 7287380805113951817
+    second: Cacturne_68
+  - first:
+      213: -5167002640714060098
+    second: Cacturne_69
+  - first:
+      213: -9042189714685898790
+    second: Cacturne_70
+  - first:
+      213: 4155290720150694682
+    second: Cacturne_71
+  - first:
+      213: 3286787920719266131
+    second: Cacturne_72
+  - first:
+      213: -6187111499956544946
+    second: Cacturne_73
+  - first:
+      213: 5624624799267209492
+    second: Cacturne_74
+  - first:
+      213: -816343705876415549
+    second: Cacturne_75
+  - first:
+      213: 6261438517133624666
+    second: Cacturne_76
+  - first:
+      213: -3568620331076031156
+    second: Cacturne_77
+  - first:
+      213: -508184758609212951
+    second: Cacturne_78
+  - first:
+      213: -3902376507122540717
+    second: Cacturne_79
+  - first:
+      213: 3472223467293979686
+    second: Cacturne_80
+  - first:
+      213: -5359778782226059500
+    second: Cacturne_81
+  - first:
+      213: 2541930738242912945
+    second: Cacturne_82
+  - first:
+      213: -2552976661432478760
+    second: Cacturne_83
+  - first:
+      213: -2142835072738521734
+    second: Cacturne_84
+  - first:
+      213: 1894676486610993994
+    second: Cacturne_85
+  - first:
+      213: -8570159010083417885
+    second: Cacturne_86
+  - first:
+      213: -8442859785674348526
+    second: Cacturne_87
+  - first:
+      213: -3423031308718159493
+    second: Cacturne_88
+  - first:
+      213: -4142701323616264091
+    second: Cacturne_89
+  - first:
+      213: 4900684602446097798
+    second: Cacturne_90
+  - first:
+      213: 4612408116062805735
+    second: Cacturne_91
+  - first:
+      213: 5380575728539131988
+    second: Cacturne_92
+  - first:
+      213: -4052821627218440696
+    second: Cacturne_93
+  - first:
+      213: 7910486250094279326
+    second: Cacturne_94
+  - first:
+      213: 1956240800709216833
+    second: Cacturne_95
+  - first:
+      213: 483592895272122523
+    second: Cacturne_96
+  - first:
+      213: 4431966003332372874
+    second: Cacturne_97
+  - first:
+      213: 8597119088417769147
+    second: Cacturne_98
+  - first:
+      213: -394698662968202307
+    second: Cacturne_99
+  - first:
+      213: -6013702312406215177
+    second: Cacturne_100
+  - first:
+      213: -3983469299757083040
+    second: Cacturne_101
+  - first:
+      213: 3117802696650362233
+    second: Cacturne_102
+  - first:
+      213: 8055243832653070214
+    second: Cacturne_103
+  - first:
+      213: 4422535273168817803
+    second: Cacturne_104
+  - first:
+      213: 9173152530364556512
+    second: Cacturne_105
+  - first:
+      213: -1807638200231127303
+    second: Cacturne_106
+  - first:
+      213: -6799416993917286349
+    second: Cacturne_107
+  - first:
+      213: 3686803465447114858
+    second: Cacturne_108
+  - first:
+      213: 3547271923587572992
+    second: Cacturne_109
+  - first:
+      213: 3643010662032245701
+    second: Cacturne_110
+  - first:
+      213: 7562756967184840582
+    second: Cacturne_111
+  - first:
+      213: -8545660699731299354
+    second: Cacturne_112
+  - first:
+      213: -8230508995211363272
+    second: Cacturne_113
+  - first:
+      213: -3616586674193793572
+    second: Cacturne_114
+  - first:
+      213: -6381901110273006306
+    second: Cacturne_115
+  - first:
+      213: -1399896418397347057
+    second: Cacturne_116
+  - first:
+      213: -4336287422340400941
+    second: Cacturne_117
+  - first:
+      213: 4152266703448571316
+    second: Cacturne_118
+  - first:
+      213: 25691874962848623
+    second: Cacturne_119
+  - first:
+      213: -7609773313120016842
+    second: Cacturne_120
+  - first:
+      213: -2354989058520198799
+    second: Cacturne_121
+  - first:
+      213: 3164845757241125637
+    second: Cacturne_122
+  - first:
+      213: -3084557008966189895
+    second: Cacturne_123
+  - first:
+      213: 7724830144403819310
+    second: Cacturne_124
+  - first:
+      213: 1802949834693999751
+    second: Cacturne_125
+  - first:
+      213: -4497712648990098817
+    second: Cacturne_126
+  - first:
+      213: -6991207904888949654
+    second: Cacturne_127
+  - first:
+      213: 8069286954644665681
+    second: Cacturne_128
+  - first:
+      213: -2367760314756694534
+    second: Cacturne_129
+  - first:
+      213: 4046475005408464663
+    second: Cacturne_130
+  - first:
+      213: 7643069028610542846
+    second: Cacturne_131
+  - first:
+      213: -4561489103135562064
+    second: Cacturne_132
+  - first:
+      213: -7086951296541691275
+    second: Cacturne_133
+  - first:
+      213: -1350643014029907699
+    second: Cacturne_134
+  - first:
+      213: 3447285969947267822
+    second: Cacturne_135
+  - first:
+      213: -4656085725829726482
+    second: Cacturne_136
+  - first:
+      213: 7500438363228405943
+    second: Cacturne_137
+  - first:
+      213: -6021668096277407249
+    second: Cacturne_138
+  - first:
+      213: -3844887701720885586
+    second: Cacturne_139
+  - first:
+      213: -8295913487978882847
+    second: Cacturne_140
+  - first:
+      213: 2232919383359638352
+    second: Cacturne_141
+  - first:
+      213: 2240322731429710432
+    second: Cacturne_142
+  - first:
+      213: -4986830904580803615
+    second: Cacturne_143
+  - first:
+      213: 8041782905956772419
+    second: Cacturne_144
+  - first:
+      213: 7644790383293807412
+    second: Cacturne_145
+  - first:
+      213: -1866982137640649825
+    second: Cacturne_146
+  - first:
+      213: 7570528922958408747
+    second: Cacturne_147
+  - first:
+      213: -2111720423193741954
+    second: Cacturne_148
+  - first:
+      213: -2849330541448060685
+    second: Cacturne_149
+  - first:
+      213: -2543641474604031933
+    second: Cacturne_150
+  - first:
+      213: 220006035656871906
+    second: Cacturne_151
+  - first:
+      213: 8454784111829460706
+    second: Cacturne_152
+  - first:
+      213: 2164034061659557572
+    second: Cacturne_153
+  - first:
+      213: -261532896024487091
+    second: Cacturne_154
+  - first:
+      213: -2869060963233776399
+    second: Cacturne_155
+  - first:
+      213: -6450691785348014975
+    second: Cacturne_156
+  - first:
+      213: -6364460043647468254
+    second: Cacturne_157
+  - first:
+      213: 7493547410597995095
+    second: Cacturne_158
+  - first:
+      213: -8427108252608809169
+    second: Cacturne_159
+  - first:
+      213: -5987244662071675143
+    second: Cacturne_160
+  - first:
+      213: -8778214817194724402
+    second: Cacturne_161
+  - first:
+      213: 4417238682600643486
+    second: Cacturne_162
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cacturne_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 955
+        width: 63
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9730947e582970eb0800000000000000
+      internalID: -4753669777857641607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 955
+        width: 63
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3d85545f8c93aa0800000000000000
+      internalID: -6180688057833303101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 955
+        width: 63
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf558d3958f5ef40800000000000000
+      internalID: 5757280760830975941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_3
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 955
+        width: 63
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c5224eef2a47c80800000000000000
+      internalID: -8325850595468354454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_4
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 955
+        width: 63
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7016aa45b38e780800000000000000
+      internalID: -8653601449170630710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_5
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 955
+        width: 63
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ae8c842a2d6bdf0800000000000000
+      internalID: -164712741904782714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_17
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 991
+        width: 7
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75367d42b6b00e3e0800000000000000
+      internalID: -2026607277509221545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_28
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 972
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47e0b3f573f17d90800000000000000
+      internalID: -7101627449461381299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_45
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 875
+        width: 62
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd00376d295d45b60800000000000000
+      internalID: 7734041286741786845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_46
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 875
+        width: 63
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebca77df3bbeb6b50800000000000000
+      internalID: 6587618038243634366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_47
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 875
+        width: 63
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331568c073b9b4e60800000000000000
+      internalID: 7947616628161007923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_48
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 875
+        width: 63
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccb3cbef1aa87f70800000000000000
+      internalID: 9185278494098308300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_49
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 875
+        width: 63
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d517490f53668b30800000000000000
+      internalID: 4289224954945672661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_50
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 875
+        width: 63
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d242d0698e3a42900800000000000000
+      internalID: 658831664848118829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_94
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 796
+        width: 63
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a3b793551b7cd60800000000000000
+      internalID: 7910486250094279326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_95
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 796
+        width: 63
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a0665c4a6f52b10800000000000000
+      internalID: 1956240800709216833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_96
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 796
+        width: 63
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98f8921d2116b600800000000000000
+      internalID: 483592895272122523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_97
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 796
+        width: 64
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89db353991818d30800000000000000
+      internalID: 4431966003332372874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_98
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 796
+        width: 63
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb60fdce24a1f4770800000000000000
+      internalID: 8597119088417769147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_99
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 796
+        width: 63
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb657048afb58af0800000000000000
+      internalID: -394698662968202307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_100
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 718
+        width: 63
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5151cdb990b8ca0800000000000000
+      internalID: -6013702312406215177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_101
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 718
+        width: 63
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0661e46f6cfd7b8c0800000000000000
+      internalID: -3983469299757083040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_102
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 718
+        width: 63
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d8995a809a44b20800000000000000
+      internalID: 3117802696650362233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_103
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 718
+        width: 64
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f31785699f9cf60800000000000000
+      internalID: 8055243832653070214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_104
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 718
+        width: 63
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8eccdb3660006d30800000000000000
+      internalID: 4422535273168817803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_105
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 732
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4eadaff959d4f70800000000000000
+      internalID: 9173152530364556512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_106
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 618
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f61cc852aaf9e6e0800000000000000
+      internalID: -1807638200231127303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_107
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 606
+        width: 63
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3384ec5d44e93a1a0800000000000000
+      internalID: -6799416993917286349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_108
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 606
+        width: 63
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6887a2e7382a2330800000000000000
+      internalID: 3686803465447114858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_109
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 606
+        width: 63
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005672f25017a3130800000000000000
+      internalID: 3547271923587572992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_110
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 606
+        width: 63
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3846745e29e8230800000000000000
+      internalID: 3643010662032245701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_111
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 606
+        width: 63
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687b9a7746f44f860800000000000000
+      internalID: 7562756967184840582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_112
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 606
+        width: 63
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3ff75ded6b76980800000000000000
+      internalID: -8545660699731299354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_113
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 606
+        width: 63
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83cf4cb0dab57cd80800000000000000
+      internalID: -8230508995211363272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_114
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 519
+        width: 63
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd7441d49d4fcdc0800000000000000
+      internalID: -3616586674193793572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_115
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 518
+        width: 63
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15a182c0ceee67a0800000000000000
+      internalID: -6381901110273006306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_116
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 518
+        width: 63
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03a51bdf91929ce0800000000000000
+      internalID: -1399896418397347057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_117
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 518
+        width: 63
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8f763609962d3c0800000000000000
+      internalID: -4336287422340400941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_118
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 518
+        width: 63
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdfbbf2190df9930800000000000000
+      internalID: 4152266703448571316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_119
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 518
+        width: 63
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b36c8cf964b5000800000000000000
+      internalID: 25691874962848623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_120
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 518
+        width: 63
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636eb327d77a46690800000000000000
+      internalID: -7609773313120016842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_121
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 528
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171d8f4bde5615fd0800000000000000
+      internalID: -2354989058520198799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_122
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 422
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b6249b27acbeb20800000000000000
+      internalID: 3164845757241125637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_123
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 404
+        width: 64
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcf0273eb37135d0800000000000000
+      internalID: -3084557008966189895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_124
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 404
+        width: 64
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b4b63a61c143b60800000000000000
+      internalID: 7724830144403819310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_125
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 404
+        width: 63
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78cf8cc725d550910800000000000000
+      internalID: 1802949834693999751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_126
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 404
+        width: 64
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7af927fc2ae491c0800000000000000
+      internalID: -4497712648990098817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_127
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 404
+        width: 64
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64f036937d3afe90800000000000000
+      internalID: -6991207904888949654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_128
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 404
+        width: 63
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155f94a7bbddbff60800000000000000
+      internalID: 8069286954644665681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_129
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 326
+        width: 64
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdf8a5e986042fd0800000000000000
+      internalID: -2367760314756694534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_130
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 326
+        width: 63
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f4ed90497f72830800000000000000
+      internalID: 4046475005408464663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_131
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 326
+        width: 64
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc0f1c69c2a11a60800000000000000
+      internalID: 7643069028610542846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_132
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 326
+        width: 64
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b62ac814d552b0c0800000000000000
+      internalID: -4561489103135562064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_133
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 326
+        width: 63
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5727325185716ad90800000000000000
+      internalID: -7086951296541691275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_134
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 326
+        width: 64
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d096262b55d814de0800000000000000
+      internalID: -1350643014029907699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_135
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 250
+        width: 64
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee215ed335837df20800000000000000
+      internalID: 3447285969947267822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_136
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 250
+        width: 64
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeef62c83b2426fb0800000000000000
+      internalID: -4656085725829726482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_137
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 250
+        width: 64
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b001fbc3f8e61860800000000000000
+      internalID: 7500438363228405943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_138
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 250
+        width: 64
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9151645ccbe6ca0800000000000000
+      internalID: -6021668096277407249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_139
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 250
+        width: 64
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea698a1a10734aac0800000000000000
+      internalID: -3844887701720885586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_140
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 250
+        width: 64
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e895a5e2aefedc80800000000000000
+      internalID: -8295913487978882847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_141
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 174
+        width: 64
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b4c31495cecfe10800000000000000
+      internalID: 2232919383359638352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_142
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 174
+        width: 64
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ac91d87a9371f10800000000000000
+      internalID: 2240322731429710432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_143
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 174
+        width: 64
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e37581b6b73bcab0800000000000000
+      internalID: -4986830904580803615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_144
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 174
+        width: 64
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34aac5e12f62a9f60800000000000000
+      internalID: 8041782905956772419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_145
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 174
+        width: 64
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43bbc8a8950c71a60800000000000000
+      internalID: 7644790383293807412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_146
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 174
+        width: 64
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9bfde333a52716e0800000000000000
+      internalID: -1866982137640649825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_147
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 188
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ca1cee1fbef0960800000000000000
+      internalID: 7570528922958408747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_148
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 103
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e757996a679a1b2e0800000000000000
+      internalID: -2111720423193741954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_149
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 89
+        width: 64
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0215d08f42578d0800000000000000
+      internalID: -2849330541448060685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_150
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 89
+        width: 64
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340a64e3e8b23bcd0800000000000000
+      internalID: -2543641474604031933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_151
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 89
+        width: 64
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef05c3e25e9d0300800000000000000
+      internalID: 220006035656871906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_152
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 89
+        width: 64
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e62636ba5d655570800000000000000
+      internalID: 8454784111829460706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_153
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 89
+        width: 64
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce40177381380e10800000000000000
+      internalID: 2164034061659557572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_154
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 89
+        width: 64
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b916b7739de5cf0800000000000000
+      internalID: -261532896024487091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_155
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 10
+        width: 64
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fcb28f314c0f28d0800000000000000
+      internalID: -2869060963233776399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_156
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 10
+        width: 64
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c1dca9ff98a76a0800000000000000
+      internalID: -6450691785348014975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_157
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 10
+        width: 64
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22db9378f45eca7a0800000000000000
+      internalID: -6364460043647468254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_158
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 10
+        width: 64
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752ed3cdaad6ef760800000000000000
+      internalID: 7493547410597995095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_159
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 10
+        width: 64
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f273d7761b5ec0b80800000000000000
+      internalID: -8427108252608809169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_160
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 10
+        width: 64
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f63ddd93b809eca0800000000000000
+      internalID: -5987244662071675143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_161
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 10
+        width: 64
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3b90bf1248d2680800000000000000
+      internalID: -8778214817194724402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cacturne_162
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 24
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b9684ad2f2d4d30800000000000000
+      internalID: 4417238682600643486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

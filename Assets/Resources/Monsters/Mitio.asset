@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fd73012ff2053040a6fe22559110819, type: 3}
+  m_Name: Mitio
+  m_EditorClassIdentifier: 
+  monsterName: Mitio
+  description: "Mewtwo is a Pok\xE9mon created by science. It is a bipedal, humanoid
+    creature with some feline features. It is primarily gray with a long, purple
+    tail. On top of its head are two short, blunt horns, and it has purple eyes.
+    A tube extends from the back of its skull to the top of its spine, bypassing
+    its neck. It has a defined chest and shoulders, which resemble a breastplate.
+    The three digits on each hand and foot have spherical tips. Its tail is thick
+    at the base but thins before ending in a small bulb."
+  frontSprite: {fileID: 633811531472836330, guid: bd572bc8cf0987e419cb6a4edeeb3e6c,
+    type: 3}
+  backSprite: {fileID: -4494881595029665224, guid: bd572bc8cf0987e419cb6a4edeeb3e6c,
+    type: 3}
+  firstType: 11
+  secondType: 0
+  maxHp: 106
+  attack: 110
+  defense: 90
+  spAttack: 154
+  spDefense: 90
+  speed: 130
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 0176f093a81f2e2499fe3247efd718f4, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 3f4fe16dd0ba4374287db7b58e195eea, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: eda37ef57ef3c8d47a6ea1f39ba610c2, type: 2}
+    level: 8
+  - moveBase: {fileID: 11400000, guid: 8153340651a7ca143973f27858d9f12b, type: 2}
+    level: 16
+  - moveBase: {fileID: 11400000, guid: bc257e84d87cf914ab0b4fbec7cd40de, type: 2}
+    level: 40
+  - moveBase: {fileID: 11400000, guid: d1788c029f5f4df49816ef8672998b46, type: 2}
+    level: 48
+  - moveBase: {fileID: 11400000, guid: 7aaeb57e9d95f344594b2ff86f9d07dc, type: 2}
+    level: 72

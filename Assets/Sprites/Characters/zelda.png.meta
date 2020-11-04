@@ -1,0 +1,3296 @@
+fileFormatVersion: 2
+guid: fa9c812900c953348992d8398b71901a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7669077309003974598
+    second: zelda_0
+  - first:
+      213: -5597054030524253248
+    second: zelda_1
+  - first:
+      213: 3718105008262360975
+    second: zelda_2
+  - first:
+      213: 3418789894843571297
+    second: zelda_3
+  - first:
+      213: 1864012943430805363
+    second: zelda_4
+  - first:
+      213: -7202672694170041301
+    second: zelda_5
+  - first:
+      213: -5789387462022767603
+    second: zelda_6
+  - first:
+      213: -3283800082766858571
+    second: zelda_7
+  - first:
+      213: -1560707801422365459
+    second: zelda_8
+  - first:
+      213: 5247839744972584809
+    second: zelda_9
+  - first:
+      213: 7905323268008020988
+    second: zelda_10
+  - first:
+      213: -3603116997120086613
+    second: zelda_11
+  - first:
+      213: -2369949983602974448
+    second: zelda_12
+  - first:
+      213: -784892894490725734
+    second: zelda_13
+  - first:
+      213: 8957429376234650622
+    second: zelda_14
+  - first:
+      213: -9071780872302199170
+    second: zelda_15
+  - first:
+      213: -2274152786144157658
+    second: zelda_16
+  - first:
+      213: -6588720021165196755
+    second: zelda_17
+  - first:
+      213: 7003029167627941647
+    second: zelda_18
+  - first:
+      213: 4840440948286073743
+    second: zelda_19
+  - first:
+      213: -4153322896580108222
+    second: zelda_20
+  - first:
+      213: -1059844900597223793
+    second: zelda_21
+  - first:
+      213: -2581770837588000637
+    second: zelda_22
+  - first:
+      213: -5903795624692512825
+    second: zelda_23
+  - first:
+      213: -3865131091629021476
+    second: zelda_24
+  - first:
+      213: -3776548052664029741
+    second: zelda_25
+  - first:
+      213: 7388427104885428645
+    second: zelda_26
+  - first:
+      213: 3185710557519244206
+    second: zelda_27
+  - first:
+      213: -1634060200550266854
+    second: zelda_28
+  - first:
+      213: -5555073611504742372
+    second: zelda_29
+  - first:
+      213: 2813949884407814018
+    second: zelda_30
+  - first:
+      213: 2490084295107244363
+    second: zelda_31
+  - first:
+      213: 7597498708665647483
+    second: zelda_32
+  - first:
+      213: -3194665527084955921
+    second: zelda_33
+  - first:
+      213: 81907553438459420
+    second: zelda_34
+  - first:
+      213: -7506897672050848552
+    second: zelda_35
+  - first:
+      213: 8065233367309195677
+    second: zelda_36
+  - first:
+      213: 4709234842153435716
+    second: zelda_37
+  - first:
+      213: 4847883643841522843
+    second: zelda_38
+  - first:
+      213: 7530573246307504987
+    second: zelda_39
+  - first:
+      213: 8888381839512265091
+    second: zelda_40
+  - first:
+      213: -996462235722836629
+    second: zelda_41
+  - first:
+      213: 8070472637494185803
+    second: zelda_42
+  - first:
+      213: 772783707776270400
+    second: zelda_43
+  - first:
+      213: 441418895267504498
+    second: zelda_44
+  - first:
+      213: -2600343485810824508
+    second: zelda_45
+  - first:
+      213: -3695142219246317491
+    second: zelda_46
+  - first:
+      213: 760978731557145796
+    second: zelda_47
+  - first:
+      213: -4197455305532291468
+    second: zelda_48
+  - first:
+      213: -6928769985184554328
+    second: zelda_49
+  - first:
+      213: 3213933573822399911
+    second: zelda_50
+  - first:
+      213: 6901092130811498769
+    second: zelda_51
+  - first:
+      213: -927904001807967168
+    second: zelda_52
+  - first:
+      213: 4441065481961585876
+    second: zelda_53
+  - first:
+      213: -5887547430385309338
+    second: zelda_54
+  - first:
+      213: 3871991588896140445
+    second: zelda_55
+  - first:
+      213: 9062937234571443801
+    second: zelda_56
+  - first:
+      213: 4898223938455851972
+    second: zelda_57
+  - first:
+      213: -6523197096840037536
+    second: zelda_58
+  - first:
+      213: 5749443090905320899
+    second: zelda_59
+  - first:
+      213: 2127784304670110007
+    second: zelda_60
+  - first:
+      213: 4187011420420346970
+    second: zelda_61
+  - first:
+      213: 8250540126808554321
+    second: zelda_62
+  - first:
+      213: -5744762847461339606
+    second: zelda_63
+  - first:
+      213: 6362498117035987304
+    second: zelda_64
+  - first:
+      213: -7887265974973386122
+    second: zelda_65
+  - first:
+      213: 379244900585404795
+    second: zelda_66
+  - first:
+      213: -1430706357624400095
+    second: zelda_67
+  - first:
+      213: 7711170512351742843
+    second: zelda_68
+  - first:
+      213: 1357893227797482369
+    second: zelda_69
+  - first:
+      213: 3454233719470183687
+    second: zelda_70
+  - first:
+      213: -5414368719194468219
+    second: zelda_71
+  - first:
+      213: 1466414088113123502
+    second: zelda_72
+  - first:
+      213: -5938929151963818339
+    second: zelda_73
+  - first:
+      213: -1017394288205323646
+    second: zelda_74
+  - first:
+      213: 4393940760762176453
+    second: zelda_75
+  - first:
+      213: -8003812610798467965
+    second: zelda_76
+  - first:
+      213: 7863102945323551724
+    second: zelda_77
+  - first:
+      213: 1229567670946777809
+    second: zelda_78
+  - first:
+      213: -2134434259703322537
+    second: zelda_79
+  - first:
+      213: -6202956425514127481
+    second: zelda_80
+  - first:
+      213: 5131535171084048713
+    second: zelda_81
+  - first:
+      213: -1036443584687011766
+    second: zelda_82
+  - first:
+      213: 1820552145592466078
+    second: zelda_83
+  - first:
+      213: -1674819803656763506
+    second: zelda_84
+  - first:
+      213: -3066423204635006360
+    second: zelda_85
+  - first:
+      213: -6521859341952602536
+    second: zelda_86
+  - first:
+      213: 1413077541229051090
+    second: zelda_87
+  - first:
+      213: -3185343527067752045
+    second: zelda_88
+  - first:
+      213: 6254253913582922345
+    second: zelda_89
+  - first:
+      213: -7753051844433768342
+    second: zelda_90
+  - first:
+      213: 1327204075045517109
+    second: zelda_91
+  - first:
+      213: -514162829235496096
+    second: zelda_92
+  - first:
+      213: 6532803877103912429
+    second: zelda_93
+  - first:
+      213: -9079351200787226835
+    second: zelda_94
+  - first:
+      213: -2731164778132134452
+    second: zelda_95
+  - first:
+      213: -385072109275255342
+    second: zelda_96
+  - first:
+      213: -8916669666025861377
+    second: zelda_97
+  - first:
+      213: 4624977576038775149
+    second: zelda_98
+  - first:
+      213: -8900074571269798197
+    second: zelda_99
+  - first:
+      213: 8367766039390274267
+    second: zelda_100
+  - first:
+      213: 4133389490846690275
+    second: zelda_101
+  - first:
+      213: 4498676029666376467
+    second: zelda_102
+  - first:
+      213: 3024711811104248242
+    second: zelda_103
+  - first:
+      213: -4378506870479997503
+    second: zelda_104
+  - first:
+      213: 4510459897004832168
+    second: zelda_105
+  - first:
+      213: 8891180793297890864
+    second: zelda_106
+  - first:
+      213: 5103834602317698517
+    second: zelda_107
+  - first:
+      213: 2440482773143040335
+    second: zelda_108
+  - first:
+      213: -533301448099605839
+    second: zelda_109
+  - first:
+      213: 3165912013302474067
+    second: zelda_110
+  - first:
+      213: 5043525882140180458
+    second: zelda_111
+  - first:
+      213: 1531715504964589874
+    second: zelda_112
+  - first:
+      213: -8480000816059689992
+    second: zelda_113
+  - first:
+      213: -7167091534502725561
+    second: zelda_114
+  - first:
+      213: 7151167729042590499
+    second: zelda_115
+  - first:
+      213: -2109860661359252373
+    second: zelda_116
+  - first:
+      213: 850969579268427998
+    second: zelda_117
+  - first:
+      213: 8960935054729382947
+    second: zelda_118
+  - first:
+      213: 355029161961748143
+    second: zelda_119
+  - first:
+      213: -8345775726864368124
+    second: zelda_120
+  - first:
+      213: 6316859856142627492
+    second: zelda_121
+  - first:
+      213: 4219373462058724032
+    second: zelda_122
+  - first:
+      213: -5040975468016709952
+    second: zelda_123
+  - first:
+      213: -80395267687557880
+    second: zelda_124
+  - first:
+      213: 3091843456317293730
+    second: zelda_125
+  - first:
+      213: 1584605805478906512
+    second: zelda_126
+  - first:
+      213: -3974502410392290050
+    second: zelda_127
+  - first:
+      213: -8322007846233031567
+    second: zelda_128
+  - first:
+      213: 8909040449486962788
+    second: zelda_129
+  - first:
+      213: -491021362919607755
+    second: zelda_130
+  - first:
+      213: -123458866113499111
+    second: zelda_131
+  - first:
+      213: -5185248689557282350
+    second: zelda_132
+  - first:
+      213: -1936522753460498768
+    second: zelda_133
+  - first:
+      213: 4228540050094829129
+    second: zelda_134
+  - first:
+      213: 2418476929013919204
+    second: zelda_135
+  - first:
+      213: 5385480532426253314
+    second: zelda_136
+  - first:
+      213: 4711494490513778882
+    second: zelda_137
+  - first:
+      213: 1315155048948944400
+    second: zelda_138
+  - first:
+      213: 7152123559470821736
+    second: zelda_139
+  - first:
+      213: 8702846004927061008
+    second: zelda_140
+  - first:
+      213: -8461695591954151888
+    second: zelda_141
+  - first:
+      213: -1206448624790436877
+    second: zelda_142
+  - first:
+      213: -2859584529597199448
+    second: zelda_143
+  - first:
+      213: -2510182274376805100
+    second: zelda_144
+  - first:
+      213: 1792145323971222202
+    second: zelda_145
+  - first:
+      213: 673330813383887211
+    second: zelda_146
+  - first:
+      213: -8768019182689122192
+    second: zelda_147
+  - first:
+      213: 4335616464868801493
+    second: zelda_148
+  - first:
+      213: -5422104412881013395
+    second: zelda_149
+  - first:
+      213: -3464516118852172113
+    second: zelda_150
+  - first:
+      213: -5438229118586070750
+    second: zelda_151
+  - first:
+      213: -4600091438833862479
+    second: zelda_152
+  - first:
+      213: 1208342309445590165
+    second: zelda_153
+  - first:
+      213: 3891208497724912094
+    second: zelda_154
+  - first:
+      213: 8960959081711081910
+    second: zelda_155
+  - first:
+      213: 4666448044634895003
+    second: zelda_156
+  - first:
+      213: 3958185339611771018
+    second: zelda_157
+  - first:
+      213: -5638936041156881469
+    second: zelda_158
+  - first:
+      213: -2577610377724942244
+    second: zelda_159
+  - first:
+      213: 2920186157962232658
+    second: zelda_160
+  - first:
+      213: -3291621252971241940
+    second: zelda_161
+  - first:
+      213: 2744573729419906015
+    second: zelda_162
+  - first:
+      213: -1718766545153313129
+    second: zelda_163
+  - first:
+      213: 6522599200861474123
+    second: zelda_164
+  - first:
+      213: -5311877688612125141
+    second: zelda_165
+  - first:
+      213: 5842020976666868564
+    second: zelda_166
+  - first:
+      213: 7923090361349359636
+    second: zelda_167
+  - first:
+      213: -8390682141675883967
+    second: zelda_168
+  - first:
+      213: -7373245119426558373
+    second: zelda_169
+  - first:
+      213: -3087263736427038009
+    second: zelda_170
+  - first:
+      213: -3709376486917487578
+    second: zelda_171
+  - first:
+      213: -5418683864171044473
+    second: zelda_172
+  - first:
+      213: -2852400239070736035
+    second: zelda_173
+  - first:
+      213: -2612183354126650081
+    second: zelda_174
+  - first:
+      213: 1493044044458886335
+    second: zelda_175
+  - first:
+      213: 4542450845952632902
+    second: zelda_176
+  - first:
+      213: 3250065830236503775
+    second: zelda_177
+  - first:
+      213: -1900094673997393161
+    second: zelda_178
+  - first:
+      213: -6258222339639923165
+    second: zelda_179
+  - first:
+      213: -4444666700822068918
+    second: zelda_180
+  - first:
+      213: -3330745270741343235
+    second: zelda_181
+  - first:
+      213: 2161414699618448284
+    second: zelda_182
+  - first:
+      213: -4491722937437841392
+    second: zelda_183
+  - first:
+      213: -2313302500313544279
+    second: zelda_184
+  - first:
+      213: -3103774681912074160
+    second: zelda_185
+  - first:
+      213: 7057582203307922533
+    second: zelda_186
+  - first:
+      213: 4766219705100642431
+    second: zelda_187
+  - first:
+      213: 758775662340166287
+    second: zelda_188
+  - first:
+      213: -1555093882113731128
+    second: zelda_189
+  - first:
+      213: -8324999379971082230
+    second: zelda_190
+  - first:
+      213: -4732745756402549629
+    second: zelda_191
+  - first:
+      213: 4432387571950502247
+    second: zelda_192
+  - first:
+      213: -3003267117578295423
+    second: zelda_193
+  - first:
+      213: 4380682788597376838
+    second: zelda_194
+  - first:
+      213: 4075975101671978687
+    second: zelda_195
+  - first:
+      213: 2103736572996432021
+    second: zelda_196
+  - first:
+      213: 5111083067368502291
+    second: zelda_197
+  - first:
+      213: -4264956284461483926
+    second: zelda_198
+  - first:
+      213: -209883340735625334
+    second: zelda_199
+  - first:
+      213: 590856304869872214
+    second: zelda_200
+  - first:
+      213: 2734104442049057947
+    second: zelda_201
+  - first:
+      213: 2173948936855324244
+    second: zelda_202
+  - first:
+      213: -1242980559881741022
+    second: zelda_203
+  - first:
+      213: 6927032171400960293
+    second: zelda_204
+  - first:
+      213: 3754527835335896379
+    second: zelda_205
+  - first:
+      213: -6925750988183234385
+    second: zelda_206
+  - first:
+      213: 6125065876296185679
+    second: zelda_207
+  - first:
+      213: 3594357418499951350
+    second: zelda_208
+  - first:
+      213: 4723397780479890935
+    second: zelda_209
+  - first:
+      213: -4583864410505500902
+    second: zelda_210
+  - first:
+      213: -325426561779739050
+    second: zelda_211
+  - first:
+      213: 7557932973854063606
+    second: zelda_212
+  - first:
+      213: 5375012012971278267
+    second: zelda_213
+  - first:
+      213: -6877575332299952982
+    second: zelda_214
+  - first:
+      213: -1014833779568567448
+    second: zelda_215
+  - first:
+      213: 5022808818603027454
+    second: zelda_216
+  - first:
+      213: -7063881539740472965
+    second: zelda_217
+  - first:
+      213: 3805390356246506720
+    second: zelda_218
+  - first:
+      213: 1871337990130689887
+    second: zelda_219
+  - first:
+      213: 1283143149718609424
+    second: zelda_220
+  - first:
+      213: 8459613047272361050
+    second: zelda_221
+  - first:
+      213: 846812411984360333
+    second: zelda_222
+  - first:
+      213: 7783804102538905025
+    second: zelda_223
+  - first:
+      213: 3748575573484392338
+    second: zelda_224
+  - first:
+      213: 5179842872145105476
+    second: zelda_225
+  - first:
+      213: -7290071846869849316
+    second: zelda_226
+  - first:
+      213: 7755545812541925151
+    second: zelda_227
+  - first:
+      213: -876121958314482209
+    second: zelda_228
+  - first:
+      213: -5726587552965280948
+    second: zelda_229
+  - first:
+      213: 6311981549938852112
+    second: zelda_230
+  - first:
+      213: 88528976481892944
+    second: zelda_231
+  - first:
+      213: -7170433630110059169
+    second: zelda_232
+  - first:
+      213: 8990477800548755084
+    second: zelda_233
+  - first:
+      213: -4715776064573268036
+    second: zelda_234
+  - first:
+      213: -5348606976086445753
+    second: zelda_235
+  - first:
+      213: -8684045383057828603
+    second: zelda_236
+  - first:
+      213: 6857020020682667609
+    second: zelda_237
+  - first:
+      213: 3431023672483245728
+    second: zelda_238
+  - first:
+      213: -4074852108995479316
+    second: zelda_239
+  - first:
+      213: 986997170560639310
+    second: zelda_240
+  - first:
+      213: -225050766232189025
+    second: zelda_241
+  - first:
+      213: -2745759723351447217
+    second: zelda_242
+  - first:
+      213: -7472417632396310581
+    second: zelda_243
+  - first:
+      213: 4694142859177622090
+    second: zelda_244
+  - first:
+      213: 5966288688936601234
+    second: zelda_245
+  - first:
+      213: 6480102743793178912
+    second: zelda_246
+  - first:
+      213: 3695229014886356913
+    second: zelda_247
+  - first:
+      213: -6716967750160208418
+    second: zelda_248
+  - first:
+      213: -5223169743368341184
+    second: zelda_249
+  - first:
+      213: 8236914912300225994
+    second: zelda_250
+  - first:
+      213: -759206393805755707
+    second: zelda_251
+  - first:
+      213: 4674530988078020431
+    second: zelda_252
+  - first:
+      213: 1017662138979735047
+    second: zelda_253
+  - first:
+      213: -6461427584587649255
+    second: zelda_254
+  - first:
+      213: 247268494226205053
+    second: zelda_255
+  - first:
+      213: -3492589231510817399
+    second: zelda_256
+  - first:
+      213: -3157545425926895701
+    second: zelda_257
+  - first:
+      213: 3078244607804776115
+    second: zelda_258
+  - first:
+      213: -2085927956999092862
+    second: zelda_259
+  - first:
+      213: 5120458057573108114
+    second: zelda_260
+  - first:
+      213: 8136999322385470420
+    second: zelda_261
+  - first:
+      213: 4917933383568531071
+    second: zelda_262
+  - first:
+      213: 3017968333314494099
+    second: zelda_263
+  - first:
+      213: -2085226202770956891
+    second: zelda_264
+  - first:
+      213: -1311843182265675468
+    second: zelda_265
+  - first:
+      213: 539229658477924533
+    second: zelda_266
+  - first:
+      213: -4211792828506873260
+    second: zelda_267
+  - first:
+      213: -1972567371707046129
+    second: zelda_268
+  - first:
+      213: -4726744741576525645
+    second: zelda_269
+  - first:
+      213: -1664771833599493680
+    second: zelda_270
+  - first:
+      213: 4286647234833364147
+    second: zelda_271
+  - first:
+      213: 54219577273478140
+    second: zelda_272
+  - first:
+      213: -6937864131023450162
+    second: zelda_273
+  - first:
+      213: 4108400880524953443
+    second: zelda_274
+  - first:
+      213: -8131318933719847646
+    second: zelda_275
+  - first:
+      213: 5360772757667174316
+    second: zelda_276
+  - first:
+      213: 4870345228469082482
+    second: zelda_277
+  - first:
+      213: -2782232610001321412
+    second: zelda_278
+  - first:
+      213: -5571399811479702818
+    second: zelda_279
+  - first:
+      213: 4517586977549786815
+    second: zelda_280
+  - first:
+      213: 3513745393974568886
+    second: zelda_281
+  - first:
+      213: -5818410132808036845
+    second: zelda_282
+  - first:
+      213: -2879647097053375861
+    second: zelda_283
+  - first:
+      213: -1885152727379534574
+    second: zelda_284
+  - first:
+      213: -3641098251668340797
+    second: zelda_285
+  - first:
+      213: -7069757174394580640
+    second: zelda_286
+  - first:
+      213: 6454099467621604586
+    second: zelda_287
+  - first:
+      213: 8012865127259501104
+    second: zelda_0
+  - first:
+      213: 4937924859360798675
+    second: zelda_1
+  - first:
+      213: -5660019572918947393
+    second: zelda_2
+  - first:
+      213: 409130397493816773
+    second: zelda_3
+  - first:
+      213: -6372186063958017416
+    second: zelda_4
+  - first:
+      213: 817244203336944764
+    second: zelda_5
+  - first:
+      213: -6840161636097007151
+    second: zelda_6
+  - first:
+      213: 2923267045787974207
+    second: zelda_7
+  - first:
+      213: -5246355540131604519
+    second: zelda_8
+  - first:
+      213: -1898255998820523825
+    second: zelda_9
+  - first:
+      213: 8522081001451019987
+    second: zelda_10
+  - first:
+      213: 9181564418857005825
+    second: zelda_11
+  - first:
+      213: -4201425179092864079
+    second: zelda_12
+  - first:
+      213: 3257829574204303901
+    second: zelda_13
+  - first:
+      213: -5021933799061358701
+    second: zelda_14
+  - first:
+      213: 4589000356342502744
+    second: zelda_15
+  - first:
+      213: 663185941574374969
+    second: zelda_16
+  - first:
+      213: 4691660080971604865
+    second: zelda_17
+  - first:
+      213: -5465409939757452974
+    second: zelda_18
+  - first:
+      213: 3258485720182590055
+    second: zelda_19
+  - first:
+      213: 7330868522838742432
+    second: zelda_20
+  - first:
+      213: -3583831586258200377
+    second: zelda_21
+  - first:
+      213: 8897741827759347807
+    second: zelda_22
+  - first:
+      213: 5531682856941339424
+    second: zelda_23
+  - first:
+      213: -5507360139893739896
+    second: zelda_24
+  - first:
+      213: 2383999449908161341
+    second: zelda_25
+  - first:
+      213: 4291478614606764077
+    second: zelda_26
+  - first:
+      213: -4606443178651645987
+    second: zelda_27
+  - first:
+      213: -4799831378786837368
+    second: zelda_28
+  - first:
+      213: 1051443121844722564
+    second: zelda_29
+  - first:
+      213: -7984705633036286987
+    second: zelda_30
+  - first:
+      213: -3348181015356651813
+    second: zelda_31
+  - first:
+      213: 5500779628267221931
+    second: zelda_32
+  - first:
+      213: -2257384700530042219
+    second: zelda_33
+  - first:
+      213: -5408148968608381935
+    second: zelda_34
+  - first:
+      213: 7932297120588138000
+    second: zelda_35
+  - first:
+      213: 8790629302676561664
+    second: zelda_36
+  - first:
+      213: -7700316790151376172
+    second: zelda_37
+  - first:
+      213: 8852411106772283749
+    second: zelda_38
+  - first:
+      213: -3707879407837093627
+    second: zelda_39
+  - first:
+      213: 542340813169333741
+    second: zelda_40
+  - first:
+      213: -360142804609697775
+    second: zelda_41
+  - first:
+      213: -3575756488495181031
+    second: zelda_42
+  - first:
+      213: -5324457492623010
+    second: zelda_43
+  - first:
+      213: -2403751165624530919
+    second: zelda_44
+  - first:
+      213: 8679380969088105120
+    second: zelda_45
+  - first:
+      213: 6519889403283578689
+    second: zelda_46
+  - first:
+      213: 5575953471096908261
+    second: zelda_47
+  - first:
+      213: -4538962246023919825
+    second: zelda_48
+  - first:
+      213: 61735747312819048
+    second: zelda_49
+  - first:
+      213: -7543120820993251483
+    second: zelda_50
+  - first:
+      213: 8556730965568861227
+    second: zelda_51
+  - first:
+      213: 6844549365346642978
+    second: zelda_52
+  - first:
+      213: -1027778980180486215
+    second: zelda_53
+  - first:
+      213: -2256994148727350152
+    second: zelda_54
+  - first:
+      213: -8651825314583797604
+    second: zelda_55
+  - first:
+      213: 4362206275377346861
+    second: zelda_56
+  - first:
+      213: -1053392916856494653
+    second: zelda_57
+  - first:
+      213: -315565478242803310
+    second: zelda_58
+  - first:
+      213: 3074496781169172382
+    second: zelda_59
+  - first:
+      213: -1818303139857174343
+    second: zelda_60
+  - first:
+      213: -2481674162976623938
+    second: zelda_61
+  - first:
+      213: -5270140513914174999
+    second: zelda_62
+  - first:
+      213: 1573230899311730589
+    second: zelda_63
+  - first:
+      213: -717829537784232464
+    second: zelda_64
+  - first:
+      213: -1094977089027342228
+    second: zelda_65
+  - first:
+      213: 3712600108197455459
+    second: zelda_66
+  - first:
+      213: -238277414210221115
+    second: zelda_67
+  - first:
+      213: 2791284693260456337
+    second: zelda_68
+  - first:
+      213: -7653199220282828532
+    second: zelda_69
+  - first:
+      213: -2802441457951993263
+    second: zelda_70
+  - first:
+      213: -3413567675602627236
+    second: zelda_71
+  - first:
+      213: -1279038640675975779
+    second: zelda_72
+  - first:
+      213: 480476426214279948
+    second: zelda_73
+  - first:
+      213: -4999503431365987449
+    second: zelda_74
+  - first:
+      213: 6651469612565759301
+    second: zelda_75
+  - first:
+      213: 4385622370506877090
+    second: zelda_76
+  - first:
+      213: 5705872073209775981
+    second: zelda_77
+  - first:
+      213: 202468562038457064
+    second: zelda_78
+  - first:
+      213: 2931429557669789228
+    second: zelda_79
+  - first:
+      213: 2046743383135345062
+    second: zelda_80
+  - first:
+      213: -464392200294626671
+    second: zelda_81
+  - first:
+      213: -6830138352816470262
+    second: zelda_82
+  - first:
+      213: 6463316824135392349
+    second: zelda_83
+  - first:
+      213: -6119943636947249022
+    second: zelda_84
+  - first:
+      213: -5876100327141401610
+    second: zelda_85
+  - first:
+      213: 3284340415369263435
+    second: zelda_86
+  - first:
+      213: -2678986441342509398
+    second: zelda_87
+  - first:
+      213: 7844137246754494911
+    second: zelda_88
+  - first:
+      213: 3723689457926586676
+    second: zelda_89
+  - first:
+      213: -4873485252907476330
+    second: zelda_90
+  - first:
+      213: -7948828284983590517
+    second: zelda_91
+  - first:
+      213: -8170526532798268833
+    second: zelda_92
+  - first:
+      213: 6411352637553152281
+    second: zelda_93
+  - first:
+      213: -8968772942215290037
+    second: zelda_94
+  - first:
+      213: -6376311652307964631
+    second: zelda_95
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zelda_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 224
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032fa67116a633f60800000000000000
+      internalID: 8012865127259501104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 224
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d765c15f78078440800000000000000
+      internalID: 4937924859360798675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_2
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 224
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1786ebf229371b0800000000000000
+      internalID: -5660019572918947393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_3
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 224
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cdee69cde58da500800000000000000
+      internalID: 409130397493816773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_4
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 224
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a761f39827197a0800000000000000
+      internalID: -6372186063958017416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_5
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 224
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c45a2e54f675b00800000000000000
+      internalID: 817244203336944764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_6
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 224
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1ee229b3dd211a0800000000000000
+      internalID: -6840161636097007151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_7
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 224
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a3cc7d3e7819820800000000000000
+      internalID: 2923267045787974207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_8
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 224
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d79d01ce633137b0800000000000000
+      internalID: -5246355540131604519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_9
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 224
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc06c89f93a08a5e0800000000000000
+      internalID: -1898255998820523825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_10
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 224
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ded796d483844670800000000000000
+      internalID: 8522081001451019987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_11
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 224
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103765461387b6f70800000000000000
+      internalID: 9181564418857005825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3b9c94f0a81b5c0800000000000000
+      internalID: -4201425179092864079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_13
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 192
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1aa53dacb2263d20800000000000000
+      internalID: 3257829574204303901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3977b6d21d18e4ab0800000000000000
+      internalID: -5021933799061358701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_15
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 192
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8559fe1b2876faf30800000000000000
+      internalID: 4589000356342502744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_16
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 192
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936d293a91c143900800000000000000
+      internalID: 663185941574374969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_17
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 192
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18361357cff1c1140800000000000000
+      internalID: 4691660080971604865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_18
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 192
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2513ed4ed96f624b0800000000000000
+      internalID: -5465409939757452974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_19
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 192
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a8a219f77783d20800000000000000
+      internalID: 3258485720182590055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_20
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 192
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a555e6b41a7cb560800000000000000
+      internalID: 7330868522838742432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_21
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 192
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c85146092ca34ec0800000000000000
+      internalID: -3583831586258200377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_22
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 192
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f581bb2dc012b7b70800000000000000
+      internalID: 8897741827759347807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_23
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 192
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0234b12104c74cc40800000000000000
+      internalID: 5531682856941339424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 160
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88eec7bc12de193b0800000000000000
+      internalID: -5507360139893739896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_25
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 160
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ba0846edaa51120800000000000000
+      internalID: 2383999449908161341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_26
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 160
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2852d010156e8b30800000000000000
+      internalID: 4291478614606764077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_27
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 160
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd78272c550a210c0800000000000000
+      internalID: -4606443178651645987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_28
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 160
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c13a5aac2936db0800000000000000
+      internalID: -4799831378786837368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_29
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 160
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b1513d2f9779e00800000000000000
+      internalID: 1051443121844722564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_30
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 160
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3cfc21880a03190800000000000000
+      internalID: -7984705633036286987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_31
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 160
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6c5ff1b1fd881d0800000000000000
+      internalID: -3348181015356651813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_32
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 160
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3b2927de1b65c40800000000000000
+      internalID: 5500779628267221931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_33
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 160
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a518333982ca0e0800000000000000
+      internalID: -2257384700530042219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_34
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 160
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114c3b9aa2562f4b0800000000000000
+      internalID: -5408148968608381935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_35
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 160
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016828d343e251e60800000000000000
+      internalID: 7932297120588138000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_36
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 128
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f1d2aa6c69ef970800000000000000
+      internalID: 8790629302676561664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_37
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 128
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d21d096daaf22590800000000000000
+      internalID: -7700316790151376172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_38
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 128
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56172e0eff41ada70800000000000000
+      internalID: 8852411106772283749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_39
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 128
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50162e1e257fa8cc0800000000000000
+      internalID: -3707879407837093627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_40
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 128
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5972c9818c68700800000000000000
+      internalID: 542340813169333741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_41
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 128
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11873def604800bf0800000000000000
+      internalID: -360142804609697775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_42
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 128
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91352fb3b6c506ec0800000000000000
+      internalID: -3575756488495181031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_43
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 128
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51d7822f651deff0800000000000000
+      internalID: -5324457492623010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_44
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 128
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918c48cec0924aed0800000000000000
+      internalID: -2403751165624530919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_45
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 128
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa38cc810b537870800000000000000
+      internalID: 8679380969088105120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_46
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 128
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f1d815edc4b7a50800000000000000
+      internalID: 6519889403283578689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_47
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 128
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e966d8a324c16d40800000000000000
+      internalID: 5575953471096908261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_48
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 96
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27c5dcb2ed5201c0800000000000000
+      internalID: -4538962246023919825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_49
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 96
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b1688c5545bd000800000000000000
+      internalID: 61735747312819048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_50
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 96
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56728d61493715790800000000000000
+      internalID: -7543120820993251483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_51
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 96
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2431594a7d9fb670800000000000000
+      internalID: 8556730965568861227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_52
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 96
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22cac114269bcfe50800000000000000
+      internalID: 6844549365346642978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_53
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 96
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b79ab286789cb1f0800000000000000
+      internalID: -1027778980180486215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_54
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 96
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c98f0a7cb8da0e0800000000000000
+      internalID: -2256994148727350152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_55
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 96
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90208937ba8ee780800000000000000
+      internalID: -8651825314583797604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_56
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 96
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29b8d8de7ba98c30800000000000000
+      internalID: 4362206275377346861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_57
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 96
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c52bd529b89161f0800000000000000
+      internalID: -1053392916856494653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_58
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 96
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29126f59ed2ee9bf0800000000000000
+      internalID: -315565478242803310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_59
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 96
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f9ba8788ecaaa20800000000000000
+      internalID: 3074496781169172382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 64
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0f5d69de614c6e0800000000000000
+      internalID: -1818303139857174343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_61
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 64
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2738b4f725f8dd0800000000000000
+      internalID: -2481674162976623938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_62
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 64
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e140cfff13bcd6b0800000000000000
+      internalID: -5270140513914174999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_63
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 64
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9fd427ea2d35d510800000000000000
+      internalID: 1573230899311730589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_64
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5861fa6d1c906f0800000000000000
+      internalID: -717829537784232464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_65
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 64
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c608553932cddc0f0800000000000000
+      internalID: -1094977089027342228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_66
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 64
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366af22d02ec58330800000000000000
+      internalID: 3712600108197455459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_67
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 64
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb400844f771bcf0800000000000000
+      internalID: -238277414210221115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_68
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 64
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19156c0c3a2acb620800000000000000
+      internalID: 2791284693260456337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_69
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 64
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09deb78bdf5ac590800000000000000
+      internalID: -7653199220282828532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_70
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 64
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15291fa875abb19d0800000000000000
+      internalID: -2802441457951993263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_71
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 64
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5513fee84290a0d0800000000000000
+      internalID: -3413567675602627236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_72
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 32
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d82880221ff3ee0800000000000000
+      internalID: -1279038640675975779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_73
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 32
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b837393cefaa600800000000000000
+      internalID: 480476426214279948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_74
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 32
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78375102e123e9ab0800000000000000
+      internalID: -4999503431365987449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_75
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 32
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54589432f54ce4c50800000000000000
+      internalID: 6651469612565759301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_76
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 32
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8a1195f4cdcdc30800000000000000
+      internalID: 4385622370506877090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_77
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 32
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d678d796b645f2f40800000000000000
+      internalID: 5705872073209775981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_78
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 32
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e28c7e95105fc200800000000000000
+      internalID: 202468562038457064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_79
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 32
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2efcfcb6a78ea820800000000000000
+      internalID: 2931429557669789228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_80
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 32
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9d92a434e776c10800000000000000
+      internalID: 2046743383135345062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_81
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 32
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a0af811c52e89f0800000000000000
+      internalID: -464392200294626671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_82
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 32
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a074a911b597631a0800000000000000
+      internalID: -6830138352816470262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_83
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 32
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c556d486052b950800000000000000
+      internalID: 6463316824135392349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_84
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288d852efa7911ba0800000000000000
+      internalID: -6119943636947249022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_85
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 0
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb1e28a2e5e37ea0800000000000000
+      internalID: -5876100327141401610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_86
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b493b83e432549d20800000000000000
+      internalID: 3284340415369263435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_87
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae11b5860452dad0800000000000000
+      internalID: -2678986441342509398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_88
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb956321449fbdc60800000000000000
+      internalID: 7844137246754494911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_89
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 0
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431c49145d33da330800000000000000
+      internalID: 3723689457926586676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_90
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 0
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a585abbf6ed5cb0800000000000000
+      internalID: -4873485252907476330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_91
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 0
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81c9fc1ac610b190800000000000000
+      internalID: -7948828284983590517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_92
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ab7a068657c9e80800000000000000
+      internalID: -8170526532798268833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_93
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 0
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9119e1b4143b9f850800000000000000
+      internalID: 6411352637553152281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_94
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 0
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b436f141784888380800000000000000
+      internalID: -8968772942215290037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_95
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 0
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92deffad55ac287a0800000000000000
+      internalID: -6376311652307964631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2720 @@
+fileFormatVersion: 2
+guid: 12f1fbcc1171e85449ae2d6b69b6eb31
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6407394986232860524
+    second: Snorlax_0
+  - first:
+      213: -6489855607303823267
+    second: Snorlax_1
+  - first:
+      213: -155428955985718339
+    second: Snorlax_2
+  - first:
+      213: -6208154160223403491
+    second: Snorlax_3
+  - first:
+      213: -3330652985112811837
+    second: Snorlax_4
+  - first:
+      213: 6382666909330506960
+    second: Snorlax_5
+  - first:
+      213: -7803794874148770448
+    second: Snorlax_6
+  - first:
+      213: 5458072581507988448
+    second: Snorlax_7
+  - first:
+      213: 6127099609816039032
+    second: Snorlax_8
+  - first:
+      213: 7430008019063528789
+    second: Snorlax_9
+  - first:
+      213: 7852860173439602249
+    second: Snorlax_10
+  - first:
+      213: -4742124842098863795
+    second: Snorlax_11
+  - first:
+      213: 5646318116314054738
+    second: Snorlax_12
+  - first:
+      213: 7789243354453159885
+    second: Snorlax_13
+  - first:
+      213: -447704988875010527
+    second: Snorlax_14
+  - first:
+      213: 2085333974964548342
+    second: Snorlax_15
+  - first:
+      213: 5595721417361173696
+    second: Snorlax_16
+  - first:
+      213: -8941903658248747822
+    second: Snorlax_17
+  - first:
+      213: -2611476349444348153
+    second: Snorlax_18
+  - first:
+      213: 570095591430043776
+    second: Snorlax_19
+  - first:
+      213: 1853704990691937680
+    second: Snorlax_20
+  - first:
+      213: 8606665075301984896
+    second: Snorlax_21
+  - first:
+      213: 2653039201725204634
+    second: Snorlax_22
+  - first:
+      213: 3036065521625302660
+    second: Snorlax_23
+  - first:
+      213: 179577763075485997
+    second: Snorlax_24
+  - first:
+      213: 2162030621019380150
+    second: Snorlax_25
+  - first:
+      213: 1183834391254073431
+    second: Snorlax_26
+  - first:
+      213: 8219308696360796857
+    second: Snorlax_27
+  - first:
+      213: 5886676346655839765
+    second: Snorlax_28
+  - first:
+      213: -6065741891534817505
+    second: Snorlax_29
+  - first:
+      213: 4000960707494331362
+    second: Snorlax_30
+  - first:
+      213: -1852554926593614551
+    second: Snorlax_31
+  - first:
+      213: -6147502501768254107
+    second: Snorlax_32
+  - first:
+      213: 5459065540247204
+    second: Snorlax_33
+  - first:
+      213: -6819493076130604417
+    second: Snorlax_34
+  - first:
+      213: -7577839087044604958
+    second: Snorlax_35
+  - first:
+      213: -153706144679898849
+    second: Snorlax_36
+  - first:
+      213: -7906077237876571352
+    second: Snorlax_37
+  - first:
+      213: -533733009119290403
+    second: Snorlax_38
+  - first:
+      213: -6122370442075358685
+    second: Snorlax_39
+  - first:
+      213: -5225410262586789162
+    second: Snorlax_40
+  - first:
+      213: 7617186524008857877
+    second: Snorlax_41
+  - first:
+      213: 1784747109008134572
+    second: Snorlax_42
+  - first:
+      213: 1410911971716261359
+    second: Snorlax_43
+  - first:
+      213: 5213736786461501565
+    second: Snorlax_44
+  - first:
+      213: 4767021562868306813
+    second: Snorlax_45
+  - first:
+      213: -8021062888599264639
+    second: Snorlax_46
+  - first:
+      213: 7890214484381722100
+    second: Snorlax_47
+  - first:
+      213: -6818106007548249049
+    second: Snorlax_48
+  - first:
+      213: 3812981421458187495
+    second: Snorlax_49
+  - first:
+      213: -8100503622363432460
+    second: Snorlax_50
+  - first:
+      213: -2661320431560255143
+    second: Snorlax_51
+  - first:
+      213: 5740578157936460185
+    second: Snorlax_52
+  - first:
+      213: -1849251706309989382
+    second: Snorlax_53
+  - first:
+      213: 2928174452983382388
+    second: Snorlax_54
+  - first:
+      213: -1394954398369603963
+    second: Snorlax_55
+  - first:
+      213: 819608320744805515
+    second: Snorlax_56
+  - first:
+      213: -7411827749199558916
+    second: Snorlax_57
+  - first:
+      213: 1442815088938831
+    second: Snorlax_58
+  - first:
+      213: -3494777328590853609
+    second: Snorlax_59
+  - first:
+      213: 7072090126949511015
+    second: Snorlax_60
+  - first:
+      213: 781636378584188115
+    second: Snorlax_61
+  - first:
+      213: -3382634670412661159
+    second: Snorlax_62
+  - first:
+      213: 7209714372601420005
+    second: Snorlax_63
+  - first:
+      213: 1645005058996704261
+    second: Snorlax_64
+  - first:
+      213: 6660682895195714916
+    second: Snorlax_65
+  - first:
+      213: -3092503435551610218
+    second: Snorlax_66
+  - first:
+      213: 7434699920592947197
+    second: Snorlax_67
+  - first:
+      213: -5401807895075256331
+    second: Snorlax_68
+  - first:
+      213: 4688630647954753403
+    second: Snorlax_69
+  - first:
+      213: 6325921081628280694
+    second: Snorlax_70
+  - first:
+      213: -9215738461434219573
+    second: Snorlax_71
+  - first:
+      213: -2907937536749122500
+    second: Snorlax_72
+  - first:
+      213: 1642940452052442712
+    second: Snorlax_73
+  - first:
+      213: -889028789293182410
+    second: Snorlax_74
+  - first:
+      213: 2588551472913678134
+    second: Snorlax_75
+  - first:
+      213: -2830979188535374646
+    second: Snorlax_76
+  - first:
+      213: 740380765726296554
+    second: Snorlax_77
+  - first:
+      213: 190425499633411451
+    second: Snorlax_78
+  - first:
+      213: 1764247321131906336
+    second: Snorlax_79
+  - first:
+      213: -6325790243188885946
+    second: Snorlax_80
+  - first:
+      213: -1668809428527862251
+    second: Snorlax_81
+  - first:
+      213: -994729952903673939
+    second: Snorlax_82
+  - first:
+      213: 2820170613927028020
+    second: Snorlax_83
+  - first:
+      213: 6048588484246649492
+    second: Snorlax_84
+  - first:
+      213: 1447986001392576150
+    second: Snorlax_85
+  - first:
+      213: 2769218253727168028
+    second: Snorlax_86
+  - first:
+      213: 6822663330291130228
+    second: Snorlax_87
+  - first:
+      213: -1731559171007089507
+    second: Snorlax_88
+  - first:
+      213: -2690992273098822699
+    second: Snorlax_89
+  - first:
+      213: 4446791929908272599
+    second: Snorlax_90
+  - first:
+      213: 1923647274361174925
+    second: Snorlax_91
+  - first:
+      213: 1663084708124174689
+    second: Snorlax_92
+  - first:
+      213: 8271392539734012734
+    second: Snorlax_93
+  - first:
+      213: 5740813493679593450
+    second: Snorlax_94
+  - first:
+      213: -2771957299217308136
+    second: Snorlax_95
+  - first:
+      213: 5039369212259469485
+    second: Snorlax_96
+  - first:
+      213: -2208609100699222068
+    second: Snorlax_97
+  - first:
+      213: 3153344868312082836
+    second: Snorlax_98
+  - first:
+      213: 6123192179192908575
+    second: Snorlax_99
+  - first:
+      213: 2319067085184439351
+    second: Snorlax_100
+  - first:
+      213: -9189773509585311974
+    second: Snorlax_101
+  - first:
+      213: -4111864339434902359
+    second: Snorlax_102
+  - first:
+      213: -3882890230790789895
+    second: Snorlax_103
+  - first:
+      213: 5481091257311405440
+    second: Snorlax_104
+  - first:
+      213: 4552568578796748404
+    second: Snorlax_105
+  - first:
+      213: -2296580998086067
+    second: Snorlax_106
+  - first:
+      213: 1003743763432116215
+    second: Snorlax_107
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Snorlax_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1562
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f470acac3abe850800000000000000
+      internalID: 6407394986232860524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1535
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50241bb5b66fe5a0800000000000000
+      internalID: -6489855607303823267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1535
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db359a2203ec7ddf0800000000000000
+      internalID: -155428955985718339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_3
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1535
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d124509fea438d9a0800000000000000
+      internalID: -6208154160223403491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_4
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1535
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6a140b1c427c1d0800000000000000
+      internalID: -3330652985112811837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_5
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1535
+        width: 65
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4094abcb9c39850800000000000000
+      internalID: 6382666909330506960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_6
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1535
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d295288e953b390800000000000000
+      internalID: -7803794874148770448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_7
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1463
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb35134818febb40800000000000000
+      internalID: 5458072581507988448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_8
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1463
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ef482e1a4d70550800000000000000
+      internalID: 6127099609816039032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_9
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1463
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55dd59e6de0bc1760800000000000000
+      internalID: 7430008019063528789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_10
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1463
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e0ea4b8b6fafc60800000000000000
+      internalID: 7852860173439602249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_11
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1463
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41542ab496903eb0800000000000000
+      internalID: -4742124842098863795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_12
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1464
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25080cb4960cb5e40800000000000000
+      internalID: 5646318116314054738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_13
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1386
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfa04bcf83f81c60800000000000000
+      internalID: 7789243354453159885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1386
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e4fe54fae69c9f0800000000000000
+      internalID: -447704988875010527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_15
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1386
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2b0df933890fc10800000000000000
+      internalID: 2085333974964548342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_16
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1386
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ccabdf4bfef7ad40800000000000000
+      internalID: 5595721417361173696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_17
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1385
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d44152cff9f7e380800000000000000
+      internalID: -8941903658248747822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_18
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1385
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707290ca81c22cbd0800000000000000
+      internalID: -2611476349444348153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_19
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1402
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088343f7be269e700800000000000000
+      internalID: 570095591430043776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1301
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09dcf802edea9b910800000000000000
+      internalID: 1853704990691937680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_21
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1275
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08aa2223944017770800000000000000
+      internalID: 8606665075301984896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_22
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1275
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98440af81d71d420800000000000000
+      internalID: 2653039201725204634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_23
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1275
+        width: 70
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48689439185422a20800000000000000
+      internalID: 3036065521625302660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_24
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1275
+        width: 71
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d217ca9260dfd7200800000000000000
+      internalID: 179577763075485997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_25
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1275
+        width: 73
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b990671563110e10800000000000000
+      internalID: 2162030621019380150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_26
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1275
+        width: 74
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750079b4b13dd6010800000000000000
+      internalID: 1183834391254073431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_27
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1186
+        width: 72
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b24dd926b9d01270800000000000000
+      internalID: 8219308696360796857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_28
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1187
+        width: 70
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5169d16c2fca1b150800000000000000
+      internalID: 5886676346655839765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_29
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1187
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f177cd723e722dba0800000000000000
+      internalID: -6065741891534817505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_30
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1187
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3ce72c094468730800000000000000
+      internalID: 4000960707494331362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_31
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1187
+        width: 65
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ddc790c176a46e0800000000000000
+      internalID: -1852554926593614551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_32
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1187
+        width: 63
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d2746ab0fafaaa0800000000000000
+      internalID: -6147502501768254107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_33
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1102
+        width: 61
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aef45ebdf4631000800000000000000
+      internalID: 5459065540247204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_34
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1102
+        width: 60
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7adff0bd2b4c51a0800000000000000
+      internalID: -6819493076130604417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_35
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1101
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebc2abdf7b16d690800000000000000
+      internalID: -7577839087044604958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_36
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1101
+        width: 59
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f115f86631dedddf0800000000000000
+      internalID: -153706144679898849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_37
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1101
+        width: 59
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823c09de3a8f74290800000000000000
+      internalID: -7906077237876571352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_38
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1101
+        width: 59
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb5b82f7acc798f0800000000000000
+      internalID: -533733009119290403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_39
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1015
+        width: 61
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a3fb84588f80ba0800000000000000
+      internalID: -6122370442075358685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_40
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1015
+        width: 63
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d275d43d0d9b77b0800000000000000
+      internalID: -5225410262586789162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_41
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1016
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511c07739cea5b960800000000000000
+      internalID: 7617186524008857877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_42
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1017
+        width: 64
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1d5562a02b4c810800000000000000
+      internalID: 1784747109008134572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_43
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1018
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe56e7386f0949310800000000000000
+      internalID: 1410911971716261359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_44
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1018
+        width: 69
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78ac65dbf9ea5840800000000000000
+      internalID: 5213736786461501565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_45
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 942
+        width: 71
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73946bcadcd72240800000000000000
+      internalID: 4767021562868306813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_46
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 942
+        width: 72
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182e8fbdcc57fa090800000000000000
+      internalID: -8021062888599264639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_47
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 942
+        width: 73
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5e637f44caf7d60800000000000000
+      internalID: 7890214484381722100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_48
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 942
+        width: 72
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c3123c5b83161a0800000000000000
+      internalID: -6818106007548249049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_49
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 942
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4ed29966e6ae430800000000000000
+      internalID: 3812981421458187495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_50
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 942
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9334fafda359f80800000000000000
+      internalID: -8100503622363432460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_51
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 863
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9599c53fa27111bd0800000000000000
+      internalID: -2661320431560255143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_52
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 862
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9914b257b61aaaf40800000000000000
+      internalID: 5740578157936460185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_53
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 883
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbab11fe532656e0800000000000000
+      internalID: -1849251706309989382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_54
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 780
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471c27e9627f2a820800000000000000
+      internalID: 2928174452983382388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_55
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 759
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e9f4f8d5024ace0800000000000000
+      internalID: -1394954398369603963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_56
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 759
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84d2fcdc65df5b00800000000000000
+      internalID: 819608320744805515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_57
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 759
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6c3908ee5e32990800000000000000
+      internalID: -7411827749199558916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_58
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 759
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f4ad09b30250000800000000000000
+      internalID: 1442815088938831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_59
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 759
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ae048298e008fc0800000000000000
+      internalID: -3494777328590853609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_60
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 759
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f6f5c308c152260800000000000000
+      internalID: 7072090126949511015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_61
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 686
+        width: 69
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d48801252ee8da00800000000000000
+      internalID: 781636378584188115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_62
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 686
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ef12170b77e01d0800000000000000
+      internalID: -3382634670412661159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_63
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 685
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e89feee50d0e0460800000000000000
+      internalID: 7209714372601420005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_64
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 686
+        width: 73
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5041833b26b34d610800000000000000
+      internalID: 1645005058996704261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_65
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 686
+        width: 71
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46539a9adcf7f6c50800000000000000
+      internalID: 6660682895195714916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_66
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 686
+        width: 69
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a654992883515d0800000000000000
+      internalID: -3092503435551610218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_67
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 606
+        width: 68
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df74192ef2c5d2760800000000000000
+      internalID: 7434699920592947197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_68
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 606
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f78325e65ce805b0800000000000000
+      internalID: -5401807895075256331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_69
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 606
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b774a5e9bbc511140800000000000000
+      internalID: 4688630647954753403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_70
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 606
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677cb9325bf2ac750800000000000000
+      internalID: 6325921081628280694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_71
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 606
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3fe4742be1b1080800000000000000
+      internalID: -9215738461434219573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_72
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 606
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c4b0d973ee4a7d0800000000000000
+      internalID: -2907937536749122500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_73
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 621
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e94bfe2a5ecc610800000000000000
+      internalID: 1642940452052442712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_74
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 508
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6329513c60989a3f0800000000000000
+      internalID: -889028789293182410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_75
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 491
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f75d199d16ce320800000000000000
+      internalID: 2588551472913678134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_76
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 492
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc43dc5d6756b8d0800000000000000
+      internalID: -2830979188535374646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_77
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 492
+        width: 69
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9c5ab326c564a00800000000000000
+      internalID: 740380765726296554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_78
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 492
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7563d5abf684a200800000000000000
+      internalID: 190425499633411451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_79
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 492
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0257008579ddb7810800000000000000
+      internalID: 1764247321131906336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_80
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 492
+        width: 73
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646381f0a474638a0800000000000000
+      internalID: -6325790243188885946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_81
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 404
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e26ce9aa237d8e0800000000000000
+      internalID: -1668809428527862251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_82
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 404
+        width: 69
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da74cbdc0620232f0800000000000000
+      internalID: -994729952903673939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_83
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 404
+        width: 67
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435ad114b32432720800000000000000
+      internalID: 2820170613927028020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_84
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 404
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a3a0cfd27e0f350800000000000000
+      internalID: 6048588484246649492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_85
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 404
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6962eb4b897481410800000000000000
+      internalID: 1447986001392576150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_86
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 404
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c167fee645d3e6620800000000000000
+      internalID: 2769218253727168028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_87
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 316
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f1610a628feae50800000000000000
+      internalID: 6822663330291130228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_88
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 316
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d947d80bb1448f7e0800000000000000
+      internalID: -1731559171007089507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_89
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 315
+        width: 59
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbaf9cf8cca7aad0800000000000000
+      internalID: -2690992273098822699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_90
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 316
+        width: 58
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd914c33bd26bd30800000000000000
+      internalID: 4446791929908272599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_91
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 315
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b327d010b22ba10800000000000000
+      internalID: 1923647274361174925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_92
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 315
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169202b0bb6741710800000000000000
+      internalID: 1663084708124174689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_93
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 231
+        width: 59
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3379a0f0b3e9c270800000000000000
+      internalID: 8271392539734012734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_94
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 231
+        width: 61
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae79a84d4777baf40800000000000000
+      internalID: 5740813493679593450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_95
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 232
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816e997d5870889d0800000000000000
+      internalID: -2771957299217308136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_96
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 232
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da804cc499f6fe540800000000000000
+      internalID: 5039369212259469485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_97
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 232
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfb02189b17951e0800000000000000
+      internalID: -2208609100699222068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_98
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 232
+        width: 69
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499ea0a537ee2cb20800000000000000
+      internalID: 3153344868312082836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_99
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 153
+        width: 71
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b4e3c48d2f9f450800000000000000
+      internalID: 6123192179192908575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_100
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 153
+        width: 73
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73418be1a3bfe2020800000000000000
+      internalID: 2319067085184439351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_101
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 153
+        width: 73
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a176fdabead577080800000000000000
+      internalID: -9189773509585311974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_102
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 153
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ace26b3b29bfe6c0800000000000000
+      internalID: -4111864339434902359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_103
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 153
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f461e358e33d1ac0800000000000000
+      internalID: -3882890230790789895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_104
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 153
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085ab8d557fb01c40800000000000000
+      internalID: 5481091257311405440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_105
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 82
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ef8ca7009fd2f30800000000000000
+      internalID: 4552568578796748404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_106
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 82
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4249619547d7fff0800000000000000
+      internalID: -2296580998086067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snorlax_107
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 98
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff82e082a30eed00800000000000000
+      internalID: 1003743763432116215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

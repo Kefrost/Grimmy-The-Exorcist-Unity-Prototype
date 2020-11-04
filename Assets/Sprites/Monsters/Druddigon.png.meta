@@ -1,0 +1,3776 @@
+fileFormatVersion: 2
+guid: 9bd8234bcad414b4994b56741eb02bf9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4421856462685971122
+    second: Druddigon_0
+  - first:
+      213: -8576601927153843655
+    second: Druddigon_1
+  - first:
+      213: 5540837848561236027
+    second: Druddigon_2
+  - first:
+      213: -6042085107985864969
+    second: Druddigon_3
+  - first:
+      213: -4374142111887313682
+    second: Druddigon_4
+  - first:
+      213: -6849832608761410347
+    second: Druddigon_5
+  - first:
+      213: -1314712491730629543
+    second: Druddigon_6
+  - first:
+      213: -2519962767389444811
+    second: Druddigon_7
+  - first:
+      213: -3088478021818673268
+    second: Druddigon_8
+  - first:
+      213: 4480253967736257096
+    second: Druddigon_9
+  - first:
+      213: 5818416489504582413
+    second: Druddigon_10
+  - first:
+      213: 1492569258497206710
+    second: Druddigon_11
+  - first:
+      213: -3931140440926514532
+    second: Druddigon_12
+  - first:
+      213: 3944112093516911154
+    second: Druddigon_13
+  - first:
+      213: 4995548874912692976
+    second: Druddigon_14
+  - first:
+      213: 8478265207063852729
+    second: Druddigon_15
+  - first:
+      213: 5885127292430571360
+    second: Druddigon_16
+  - first:
+      213: 7319164628836061167
+    second: Druddigon_17
+  - first:
+      213: -8820526785761096616
+    second: Druddigon_18
+  - first:
+      213: 2669830436485813905
+    second: Druddigon_19
+  - first:
+      213: -7360325033432559681
+    second: Druddigon_20
+  - first:
+      213: -7450185840016032389
+    second: Druddigon_21
+  - first:
+      213: -7960972523986649250
+    second: Druddigon_22
+  - first:
+      213: -2417638155888250956
+    second: Druddigon_23
+  - first:
+      213: 3284980900002900112
+    second: Druddigon_24
+  - first:
+      213: -3671429608547415023
+    second: Druddigon_25
+  - first:
+      213: -8956746758126134852
+    second: Druddigon_26
+  - first:
+      213: 2269866321831706006
+    second: Druddigon_27
+  - first:
+      213: 5169839605071630180
+    second: Druddigon_28
+  - first:
+      213: -4046833756095197062
+    second: Druddigon_29
+  - first:
+      213: -7074770372660490508
+    second: Druddigon_30
+  - first:
+      213: -186158470655068460
+    second: Druddigon_31
+  - first:
+      213: 7995915038122451441
+    second: Druddigon_32
+  - first:
+      213: 5893256719402901920
+    second: Druddigon_33
+  - first:
+      213: -3063762917519419869
+    second: Druddigon_34
+  - first:
+      213: -4526173813415985656
+    second: Druddigon_35
+  - first:
+      213: -8924582940321284898
+    second: Druddigon_36
+  - first:
+      213: 3445554753909815921
+    second: Druddigon_37
+  - first:
+      213: 5464120544866491863
+    second: Druddigon_38
+  - first:
+      213: -3528040960615405993
+    second: Druddigon_39
+  - first:
+      213: 3269808443470901562
+    second: Druddigon_40
+  - first:
+      213: -8634102384311174287
+    second: Druddigon_41
+  - first:
+      213: -8044925296928899988
+    second: Druddigon_42
+  - first:
+      213: -4292298863392134031
+    second: Druddigon_43
+  - first:
+      213: 7737112565185613582
+    second: Druddigon_44
+  - first:
+      213: -5502825022070969752
+    second: Druddigon_45
+  - first:
+      213: -8612508823439948034
+    second: Druddigon_46
+  - first:
+      213: -5856878582201211874
+    second: Druddigon_47
+  - first:
+      213: 2274335432265667578
+    second: Druddigon_48
+  - first:
+      213: 2483595877286728870
+    second: Druddigon_49
+  - first:
+      213: -351933599204825766
+    second: Druddigon_50
+  - first:
+      213: 1105394602551231735
+    second: Druddigon_51
+  - first:
+      213: 3952463158363305635
+    second: Druddigon_52
+  - first:
+      213: 3648675848565032164
+    second: Druddigon_53
+  - first:
+      213: -2216491350712235870
+    second: Druddigon_54
+  - first:
+      213: 4785952662604139954
+    second: Druddigon_55
+  - first:
+      213: 1332389286847123455
+    second: Druddigon_56
+  - first:
+      213: -6307912489579353397
+    second: Druddigon_57
+  - first:
+      213: -3810961211011379485
+    second: Druddigon_58
+  - first:
+      213: -5427972403303612782
+    second: Druddigon_59
+  - first:
+      213: -6407439201912574301
+    second: Druddigon_60
+  - first:
+      213: 6451564001788490656
+    second: Druddigon_61
+  - first:
+      213: -4572418070338254860
+    second: Druddigon_62
+  - first:
+      213: 5891953807341318677
+    second: Druddigon_63
+  - first:
+      213: 6156688916152149028
+    second: Druddigon_64
+  - first:
+      213: -7357868690078416745
+    second: Druddigon_65
+  - first:
+      213: -7180641925866594162
+    second: Druddigon_66
+  - first:
+      213: -5797594385499197949
+    second: Druddigon_67
+  - first:
+      213: -3919374304857543745
+    second: Druddigon_68
+  - first:
+      213: -42194840972051742
+    second: Druddigon_69
+  - first:
+      213: -7058686774268422470
+    second: Druddigon_70
+  - first:
+      213: -6466008144047744835
+    second: Druddigon_71
+  - first:
+      213: -286880038079418774
+    second: Druddigon_72
+  - first:
+      213: -243375799363555853
+    second: Druddigon_73
+  - first:
+      213: 8331647354794718424
+    second: Druddigon_74
+  - first:
+      213: 8641867255805912914
+    second: Druddigon_75
+  - first:
+      213: 6378361497654287639
+    second: Druddigon_76
+  - first:
+      213: -7216884987829761974
+    second: Druddigon_77
+  - first:
+      213: -5520331090190845566
+    second: Druddigon_78
+  - first:
+      213: 6351466938074565346
+    second: Druddigon_79
+  - first:
+      213: -6561928770752709841
+    second: Druddigon_80
+  - first:
+      213: 2115471897801226370
+    second: Druddigon_81
+  - first:
+      213: -6585700937027016546
+    second: Druddigon_82
+  - first:
+      213: -690695018344113078
+    second: Druddigon_83
+  - first:
+      213: 3097176243049407598
+    second: Druddigon_84
+  - first:
+      213: 4877246088322163961
+    second: Druddigon_85
+  - first:
+      213: -2994105533313053209
+    second: Druddigon_86
+  - first:
+      213: 1249988919991169260
+    second: Druddigon_87
+  - first:
+      213: 5371344642317398072
+    second: Druddigon_88
+  - first:
+      213: 7364910498854760462
+    second: Druddigon_89
+  - first:
+      213: -3460177762197376275
+    second: Druddigon_90
+  - first:
+      213: 6372121949362497996
+    second: Druddigon_91
+  - first:
+      213: 5361923165471155862
+    second: Druddigon_92
+  - first:
+      213: 8026232164665544363
+    second: Druddigon_93
+  - first:
+      213: 7496467473379006536
+    second: Druddigon_94
+  - first:
+      213: 726482738336309807
+    second: Druddigon_95
+  - first:
+      213: -8372562137372582389
+    second: Druddigon_96
+  - first:
+      213: -5185933428638994237
+    second: Druddigon_97
+  - first:
+      213: -6932068046030629286
+    second: Druddigon_98
+  - first:
+      213: -1481511929848051178
+    second: Druddigon_99
+  - first:
+      213: 4527431001739471370
+    second: Druddigon_100
+  - first:
+      213: 3936129901313767899
+    second: Druddigon_101
+  - first:
+      213: 7584330127682132228
+    second: Druddigon_102
+  - first:
+      213: 6616829435677820918
+    second: Druddigon_103
+  - first:
+      213: -1196014086772601525
+    second: Druddigon_104
+  - first:
+      213: -1291083466108427216
+    second: Druddigon_105
+  - first:
+      213: 3688300132104235323
+    second: Druddigon_106
+  - first:
+      213: -6559403011955592470
+    second: Druddigon_107
+  - first:
+      213: -3141730795192015154
+    second: Druddigon_108
+  - first:
+      213: 5872223423759620084
+    second: Druddigon_109
+  - first:
+      213: 61198136162777328
+    second: Druddigon_110
+  - first:
+      213: -3190529651558974014
+    second: Druddigon_111
+  - first:
+      213: 4177135204798323710
+    second: Druddigon_112
+  - first:
+      213: 5043499522500674512
+    second: Druddigon_113
+  - first:
+      213: -693943848602178071
+    second: Druddigon_114
+  - first:
+      213: -5178873840708434280
+    second: Druddigon_115
+  - first:
+      213: 3998931897422298853
+    second: Druddigon_116
+  - first:
+      213: 1522772125719906191
+    second: Druddigon_117
+  - first:
+      213: 1753624036830532833
+    second: Druddigon_118
+  - first:
+      213: -9050324286330373419
+    second: Druddigon_119
+  - first:
+      213: -2922283172935735352
+    second: Druddigon_120
+  - first:
+      213: 2015082180785114978
+    second: Druddigon_121
+  - first:
+      213: -2976813103105593692
+    second: Druddigon_122
+  - first:
+      213: -7605867630516983786
+    second: Druddigon_123
+  - first:
+      213: -8742720211039343131
+    second: Druddigon_124
+  - first:
+      213: -1632954354690567737
+    second: Druddigon_125
+  - first:
+      213: 1906830486854753148
+    second: Druddigon_126
+  - first:
+      213: -8350391940909977262
+    second: Druddigon_127
+  - first:
+      213: 3983131563832443692
+    second: Druddigon_128
+  - first:
+      213: 5739759192330584956
+    second: Druddigon_129
+  - first:
+      213: -3988343131278707638
+    second: Druddigon_130
+  - first:
+      213: 3147253090355696920
+    second: Druddigon_131
+  - first:
+      213: -3986102154904001269
+    second: Druddigon_132
+  - first:
+      213: 7966912862358815005
+    second: Druddigon_133
+  - first:
+      213: 7119739771607485927
+    second: Druddigon_134
+  - first:
+      213: -639990193460151979
+    second: Druddigon_135
+  - first:
+      213: 1403763038826320093
+    second: Druddigon_136
+  - first:
+      213: 8567636064311800972
+    second: Druddigon_137
+  - first:
+      213: 7179178323015276300
+    second: Druddigon_138
+  - first:
+      213: 3159292445198369409
+    second: Druddigon_139
+  - first:
+      213: 4850662817256187978
+    second: Druddigon_140
+  - first:
+      213: -3350816465742515710
+    second: Druddigon_141
+  - first:
+      213: -2596912329385035153
+    second: Druddigon_142
+  - first:
+      213: 5689299619446442681
+    second: Druddigon_143
+  - first:
+      213: -1580550233658694781
+    second: Druddigon_144
+  - first:
+      213: 5910794420808663441
+    second: Druddigon_145
+  - first:
+      213: -4718058481023806718
+    second: Druddigon_146
+  - first:
+      213: 1273949769493870934
+    second: Druddigon_147
+  - first:
+      213: -389532530876791906
+    second: Druddigon_148
+  - first:
+      213: -6787766915674837032
+    second: Druddigon_149
+  - first:
+      213: -4779917383221840996
+    second: Druddigon_150
+  - first:
+      213: 6911562516271492190
+    second: Druddigon_151
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Druddigon_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 948
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2a92a56079d5d30800000000000000
+      internalID: 4421856462685971122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_1
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 950
+        width: 80
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9328010fcf9c9f880800000000000000
+      internalID: -8576601927153843655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_2
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 950
+        width: 78
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b383889aaa205ec40800000000000000
+      internalID: 5540837848561236027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_3
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 950
+        width: 78
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f623db4b93362ca0800000000000000
+      internalID: -6042085107985864969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_4
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 950
+        width: 77
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee431e7aceceb43c0800000000000000
+      internalID: -4374142111887313682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_5
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 950
+        width: 78
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc83e7c88180f0a0800000000000000
+      internalID: -6849832608761410347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_6
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 864
+        width: 81
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c80a454f331cde0800000000000000
+      internalID: -1314712491730629543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_7
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 864
+        width: 83
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535ba82e63b470dd0800000000000000
+      internalID: -2519962767389444811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_8
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 865
+        width: 82
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8795e44a958325d0800000000000000
+      internalID: -3088478021818673268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_9
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 867
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a347a0f3f0d2e30800000000000000
+      internalID: 4480253967736257096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_10
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 867
+        width: 83
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b223c48fa2fb050800000000000000
+      internalID: 5818416489504582413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_11
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 865
+        width: 82
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9e46725dba6b410800000000000000
+      internalID: 1492569258497206710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 778
+        width: 81
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c921768d898c179c0800000000000000
+      internalID: -3931140440926514532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_13
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 775
+        width: 98
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232d5606d0d4cb630800000000000000
+      internalID: 3944112093516911154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_14
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 778
+        width: 84
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0faf543fb31c35540800000000000000
+      internalID: 4995548874912692976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_15
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 778
+        width: 84
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6389a3949d8a570800000000000000
+      internalID: 8478265207063852729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_16
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 778
+        width: 84
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067d74b771c2ca150800000000000000
+      internalID: 5885127292430571360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_17
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 778
+        width: 86
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef806a8375e29560800000000000000
+      internalID: 7319164628836061167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 692
+        width: 88
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c44ea1f91379580800000000000000
+      internalID: -8820526785761096616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_19
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 692
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1965349f2a42d0520800000000000000
+      internalID: 2669830436485813905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_20
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 692
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf46d6f06fdad990800000000000000
+      internalID: -7360325033432559681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_21
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 692
+        width: 88
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7df237837f9b9890800000000000000
+      internalID: -7450185840016032389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_22
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 692
+        width: 85
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f71212ba1f48190800000000000000
+      internalID: -7960972523986649250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_23
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 692
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfa9da08e2d27ed0800000000000000
+      internalID: -2417638155888250956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_24
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 606
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098ad9659b8969d20800000000000000
+      internalID: 3284980900002900112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_25
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 606
+        width: 69
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c0eac19367c0dc0800000000000000
+      internalID: -3671429608547415023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_26
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 606
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb992c2474e33b380800000000000000
+      internalID: -8956746758126134852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_27
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 606
+        width: 79
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69db668b46f208f10800000000000000
+      internalID: 2269866321831706006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_28
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 602
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f4a06dab5feb740800000000000000
+      internalID: 5169839605071630180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_29
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 601
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70d2eec322c6d7c0800000000000000
+      internalID: -4046833756095197062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_30
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 607
+        width: 81
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe0d1e64dd51dd90800000000000000
+      internalID: -7074770372660490508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_31
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 601
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6bca47bd1aa6df0800000000000000
+      internalID: -186158470655068460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_32
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 601
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f12e7dec5237fe60800000000000000
+      internalID: 7995915038122451441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_33
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 599
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1a13233cd09c150800000000000000
+      internalID: 5893256719402901920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_34
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 567
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3269d39ebd35b75d0800000000000000
+      internalID: -3063762917519419869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_35
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 526
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e3aabb5eccf21c0800000000000000
+      internalID: -4526173813415985656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_36
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 579
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc73a9a913852480800000000000000
+      internalID: -8924582940321284898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_37
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 579
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17af3f81bc111df20800000000000000
+      internalID: 3445554753909815921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_38
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 577
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd5ea67fa474db40800000000000000
+      internalID: 5464120544866491863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_39
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 579
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756ad7d4071e90fc0800000000000000
+      internalID: -3528040960615405993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_40
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 579
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31f7a48471b06d20800000000000000
+      internalID: 3269808443470901562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_41
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 579
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b77cc70a18d2880800000000000000
+      internalID: -8634102384311174287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_42
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 579
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6cbff7f01faa5090800000000000000
+      internalID: -8044925296928899988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_43
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 563
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ce2b1ece0be64c0800000000000000
+      internalID: -4292298863392134031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_44
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 563
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f891392eebf5b60800000000000000
+      internalID: 7737112565185613582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_45
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 563
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a24523cc902a3b0800000000000000
+      internalID: -5502825022070969752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_46
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 563
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6c1f92bd83a7880800000000000000
+      internalID: -8612508823439948034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_47
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 563
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14ad47e5ff28bea0800000000000000
+      internalID: -5856878582201211874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_48
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 563
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af397449600109f10800000000000000
+      internalID: 2274335432265667578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_49
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 563
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4dc4faa41877220800000000000000
+      internalID: 2483595877286728870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_50
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 563
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a552fd2914ead1bf0800000000000000
+      internalID: -351933599204825766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_51
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 563
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f443bdc886275f00800000000000000
+      internalID: 1105394602551231735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_52
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 549
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6301e2d48f9d630800000000000000
+      internalID: 3952463158363305635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_53
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 549
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4044e4a53b2a230800000000000000
+      internalID: 3648675848565032164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_54
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 549
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a842192cd07d31e0800000000000000
+      internalID: -2216491350712235870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_55
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 547
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdca5ee69e1b6240800000000000000
+      internalID: 4785952662604139954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_56
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 549
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff0f014ff89d7210800000000000000
+      internalID: 1332389286847123455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_57
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 549
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca6f50f20bc578a0800000000000000
+      internalID: -6307912489579353397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 549
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eecfdc48febc1bc0800000000000000
+      internalID: -3810961211011379485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_59
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 549
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ef67a9bd7fba4b0800000000000000
+      internalID: -5427972403303612782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_60
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 549
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aea6127ef33417a0800000000000000
+      internalID: -6407439201912574301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_61
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 549
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3fc4c174f888950800000000000000
+      internalID: 6451564001788490656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_62
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 549
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f749e0adf18b80c0800000000000000
+      internalID: -4572418070338254860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_63
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 549
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512f69755cc64c150800000000000000
+      internalID: 5891953807341318677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_64
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 549
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42465df13f3f07550800000000000000
+      internalID: 6156688916152149028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_65
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 549
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79048e7f86993e990800000000000000
+      internalID: -7357868690078416745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_66
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 549
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80e17d863c395c90800000000000000
+      internalID: -7180641925866594162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_67
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 531
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e65849f9eca8fa0800000000000000
+      internalID: -5797594385499197949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_68
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 533
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb2c21e5d59b99c0800000000000000
+      internalID: -3919374304857543745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_69
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 531
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eab18404081a6ff0800000000000000
+      internalID: -42194840972051742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_70
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 533
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab69bfef6c18a0e90800000000000000
+      internalID: -7058686774268422470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_71
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 533
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db85043f9df1446a0800000000000000
+      internalID: -6466008144047744835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_72
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 533
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e2025102cc40cf0800000000000000
+      internalID: -286880038079418774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_73
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 533
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd220cfffa5f9cf0800000000000000
+      internalID: -243375799363555853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_74
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 533
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4bc505025ff9370800000000000000
+      internalID: 8331647354794718424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_75
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 533
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257246a8b741ee770800000000000000
+      internalID: 8641867255805912914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_76
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 533
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d56b4fcfd748850800000000000000
+      internalID: 6378361497654287639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_77
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 533
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48ce8b175978db90800000000000000
+      internalID: -7216884987829761974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_78
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 533
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28931a61f18d363b0800000000000000
+      internalID: -5520331090190845566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_79
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 533
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea82965781f42850800000000000000
+      internalID: 6351466938074565346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_80
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 533
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b7ed1bc885fe4a0800000000000000
+      internalID: -6561928770752709841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 437
+        width: 618
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28873c89b7aab5d10800000000000000
+      internalID: 2115471897801226370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_82
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 444
+        width: 83
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e982c8be3e3ea94a0800000000000000
+      internalID: -6585700937027016546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_83
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 444
+        width: 80
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c977f4a882a66f0800000000000000
+      internalID: -690695018344113078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_84
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 445
+        width: 78
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e642dbd22616bfa20800000000000000
+      internalID: 3097176243049407598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_85
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 445
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f42b900a757fa340800000000000000
+      internalID: 4877246088322163961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_86
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 444
+        width: 80
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed08d281ecc276d0800000000000000
+      internalID: -2994105533313053209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_87
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 354
+        width: 85
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce07f3dcc4ad85110800000000000000
+      internalID: 1249988919991169260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_88
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 354
+        width: 86
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830b68b5e79da8a40800000000000000
+      internalID: 5371344642317398072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_89
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 354
+        width: 88
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0078c6e31b653660800000000000000
+      internalID: 7364910498854760462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_90
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 354
+        width: 88
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2f48878aafaffc0800000000000000
+      internalID: -3460177762197376275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_91
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 354
+        width: 90
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9a839e6235e6850800000000000000
+      internalID: 6372121949362497996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_92
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 354
+        width: 88
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696a8d6d5b0696a40800000000000000
+      internalID: 5361923165471155862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_93
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 265
+        width: 85
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae44b301a7e26f60800000000000000
+      internalID: 8026232164665544363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_94
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 173
+        width: 92
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8489605f27dc80860800000000000000
+      internalID: 7496467473379006536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_95
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 252
+        width: 91
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f222df1933cf41a00800000000000000
+      internalID: 726482738336309807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_96
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 264
+        width: 85
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e9506881faecb80800000000000000
+      internalID: -8372562137372582389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_97
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 263
+        width: 84
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0362dd50dd708b0800000000000000
+      internalID: -5185933428638994237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_98
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 261
+        width: 84
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56128df6d85ccf90800000000000000
+      internalID: -6932068046030629286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_99
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 264
+        width: 87
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a47eacfbc907be0800000000000000
+      internalID: -1481511929848051178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_100
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 172
+        width: 86
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0aa5cb328aa4de30800000000000000
+      internalID: 4527431001739471370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_101
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 172
+        width: 84
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9b99d6a41ff9630800000000000000
+      internalID: 3936129901313767899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_102
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 175
+        width: 87
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40959cf4114f04960800000000000000
+      internalID: 7584330127682132228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_103
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 176
+        width: 84
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7cce47053b3db50800000000000000
+      internalID: 6616829435677820918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_104
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 176
+        width: 78
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d4e8b5687e66fe0800000000000000
+      internalID: -1196014086772601525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_105
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 86
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0342a339d66251ee0800000000000000
+      internalID: -1291083466108427216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_106
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 86
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39691fbd697f2330800000000000000
+      internalID: 3688300132104235323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_107
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 87
+        width: 80
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae272cdb6b158f4a0800000000000000
+      internalID: -6559403011955592470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_108
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 87
+        width: 84
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6aca4cc745664d0800000000000000
+      internalID: -3141730795192015154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_109
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 81
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f79bee67145e7150800000000000000
+      internalID: 5872223423759620084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_110
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 3
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8f5ee616b69d000800000000000000
+      internalID: 61198136162777328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_111
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 46
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cdf971af26f8b3d0800000000000000
+      internalID: -3190529651558974014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_112
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 44
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb58cc565a28f930800000000000000
+      internalID: 4177135204798323710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_113
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 44
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d34187181c1ef540800000000000000
+      internalID: 5043499522500674512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_114
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 46
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edeff11fbd9e56f0800000000000000
+      internalID: -693943848602178071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_115
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 46
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896c2044ea1f028b0800000000000000
+      internalID: -5178873840708434280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_116
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 46
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eeb5da9f5f0f7730800000000000000
+      internalID: 3998931897422298853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_117
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 44
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87c66b2e29f12510800000000000000
+      internalID: 1522772125719906191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_118
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 46
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4ded835cf165810800000000000000
+      internalID: 1753624036830532833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_119
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 46
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5daff23230ac66280800000000000000
+      internalID: -9050324286330373419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_120
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 46
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c76018efe6f177d0800000000000000
+      internalID: -2922283172935735352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_121
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 46
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f8aea219207fb10800000000000000
+      internalID: 2015082180785114978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_122
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 46
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aea9aa214c30b6d0800000000000000
+      internalID: -2976813103105593692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_123
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 27
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618a46a00b7827690800000000000000
+      internalID: -7605867630516983786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_124
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 27
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed2f5af94e9ba680800000000000000
+      internalID: -8742720211039343131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_125
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 27
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1dd3a8aa49659e0800000000000000
+      internalID: -1632954354690567737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_126
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 27
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7bdcd7993c667a10800000000000000
+      internalID: 1906830486854753148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_127
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 27
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251b6c2a5c27d1c80800000000000000
+      internalID: -8350391940909977262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_128
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 27
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2301e3cd0de64730800000000000000
+      internalID: 3983131563832443692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_129
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 27
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73c52b2398b7af40800000000000000
+      internalID: 5739759192330584956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_130
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 27
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4473c1ad0f86a8c0800000000000000
+      internalID: -3988343131278707638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_131
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 27
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815d6e4c20a4dab20800000000000000
+      internalID: 3147253090355696920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_132
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 27
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05278a95358ea8c0800000000000000
+      internalID: -3986102154904001269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_133
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 27
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11436da909209e60800000000000000
+      internalID: 7966912862358815005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_134
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 27
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed82eba9956ec260800000000000000
+      internalID: 7119739771607485927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_135
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 27
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559f2135f4c4e17f0800000000000000
+      internalID: -639990193460151979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_136
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 25
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0d01edb0b2b7310800000000000000
+      internalID: 1403763038826320093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_137
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 8
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8471227b9b56e670800000000000000
+      internalID: 8567636064311800972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_138
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 8
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07928ad5a091a360800000000000000
+      internalID: 7179178323015276300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_139
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 8
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182cf918dbf08db20800000000000000
+      internalID: 3159292445198369409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_140
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 8
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4820c3e124015340800000000000000
+      internalID: 4850662817256187978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_141
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 8
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20233e38d228f71d0800000000000000
+      internalID: -3350816465742515710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_142
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 8
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a3c26def9e5fbd0800000000000000
+      internalID: -2596912329385035153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_143
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 8
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9baced55cd374fe40800000000000000
+      internalID: 5689299619446442681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_144
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 8
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383ec15cfe1c01ae0800000000000000
+      internalID: -1580550233658694781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_145
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 8
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19149a0853c570250800000000000000
+      internalID: 5910794420808663441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_146
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 8
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2039e011fc6168eb0800000000000000
+      internalID: -4718058481023806718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_147
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 6
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6597f50d09afda110800000000000000
+      internalID: 1273949769493870934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_148
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9341ac1a3a189af0800000000000000
+      internalID: -389532530876791906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_149
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df6d0d04f10dc1a0800000000000000
+      internalID: -6787766915674837032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_150
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93f85d07725aadb0800000000000000
+      internalID: -4779917383221840996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Druddigon_151
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 8
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c64415d7dcaef50800000000000000
+      internalID: 6911562516271492190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
